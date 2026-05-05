@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Machon Smicha Quiz Beta</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div class="brand">
+          <div class="brand-mark" aria-hidden="true">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+          <div>
+            <p class="eyebrow">Machon Smicha</p>
+            <h1>Quiz Beta</h1>
+          </div>
+        </div>
+        <div class="status-pill" id="bankStatus">Loading banks</div>
+      </header>
+
+      <main>
+        <section class="panel setup-panel" id="setupPanel">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Question Bank</p>
+              <h2>Choose Quiz</h2>
+            </div>
+            <div class="metric" id="selectedMetric">0 questions</div>
+          </div>
+
+          <label class="field-label" for="quizSelect">Quiz</label>
+          <select id="quizSelect"></select>
+
+          <div class="quiz-summary" id="quizSummary"></div>
+
+          <button class="primary-action" id="startButton" type="button">Start Quiz</button>
+        </section>
+
+        <section class="panel quiz-panel hidden" id="quizPanel">
+          <div class="quiz-topline">
+            <div>
+              <p class="eyebrow" id="quizCourse">Course</p>
+              <h2 id="quizTitle">Quiz</h2>
+            </div>
+            <div class="progress-box">
+              <span id="progressText">1 / 1</span>
+              <div class="progress-track"><div id="progressBar"></div></div>
+            </div>
+          </div>
+
+          <div class="question-card">
+            <div class="question-meta">
+              <span id="difficultyBadge">Easy</span>
+            </div>
+            <h3 id="questionText"></h3>
+            <div class="options-list" id="optionsList"></div>
+          </div>
+
+          <div class="quiz-actions">
+            <button class="secondary-action" id="backButton" type="button">Back</button>
+            <button class="primary-action" id="nextButton" type="button">Next</button>
+          </div>
+        </section>
+
+        <section class="results-panel hidden" id="resultsPanel">
+          <div class="results-hero">
+            <div>
+              <p class="eyebrow">Results</p>
+              <h2 id="scoreTitle"></h2>
+              <p id="scoreSubtext"></p>
+            </div>
+            <button class="secondary-action" id="newAttemptButton" type="button">New Random Quiz</button>
+          </div>
+
+          <div class="review-list" id="reviewList"></div>
+        </section>
+      </main>
+    </div>
+
+    <script src="app.js" type="module"></script>
+  </body>
+</html>

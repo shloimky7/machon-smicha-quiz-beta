@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "quizzes": [
+    {
+      "id": "basar-bchalav-siman-87",
+      "title": "Basar B'chalav - Siman 87",
+      "course": "Smicha - Basar B'chalav",
+      "kind": "quiz",
+      "dataUrl": "data/basar-bchalav-siman-87.json"
+    }
+  ]
+}
