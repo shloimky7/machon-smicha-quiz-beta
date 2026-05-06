@@ -38,12 +38,12 @@
       "id": "basar-bchalav-siman-93-q002",
       "question": "What is the source that ta'am pagum does not forbid?",
       "options": {
-        "A": "N'veilah is assur only when fit for a ger to eat.",
-        "B": "Milk is always batul when cooked in a pot.",
-        "C": "A lid is always treated like a new keili.",
-        "D": "Pareve food removes every absorbed taste."
+        "B": "N'veilah is assur only when fit for a ger to eat.",
+        "C": "Milk is always batul when cooked in a pot.",
+        "D": "A lid is always treated like a new keili.",
+        "A": "Pareve food removes every absorbed taste."
       },
-      "correctOption": "A",
+      "correctOption": "B",
       "difficulty": "Easy",
       "source": {
         "simanSeif": "Siman 93, Seif 1",
@@ -51,22 +51,22 @@
       },
       "explanations": {
         "correct": "The Gemara derives from the pasuk about giving n'veilah to the stranger that only n'veilah fit for human consumption is assur. If the taste is ruined and unfit, it is not considered an assur taste. This is the source for nosen ta'am l'fgam not forbidding the food.",
-        "A": "Correct option.",
-        "B": "Milk is not automatically batul merely because it is cooked in a pot.",
-        "C": "The lid discussion is a separate chumra, not the source for ta'am pagum.",
-        "D": "The Rashba discussion about pareve food is separate and not the source for ta'am pagum."
+        "B": "Correct option.",
+        "C": "Milk is not automatically batul merely because it is cooked in a pot.",
+        "D": "The lid discussion is a separate chumra, not the source for ta'am pagum.",
+        "A": "The Rashba discussion about pareve food is separate and not the source for ta'am pagum."
       }
     },
     {
       "id": "basar-bchalav-siman-93-q003",
       "question": "What happens to ordinary pot bliyos after twenty-four hours?",
       "options": {
-        "A": "They are considered pagum and cannot forbid b'di'eved.",
-        "B": "They become stronger and forbid even more strictly.",
-        "C": "They leave the pot and make it permanently pareve.",
-        "D": "They become visible residue that must be scraped away."
+        "C": "They are considered pagum and cannot forbid b'di'eved.",
+        "D": "They become stronger and forbid even more strictly.",
+        "A": "They leave the pot and make it permanently pareve.",
+        "B": "They become visible residue that must be scraped away."
       },
-      "correctOption": "A",
+      "correctOption": "C",
       "difficulty": "Easy",
       "source": {
         "simanSeif": "Siman 93, Seif 1",
@@ -74,22 +74,22 @@
       },
       "explanations": {
         "correct": "The Gemara rules that absorbed taste in a pot is considered nosen ta'am l'shvach only while the pot is ben yomo. After twenty-four hours, the taste becomes pagum and no longer has the power to forbid food cooked in the pot b'di'eved.",
-        "A": "Correct option.",
-        "B": "The source says the taste weakens after twenty-four hours, not that it grows stronger.",
-        "C": "The pot is not automatically pareve for l'chatchilah use after twenty-four hours.",
-        "D": "The issue is absorbed taste in the walls, not visible residue."
+        "C": "Correct option.",
+        "D": "The source says the taste weakens after twenty-four hours, not that it grows stronger.",
+        "A": "The pot is not automatically pareve for l'chatchilah use after twenty-four hours.",
+        "B": "The issue is absorbed taste in the walls, not visible residue."
       }
     },
     {
       "id": "basar-bchalav-siman-93-q004",
       "question": "Why did Chazal forbid using an eino ben yomo meat pot for milk l'chatchilah?",
       "options": {
-        "A": "They were concerned one may use it while ben yomo.",
-        "B": "They held pagum taste is always forbidden d'oraisa.",
-        "C": "They required every pot to be broken after meat use.",
-        "D": "They assumed milk can never be batul in a pot."
+        "D": "They were concerned one may use it while ben yomo.",
+        "A": "They held pagum taste is always forbidden d'oraisa.",
+        "B": "They required every pot to be broken after meat use.",
+        "C": "They assumed milk can never be batul in a pot."
       },
-      "correctOption": "A",
+      "correctOption": "D",
       "difficulty": "Easy",
       "source": {
         "simanSeif": "Siman 93, Seif 1",
@@ -97,10 +97,10 @@
       },
       "explanations": {
         "correct": "Although an eino ben yomo pot gives only pagum taste and would not forbid the food b'di'eved, the Chachamim did not permit using it for the opposite type l'chatchilah. The gezeirah is that people may confuse the case and use the pot while it is still ben yomo.",
-        "A": "Correct option.",
-        "B": "Pagum taste is precisely the taste that does not forbid b'di'eved.",
-        "C": "Breaking the pot is not the rule in this seif.",
-        "D": "Milk can sometimes be permitted by taste or sixty; that is not the gezeirah."
+        "D": "Correct option.",
+        "A": "Pagum taste is precisely the taste that does not forbid b'di'eved.",
+        "B": "Breaking the pot is not the rule in this seif.",
+        "C": "Milk can sometimes be permitted by taste or sixty; that is not the gezeirah."
       }
     },
     {
@@ -130,12 +130,12 @@
       "id": "basar-bchalav-siman-93-q006",
       "question": "According to Rama, what measure is needed for milk cooked in a ben yomo meat pot?",
       "options": {
-        "A": "Sixty against the whole pot wall volume.",
-        "B": "Sixty against only the milk in the pot.",
-        "C": "A majority against the pot's outside surface.",
-        "D": "Only hadachah where the milk touched."
+        "B": "Sixty against the whole pot wall volume.",
+        "C": "Sixty against only the milk in the pot.",
+        "D": "A majority against the pot's outside surface.",
+        "A": "Only hadachah where the milk touched."
       },
-      "correctOption": "A",
+      "correctOption": "B",
       "difficulty": "Easy",
       "source": {
         "simanSeif": "Siman 93, Seif 1",
@@ -143,22 +143,22 @@
       },
       "explanations": {
         "correct": "Rama does not rely on a non-Jew's taste assessment, so the milk must have sixty against the absorbed meat taste. Since we normally do not know exactly how much meat taste is in the walls, Rama requires measuring against the entire volume of the pot walls.",
-        "A": "Correct option.",
-        "B": "The issue is the meat taste entering the milk, not the milk's own volume.",
-        "C": "Rov is not sufficient for this cooked taste-transfer case.",
-        "D": "Hadachah cannot remove absorbed taste that entered during cooking."
+        "B": "Correct option.",
+        "C": "The issue is the meat taste entering the milk, not the milk's own volume.",
+        "D": "Rov is not sufficient for this cooked taste-transfer case.",
+        "A": "Hadachah cannot remove absorbed taste that entered during cooking."
       }
     },
     {
       "id": "basar-bchalav-siman-93-q007",
       "question": "When does Shach say sixty against the whole pot is not required?",
       "options": {
-        "A": "When the amount of meat cooked in it is known.",
-        "B": "When the pot is wider than it is tall.",
-        "C": "When the pot is covered with a flat lid.",
-        "D": "When the milk was stirred after cooking."
+        "C": "When the amount of meat cooked in it is known.",
+        "D": "When the pot is wider than it is tall.",
+        "A": "When the pot is covered with a flat lid.",
+        "B": "When the milk was stirred after cooking."
       },
-      "correctOption": "A",
+      "correctOption": "C",
       "difficulty": "Medium",
       "source": {
         "simanSeif": "Siman 93, Seif 1",
@@ -166,22 +166,22 @@
       },
       "explanations": {
         "correct": "Shach explains that sixty against the entire pot is only necessary when the amount of meat cooked in the pot during the last twenty-four hours is unknown. If that quantity is known, it is the maximum possible amount of meat bliyos in the pot, so one measures sixty only against that known amount.",
-        "A": "Correct option.",
-        "B": "A wide, thin-walled pot appears in Shach's answer about possibility, not this measurement rule.",
-        "C": "The flat lid issue belongs to the later chumra of lids.",
-        "D": "Stirring after cooking does not identify the amount of meat bliyos."
+        "C": "Correct option.",
+        "D": "A wide, thin-walled pot appears in Shach's answer about possibility, not this measurement rule.",
+        "A": "The flat lid issue belongs to the later chumra of lids.",
+        "B": "Stirring after cooking does not identify the amount of meat bliyos."
       }
     },
     {
       "id": "basar-bchalav-siman-93-q008",
       "question": "How does Shach explain Rama's seemingly impossible sixty-against-the-pot case?",
       "options": {
-        "A": "It may be hypothetical, or possible with thin walls.",
-        "B": "Rama meant only sixty against the pot's handle.",
-        "C": "Rama meant a simple majority against the milk.",
-        "D": "It applies only to pots never used before."
+        "D": "It may be hypothetical, or possible with thin walls.",
+        "A": "Rama meant only sixty against the pot's handle.",
+        "B": "Rama meant a simple majority against the milk.",
+        "C": "It applies only to pots never used before."
       },
-      "correctOption": "A",
+      "correctOption": "D",
       "difficulty": "Hard",
       "source": {
         "simanSeif": "Siman 93, Seif 1",
@@ -189,10 +189,10 @@
       },
       "explanations": {
         "correct": "Shach asks that a pot's contents usually cannot contain sixty times the volume of the pot walls. He answers either that Rama spoke hypothetically and practically the milk will be assur, or that in unusual cases, such as a wide pot with thin walls, the contents could contain sixty against the walls.",
-        "A": "Correct option.",
-        "B": "Rama's measure is not limited to the handle.",
-        "C": "Rama requires sixty, not a simple majority.",
-        "D": "A new pot would not contain meat bliyos and is not this case."
+        "D": "Correct option.",
+        "A": "Rama's measure is not limited to the handle.",
+        "B": "Rama requires sixty, not a simple majority.",
+        "C": "A new pot would not contain meat bliyos and is not this case."
       }
     },
     {
@@ -222,12 +222,12 @@
       "id": "basar-bchalav-siman-93-q010",
       "question": "Why does Shach say the non-ben-yomo pot should not be used for meat or milk?",
       "options": {
-        "A": "It contains both meat and milk tastes.",
-        "B": "It becomes a new cheres pot.",
-        "C": "It absorbed actual visible food forever.",
-        "D": "It cannot hold pareve food at all."
+        "B": "It contains both meat and milk tastes.",
+        "C": "It becomes a new cheres pot.",
+        "D": "It absorbed actual visible food forever.",
+        "A": "It cannot hold pareve food at all."
       },
-      "correctOption": "A",
+      "correctOption": "B",
       "difficulty": "Medium",
       "source": {
         "simanSeif": "Siman 93, Seif 1",
@@ -235,22 +235,22 @@
       },
       "explanations": {
         "correct": "Shach explains that the pot now contains both meat and milk bliyos. Since it has absorbed both types, it should not be used for either meat or milk, even after twenty-four hours from the milk cooking. Still, because the two tastes were not absorbed within the same twenty-four-hour period, the pot is not treif and may technically be used for pareve.",
-        "A": "Correct option.",
-        "B": "The pot's material is not transformed into cheres.",
-        "C": "The issue here is absorbed taste, not necessarily visible food residue.",
-        "D": "Rama permits pareve food in it according to the fundamental din."
+        "B": "Correct option.",
+        "C": "The pot's material is not transformed into cheres.",
+        "D": "The issue here is absorbed taste, not necessarily visible food residue.",
+        "A": "Rama permits pareve food in it according to the fundamental din."
       }
     },
     {
       "id": "basar-bchalav-siman-93-q011",
       "question": "What if one later cooks meat in that pot within twenty-four hours of the milk cooking?",
       "options": {
-        "A": "The meat is assur.",
-        "B": "The meat is mutar because the first taste was pagum.",
-        "C": "The meat needs only hadachah.",
-        "D": "The meat becomes pareve after waiting six hours."
+        "C": "The meat is assur.",
+        "D": "The meat is mutar because the first taste was pagum.",
+        "A": "The meat needs only hadachah.",
+        "B": "The meat becomes pareve after waiting six hours."
       },
-      "correctOption": "A",
+      "correctOption": "C",
       "difficulty": "Medium",
       "source": {
         "simanSeif": "Siman 93, Seif 1",
@@ -258,22 +258,22 @@
       },
       "explanations": {
         "correct": "Shach writes that if milk was cooked in a non-ben-yomo meat pot, the milk is mutar. But if meat is then cooked in that pot within twenty-four hours of the milk cooking, the meat is assur because the milk taste in the pot is now ben yomo and can enter the meat.",
-        "A": "Correct option.",
-        "B": "The later meat encounters fresh milk bliyos from within twenty-four hours.",
-        "C": "Hadachah does not fix cooked-in milk taste.",
-        "D": "Waiting six hours is unrelated to absorbed pot taste."
+        "C": "Correct option.",
+        "D": "The later meat encounters fresh milk bliyos from within twenty-four hours.",
+        "A": "Hadachah does not fix cooked-in milk taste.",
+        "B": "Waiting six hours is unrelated to absorbed pot taste."
       }
     },
     {
       "id": "basar-bchalav-siman-93-q012",
       "question": "What does Rama say about cooking pareve in a pot used for meat and milk twenty-four hours apart?",
       "options": {
-        "A": "It is permitted according to the basic din.",
-        "B": "It is forbidden even b'di'eved.",
-        "C": "It is permitted only if the pot has a conical lid.",
-        "D": "It is forbidden unless the food is sharp."
+        "D": "It is permitted according to the basic din.",
+        "A": "It is forbidden even b'di'eved.",
+        "B": "It is permitted only if the pot has a conical lid.",
+        "C": "It is forbidden unless the food is sharp."
       },
-      "correctOption": "A",
+      "correctOption": "D",
       "difficulty": "Easy",
       "source": {
         "simanSeif": "Siman 93, Seif 1",
@@ -281,10 +281,10 @@
       },
       "explanations": {
         "correct": "Rama permits cooking pareve food in such a pot according to the fundamental halachah. Shach notes that in Siman 94 Rama cites a minhag not to use this sort of keili even for pareve, but here Rama records the basic din.",
-        "A": "Correct option.",
-        "B": "Rama's stated basic rule permits pareve use.",
-        "C": "The conical lid issue is a separate chumra about lids.",
-        "D": "Sharp foods can create additional issues, not a permission here."
+        "D": "Correct option.",
+        "A": "Rama's stated basic rule permits pareve use.",
+        "B": "The conical lid issue is a separate chumra about lids.",
+        "C": "Sharp foods can create additional issues, not a permission here."
       }
     },
     {
@@ -293,7 +293,7 @@
       "options": {
         "A": "Some treat a lid as ben yomo even after twenty-four hours.",
         "B": "Some treat every lid as pareve after one use.",
-        "C": "Some permit lids only when they are conical.",
+        "C": "Some permit lids only when they are conical in this case.",
         "D": "Some require lids to be broken after cooking."
       },
       "correctOption": "A",
@@ -314,12 +314,12 @@
       "id": "basar-bchalav-siman-93-q014",
       "question": "When does Rama allow disregarding the lid chumra?",
       "options": {
-        "A": "When there is another basis to permit, Shabbos need, or loss.",
-        "B": "Only when the lid is certainly ben yomo.",
-        "C": "Only when the pot contains no food and no steam.",
-        "D": "Whenever the food has a simple majority."
+        "B": "When there is another basis to permit, Shabbos need, or loss.",
+        "C": "Only when the lid is certainly ben yomo.",
+        "D": "Only when the pot contains no food and no steam.",
+        "A": "Whenever the food has a simple majority in this case."
       },
-      "correctOption": "A",
+      "correctOption": "B",
       "difficulty": "Medium",
       "source": {
         "simanSeif": "Siman 93, Seif 1",
@@ -327,22 +327,22 @@
       },
       "explanations": {
         "correct": "Rama writes that although he personally follows the lid chumra because of minhag, one may be lenient when there is any other side to permit, when the food is needed for Shabbos, or where there is financial loss, provided the lid is not ben yomo.",
-        "A": "Correct option.",
-        "B": "If the lid is ben yomo, the ordinary absorbed-taste concern remains.",
-        "C": "An empty pot is a separate case of dry pots touching, not Rama's stated exception.",
-        "D": "A simple majority is not the measure for cooked taste transfer."
+        "B": "Correct option.",
+        "C": "If the lid is ben yomo, the ordinary absorbed-taste concern remains.",
+        "D": "An empty pot is a separate case of dry pots touching, not Rama's stated exception.",
+        "A": "A simple majority is not the measure for cooked taste transfer."
       }
     },
     {
       "id": "basar-bchalav-siman-93-q015",
       "question": "What reason does Maharshal give for the lid chumra?",
       "options": {
-        "A": "Conical lids may trap real food residue in their narrow top.",
-        "B": "Flat lids always absorb more than conical lids.",
-        "C": "Lids never become pagum after twenty-four hours.",
-        "D": "Steam always removes all residue from the lid."
+        "C": "Conical lids may trap real food residue in their narrow top.",
+        "D": "Flat lids always absorb more than conical lids.",
+        "A": "Lids never become pagum after twenty-four hours.",
+        "B": "Steam always removes all residue from the lid in this case."
       },
-      "correctOption": "A",
+      "correctOption": "C",
       "difficulty": "Medium",
       "source": {
         "simanSeif": "Siman 93, Seif 1",
@@ -350,22 +350,22 @@
       },
       "explanations": {
         "correct": "Maharshal explains that the minhag was about conical lids with a narrow empty area that could not be properly cleaned. Real food substance could collect there, and actual food residue can forbid even after twenty-four hours, unlike ordinary pagum bliyos.",
-        "A": "Correct option.",
-        "B": "Maharshal's concern is specifically the narrow conical top, not flat lids.",
-        "C": "Rama says the chumra has no basic reason, and ordinary lids follow pot rules.",
-        "D": "Steam is part of the concern; it does not automatically clean the residue."
+        "C": "Correct option.",
+        "D": "Maharshal's concern is specifically the narrow conical top, not flat lids.",
+        "A": "Rama says the chumra has no basic reason, and ordinary lids follow pot rules.",
+        "B": "Steam is part of the concern; it does not automatically clean the residue."
       }
     },
     {
       "id": "basar-bchalav-siman-93-q016",
       "question": "How do Shach and Taz differ about measuring against a problematic conical lid?",
       "options": {
-        "A": "Shach measures the whole lid; Taz measures the conical top.",
-        "B": "Shach measures the conical top; Taz measures the whole lid.",
-        "C": "Both require only a simple majority against the lid.",
-        "D": "Both say no measure can ever permit the food."
+        "D": "Shach measures the whole lid; Taz measures the conical top.",
+        "A": "Shach measures the conical top; Taz measures the whole lid.",
+        "B": "Both require only a simple majority against the lid.",
+        "C": "Both say no measure can ever permit the food."
       },
-      "correctOption": "A",
+      "correctOption": "D",
       "difficulty": "Hard",
       "source": {
         "simanSeif": "Siman 93, Seif 1",
@@ -373,10 +373,10 @@
       },
       "explanations": {
         "correct": "Shach explains that residue in the conical top can mix with steam, become chana'n, and then render the lid's bliyos chana'n, requiring sixty against the whole lid. Taz agrees with Maharshal's conical-lid concern but requires sixty only against the conical top.",
-        "A": "Correct option.",
-        "B": "This reverses the positions of Shach and Taz.",
-        "C": "The issue is cooked taste/chana'n, not a simple rov calculation.",
-        "D": "Both discuss how the food can be measured, not an absolute impossibility."
+        "D": "Correct option.",
+        "A": "This reverses the positions of Shach and Taz.",
+        "B": "The issue is cooked taste/chana'n, not a simple rov calculation.",
+        "C": "Both discuss how the food can be measured, not an absolute impossibility."
       }
     },
     {
@@ -406,12 +406,12 @@
       "id": "basar-bchalav-siman-93-q018",
       "question": "If a cold fleishig lid is placed on a hot milchig pot, when do both become assur?",
       "options": {
-        "A": "When the pot has begun to steam and the steam is yad soledes.",
-        "B": "Only when the pot contains no food at all.",
-        "C": "Only when the lid has been cold for twenty-four hours.",
-        "D": "Whenever the lid merely touches the outside wall."
+        "B": "When the pot has begun to steam and the steam is yad soledes.",
+        "C": "Only when the pot contains no food at all.",
+        "D": "Only when the lid has been cold for twenty-four hours.",
+        "A": "Whenever the lid merely touches the outside wall."
       },
-      "correctOption": "A",
+      "correctOption": "B",
       "difficulty": "Easy",
       "source": {
         "simanSeif": "Siman 93, Seif 1",
@@ -419,22 +419,22 @@
       },
       "explanations": {
         "correct": "Rama rules that a cold fleishig lid placed on a hot milchig pot forbids both if steam has begun to rise under the lid. Shach clarifies that this applies only where the steam is yad soledes when it reaches the lid, because that steam heats and transfers taste.",
-        "A": "Correct option.",
-        "B": "If there is no food in the pot, Rama treats it like two dry pots touching.",
-        "C": "Cold for twenty-four hours does not create the steam transfer.",
-        "D": "Mere outside-wall contact is not the steaming-lid case."
+        "B": "Correct option.",
+        "C": "If there is no food in the pot, Rama treats it like two dry pots touching.",
+        "D": "Cold for twenty-four hours does not create the steam transfer.",
+        "A": "Mere outside-wall contact is not the steaming-lid case."
       }
     },
     {
       "id": "basar-bchalav-siman-93-q019",
       "question": "What is Rama's rule when a hot fleishig lid is placed on a cold milchig pot?",
       "options": {
-        "A": "The vessels are permitted; the food needs klipah if possible.",
-        "B": "Both vessels and all the food are fully forbidden.",
-        "C": "The vessels need libbun, but the food is pareve.",
-        "D": "Everything is permitted without rinsing or klipah."
+        "C": "The vessels are permitted; the food needs klipah if possible.",
+        "D": "Both vessels and all the food are fully forbidden.",
+        "A": "The vessels need libbun, but the food is pareve in this case.",
+        "B": "Everything is permitted without rinsing or klipah."
       },
-      "correctOption": "A",
+      "correctOption": "C",
       "difficulty": "Easy",
       "source": {
         "simanSeif": "Siman 93, Seif 1",
@@ -442,22 +442,22 @@
       },
       "explanations": {
         "correct": "Rama rules that if the lid is hot and the pot below is cold, the pot and lid remain permitted and need only rinsing at the contact point. The food inside requires a k'dei klipah if it is possible to remove one; if not, everything is permitted.",
-        "A": "Correct option.",
-        "B": "Rama is lenient about the vessels in the hot-lid/cold-pot case.",
-        "C": "Libbun is not required for the vessels in Rama's stated case.",
-        "D": "Rama does require rinsing at the contact point and klipah for food if possible."
+        "C": "Correct option.",
+        "D": "Rama is lenient about the vessels in the hot-lid/cold-pot case.",
+        "A": "Libbun is not required for the vessels in Rama's stated case.",
+        "B": "Rama does require rinsing at the contact point and klipah for food if possible."
       }
     },
     {
       "id": "basar-bchalav-siman-93-q020",
       "question": "What condition does Rama add in Darkei Moshe for permitting the cold pot under a hot lid?",
       "options": {
-        "A": "The hot lid must not have moisture on it.",
-        "B": "The cold pot must already be ben yomo.",
-        "C": "The food must be sharp and salty.",
-        "D": "The pot must be made only of cheres."
+        "D": "The hot lid must not have moisture on it.",
+        "A": "The cold pot must already be ben yomo.",
+        "B": "The food must be sharp and salty.",
+        "C": "The pot must be made only of cheres."
       },
-      "correctOption": "A",
+      "correctOption": "D",
       "difficulty": "Medium",
       "source": {
         "simanSeif": "Siman 93, Seif 1",
@@ -465,10 +465,10 @@
       },
       "explanations": {
         "correct": "Rama adds that the pot is permitted only where the hot lid is dry. If the lid has hot moisture on it, that liquid can act as a medium for taste transfer, and there is a dispute whether the pot and lid become forbidden.",
-        "A": "Correct option.",
-        "B": "Being ben yomo would generally make the case stricter, not permit it.",
-        "C": "Sharp and salty foods are not the condition in Darkei Moshe here.",
-        "D": "Chares is actually one of Shach's reasons for additional stringency in the moist-lid case."
+        "D": "Correct option.",
+        "A": "Being ben yomo would generally make the case stricter, not permit it.",
+        "B": "Sharp and salty foods are not the condition in Darkei Moshe here.",
+        "C": "Chares is actually one of Shach's reasons for additional stringency in the moist-lid case."
       }
     },
     {
@@ -498,12 +498,12 @@
       "id": "basar-bchalav-siman-93-q022",
       "question": "Why does Shach usually require hag'alah for pot lids in practice?",
       "options": {
-        "A": "Most lids are moist during cooking unless known otherwise.",
-        "B": "Every dry lid absorbs through air alone.",
-        "C": "All lids are made from cheres and cannot be kashered.",
-        "D": "Every lid is certainly ben yomo forever."
+        "B": "Most lids are moist during cooking unless known otherwise.",
+        "C": "Every dry lid absorbs through air alone.",
+        "D": "All lids are made from cheres and cannot be kashered.",
+        "A": "Every lid is certainly ben yomo forever."
       },
-      "correctOption": "A",
+      "correctOption": "B",
       "difficulty": "Medium",
       "source": {
         "simanSeif": "Siman 93, Seif 1",
@@ -511,22 +511,22 @@
       },
       "explanations": {
         "correct": "Shach notes that if a hot, dry lid is placed on a pot, everyone agrees the pot is permitted. In practice, though, lids usually have moisture from cooking, and that moisture can transfer taste. Therefore the pot and lid require hag'alah unless one knows for certain that no moisture was present.",
-        "A": "Correct option.",
-        "B": "Shach agrees that dry contact alone does not transfer absorbed taste.",
-        "C": "Lids are not all cheres, and hag'alah applies to kasherable materials.",
-        "D": "Rama calls that lid chumra a minhag-based stringency, not a certainty forever."
+        "B": "Correct option.",
+        "C": "Shach agrees that dry contact alone does not transfer absorbed taste.",
+        "D": "Lids are not all cheres, and hag'alah applies to kasherable materials.",
+        "A": "Rama calls that lid chumra a minhag-based stringency, not a certainty forever."
       }
     },
     {
       "id": "basar-bchalav-siman-93-q023",
       "question": "What is the din of placing a hot fleishig lid on a cold milchig countertop?",
       "options": {
-        "A": "The countertop needs kashering because hot droplets absorb into it.",
-        "B": "The countertop is permitted because counters never absorb.",
-        "C": "The lid becomes pareve and the counter stays milchig.",
-        "D": "The countertop requires only waiting twenty-four hours."
+        "C": "The countertop needs kashering because hot droplets absorb into it.",
+        "D": "The countertop is permitted because counters never absorb.",
+        "A": "The lid becomes pareve and the counter stays milchig.",
+        "B": "The countertop requires only waiting twenty-four hours."
       },
-      "correctOption": "A",
+      "correctOption": "C",
       "difficulty": "Easy",
       "source": {
         "simanSeif": "Siman 93, Seif 1",
@@ -534,22 +534,22 @@
       },
       "explanations": {
         "correct": "The source applies the moist hot lid issue to a countertop. Steam drops on the hot fleishig lid can be absorbed into the cold milchig countertop, so the countertop must be kashered. Irui from a kli rishon is sufficient for that kashering.",
-        "A": "Correct option.",
-        "B": "The source assumes the hot droplets can be absorbed and require kashering.",
-        "C": "The lid does not become pareve through contact with the counter.",
-        "D": "Waiting twenty-four hours does not kasher the absorbed taste."
+        "C": "Correct option.",
+        "D": "The source assumes the hot droplets can be absorbed and require kashering.",
+        "A": "The lid does not become pareve through contact with the counter.",
+        "B": "Waiting twenty-four hours does not kasher the absorbed taste."
       }
     },
     {
       "id": "basar-bchalav-siman-93-q024",
       "question": "What if a hot fleishig lid is placed on a cold, empty milchig pot and both are dry?",
       "options": {
-        "A": "Both are mutar because bliyos do not transfer without liquid.",
-        "B": "Both are assur because hot metal always transfers dry taste.",
-        "C": "Only the empty pot is assur because it is lower.",
-        "D": "Only the lid is assur because it is upper."
+        "D": "Both are mutar because bliyos do not transfer without liquid.",
+        "A": "Both are assur because hot metal always transfers dry taste.",
+        "B": "Only the empty pot is assur because it is lower.",
+        "C": "Only the lid is assur because it is upper."
       },
-      "correctOption": "A",
+      "correctOption": "D",
       "difficulty": "Medium",
       "source": {
         "simanSeif": "Siman 93, Seif 1",
@@ -557,10 +557,10 @@
       },
       "explanations": {
         "correct": "Rama rules that if there is no food in the pot, the vessels are like two dry pots touching. Bliyos do not leave one piece and enter another without a liquid medium, so both vessels remain permitted if they are dry. If either one is moist, taste can transfer.",
-        "A": "Correct option.",
-        "B": "Dry vessel-to-vessel contact does not transfer absorbed taste by itself.",
-        "C": "The lower position alone does not forbid a dry empty pot.",
-        "D": "The upper position alone does not forbid a dry lid."
+        "D": "Correct option.",
+        "A": "Dry vessel-to-vessel contact does not transfer absorbed taste by itself.",
+        "B": "The lower position alone does not forbid a dry empty pot.",
+        "C": "The upper position alone does not forbid a dry lid."
       }
     },
     {
@@ -590,12 +590,12 @@
       "id": "basar-bchalav-siman-93-q026",
       "question": "According to Taz, when would pareve cooking kasher the area that absorbed meat?",
       "options": {
-        "A": "When the pot is filled to the same height as the meat was.",
-        "B": "When the pareve food reaches only the bottom of the pot.",
-        "C": "When the pot is cheres and was used several times.",
-        "D": "When the pareve food is cold but very dry."
+        "B": "When the pot is filled to the same height as the meat was.",
+        "C": "When the pareve food reaches only the bottom of the pot.",
+        "D": "When the pot is cheres and was used several times.",
+        "A": "When the pareve food is cold but very dry."
       },
-      "correctOption": "A",
+      "correctOption": "B",
       "difficulty": "Medium",
       "source": {
         "simanSeif": "Siman 93, Seif 1",
@@ -603,22 +603,22 @@
       },
       "explanations": {
         "correct": "Taz explains that even if Tur accepts Rashba, the pareve food must reach the same height as the original meat use. Any area not reached by the boiling pareve food would not be kashered, which explains why in Siman 94 Tur may reject relying on pareve cooking in a different case.",
-        "A": "Correct option.",
-        "B": "The areas above the pareve level would not be kashered.",
-        "C": "Taz says Rashba's idea applies to kasherable keilim, not to klei cheres.",
-        "D": "Cold dry pareve food would not function as hag'alah."
+        "B": "Correct option.",
+        "C": "The areas above the pareve level would not be kashered.",
+        "D": "Taz says Rashba's idea applies to kasherable keilim, not to klei cheres.",
+        "A": "Cold dry pareve food would not function as hag'alah."
       }
     },
     {
       "id": "basar-bchalav-siman-93-q027",
       "question": "What does Shach say is Rashba's real chiddush?",
       "options": {
-        "A": "Meat or milk absorptions can be purged with hag'alah, not libun.",
-        "B": "Every pot is kashered by any pareve food, even cold.",
-        "C": "Chares keilim absorb only after three meat cookings.",
-        "D": "Milk and meat cooked together never become assur."
+        "C": "Meat or milk absorptions can be purged with hag'alah, not libun.",
+        "D": "Every pot is kashered by any pareve food, even cold.",
+        "A": "Chares keilim absorb only after three meat cookings.",
+        "B": "Milk and meat cooked together never become assur in this case."
       },
-      "correctOption": "A",
+      "correctOption": "C",
       "difficulty": "Hard",
       "source": {
         "simanSeif": "Siman 93, Seif 1",
@@ -626,22 +626,22 @@
       },
       "explanations": {
         "correct": "Shach argues that if Rashba requires a metal pot, fully filled, with boiling water, that is ordinary hag'alah and not novel. The chiddush is that even a keili that would require libun for real issur can be purged from meat or milk absorptions through hag'alah, because each taste was mutar before basar b'chalav could form.",
-        "A": "Correct option.",
-        "B": "Shach does not accept any cold pareve food as kashering.",
-        "C": "That belongs to the later discussion of Ri Halavan and cheres, not Rashba's chiddush.",
-        "D": "Basar b'chalav can certainly become assur when meat and milk combine through cooking."
+        "C": "Correct option.",
+        "D": "Shach does not accept any cold pareve food as kashering.",
+        "A": "That belongs to the later discussion of Ri Halavan and cheres, not Rashba's chiddush.",
+        "B": "Basar b'chalav can certainly become assur when meat and milk combine through cooking."
       }
     },
     {
       "id": "basar-bchalav-siman-93-q028",
       "question": "What is the practical conclusion about relying on Rashba's pareve-cooking din?",
       "options": {
-        "A": "Many reject it for pareve cooking, but hag'alah for meat or milk keilim is accepted.",
-        "B": "Everyone accepts it for all materials and all temperatures.",
-        "C": "Everyone rejects hag'alah for meat and milk keilim.",
-        "D": "It is accepted only when the pot is a new cheres pot."
+        "D": "Many reject it for pareve cooking, but hag'alah for meat or milk keilim is accepted.",
+        "A": "Everyone accepts it for all materials and all temperatures in this scenario.",
+        "B": "Everyone rejects hag'alah for meat and milk keilim in this case.",
+        "C": "It is accepted only when the pot is a new cheres pot for this ruling."
       },
-      "correctOption": "A",
+      "correctOption": "D",
       "difficulty": "Medium",
       "source": {
         "simanSeif": "Siman 93, Seif 1",
@@ -649,10 +649,10 @@
       },
       "explanations": {
         "correct": "Beis Yosef, Taz, and Pri Megadim do not follow Rashba's din that pareve cooking in a fleishig pot makes it usable for milchig, and Aruch Hashulchan and Badei Hashulchan reject it practically. However, halachah does follow Rashba's broader point that hag'alah can purge fleishig or milchig keilim instead of requiring libun.",
-        "A": "Correct option.",
-        "B": "The practical conclusion is not to rely on pareve cooking broadly.",
-        "C": "The source says hag'alah for fleishig or milchig keilim is accepted.",
-        "D": "Chares is specifically not the easy case for this leniency."
+        "D": "Correct option.",
+        "A": "The practical conclusion is not to rely on pareve cooking broadly.",
+        "B": "The source says hag'alah for fleishig or milchig keilim is accepted.",
+        "C": "Chares is specifically not the easy case for this leniency."
       }
     },
     {
@@ -682,12 +682,12 @@
       "id": "basar-bchalav-siman-93-q030",
       "question": "Why did Ri Halavan permit meat cooked after milk sat overnight in an old cheres milk pot?",
       "options": {
-        "A": "The pot was already full of milk bliyos and did not absorb more.",
-        "B": "Milk left overnight is always considered fully evaporated.",
-        "C": "Chares never absorbs milk under any circumstances.",
-        "D": "The meat was cooked within twenty-four hours of the milk."
+        "B": "The pot was already full of milk bliyos and did not absorb more.",
+        "C": "Milk left overnight is always considered fully evaporated.",
+        "D": "Chares never absorbs milk under any circumstances.",
+        "A": "The meat was cooked within twenty-four hours of the milk."
       },
-      "correctOption": "A",
+      "correctOption": "B",
       "difficulty": "Medium",
       "source": {
         "simanSeif": "Siman 93, Seif 1",
@@ -695,22 +695,22 @@
       },
       "explanations": {
         "correct": "Ri Halavan permitted because the cheres pot had already been used for milk several times, making its walls saturated with milk bliyos. Since the milk sat only overnight and not for twenty-four hours, the pot was viewed as unable to absorb additional milk, so it was like an eino ben yomo milk pot.",
-        "A": "Correct option.",
-        "B": "The milk did not permit because it evaporated.",
-        "C": "Chares can absorb; the discussion is whether this old pot had room to absorb more.",
-        "D": "The pot was already eino ben yomo from cooked milk in the case described."
+        "B": "Correct option.",
+        "C": "The milk did not permit because it evaporated.",
+        "D": "Chares can absorb; the discussion is whether this old pot had room to absorb more.",
+        "A": "The pot was already eino ben yomo from cooked milk in the case described."
       }
     },
     {
       "id": "basar-bchalav-siman-93-q031",
       "question": "According to Taz, what changes if the milk sat in the pot for twenty-four hours?",
       "options": {
-        "A": "Kavush k'mevushal applies, and even a full pot can absorb.",
-        "B": "The pot becomes less able to absorb than before.",
-        "C": "The milk becomes pagum before any absorption.",
-        "D": "The meat is permitted because the pot is conical."
+        "C": "Kavush k'mevushal applies, and even a full pot can absorb.",
+        "D": "The pot becomes less able to absorb than before.",
+        "A": "The milk becomes pagum before any absorption.",
+        "B": "The meat is permitted because the pot is conical."
       },
-      "correctOption": "A",
+      "correctOption": "C",
       "difficulty": "Hard",
       "source": {
         "simanSeif": "Siman 93, Seif 1",
@@ -718,22 +718,22 @@
       },
       "explanations": {
         "correct": "Taz limits Ri Halavan's leniency to overnight soaking of less than twenty-four hours. Once the milk remains for twenty-four hours, kavush k'mevushal applies. Just as cooking can cause old bliyos to leave and new ones to enter, soaking for twenty-four hours can also create new absorption even in a pot already full of bliyos.",
-        "A": "Correct option.",
-        "B": "Taz says twenty-four-hour soaking is stronger, not weaker.",
-        "C": "The concern is new absorption through kavush, not the milk becoming pagum first.",
-        "D": "The conical lid discussion is unrelated to this soaking case."
+        "C": "Correct option.",
+        "D": "Taz says twenty-four-hour soaking is stronger, not weaker.",
+        "A": "The concern is new absorption through kavush, not the milk becoming pagum first.",
+        "B": "The conical lid discussion is unrelated to this soaking case."
       }
     },
     {
       "id": "basar-bchalav-siman-93-q032",
       "question": "How do Levush and Bach disagree with Taz about a saturated pot after twenty-four hours?",
       "options": {
-        "A": "They say it still does not absorb because its walls are full.",
-        "B": "They say it absorbs faster than a new pot after one minute.",
-        "C": "They say it becomes forbidden only if the lid is conical.",
-        "D": "They say soaking has no halachic effect in any vessel."
+        "D": "They say it still does not absorb because its walls are full.",
+        "A": "They say it absorbs faster than a new pot after one minute.",
+        "B": "They say it becomes forbidden only if the lid is conical.",
+        "C": "They say soaking has no halachic effect in any vessel."
       },
-      "correctOption": "A",
+      "correctOption": "D",
       "difficulty": "Hard",
       "source": {
         "simanSeif": "Siman 93, Seif 1",
@@ -741,10 +741,10 @@
       },
       "explanations": {
         "correct": "Levush and Bach maintain that even after twenty-four hours, the pot does not absorb more because its walls are already saturated. They use the idea of an old barrel that no longer absorbs more oil as support, while Taz rejects that proof and says kavush is like cooking.",
-        "A": "Correct option.",
-        "B": "Their view is that saturation prevents absorption, not that it speeds it up.",
-        "C": "The conical lid issue is a separate lid chumra.",
-        "D": "They do not deny kavush generally; they apply saturation as a limit here."
+        "D": "Correct option.",
+        "A": "Their view is that saturation prevents absorption, not that it speeds it up.",
+        "B": "The conical lid issue is a separate lid chumra.",
+        "C": "They do not deny kavush generally; they apply saturation as a limit here."
       }
     },
     {
@@ -774,12 +774,12 @@
       "id": "basar-bchalav-siman-93-q034",
       "question": "What is Shach's halachic view about a new kli cheres absorbing cold taste?",
       "options": {
-        "A": "It does not absorb taste until twenty-four hours pass.",
-        "B": "It absorbs immediately after any cold contact.",
-        "C": "It absorbs only if the lid is conical.",
-        "D": "It never absorbs even through cooking."
+        "B": "It does not absorb taste until twenty-four hours pass.",
+        "C": "It absorbs immediately after any cold contact.",
+        "D": "It absorbs only if the lid is conical.",
+        "A": "It never absorbs even through cooking."
       },
-      "correctOption": "A",
+      "correctOption": "B",
       "difficulty": "Medium",
       "source": {
         "simanSeif": "Siman 93, Seif 1",
@@ -787,22 +787,22 @@
       },
       "explanations": {
         "correct": "Shach agrees with Taz's explanation of Ri Halavan but rules that l'halachah even a new kli cheres does not absorb taste from cold liquid until twenty-four hours have passed. In this respect, Shach treats klei cheres like ordinary keilim for cold soaking.",
-        "A": "Correct option.",
-        "B": "Shach rejects immediate cold absorption, even for new cheres.",
-        "C": "A conical lid is unrelated to cold soaking in a cheres pot.",
-        "D": "Chares certainly absorbs through cooking; Shach is discussing cold soaking."
+        "B": "Correct option.",
+        "C": "Shach rejects immediate cold absorption, even for new cheres.",
+        "D": "A conical lid is unrelated to cold soaking in a cheres pot.",
+        "A": "Chares certainly absorbs through cooking; Shach is discussing cold soaking."
       }
     },
     {
       "id": "basar-bchalav-siman-93-q035",
       "question": "How do contemporary poskim treat the claim that modern pots absorb less?",
       "options": {
-        "A": "They keep the Gemara and Shulchan Aruch standards in practice.",
-        "B": "They abolish all bliyos rules for modern materials.",
-        "C": "They permit every modern pot after simple rinsing.",
-        "D": "They require libun for every modern pot after pareve use."
+        "C": "They keep the Gemara and Shulchan Aruch standards in practice.",
+        "D": "They abolish all bliyos rules for modern materials.",
+        "A": "They permit every modern pot after simple rinsing.",
+        "B": "They require libun for every modern pot after pareve use."
       },
-      "correctOption": "A",
+      "correctOption": "C",
       "difficulty": "Easy",
       "source": {
         "simanSeif": "Siman 93, Seif 1",
@@ -810,10 +810,10 @@
       },
       "explanations": {
         "correct": "Although some contemporary poskim and scientists suggest modern pots may absorb less than older pots, the practical consensus is to continue following the standards of bliyos set by the Gemara, Rishonim, and Shulchan Aruch.",
-        "A": "Correct option.",
-        "B": "The practical consensus does not abolish the rules of bliyos.",
-        "C": "Simple rinsing does not replace the halachos of absorbed taste.",
-        "D": "The source does not add a universal libun requirement for modern pots."
+        "C": "Correct option.",
+        "D": "The practical consensus does not abolish the rules of bliyos.",
+        "A": "Simple rinsing does not replace the halachos of absorbed taste.",
+        "B": "The source does not add a universal libun requirement for modern pots."
       }
     }
   ]
