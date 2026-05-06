@@ -3,6 +3,7 @@ const quizList = document.querySelector("#quizList");
 const setupPanel = document.querySelector("#setupPanel");
 const quizPanel = document.querySelector("#quizPanel");
 const resultsPanel = document.querySelector("#resultsPanel");
+const homeButton = document.querySelector("#homeButton");
 const backButton = document.querySelector("#backButton");
 const nextButton = document.querySelector("#nextButton");
 const newAttemptButton = document.querySelector("#newAttemptButton");
@@ -38,57 +39,8 @@ function escapeHtml(value) {
     .replaceAll("'", "&#039;");
 }
 
-function shuffle(items) {
-  const copy = [...items];
-  for (let i = copy.length - 1; i > 0; i -= 1) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [copy[i], copy[j]] = [copy[j], copy[i]];
-  }
-  return copy;
-}
-
-function targetByDifficulty(total) {
-  const hard = Math.floor(total * 0.2);
-  const easy = Math.ceil(total * 0.5);
-  const medium = Math.max(0, total - easy - hard);
-  return { Easy: easy, Medium: medium, Hard: hard };
-}
-
-function difficultyCounts(questions) {
-  return questions.reduce(
-    (counts, question) => {
-      counts[question.difficulty] = (counts[question.difficulty] || 0) + 1;
-      return counts;
-    },
-    { Easy: 0, Medium: 0, Hard: 0 },
-  );
-}
-
-function formatMix(counts) {
-  return `${counts.Easy || 0} easy / ${counts.Medium || 0} medium / ${counts.Hard || 0} hard`;
-}
-
 function selectQuestions(quiz) {
-  const target = Math.min(quiz.targetQuestionCount || Math.round(quiz.questions.length / 2), quiz.questions.length);
-  const desired = targetByDifficulty(target);
-  const questionOrder = new Map(quiz.questions.map((question, index) => [question.id, index]));
-  const selected = [];
-  const selectedIds = new Set();
-
-  for (const difficulty of ["Easy", "Medium", "Hard"]) {
-    const pool = shuffle(quiz.questions.filter((q) => q.difficulty === difficulty));
-    for (const question of pool.slice(0, desired[difficulty])) {
-      selected.push(question);
-      selectedIds.add(question.id);
-    }
-  }
-
-  if (selected.length < target) {
-    const remaining = shuffle(quiz.questions.filter((q) => !selectedIds.has(q.id)));
-    selected.push(...remaining.slice(0, target - selected.length));
-  }
-
-  return selected.sort((a, b) => questionOrder.get(a.id) - questionOrder.get(b.id));
+  return [...quiz.questions];
 }
 
 async function loadCatalog() {
@@ -116,20 +68,11 @@ function renderQuizList() {
   quizList.innerHTML = state.catalog
     .map((entry) => {
       const quiz = state.loadedQuizzes.get(entry.id);
-      const target = Math.min(quiz.targetQuestionCount || Math.round(quiz.questions.length / 2), quiz.questions.length);
-      const bankMix = difficultyCounts(quiz.questions);
-      const liveMix = targetByDifficulty(target);
       return `
         <article class="quiz-choice">
           <div>
             <h3>${escapeHtml(quiz.title)}</h3>
             <p>${escapeHtml(quiz.course)}</p>
-            <div class="quiz-details">
-              <span>${quiz.questions.length} questions in bank</span>
-              <span>${target} questions per attempt</span>
-              <span>Bank mix: ${escapeHtml(formatMix(bankMix))}</span>
-              <span>Attempt mix: ${escapeHtml(formatMix(liveMix))}</span>
-            </div>
           </div>
           <button class="primary-action" type="button" data-quiz-id="${escapeHtml(quiz.id)}">Start</button>
         </article>
@@ -151,9 +94,23 @@ function startQuiz(id) {
   setupPanel.classList.add("hidden");
   resultsPanel.classList.add("hidden");
   quizPanel.classList.remove("hidden");
+  homeButton.classList.remove("hidden");
   quizCourse.textContent = state.activeQuiz.course;
   quizTitle.textContent = state.activeQuiz.title;
   renderQuestion();
+}
+
+function showHome() {
+  setupPanel.classList.remove("hidden");
+  quizPanel.classList.add("hidden");
+  resultsPanel.classList.add("hidden");
+  homeButton.classList.add("hidden");
+  state.activeQuiz = null;
+  state.activeQuestions = [];
+  state.currentIndex = 0;
+  state.answers = new Map();
+  state.revealed = new Set();
+  window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
 function renderQuestion() {
@@ -295,6 +252,7 @@ function showResults() {
 
   quizPanel.classList.add("hidden");
   resultsPanel.classList.remove("hidden");
+  homeButton.classList.remove("hidden");
   scoreTitle.textContent = `${correctCount} / ${total} (${percent}%)`;
   scoreSubtext.textContent = `${state.activeQuiz.title} · ${skippedCount} skipped`;
   reviewList.innerHTML = `
@@ -317,6 +275,7 @@ function showLoadError(error) {
 
 backButton.addEventListener("click", moveBack);
 nextButton.addEventListener("click", moveNext);
+homeButton.addEventListener("click", showHome);
 newAttemptButton.addEventListener("click", () => startQuiz(state.activeQuiz.id));
 
 loadCatalog().catch(showLoadError);

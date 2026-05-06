@@ -1,15 +1,14 @@
 # Machon Smicha Quiz Beta
 
-Static quiz beta app for testing randomized Machon Smicha quiz banks.
+Static quiz beta app for testing Machon Smicha quiz banks.
 
 ## What It Does
 
 - Lists available quiz banks from `data/quizzes.json`
-- Randomly selects questions from each bank using the quiz principles
-- Displays selected questions in source order
+- Displays every question from the selected bank in source order
 - Allows students to skip questions
-- Shows score and full answer review after submission
-- Shows source, correct answer explanation, and each option explanation in the review
+- Shows the answer and explanations immediately after each question
+- Shows the final score after the last question
 
 ## Deploy
 

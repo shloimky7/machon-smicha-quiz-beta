@@ -31,7 +31,6 @@ From the workspace root:
   --id basar-bchalav-siman-88 \
   --title "Basar B'chalav - Siman 88" \
   --course "Smicha - Basar B'chalav" \
-  --target-count 10 \
   --out quiz-beta-app/data/basar-bchalav-siman-88.json
 ```
 
@@ -47,14 +46,6 @@ Then add the new file to `data/quizzes.json`:
 }
 ```
 
-## Question Selection
+## Question Display
 
-The app uses the quiz bank's `targetQuestionCount` and selects a fresh random set each attempt.
-
-The default mix follows the quiz principles:
-
-- 50% easy
-- 30% medium
-- 20% hard
-
-For Siman 87, the bank has 26 questions and the live quiz uses 13 questions.
+The app displays every question in the selected quiz bank, in the order the questions appear in the JSON file.

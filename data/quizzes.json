@@ -21,6 +21,55 @@
       "course": "Smicha - Basar B'chalav",
       "kind": "quiz",
       "dataUrl": "data/basar-bchalav-siman-89.json"
+    },
+    {
+      "id": "basar-bchalav-siman-91",
+      "title": "Basar B'chalav - Siman 91",
+      "course": "Smicha - Basar B'chalav",
+      "kind": "quiz",
+      "dataUrl": "data/basar-bchalav-siman-91.json"
+    },
+    {
+      "id": "basar-bchalav-siman-92",
+      "title": "Basar B'chalav - Siman 92",
+      "course": "Smicha - Basar B'chalav",
+      "kind": "quiz",
+      "dataUrl": "data/basar-bchalav-siman-92.json"
+    },
+    {
+      "id": "basar-bchalav-siman-93",
+      "title": "Basar B'chalav - Siman 93",
+      "course": "Smicha - Basar B'chalav",
+      "kind": "quiz",
+      "dataUrl": "data/basar-bchalav-siman-93.json"
+    },
+    {
+      "id": "basar-bchalav-siman-94",
+      "title": "Basar B'chalav - Siman 94",
+      "course": "Smicha - Basar B'chalav",
+      "kind": "quiz",
+      "dataUrl": "data/basar-bchalav-siman-94.json"
+    },
+    {
+      "id": "basar-bchalav-siman-95",
+      "title": "Basar B'chalav - Siman 95",
+      "course": "Smicha - Basar B'chalav",
+      "kind": "quiz",
+      "dataUrl": "data/basar-bchalav-siman-95.json"
+    },
+    {
+      "id": "basar-bchalav-siman-96",
+      "title": "Basar B'chalav - Siman 96",
+      "course": "Smicha - Basar B'chalav",
+      "kind": "quiz",
+      "dataUrl": "data/basar-bchalav-siman-96.json"
+    },
+    {
+      "id": "basar-bchalav-siman-97",
+      "title": "Basar B'chalav - Siman 97",
+      "course": "Smicha - Basar B'chalav",
+      "kind": "quiz",
+      "dataUrl": "data/basar-bchalav-siman-97.json"
     }
   ]
 }
