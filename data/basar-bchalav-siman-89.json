@@ -1,0 +1,613 @@
+{
+  "id": "basar-bchalav-siman-89",
+  "title": "Basar B'chalav - Siman 89",
+  "course": "Smicha - Basar B'chalav",
+  "kind": "quiz",
+  "targetQuestionCount": 12,
+  "difficultyPolicy": {
+    "Easy": 0.5,
+    "Medium": 0.3,
+    "Hard": 0.2
+  },
+  "sourceWorkbook": "siman_89_quiz_bank.xlsx",
+  "questions": [
+    {
+      "id": "basar-bchalav-siman-89-q001",
+      "question": "According to Mechaber in Seif 1, how long must one wait after eating meat before eating cheese?",
+      "options": {
+        "A": "Until he waits six hours.",
+        "B": "Only until he rinses his mouth.",
+        "C": "Only until he washes his hands.",
+        "D": "Until he waits one hour exactly."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 89, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber rules like the Rishonim who understand the Gemara to require waiting the normal amount of time between meals, which is six hours. This applies after eating meat before eating cheese. Rama later records other practices, including a one-hour custom, but concludes that waiting six hours is the proper practice.",
+        "A": "Correct option.",
+        "B": "Rinsing alone is the lenient view discussed by Tosfos, not Mechaber's ruling after meat.",
+        "C": "Washing hands alone is not enough after eating meat according to Mechaber.",
+        "D": "Rama records a one-hour custom, but Mechaber's ruling is six hours."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-89-q002",
+      "question": "Which meats are included in Mechaber's six-hour wait before cheese?",
+      "options": {
+        "A": "Only kosher beheimah meat.",
+        "B": "Only meat that was swallowed.",
+        "C": "Even chayah and fowl.",
+        "D": "Only meat cooked with milk."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 89, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber says that after eating meat, even meat of a chayah or fowl, one may not eat cheese until waiting six hours. Even though fowl with milk is rabbinic, the waiting practice is applied to it as part of the harchakos between meat and milk.",
+        "A": "Mechaber explicitly includes chayah and fowl, not only beheimah.",
+        "B": "Mechaber also says that one who chews meat for a baby must wait, even without swallowing.",
+        "C": "Correct option.",
+        "D": "The waiting rule applies after ordinary meat, not only after meat cooked with milk."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-89-q003",
+      "question": "What are the two main reasons given for waiting six hours after meat?",
+      "options": {
+        "A": "Concern for appearance and concern for steam.",
+        "B": "Lingering fatty taste and meat between the teeth.",
+        "C": "Table confusion and leftover bread crumbs.",
+        "D": "Shared utensils and absorbed knife taste."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 89, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The source gives Rashi's explanation and Rambam's explanation. Rashi says meat fat sticks in the mouth and its taste lingers for a long time. Rambam says meat is stringy and remains between the teeth, and after six hours it breaks down enough that it is no longer considered meat.",
+        "A": "Those are concerns in other areas, but they are not the two reasons for waiting after meat.",
+        "B": "Correct option.",
+        "C": "These concerns relate more to table and bread precautions, not the six-hour wait.",
+        "D": "Knife absorption is discussed later in Seif 4, not as the reason for waiting six hours."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-89-q004",
+      "question": "Why does one who only chews meat for a baby still need to wait?",
+      "options": {
+        "A": "Because Mechaber accepts Rambam's concern for meat stuck between the teeth.",
+        "B": "Because chewing for a baby is considered cooking the meat.",
+        "C": "Because the baby may later eat dairy from the same food.",
+        "D": "Because Rashi alone requires waiting after any chewing."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 89, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Taz and Shach explain that Mechaber accepts both Rashi's and Rambam's reasons. If the concern were only Rashi's lingering swallowed meat taste, chewing without swallowing would not require waiting. Since Mechaber also accepts Rambam's concern that meat may remain between the teeth, even chewing meat for a baby requires waiting.",
+        "A": "Correct option.",
+        "B": "Chewing to soften meat is not defined as cooking in this discussion.",
+        "C": "The din is about the adult's mouth and teeth, not about what the baby later eats.",
+        "D": "According to the source, Rashi alone would not explain why chewing without swallowing requires waiting."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-89-q005",
+      "question": "If a person finds meat between his teeth after waiting six hours, what must he do before eating cheese?",
+      "options": {
+        "A": "Remove it and rinse his mouth.",
+        "B": "Wait another six hours from removal.",
+        "C": "Ignore it because six hours passed.",
+        "D": "Only wash his hands carefully."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 89, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber says that if meat is found between the teeth after the waiting period, it must be removed. Rama adds that after removing it, one must rinse his mouth before eating cheese. Shach adds that a new six-hour wait is not required after the meat is removed.",
+        "A": "Correct option.",
+        "B": "Shach says that after removing the meat, one does not need to wait an additional six hours.",
+        "C": "Mechaber explicitly requires removing the meat even after six hours.",
+        "D": "The requirement here is removal and mouth cleaning, not merely washing hands."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-89-q006",
+      "question": "Under Rama's one-hour custom, what is also required before eating cheese?",
+      "options": {
+        "A": "An after-brachah after the meat meal.",
+        "B": "A separate tablecloth for the cheese.",
+        "C": "A new knife marked for milk.",
+        "D": "A six-hour wait after bentching."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 89, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama records the widespread Ashkenazi custom in his countries to wait one hour after meat. However, he says they must also recite the after-brachah after the meat meal, because only then is it considered a different meal. Without the after-brachah, waiting one hour does not help.",
+        "A": "Correct option.",
+        "B": "Separate tablecloths are discussed in Seif 4, not as the condition for the one-hour custom.",
+        "C": "Marked milk knives are also a later harchakah and not Rama's condition here.",
+        "D": "Rama's one-hour custom is not a six-hour wait after bentching."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-89-q007",
+      "question": "When do most contemporary Acharonim count the six-hour wait as starting?",
+      "options": {
+        "A": "From when he finishes eating meat.",
+        "B": "From when he begins the meal.",
+        "C": "From when he washes mayim acharonim.",
+        "D": "From when he begins eating cheese."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 89, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Shach says the count starts from the end of one's eating. The source records a discussion whether that means the end of eating meat or the end of the meal, but Badei Hashulchan and most contemporary Acharonim rule that the six hours are counted from when one finishes eating meat.",
+        "A": "Correct option.",
+        "B": "The source does not count from the beginning of the meal.",
+        "C": "Mayim acharonim is not given as the starting point for the six-hour count.",
+        "D": "The wait must be completed before eating cheese, so cheese cannot be the starting point."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-89-q008",
+      "question": "May one rely on sleeping instead of waiting six hours after meat?",
+      "options": {
+        "A": "Yes, that is the accepted practice.",
+        "B": "No, it is not accepted practice.",
+        "C": "Yes, but only after fowl.",
+        "D": "No, unless he also eats bread."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 89, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Pischei Teshuvah rules that sleep can substitute for waiting because sleep speeds digestion. However, the source states that this is not accepted practice. Therefore, one should not treat sleeping as replacing the six-hour wait.",
+        "A": "Pischei Teshuvah is lenient, but the source says this is not accepted practice.",
+        "B": "Correct option.",
+        "C": "The source does not make the leniency depend on fowl.",
+        "D": "Eating bread is not given as the condition for replacing the six-hour wait with sleep."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-89-q009",
+      "question": "Why does Rav Moshe Feinstein permit not waiting after swallowing a pill with meat ingredients?",
+      "options": {
+        "A": "A pill has no lingering mouth taste or meat between the teeth.",
+        "B": "All medicine is automatically considered dairy.",
+        "C": "Meat ingredients in medicine are always batul b'shishim.",
+        "D": "The six-hour wait applies only to cooked meat."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 89, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rav Moshe Feinstein rules that one need not wait six hours after swallowing a vitamin or pill with meat ingredients. Neither reason for waiting applies: there is no lingering fatty meat taste in the mouth and no meat pieces remaining between the teeth. The source also notes that swallowing a pill is not the normal way of eating for pleasure.",
+        "A": "Correct option.",
+        "B": "The issue is not that the medicine becomes dairy.",
+        "C": "The source's reasoning is not based on a stated bitul b'shishim calculation.",
+        "D": "The six-hour wait applies to ordinary meat even when not cooked with milk."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-89-q010",
+      "question": "After eating ordinary cheese, what does Mechaber require before eating beheimah or chayah meat?",
+      "options": {
+        "A": "Hand inspection or washing, plus kinuach and hadachah.",
+        "B": "A six-hour wait and no other cleaning.",
+        "C": "Only bentching after the dairy meal.",
+        "D": "Only a separate tablecloth and knife."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 89, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber permits eating meat immediately after cheese, but requires checking the hands by day or washing them when they cannot be checked well, such as at night. He also requires kinuach, cleaning the mouth by chewing a suitable food, and hadachah, rinsing the mouth with water or wine, before eating beheimah or chayah meat.",
+        "A": "Correct option.",
+        "B": "Mechaber does not require six hours after ordinary cheese before beheimah or chayah meat.",
+        "C": "Bentching is not the listed requirement between cheese and meat in this seif.",
+        "D": "Tablecloths and knives are addressed in Seif 4, not as the basic requirement after cheese."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-89-q011",
+      "question": "Which foods cannot be used for kinuach according to Mechaber?",
+      "options": {
+        "A": "Bread, crackers, and dry cake.",
+        "B": "Flour, dates, and vegetables.",
+        "C": "Water, wine, and other drinks.",
+        "D": "Meat, fish, and hard cheese."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 89, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Kinuach means cleaning the mouth by chewing bread or another suitable food. Mechaber excludes flour, dates, and vegetables because they stick to the palate and do not clean the mouth well. After kinuach, one also does hadachah by rinsing with water or wine.",
+        "A": "These are examples of foods that may clean, not the excluded list in Mechaber.",
+        "B": "Correct option.",
+        "C": "Water and wine are used for hadachah, not kinuach.",
+        "D": "This list is not the one Mechaber gives for foods that fail as kinuach."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-89-q012",
+      "question": "What does Mechaber say about eating chicken after cheese?",
+      "options": {
+        "A": "It requires kinuach and hand washing.",
+        "B": "It requires six hours of waiting.",
+        "C": "It needs no kinuach or washing.",
+        "D": "It is forbidden until the next meal."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 89, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber distinguishes between beheimah or chayah meat after cheese and fowl after cheese. For beheimah and chayah, kinuach, hadachah, and attention to the hands are required. For fowl after cheese, Mechaber says these steps are not required, because the case is more lenient.",
+        "A": "That applies to beheimah and chayah after cheese, not fowl after cheese.",
+        "B": "Mechaber does not require six hours before chicken after ordinary cheese.",
+        "C": "Correct option.",
+        "D": "The source permits fowl after cheese immediately without those requirements."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-89-q013",
+      "question": "According to Rama's preferred practice, what is done after hard cheese before meat?",
+      "options": {
+        "A": "One waits as after meat before cheese.",
+        "B": "One only rinses with water.",
+        "C": "One only checks his hands.",
+        "D": "One may eat meat immediately."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 89, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Rama writes that the custom is to be strict after hard cheese and not eat any kind of meat, even chicken, immediately afterwards. Rather, one waits as one waits after meat before cheese. He also cites lenient views, but concludes that it is good to be strict.",
+        "A": "Correct option.",
+        "B": "Rinsing alone reflects the lenient approach, not Rama's preferred practice for hard cheese.",
+        "C": "Checking the hands alone is not enough for Rama's hard-cheese custom.",
+        "D": "Rama says the custom is not to eat meat immediately after hard cheese."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-89-q014",
+      "question": "What is the central machlokes between Taz and Shach about Rama's hard-cheese ruling?",
+      "options": {
+        "A": "Whether the wait is six hours or one hour, and how broad the custom is.",
+        "B": "Whether cheese after meat is permitted with no waiting at all.",
+        "C": "Whether fowl is considered meat d'oraisa.",
+        "D": "Whether washing hands requires a revi'is."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 89, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Rama says to wait after hard cheese just as one waits after meat before cheese, but his wording is ambiguous. Taz understands Rama as discussing hard cheese and requiring six hours. Shach, citing Mitzareif L'chochmah, explains that the accepted custom is only to wait after hard cheese, and that the wait is like Rama's main meat-to-cheese custom of one hour.",
+        "A": "Correct option.",
+        "B": "The discussion is about meat after cheese, not cheese after meat with no waiting.",
+        "C": "The machlokes is not about whether fowl is d'oraisa.",
+        "D": "The issue is the waiting practice after cheese, not the shiur of water for washing."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-89-q015",
+      "question": "What is considered hard cheese according to the views quoted?",
+      "options": {
+        "A": "Only cheese served while warm.",
+        "B": "Only cheese made from non-kosher milk.",
+        "C": "Wormy cheese or aged/hard cheese.",
+        "D": "Any cheese eaten with bread."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 89, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "The source records several definitions. Issur V'heter Ha'aruch includes wormy cheese or cheese aged six months. Taz includes wormy cheese or cheese curdled in the actual stomach. Shach frames the matter around whether the cheese is actually hard, noting that cheeses aged more than six months are generally hard.",
+        "A": "Warm serving temperature is not the definition of hard cheese here.",
+        "B": "The discussion is about texture, age, and production, not non-kosher milk.",
+        "C": "Correct option.",
+        "D": "Eating cheese with bread does not define it as hard cheese."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-89-q016",
+      "question": "What is a tavshil shel basar in Seif 3?",
+      "options": {
+        "A": "Actual meat cut into small pieces.",
+        "B": "Pareve food cooked with meat and absorbing meat flavor.",
+        "C": "Dairy food eaten at a meat meal.",
+        "D": "A clean pot that once held meat."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 89, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "A tavshil shel basar is a pareve food cooked together with meat that absorbs meat flavor, such as a potato from cholent, but is itself not meat. The source explains that the normal reasons to wait after meat do not fully apply to it, because there is no meat stuck between the teeth and no actual meat taste left in the mouth in the same way.",
+        "A": "Actual meat is basar itself, not tavshil shel basar.",
+        "B": "Correct option.",
+        "C": "A dairy food is not the definition of a meat dish.",
+        "D": "Food cooked in a meat pot without meat is treated separately by Rama."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-89-q017",
+      "question": "What is the current custom Rama records after eating a tavshil shel basar before cheese?",
+      "options": {
+        "A": "To wait as after actual meat.",
+        "B": "To eat cheese immediately with no concern.",
+        "C": "To eat cheese only after chicken.",
+        "D": "To wash hands and then eat cheese."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 89, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber is lenient with a meat dish followed by a cheese dish, but Rama records that the current custom is to be strict not to eat cheese after a tavshil shel basar just as after actual meat. He adds that one should not deviate from this custom.",
+        "A": "Correct option.",
+        "B": "That is not Rama's recorded custom, even though Mechaber is more lenient in certain tavshil cases.",
+        "C": "Chicken is not the condition for Rama's custom here.",
+        "D": "Rama records waiting after tavshil shel basar before cheese, not only hand washing."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-89-q018",
+      "question": "If pareve food was cooked in a fleishig pot but contains no meat, what does Rama say about eating cheese afterward?",
+      "options": {
+        "A": "One may eat cheese immediately afterward.",
+        "B": "One must wait like after meat.",
+        "C": "One may eat cheese only after six hours.",
+        "D": "One may eat cheese only after n'itzah."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 89, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Rama distinguishes between a true tavshil shel basar and food that merely absorbed taste from a fleishig pot. If there is no meat in the dish and it was only cooked in a meat pot, one may eat cheese afterward immediately, and there is no custom to be strict and wait.",
+        "A": "Correct option.",
+        "B": "Waiting applies to the custom after tavshil shel basar, not to food merely cooked in a meat pot.",
+        "C": "Rama explicitly says cheese may be eaten afterward without waiting.",
+        "D": "N'itzah is a knife-cleaning method in Seif 4, not the rule for this pot case."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-89-q019",
+      "question": "What does Shach add about food cooked in a slightly dirty fleishig pot?",
+      "options": {
+        "A": "It may not be eaten with cheese, but one need not wait afterward.",
+        "B": "It becomes actual meat and requires six hours.",
+        "C": "It may be eaten together with cheese l'chatchilah.",
+        "D": "It is permitted only after washing hands."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 89, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Shach explains Rama's case as a fleishig pot that was a little dirty, with meat residue inside. Because of that residue, the pareve food cooked in it should not be eaten together with cheese. Still, Rama teaches that one does not need to wait afterward before eating dairy, because it is not treated like eating actual meat or tavshil shel basar for waiting.",
+        "A": "Correct option.",
+        "B": "Shach's point is that it is not treated as actual meat for waiting.",
+        "C": "Because of the residue, it should not be eaten together with cheese.",
+        "D": "The issue Shach resolves is waiting before dairy, not merely hand washing."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-89-q020",
+      "question": "What is the halachah of meat fat according to Rama?",
+      "options": {
+        "A": "It has the same status as meat.",
+        "B": "It is treated like pareve oil.",
+        "C": "It is only a tavshil shel basar.",
+        "D": "It is always batul in the food."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 89, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Rama states that meat fat has the same din as actual meat. Shach and Taz add that bird fat has that status as well. Therefore, it is not treated like a mere meat-flavored dish for purposes of the waiting rules.",
+        "A": "Correct option.",
+        "B": "Rama does not treat meat fat as pareve oil.",
+        "C": "Rama says its din is like meat itself, not merely tavshil shel basar.",
+        "D": "The source does not say meat fat is automatically batul in the food."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-89-q021",
+      "question": "What must be removed from the table when moving from cheese to meat in Seif 4?",
+      "options": {
+        "A": "Leftover bread eaten with the cheese.",
+        "B": "Every clean pareve serving dish.",
+        "C": "Only the dairy drinking cups.",
+        "D": "The table itself from the room."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 89, Seif 4",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber says that someone who ate cheese and wants to eat meat must remove leftover bread from the table if that bread was eaten with cheese. The concern is that dairy residue on the leftover bread could be eaten together with meat.",
+        "A": "Correct option.",
+        "B": "Clean pareve serving dishes are not the specific item Mechaber requires removing.",
+        "C": "The seif mentions leftover bread, not only drinking cups.",
+        "D": "The requirement is to remove the relevant leftovers, not the table itself."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-89-q022",
+      "question": "What is the accepted practice regarding tablecloths for meat and dairy?",
+      "options": {
+        "A": "Use separate tablecloths or otherwise designate use clearly.",
+        "B": "Use one tablecloth if plates are always used.",
+        "C": "Use one tablecloth if it is shaken once.",
+        "D": "Use no tablecloth at any meat meal."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 89, Seif 4",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber forbids eating cheese on a tablecloth used for meat, and Rama adds the reverse as well. Although Radbaz is lenient when food is not placed directly on the cloth and crumbs are shaken off, Minchas Yaakov is stricter even with plates. Badei Hashulchan and Psakim U'teshuvos write that the accepted practice is to use separate tablecloths or designate the table/use clearly.",
+        "A": "Correct option.",
+        "B": "Radbaz is lenient with plates, but this is not the accepted practice recorded by Badei Hashulchan and Psakim U'teshuvos.",
+        "C": "Shaking once is part of Radbaz's lenient view, not the accepted practice as presented.",
+        "D": "The source does not require avoiding tablecloths entirely at meat meals."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-89-q023",
+      "question": "According to Rama, what is the Jewish custom regarding meat and dairy knives?",
+      "options": {
+        "A": "To have two knives and mark the dairy one.",
+        "B": "To use one knife after rinsing it quickly.",
+        "C": "To have two knives and mark the meat one.",
+        "D": "To use only disposable knives for cheese."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 89, Seif 4",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Rama says that although n'itzah in hard ground can permit certain uses, the custom of the Jewish people is to have two knives, one for meat and one for milk, and to mark one of them so it is recognizable. He records that the custom is to mark the milchig knife and not to deviate from this minhag.",
+        "A": "Correct option.",
+        "B": "A quick rinse is not the custom Rama records for regular meat and dairy knife use.",
+        "C": "Rama specifically says the custom is to mark the milchig knife.",
+        "D": "The source requires two knives as the custom, not disposable knives."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-89-q024",
+      "question": "What is n'itzah b'karka kasheh?",
+      "options": {
+        "A": "Sticking a knife into hard ground ten times.",
+        "B": "Boiling a knife in milk ten times.",
+        "C": "Washing a knife with wine and water.",
+        "D": "Cutting bread with a marked knife."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 89, Seif 4",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "N'itzah b'karka kasheh means sticking a knife into hard ground ten times. The Gemara teaches that this cleans the surface of a knife that is considered dirty from frequent use, allowing certain cold uses. Rama mentions it as a method that can permit a knife in this context, though the custom is to have separate knives.",
+        "A": "Correct option.",
+        "B": "Boiling in milk is not n'itzah and would create its own problems.",
+        "C": "Washing with wine and water is not the method described here.",
+        "D": "Cutting bread is one of the discussed applications, not the definition of n'itzah."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-89-q025",
+      "question": "How do Shach and Taz disagree about using n'itzah on a meat knife?",
+      "options": {
+        "A": "Shach limits it to bread, while Taz permits even cheese.",
+        "B": "Shach permits cheese, while Taz permits only bread.",
+        "C": "Both say it never helps even b'di'eved.",
+        "D": "Both say wiping alone permits cheese."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 89, Seif 4",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Shach understands Rama's heter of n'itzah as allowing a meat knife to cut bread that will be eaten at a milchig meal, but not actual cheese. Taz understands n'itzah more broadly, allowing the knife to cut actual cheese; for bread that will be eaten with cheese, Taz holds that wiping the knife well is enough.",
+        "A": "Correct option.",
+        "B": "This reverses their positions as presented in the source.",
+        "C": "Maharshal is stricter about relying on n'itzah, but Shach and Taz do not both say it never helps.",
+        "D": "Taz allows wiping for bread, not for actual cheese."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-89-q026",
+      "question": "According to most contemporary poskim, must one have separate dentures for meat and milk?",
+      "options": {
+        "A": "No, one set may be used for both.",
+        "B": "Yes, two sets are always required.",
+        "C": "Yes, but only for hard cheese.",
+        "D": "No, unless the food is pareve."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 89, Seif 4",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "The source says most contemporary poskim rule that one set of dentures may be used for both meat and milk. Their reasons include that people generally eat from a kli sheini, the food is usually not yad soledes bo, food remains in the mouth only briefly, and breath makes absorbed taste pagum. The same reasoning applies to fillings, braces, and dental implants.",
+        "A": "Correct option.",
+        "B": "The source says most contemporary poskim do not require separate sets.",
+        "C": "The discussion is broader than hard cheese.",
+        "D": "The point is about meat and milk use, not only pareve foods."
+      }
+    }
+  ]
+}
