@@ -46,6 +46,18 @@ Then add the new file to `data/quizzes.json`:
 }
 ```
 
+For a beta or alternate version of an existing quiz, give it a new ID and a new file name so the original quiz stays available. For example:
+
+```json
+{
+  "id": "basar-bchalav-siman-87-beta",
+  "title": "Basar B'chalav - Siman 87 Beta",
+  "course": "Smicha - Basar B'chalav",
+  "kind": "quiz",
+  "dataUrl": "data/basar-bchalav-siman-87-beta.json"
+}
+```
+
 ## Question Display
 
 The app displays every question in the selected quiz bank, in the order the questions appear in the JSON file.

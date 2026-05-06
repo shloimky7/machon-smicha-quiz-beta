@@ -1,0 +1,1188 @@
+{
+  "id": "basar-bchalav-siman-87-beta",
+  "title": "Basar B'chalav - Siman 87 Beta",
+  "course": "Smicha - Basar B'chalav",
+  "kind": "quiz",
+  "targetQuestionCount": 13,
+  "difficultyPolicy": {
+    "Easy": 0.5,
+    "Medium": 0.3,
+    "Hard": 0.2
+  },
+  "sourceWorkbook": "siman_87_quiz_bank.xlsx",
+  "questions": [
+    {
+      "id": "basar-bchalav-siman-87-beta-q001",
+      "question": "The Torah writes \"Lo s'vasheil g'di bachaleiv imo\" three times. What does each repetition teach about basar b'chalav?",
+      "options": {
+        "A": "Only eating basar b'chalav is forbidden.",
+        "B": "Only cooking basar b'chalav is forbidden.",
+        "C": "Each passuk forbids one of the three issurim: cooking, eating, and deriving benefit.",
+        "D": "Only cooking and eating are forbidden; benefit is permitted."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 87, Seif 1",
+        "pageNumbers": "Pages 3-5"
+      },
+      "explanations": {
+        "correct": "The Torah repeats \"Lo s'vasheil g'di bachaleiv imo\" three times. The Gemara teaches that the repetition is intentional: each passuk teaches one independent prohibition. One passuk forbids cooking meat and milk together, one forbids eating the cooked mixture, and one forbids deriving benefit from it.",
+        "A": "The source includes all three issurim — cooking, eating, and hana'ah.",
+        "B": "The source includes eating and hana'ah as well, not only cooking.",
+        "C": "Correct.",
+        "D": "The source explicitly states that one of the three pesukim forbids hana'ah."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q002",
+      "question": "What condition must be met for the prohibitions of eating and deriving benefit from basar b'chalav to apply d'oraisa?",
+      "options": {
+        "A": "The meat and milk were cooked together in the normal manner.",
+        "B": "They came into contact while cold.",
+        "C": "They were served at the same table.",
+        "D": "They were salted together for any amount of time."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 87, Seif 1",
+        "pageNumbers": "Pages 3-5"
+      },
+      "explanations": {
+        "correct": "Even the prohibitions of eating and hana'ah are expressed by the Torah using the language of cooking. This teaches that the d'oraisa issur of eating or deriving benefit applies specifically when the meat and milk became basar b'chalav through normal cooking. Other methods of combining them may carry a rabbinic prohibition, but they are not the d'oraisa case.",
+        "A": "Correct.",
+        "B": "Cold contact is not the d'oraisa case described here.",
+        "C": "Being at the same table does not create basar b'chalav d'oraisa.",
+        "D": "Salting or soaking may create a rabbinic prohibition, but not the d'oraisa cooking case."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q003",
+      "question": "A basar b'chalav mixture became forbidden only mid'rabbanan — for example through soaking or salting rather than cooking. According to the accepted ruling, what is its hana'ah status?",
+      "options": {
+        "A": "Assur b'hana'ah d'oraisa in all cases.",
+        "B": "Permitted for hana'ah as a matter of basic halacha.",
+        "C": "Permitted to eat l'chatchilah.",
+        "D": "Forbidden only when it involves chicken."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 87, Seif 1",
+        "pageNumbers": "Pages 3-5"
+      },
+      "explanations": {
+        "correct": "Rama rules that any basar b'chalav mixture that is not forbidden d'oraisa is mutar b'hana'ah. Shach and Taz note that virtually all poskim agree with this ruling. Bach's stricter understanding of Rambam regarding chicken and milk is a minority position; the accepted halacha permits hana'ah when the issur is only mid'rabbanan.",
+        "A": "A mid'rabbanan basar b'chalav mixture is not treated as assur b'hana'ah d'oraisa.",
+        "B": "Correct.",
+        "C": "Such a mixture is forbidden to eat mid'rabbanan, not permitted to eat.",
+        "D": "The accepted hana'ah ruling is not limited to chicken."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q004",
+      "question": "Meat and milk were fried or roasted together rather than cooked in liquid. How should their d'oraisa status be framed?",
+      "options": {
+        "A": "Both frying and roasting are treated as cooking d'oraisa.",
+        "B": "Both are fully permitted.",
+        "C": "It remains a machlokes among the poskim.",
+        "D": "Only roasting is treated as d'oraisa; frying is not."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 87, Seif 1",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "The source does not resolve frying and roasting as a simple yes-or-no rule. Rashi and Tosfos imply that the Torah's term \"cooking\" does not include frying or roasting, and Chavos Daas rejects the proof that roasting should count as cooking in this context. Pri Chadash, however, rules strictly that frying is included in bishul d'oraisa. Since the poskim disagree, the best characterization is that it remains a machlokes.",
+        "A": "The source records opinions that frying or roasting are not d'oraisa.",
+        "B": "Even the lenient opinions do not describe these cases as fully permitted.",
+        "C": "Correct.",
+        "D": "The source treats frying and roasting together; it does not distinguish between them in this way."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q005",
+      "question": "A Jew working in a non-kosher kitchen is asked to cook a d'oraisa basar b'chalav mixture. What should he do?",
+      "options": {
+        "A": "He may cook it because he is only doing his job.",
+        "B": "He may cook it as long as he does not eat it.",
+        "C": "He may not cook it, because the act of cooking basar b'chalav d'oraisa is itself forbidden.",
+        "D": "He may cook it only if a non-Jew owns the food."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 87, Seif 1",
+        "pageNumbers": "Pages 5-6"
+      },
+      "explanations": {
+        "correct": "The prohibition of basar b'chalav encompasses the act of cooking itself, not only eating the finished product. Therefore, a Jew may not cook an actual d'oraisa meat-and-milk mixture even in a work or school context. Different leniencies may apply once food was already cooked, or when an ingredient is from a non-kosher species, but these do not permit the initial cooking of basar b'chalav d'oraisa.",
+        "A": "Work context does not override the prohibition of cooking basar b'chalav d'oraisa.",
+        "B": "The prohibition includes the act of cooking, not only eating.",
+        "C": "Correct.",
+        "D": "Ownership by a non-Jew does not remove the Jew's personal prohibition to cook it."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q006",
+      "question": "Why does the Torah say \"kid goat in its mother's milk\" if the halacha applies more broadly?",
+      "options": {
+        "A": "Because only a goat cooked in its own mother's milk is actually forbidden.",
+        "B": "The Torah speaks in the common case; the din applies equally to ox, sheep, and goat with milk from any kosher animal.",
+        "C": "Because only young animals are included in the prohibition.",
+        "D": "Because the phrase is only an allusion to a mar'is ayin concern."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 87, Seif 2",
+        "pageNumbers": "Page 7"
+      },
+      "explanations": {
+        "correct": "The Gemara teaches that the Torah often describes the common case without intending to limit the halacha to that exact scenario. The phrase \"kid goat in its mother's milk\" describes a typical example, but Mechaber rules that the prohibition applies equally to ox, sheep, and goat, and it applies whether the milk came from that animal's mother or from any other kosher animal.",
+        "A": "Mechaber explicitly expands the prohibition beyond a goat and its own mother's milk.",
+        "B": "Correct.",
+        "C": "The source includes mature animals such as ox and sheep, not only young ones.",
+        "D": "The phrase is the actual source for the basar b'chalav prohibition itself, not merely a mar'is ayin reference."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q007",
+      "question": "Which combination constitutes basar b'chalav d'oraisa according to the basic rule of Seif 3?",
+      "options": {
+        "A": "Meat of a kosher beheimah cooked with milk of a kosher beheimah.",
+        "B": "Kosher chicken cooked with kosher milk.",
+        "C": "Kosher fish cooked with milk.",
+        "D": "Kosher meat cooked with milk of a non-kosher animal."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 87, Seif 3",
+        "pageNumbers": "Pages 7-11"
+      },
+      "explanations": {
+        "correct": "Seif 3 defines the core d'oraisa case as meat of a kosher beheimah cooked with milk of a kosher beheimah. The source then lists exclusions: meat or milk from a non-kosher species is not basar b'chalav d'oraisa, chayah and fowl are not included d'oraisa, and fish or grasshoppers are not included even mid'rabbanan.",
+        "A": "Correct.",
+        "B": "Chicken with milk is only forbidden mid'rabbanan according to accepted halacha.",
+        "C": "Fish with milk has no basar b'chalav prohibition, even mid'rabbanan.",
+        "D": "If one element is from a non-kosher species, it is not basar b'chalav d'oraisa."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q008",
+      "question": "What is the accepted halacha regarding chicken cooked with milk?",
+      "options": {
+        "A": "Forbidden d'oraisa, like regular meat with milk.",
+        "B": "Permitted l'chatchilah.",
+        "C": "Forbidden mid'rabbanan.",
+        "D": "Forbidden only because of physical danger."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 87, Seif 3",
+        "pageNumbers": "Pages 7 and 15"
+      },
+      "explanations": {
+        "correct": "The Gemara records a three-way dispute about chicken with milk, but the majority of Rishonim rule like Rabbi Akiva that it is forbidden mid'rabbanan, not d'oraisa. Shach explains that although Maharshal and Bach understood Tosfos as implying a d'oraisa prohibition, the accepted halacha follows Mechaber that chicken and milk is only rabbinic.",
+        "A": "Some are stricter, but the accepted halacha is that chicken with milk is not d'oraisa.",
+        "B": "The source does not permit chicken with milk.",
+        "C": "Correct.",
+        "D": "The danger discussion involves fish and meat, not the chicken-and-milk prohibition."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q009",
+      "question": "What is the basar b'chalav status of fish or grasshoppers cooked with milk?",
+      "options": {
+        "A": "Forbidden d'oraisa.",
+        "B": "Forbidden mid'rabbanan.",
+        "C": "Not forbidden as basar b'chalav, even mid'rabbanan.",
+        "D": "Forbidden when cooked together but not when eaten cold."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 87, Seif 3",
+        "pageNumbers": "Pages 11 and 15"
+      },
+      "explanations": {
+        "correct": "After defining the d'oraisa case, Mechaber states explicitly that fish and grasshoppers are excluded from the basar b'chalav prohibition entirely — even mid'rabbanan. The separate discussion about whether fish with milk is a health danger is a distinct concern and does not constitute a basar b'chalav prohibition.",
+        "A": "The source excludes fish and grasshoppers from the d'oraisa prohibition.",
+        "B": "The source excludes them even from a rabbinic basar b'chalav prohibition.",
+        "C": "Correct.",
+        "D": "The source draws no distinction between cooking and eating for fish or grasshoppers in this context."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q010",
+      "question": "A mixture contains kosher meat cooked with milk from a non-kosher animal. According to Beis Yosef, Shach, and Taz, does this combination carry an added basar b'chalav status?",
+      "options": {
+        "A": "Yes — full basar b'chalav d'oraisa applies.",
+        "B": "No — no basar b'chalav issur is added.",
+        "C": "It is permitted to eat as a result.",
+        "D": "Yes, because chana\"n and chaha\"l apply to it."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 87, Seif 3",
+        "pageNumbers": "Pages 15-17"
+      },
+      "explanations": {
+        "correct": "Basar b'chalav d'oraisa requires kosher meat and kosher milk. Tur and Bach discuss whether Chazal added a rabbinic basar b'chalav prohibition when one ingredient is non-kosher, but Beis Yosef rejects that idea. Shach and Taz agree: the mixture is already forbidden because of the non-kosher ingredient and does not receive an additional basar b'chalav status.",
+        "A": "The source excludes this case from the d'oraisa prohibition.",
+        "B": "Correct.",
+        "C": "The mixture is still forbidden to eat because of the non-kosher ingredient.",
+        "D": "Taz explicitly rejects Bach's attempt to apply chana\"n and chaha\"l here."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q011",
+      "question": "Dog food contains milk cooked with neveilah or treifah meat from a kosher species. What is the practical hana'ah ruling according to most poskim?",
+      "options": {
+        "A": "Hana'ah is permitted by all opinions.",
+        "B": "Hana'ah is only a d'rabbanan concern.",
+        "C": "Hana'ah is generally forbidden.",
+        "D": "Hana'ah is permitted only for chayah meat."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 87, Seif 3",
+        "pageNumbers": "Pages 17-18"
+      },
+      "explanations": {
+        "correct": "Rambam connects the issur hana'ah of basar b'chalav to the issur of eating it, and is therefore lenient when the meat was already forbidden beforehand. Ramban and Rashba disagree and hold that such a mixture is full basar b'chalav. Most poskim follow the stringent view even in cases of hefsed, though Dagul Mervavah permits leniency specifically in a case of loss.",
+        "A": "Ramban, Rashba, and most poskim are stringent; it is not universally permitted.",
+        "B": "The stringent position involves a d'oraisa concern, not merely rabbinic.",
+        "C": "Correct.",
+        "D": "The discussion concerns neveilah and treifah beheimah meat, not chayah."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q012",
+      "question": "Someone wishes to serve chicken with almond milk. According to Taz's practical advice, what should be done when possible?",
+      "options": {
+        "A": "Almonds must be present even b'di'eved.",
+        "B": "There is no mar'is ayin concern at all.",
+        "C": "Almonds should be placed nearby.",
+        "D": "Almond milk carries the same status as real milk for this purpose."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 87, Seif 3",
+        "pageNumbers": "Pages 18-21"
+      },
+      "explanations": {
+        "correct": "The concern is not that almond milk is actually milk — it is mar'is ayin. Rama is lenient when the apparent issur is only mid'rabbanan, such as chicken with almond milk in a private setting. Maharshal and Shach are stricter. Taz agrees with Rama in principle but still advises placing almonds nearby l'chatchilah. B'di'eved, if no almonds are available, the dish may be eaten.",
+        "A": "Taz allows leniency b'di'eved when almonds are unavailable.",
+        "B": "Shach and Maharshal are concerned for mar'is ayin, so it is not simply dismissed.",
+        "C": "Correct.",
+        "D": "The concern is appearance, not that almond milk has actual milk status."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q013",
+      "question": "What is the halachic concern with cooking meat in breast milk?",
+      "options": {
+        "A": "It is basar b'chalav d'oraisa.",
+        "B": "It creates an appearance of cooking in animal milk — mar'is ayin.",
+        "C": "There is no concern when done l'chatchilah.",
+        "D": "It requires sixty times for bitul because of taste transfer."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 87, Seif 4",
+        "pageNumbers": "Pages 20-24"
+      },
+      "explanations": {
+        "correct": "Breast milk is not animal milk and therefore does not create basar b'chalav d'oraisa. However, Mechaber prohibits cooking meat with it because an onlooker might mistake it for regular animal milk — this is a mar'is ayin concern. The fact that breast milk falling into a meat dish is batul without needing sixty parts further confirms that the problem is appearance, not taste-based prohibition.",
+        "A": "Breast milk is not the animal milk of the d'oraisa prohibition.",
+        "B": "Correct.",
+        "C": "The source forbids cooking it l'chatchilah because of mar'is ayin.",
+        "D": "The stated concern is mar'is ayin, not taste transfer requiring 60x."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q014",
+      "question": "An egg found inside a slaughtered chicken has both a yolk and albumen, but is still attached to the ovary (m'urah b'gidim). What is its status regarding eating with milk, according to Mechaber's basic ruling?",
+      "options": {
+        "A": "It is considered complete and may be eaten with milk.",
+        "B": "It is meat and may not be eaten with milk.",
+        "C": "It is forbidden only if it already has a hard shell.",
+        "D": "All eggs found inside a chicken are treated as meat regardless of development."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 87, Seif 5",
+        "pageNumbers": "Pages 24-29"
+      },
+      "explanations": {
+        "correct": "Mechaber defines a complete egg as one that has both chelmon (yolk) and chelbon (albumen). Once both have developed, the egg is no longer treated as meat for basar b'chalav — even if it is still m'urah b'gidim. Such an egg may therefore be cooked and eaten with milk.",
+        "A": "Correct.",
+        "B": "That ruling applies when the egg has only a yolk; once albumen develops it is different.",
+        "C": "A hard shell is not required by Mechaber's basic ruling.",
+        "D": "The source distinguishes fully developed eggs from those still in early stages of development."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q015",
+      "question": "How does Maharshal explain why an attached egg with yolk and albumen may be eaten with milk, even though that same egg could be subject to eiver min hachai in another context?",
+      "options": {
+        "A": "Eiver min hachai cannot apply to any egg.",
+        "B": "For basar b'chalav, the relevant test is whether the food tastes like meat — and this egg does not.",
+        "C": "Chicken with milk is fully permitted, so there is no issue.",
+        "D": "The egg is batul in the milk."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 87, Seif 5",
+        "pageNumbers": "Pages 30-31"
+      },
+      "explanations": {
+        "correct": "Maharshal acknowledges that the same egg could be considered part of the chicken for eiver min hachai. Nevertheless, he explains that basar b'chalav has its own standard: to qualify as meat, the item must actually taste like meat. An egg with yolk and albumen, even if m'uros b'gidim, does not taste like meat — and therefore may be eaten with milk. The eiver min hachai prohibition operates on a different set of criteria.",
+        "A": "The source specifically discusses the possibility of an eiver min hachai issue with this type of egg.",
+        "B": "Correct.",
+        "C": "Chicken and milk is forbidden mid'rabbanan, so that is not the reasoning here.",
+        "D": "The issue is the egg's halachic status, not bitul in milk."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q016",
+      "question": "What is the status of a basar b'chalav mixture that was smoked together, or cooked in the hot springs of Tiberias?",
+      "options": {
+        "A": "It is certainly full d'oraisa cooking, with liability for malkos.",
+        "B": "It is completely permitted.",
+        "C": "It is a non-standard or doubtful form of cooking: one does not receive malkos, but it is treated stringently and may not be eaten or benefited from.",
+        "D": "It is forbidden only if the milk used was whey."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 87, Seif 6",
+        "pageNumbers": "Pages 30-33"
+      },
+      "explanations": {
+        "correct": "Smoking meat and milk together, or cooking them via the hot springs of Tiberias, is not the standard form of cooking described by the Torah. Mechaber therefore rules that one does not receive malkos. Nevertheless, most authorities treat the result stringently as a safeik: one should not cook, eat, or benefit from such a mixture.",
+        "A": "The source explicitly states there are no lashes in these cases.",
+        "B": "The source does not permit these cases.",
+        "C": "Correct.",
+        "D": "The rule turns on the method of cooking, not specifically on whether whey was used."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q017",
+      "question": "How does Mechaber distinguish chalav zachar from chalav meisah with respect to prohibiting food?",
+      "options": {
+        "A": "Both have full milk status and prohibit food in the same way.",
+        "B": "Male milk is not considered milk at all and does not prohibit a meat pot.",
+        "C": "Chalav meisah is always fully pareve.",
+        "D": "Male milk is actually more stringent than chalav meisah."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 87, Seif 6",
+        "pageNumbers": "Pages 32 and 36-37"
+      },
+      "explanations": {
+        "correct": "Mechaber lists male milk, chalav meisah, and mei chalav among cases where one does not receive malkos. He then draws a distinction: male milk is not considered milk at all and does not prohibit a meat pot even without sixty parts. Chalav meisah and mei chalav, however, do prohibit food in the same way as regular milk. The practical treatment of male milk is therefore more lenient.",
+        "A": "The source explicitly distinguishes between them — chalav zachar does not prohibit food like regular milk.",
+        "B": "Correct.",
+        "C": "The source says chalav meisah does prohibit food like regular milk.",
+        "D": "Male milk is treated more leniently than chalav meisah, not more strictly."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q018",
+      "question": "Why does a chumra exist not to stoke the fire under a non-Jew's pot, even if it contains pareve food?",
+      "options": {
+        "A": "Any food cooked by a non-Jew is automatically considered basar b'chalav.",
+        "B": "The pot may contain absorbed meat and milk flavors, and stoking the fire could cook those belios.",
+        "C": "The Jew will certainly eat the food and thereby consume basar b'chalav.",
+        "D": "A non-Jew's pot is presumed to be made of non-kosher material."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 87, Seif 6",
+        "pageNumbers": "Pages 36-37"
+      },
+      "explanations": {
+        "correct": "Rama's concern is not limited to what is visibly in the pot. A non-Jew's pot may have absorbed meat and milk tastes from prior use. If a Jew stokes the coals, he may be participating in cooking those absorbed basar b'chalav flavors as they are reheated. This concern applies even when the current food is entirely pareve.",
+        "A": "The issue is not that every dish cooked by a non-Jew becomes basar b'chalav.",
+        "B": "Correct.",
+        "C": "The concern is about cooking absorbed basar b'chalav flavors, not about the Jew eating the food.",
+        "D": "The concern is absorbed taste, not the material from which the pot is made."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q019",
+      "question": "After the difficulties raised against Shach's reading of Rama's case — mixing hot water used for meat dishes with hot water used for dairy dishes — how does Minchas Yaakov reframe Rama's ruling?",
+      "options": {
+        "A": "Rama's case is only a chumra, because the waters were not hot when they mixed.",
+        "B": "Rama's case is a clear d'oraisa prohibition.",
+        "C": "Rama's case is fully permitted even l'chatchilah.",
+        "D": "Rama's case applies only to giving water to animals, not to other forms of hana'ah."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 87, Seif 6",
+        "pageNumbers": "Pages 38-39"
+      },
+      "explanations": {
+        "correct": "Shach reads the case as hot waters mixing, which would make the concern far more severe. The source raises multiple difficulties with that reading — particularly because Rama describes these cases as chumros, not absolute requirements. Minchas Yaakov therefore explains that the waters were not hot when mixed; there is no definite bishul or hana'ah prohibition, but Rama still records a chumra not to mix them for animal use.",
+        "A": "Correct.",
+        "B": "Shach's reading sounds like d'oraisa, but the source identifies serious difficulties with it.",
+        "C": "Rama discourages the practice and does not call it permitted l'chatchilah.",
+        "D": "The issue is the nature of the prohibition, not which form of hana'ah is involved."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q020",
+      "question": "Which part of an animal is treated as meat for basar b'chalav d'oraisa in Seif 7?",
+      "options": {
+        "A": "A fetus.",
+        "B": "Placenta.",
+        "C": "Bones.",
+        "D": "Tendons."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 87, Seif 7",
+        "pageNumbers": "Pages 40-41"
+      },
+      "explanations": {
+        "correct": "Seif 7 separates which parts of the animal count as meat from those that do not. A fetus is considered part of the animal's meat, so cooking or eating it with milk incurs d'oraisa liability. Placenta, skin, tendons, bones, horn roots, and soft hooves are not treated as meat d'oraisa — though a rabbinic prohibition remains.",
+        "A": "Correct.",
+        "B": "Placenta is listed among parts for which one is not liable d'oraisa.",
+        "C": "Bones are listed among parts for which one is not liable d'oraisa.",
+        "D": "Tendons are listed among parts for which one is not liable d'oraisa."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q021",
+      "question": "According to Mechaber's ruling in Seif 8, which of the following is treated as milk d'oraisa for basar b'chalav: whey or mei chalav?",
+      "options": {
+        "A": "Whey is treated as milk d'oraisa; mei chalav is the watery remainder left after the whey is cooked again.",
+        "B": "Both whey and mei chalav are fully milk d'oraisa.",
+        "C": "Neither whey nor mei chalav can prohibit food.",
+        "D": "Mei chalav is more stringent than regular milk."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 87, Seif 8",
+        "pageNumbers": "Pages 42-43"
+      },
+      "explanations": {
+        "correct": "The Gemara states that cooking meat with mei chalav does not violate basar b'chalav d'oraisa, but the Rishonim debate what mei chalav means. Tosfos considers whey itself to be mei chalav, but Rosh and Tur hold that actual whey retains full milk status d'oraisa. Mechaber rules like Rosh and Tur: whey is milk d'oraisa for basar b'chalav, while mei chalav refers only to the watery liquid remaining after the whey has been cooked a second time.",
+        "A": "Correct.",
+        "B": "The source distinguishes between the two.",
+        "C": "Whey is milk d'oraisa according to Mechaber; this option is incorrect.",
+        "D": "Mei chalav is more lenient than regular milk for d'oraisa basar b'chalav purposes."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q022",
+      "question": "Milk was found inside the stomach of a dead calf. Which practical distinction does Rama apply, following the stricter middle position rather than Mechaber's full leniency?",
+      "options": {
+        "A": "Both liquid and congealed stomach milk are treated as real milk.",
+        "B": "Liquid stomach milk is assur; congealed stomach milk is mutar.",
+        "C": "Both liquid and congealed are treated as stomach waste.",
+        "D": "The ruling depends on the sex of the calf."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 87, Seif 9",
+        "pageNumbers": "Pages 42-45"
+      },
+      "explanations": {
+        "correct": "Three positions exist: Rif and Rambam hold that both liquid and congealed stomach milk are no longer considered milk; Rabbeinu Tam distinguishes between them; Rashi is strict about both. Mechaber follows Rif and Rambam, but Rama records the minhag as following the stricter middle view. Practically: liquid stomach milk may not be cooked with meat, while congealed stomach milk is treated as waste rather than milk.",
+        "A": "Rif, Rambam, and Mechaber are lenient about both; Rama only follows this partially.",
+        "B": "Correct.",
+        "C": "Rabbeinu Tam and Rama are strict about liquid stomach milk — not treating it as waste.",
+        "D": "The ruling turns on whether the milk is liquid or congealed, not the calf's sex."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q023",
+      "question": "Milk sat in a calf stomach, was salted with the stomach, or remained there for 24 hours, and was then used to curdle fresh milk into cheese. What is the l'chatchilah ruling and the b'di'eved consequence?",
+      "options": {
+        "A": "L'chatchilah it should not be used as a starter; if liquid starter was used b'di'eved, the cheese needs 60x to be permitted.",
+        "B": "It is always permitted because stomach milk retains no meat taste.",
+        "C": "It is always forbidden even with 60x.",
+        "D": "The only problem is mar'is ayin, which does not affect the food's status."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 87, Seif 10",
+        "pageNumbers": "Pages 44-52"
+      },
+      "explanations": {
+        "correct": "When milk sits in the calf stomach, or is salted with it, there is concern that the stomach flesh transferred meat taste into the milk. Mechaber therefore rules not to use that milk l'chatchilah as a starter. Rama then addresses the b'di'eved case: if the starter milk was liquid, it can forbid the cheese unless there is sixty times its volume of fresh milk; if the starter was congealed, the result is more lenient.",
+        "A": "Correct.",
+        "B": "The l'chatchilah ruling is not to use it after salting or 24 hours — this option is wrong.",
+        "C": "Rama permits the cheese when there is 60x in the liquid-starter case.",
+        "D": "The concern is actual absorbed meat taste, not merely appearance."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q024",
+      "question": "Why does Rama warn to remove milk from the calf stomach immediately, even though normal kvishah requires 24 hours?",
+      "options": {
+        "A": "Stomach milk is acidic, and sharp or acidic liquids transfer taste more quickly than ordinary ones.",
+        "B": "All cold liquids transfer taste immediately.",
+        "C": "Salting never requires time to transfer taste.",
+        "D": "Kvishah in a stomach is treated as d'oraisa cooking of basar b'chalav."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 87, Seif 10",
+        "pageNumbers": "Pages 52-53"
+      },
+      "explanations": {
+        "correct": "Ordinary kvishah typically requires twenty-four hours, but Shach explains that stomach milk is acidic. Sharp or acidic liquids are known to transfer taste more rapidly than ordinary liquids. Therefore, Rama rules l'chatchilah that the milk should be removed right away. Nonetheless, b'di'eved — if the milk remained for less than twenty-four hours — it is not treated as kavush.",
+        "A": "Correct.",
+        "B": "Ordinary kvishah requires 24 hours; this is the general rule.",
+        "C": "The source describes conditions under which salting transfers taste and notes stringencies around timing.",
+        "D": "Kvishah in this context is not treated as a d'oraisa act of cooking basar b'chalav."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q025",
+      "question": "Since a davar hama'amid normally cannot be batul even in 1000x, how does Shach explain Rama's ruling that liquid stomach-milk used as a starter can be batul with 60x?",
+      "options": {
+        "A": "A davar hama'amid is always batul in 60x.",
+        "B": "Cheese has no davar hama'amid principle.",
+        "C": "The meat issur entered the milk only indirectly, making it at most a rabbinic concern — and the opinions that stomach milk is waste add further room for leniency.",
+        "D": "Basar b'chalav mixtures are not subject to davar hama'amid."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 87, Seif 10",
+        "pageNumbers": "Pages 54-57"
+      },
+      "explanations": {
+        "correct": "A true forbidden davar hama'amid is normally not batul because its effect is directly visible in the finished food. Shach answers that in this case, the curdling agent is the milk from the stomach — not something intrinsically forbidden — and the meat flavor entered only indirectly through salting or soaking. This makes the issur at most rabbinic, allowing 60x to work. Rabbi Akiva Eiger adds that we can further rely on the opinions that stomach milk itself has waste status.",
+        "A": "A true forbidden davar hama'amid is normally not batul even in 1000x.",
+        "B": "Cheese starter is the classic example of davar hama'amid in halacha.",
+        "C": "Correct.",
+        "D": "Basar b'chalav can carry davar hama'amid status; that is not why 60x helps here."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q026",
+      "question": "A forbidden stomach starter and a kosher starter were both used to curdle cheese. What does Rama rule?",
+      "options": {
+        "A": "The cheese is always forbidden because any forbidden starter is never batul.",
+        "B": "When a kosher starter is also present (zeh v'zeh goirem), the cheese is permitted if there is 60x against the forbidden starter.",
+        "C": "The cheese is permitted even without 60x.",
+        "D": "The cheese is permitted only if a Jew tastes it first."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 87, Seif 11",
+        "pageNumbers": "Pages 62-63"
+      },
+      "explanations": {
+        "correct": "A forbidden starter used alone is a davar hama'amid and cannot be batul in any amount. Rama provides an exception when a permitted starter is also present: since both starters contribute to the curdling, this is zeh v'zeh goirem — the forbidden starter is not the sole davar hama'amid. In such a case the cheese can be permitted, provided the fresh milk is sixty times the volume of the forbidden starter.",
+        "A": "The source gives an exception when a kosher starter also contributes.",
+        "B": "Correct.",
+        "C": "Rama still requires 60x against the forbidden starter.",
+        "D": "Shach rules that tasting must be done by a non-Jew, not a Jew, in cases where tasting is necessary."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q027",
+      "question": "According to the rule in Seif 7, what is the basar b'chalav status of cooking placenta with milk?",
+      "options": {
+        "A": "Assur d'oraisa, like cooking meat with milk.",
+        "B": "One is exempt d'oraisa, though a rabbinic prohibition remains.",
+        "C": "Fully permitted even mid'rabbanan.",
+        "D": "Assur only if the placenta was attached to a fetus."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 87, Seif 7",
+        "pageNumbers": "Pages 40-41"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that placenta, skin, tendons, bones, horn roots, and soft hooves are not treated as meat d'oraisa for basar b'chalav. One who cooks them with milk is therefore not liable mid'oraisa. However, a rabbinic prohibition still applies to these parts.",
+        "A": "The source explicitly lists placenta among the parts exempt d'oraisa.",
+        "B": "Correct.",
+        "C": "The source states a rabbinic prohibition still applies.",
+        "D": "The source does not make this distinction regarding placenta."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q028",
+      "question": "According to Seif 3, what is the basar b'chalav status of chayah meat with kosher milk?",
+      "options": {
+        "A": "Assur d'oraisa, like beheimah.",
+        "B": "Fully permitted even to eat.",
+        "C": "Assur mid'rabbanan to eat, but permitted to cook and benefit from.",
+        "D": "Assur mid'rabbanan to eat and also assur b'hana'ah."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 87, Seif 3",
+        "pageNumbers": "Pages 7-11"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that chayah and fowl may be cooked with and benefit from even kosher milk d'oraisa. Eating such a mixture, however, is forbidden mid'rabbanan according to the accepted opinion of Rabbi Akiva. The combination is therefore not d'oraisa, and hana'ah is permitted, but eating it is rabbinically prohibited.",
+        "A": "The source excludes chayah from the d'oraisa prohibition.",
+        "B": "The source forbids eating it mid'rabbanan.",
+        "C": "Correct.",
+        "D": "Hana'ah from chayah with milk is permitted — it is not assur b'hana'ah."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q029",
+      "question": "Rama discusses cooking kosher animal meat with non-kosher milk, or non-kosher meat with kosher milk. What is the concern, and does it apply equally to fowl?",
+      "options": {
+        "A": "The concern is basar b'chalav d'oraisa; it applies to fowl as well.",
+        "B": "The concern is mar'is ayin; it applies to beheimah meat but not to fowl, which is only mid'rabbanan.",
+        "C": "There is no concern at all since one ingredient is non-kosher.",
+        "D": "The concern is mar'is ayin; it applies equally to both beheimah and fowl."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 87, Seif 4",
+        "pageNumbers": "Pages 20-24"
+      },
+      "explanations": {
+        "correct": "Rama rules that l'chatchilah it is forbidden to cook kosher meat with non-kosher milk, or non-kosher meat with kosher milk, because of mar'is ayin — an observer might think one is cooking real basar b'chalav. However, Rama limits this to beheimah meat, because with fowl the underlying issur is only mid'rabbanan, and in Rama's view mar'is ayin does not apply to cases that would only appear to violate a mid'rabbanan prohibition.",
+        "A": "The concern is mar'is ayin, not an actual d'oraisa violation.",
+        "B": "Correct.",
+        "C": "Rama explicitly rules that there is a mar'is ayin concern for beheimah meat.",
+        "D": "Rama specifically excludes fowl from this concern."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q030",
+      "question": "According to Seif 3, may fish and milk be eaten together?",
+      "options": {
+        "A": "No — it is a basar b'chalav prohibition mid'rabbanan.",
+        "B": "No — it is dangerous.",
+        "C": "Yes — fish with milk is neither basar b'chalav nor a health concern according to Shach and Taz.",
+        "D": "Yes, but only when the fish is cooked first."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 87, Seif 3",
+        "pageNumbers": "Pages 11 and 15"
+      },
+      "explanations": {
+        "correct": "Fish with milk carries no basar b'chalav prohibition at any level. Beis Yosef and Levush suggest a danger concern, but Shach and Taz clarify that this was a textual error — the danger is with fish and meat, not fish and milk. Fish with milk is therefore permitted.",
+        "A": "The source excludes fish from any basar b'chalav prohibition, even mid'rabbanan.",
+        "B": "Shach and Taz clarify that the danger concern applies to fish and meat, not fish and milk.",
+        "C": "Correct.",
+        "D": "The source does not draw this distinction."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q031",
+      "question": "According to Mechaber in Seif 5, which stage of egg development makes an egg forbidden to cook with milk?",
+      "options": {
+        "A": "Only when the egg has a hard outer shell.",
+        "B": "Only when the egg has both a yolk and albumen.",
+        "C": "When the egg has only a yolk, without albumen yet.",
+        "D": "Any egg found inside a slaughtered chicken, regardless of development."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 87, Seif 5",
+        "pageNumbers": "Pages 24-29"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that an egg with only a yolk — before the albumen develops — is treated as meat and may not be cooked with milk. However, if the albumen has also developed, the egg is considered complete (even if still attached) and may be eaten with milk. The critical dividing line is the presence of both yolk and albumen.",
+        "A": "Mechaber's ruling does not require a hard shell; the standard is yolk plus albumen.",
+        "B": "Once both yolk and albumen are present, the egg is complete and permitted with milk.",
+        "C": "Correct.",
+        "D": "The source distinguishes between developmental stages; not all eggs inside the chicken are treated the same."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q032",
+      "question": "The Gemara states that meat cooked to the point of edibility is required for the d'oraisa prohibition. What is the minimum level of cooking for basar b'chalav liability according to Pri Chadash?",
+      "options": {
+        "A": "The food must be fully cooked so that even non-Jews would eat it.",
+        "B": "Any heating at all, even for a moment, is sufficient.",
+        "C": "The food only needs to reach maachal ben drusai — partial cooking.",
+        "D": "The food must reach the boiling point."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 87, Seif 1",
+        "pageNumbers": "Pages 3-5"
+      },
+      "explanations": {
+        "correct": "Pri Chadash holds that the basar b'chalav issur applies once the meat and milk reach maachal ben drusai — a partial degree of cooking. He argues that since Pri Megadim's proof from Rashi requires full cooking only for malkos, the issur itself is triggered earlier. Chavos Daas and Yalkut Yosef agree with Pri Chadash. Pri Megadim himself disagrees, holding that full cooking is required.",
+        "A": "That is Rashi's position regarding full cooking for malkos purposes.",
+        "B": "The source does not reduce the threshold to any heating whatsoever.",
+        "C": "Correct.",
+        "D": "The source does not frame the standard as reaching a boiling point."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q033",
+      "question": "Mechaber rules that if a piece of stomach from a kosher shechted animal is used to curdle cheese, it depends on whether the cheese has a meat flavor. If the stomach is from a neveilah, treifah, or non-kosher animal — what is the din?",
+      "options": {
+        "A": "The cheese is permitted if there is 60x more cheese than the stomach piece.",
+        "B": "The cheese is forbidden in any amount, because a forbidden davar hama'amid is never batul.",
+        "C": "The cheese is forbidden only if there is a noticeable meat taste.",
+        "D": "The cheese is forbidden only if the stomach piece was the size of a kezayis."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 87, Seif 11",
+        "pageNumbers": "Pages 62-63"
+      },
+      "explanations": {
+        "correct": "When the starter used to curdle cheese comes from a neveilah, treifah, or non-kosher animal, it is a davar hama'amid that is intrinsically forbidden. Rama explains that something intrinsically forbidden which acts as a curdling agent is never batul — even in 1000 parts. No amount of cheese relative to the forbidden starter would permit the result.",
+        "A": "A forbidden davar hama'amid is not batul even in 60x or 1000x.",
+        "B": "Correct.",
+        "C": "The rule for a forbidden davar hama'amid does not depend on whether a taste is detectable.",
+        "D": "There is no minimum size requirement — even the smallest amount of a forbidden curdling agent forbids the cheese."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q034",
+      "question": "Mechaber rules in Seif 6 that one who cooks blood with milk does not receive malkos for basar b'chalav. What does Shach infer from Mechaber's wording?",
+      "options": {
+        "A": "Blood with milk is completely permitted.",
+        "B": "Although there is no malkos for basar b'chalav, there may still be malkos for eating blood.",
+        "C": "Blood with milk is only assur mid'rabbanan.",
+        "D": "Cooked blood has no issur at all."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 87, Seif 6",
+        "pageNumbers": "Pages 32-36"
+      },
+      "explanations": {
+        "correct": "Shach reads Mechaber's closing words — exempting one who cooks or eats blood with milk from basar b'chalav malkos — as implying that although the person is exempt from lashes for basar b'chalav specifically, they may still be liable for lashes for eating blood. Not all poskim accept this inference, and some hold cooked blood is only assur mid'rabbanan without any lashes.",
+        "A": "Blood with milk still carries the prohibition of blood; it is not fully permitted.",
+        "B": "Correct.",
+        "C": "Shach himself believes cooked blood carries a d'oraisa concern for blood, not merely rabbinic.",
+        "D": "The source discusses the prohibition of blood itself, not a complete leniency."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q035",
+      "question": "Taz raises a difficulty against Rama's ruling of zeh v'zeh goirem regarding two starters. What is the difficulty, and how does Taz resolve it?",
+      "options": {
+        "A": "Taz argues there is no concept of zeh v'zeh goirem at all; he permits the cheese outright.",
+        "B": "Taz notes that the source case (sourdough) forbids bread when the treumah starter alone can cause rising; therefore cheese should be forbidden when the non-kosher starter alone can curdle — and Taz limits Rama accordingly.",
+        "C": "Taz holds Rama's ruling only applies if the forbidden starter has been cooked beforehand.",
+        "D": "Taz argues that zeh v'zeh goirem only works when there is 120x, not 60x."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 87, Seif 11",
+        "pageNumbers": "Pages 62-67"
+      },
+      "explanations": {
+        "correct": "Taz cites Mordechai's source case: when both trumah and non-trumah sourdough starters are placed in dough, the bread is only permitted for a non-kohen if the trumah starter alone cannot cause the dough to rise. If the trumah starter is sufficient on its own, the bread is forbidden. By parallel, Taz understands that zeh v'zeh goirem for cheese only applies when the non-kosher starter is insufficient to curdle the milk on its own. Shach grapples with this question as well, ultimately reaching a similar conclusion.",
+        "A": "Taz does not reject zeh v'zeh goirem; he limits its application.",
+        "B": "Correct.",
+        "C": "No such condition about prior cooking is mentioned.",
+        "D": "The discussion is about the sufficiency of the forbidden starter, not the ratio of cheese."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q036",
+      "question": "Seif 3 discusses the prohibition of chayah meat with milk. What is the machlokes in the Gemara, and which opinion does Mechaber follow?",
+      "options": {
+        "A": "Rabbi Yose Haglili forbids it d'oraisa; Rabbi Akiva permits it entirely. Mechaber follows Rabbi Yose.",
+        "B": "Rabbi Akiva holds it is only mid'rabbanan; Rabbi Yose Haglili holds it is d'oraisa. Mechaber follows Rabbi Akiva.",
+        "C": "Both Tanaim agree it is mid'rabbanan; the dispute is only whether hana'ah is permitted. Mechaber forbids hana'ah.",
+        "D": "Rabbi Akiva permits chayah entirely; the majority view is mid'rabbanan. Mechaber follows the majority."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 87, Seif 3",
+        "pageNumbers": "Pages 7-11"
+      },
+      "explanations": {
+        "correct": "The Gemara records a machlokes: Rabbi Akiva holds that chayah is not subject to basar b'chalav d'oraisa, while Rabbi Yose Haglili holds that it is. The majority of Rishonim and Mechaber rule like Rabbi Akiva — chayah with milk is only forbidden mid'rabbanan.",
+        "A": "Mechaber follows Rabbi Akiva, not Rabbi Yose Haglili.",
+        "B": "Correct.",
+        "C": "The machlokes is about d'oraisa versus mid'rabbanan, not about hana'ah.",
+        "D": "Rabbi Akiva holds it is mid'rabbanan, not fully permitted."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q037",
+      "question": "Mechaber rules in Seif 6 that one who cooks meat in mei chalav is exempt from basar b'chalav. What does \"exempt\" mean practically — may such a mixture be eaten?",
+      "options": {
+        "A": "It is fully permitted to eat it l'chatchilah.",
+        "B": "It is exempt from malkos, but eating it is still forbidden mid'rabbanan, and l'chatchilah cooking it is also forbidden.",
+        "C": "It is exempt d'oraisa, and therefore permitted even b'di'eved.",
+        "D": "Exempt means no prohibition exists whatsoever."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 87, Seif 6",
+        "pageNumbers": "Pages 32-36"
+      },
+      "explanations": {
+        "correct": "Mechaber's use of \"exempt\" means exempt from malkos (lashes) — it does not mean fully permitted. Mechaber explicitly rules that chalav meisah and mei chalav still prohibit the food like regular milk, and that even l'chatchilah, cooking meat with them is forbidden. The exemption is only from the d'oraisa lash penalty.",
+        "A": "The source says l'chatchilah cooking with mei chalav is forbidden.",
+        "B": "Correct.",
+        "C": "Exempt from malkos does not equal permitted to eat.",
+        "D": "Mechaber explicitly says such combinations prohibit the food like regular milk."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q038",
+      "question": "Rama mentions in Seif 6 that a vessel used to make water for hair-washing should not be used for cooking food. What is the basar b'chalav concern?",
+      "options": {
+        "A": "The vessel was previously used to cook basar b'chalav.",
+        "B": "The shampoo is made with ashes from the stove, and meat and milk drippings commonly fall into those ashes, potentially rendering the vessel non-kosher.",
+        "C": "Hair-washing water contains residual milk proteins.",
+        "D": "The vessel has a non-kosher coating."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 87, Seif 6",
+        "pageNumbers": "Pages 36-38"
+      },
+      "explanations": {
+        "correct": "The pre-industrial shampoo was made by boiling water with ashes taken from the bottom of the cooking stove. Since meat and milk were cooked over that same stove, their drippings frequently fell into the ashes. The basar b'chalav taste absorbed by those ashes can then transfer into the walls of the vessel used to make the shampoo, rendering it problematic to use for cooking food.",
+        "A": "The concern is about ashes from the stove, not direct previous use for cooking basar b'chalav.",
+        "B": "Correct.",
+        "C": "The concern is not about milk proteins in the water itself.",
+        "D": "There is no mention of a coating; the issue is absorbed basar b'chalav taste from the ashes."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q039",
+      "question": "According to Shach, what is the rationale behind the chumra not to stoke the coals under a non-Jew's pot even when no visible basar b'chalav is present?",
+      "options": {
+        "A": "A non-Jew's pot is always presumed to contain basar b'chalav at the time of cooking.",
+        "B": "The pot likely has absorbed meat and milk belios from prior use, and stoking the fire heats those belios, causing a Jew to participate in cooking basar b'chalav.",
+        "C": "The Jew risks eating from the pot afterwards.",
+        "D": "Non-Jewish cooking violates bishul akum concerns which overlap with basar b'chalav."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 87, Seif 6",
+        "pageNumbers": "Pages 36-37"
+      },
+      "explanations": {
+        "correct": "Shach explains that a non-Jew's pot is commonly used for both meat and milk at different times. The walls of the pot absorb those flavors. When a Jew stokes the fire, he participates in heating those belios to the point where they are effectively cooked. This constitutes participation in cooking basar b'chalav, even without any visible meat or milk present.",
+        "A": "The concern is about absorbed belios from prior use, not that basar b'chalav is present now.",
+        "B": "Correct.",
+        "C": "The concern is about the act of cooking, not about eating.",
+        "D": "The concern is specifically about absorbed basar b'chalav, not bishul akum."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q040",
+      "question": "In the context of Seif 3, what is the halachic significance of chana\"n (chatichah na'aseis n'veilah)?",
+      "options": {
+        "A": "It means a piece of meat can never be batul in any mixture.",
+        "B": "When a drop of milk falls onto a piece of meat without 60x, the entire piece of meat becomes an entity of basar b'chalav issur — so when it falls into a larger pot, the pot needs 60x against the whole piece, not just the drop.",
+        "C": "It means basar b'chalav mixtures are always assur b'hana'ah.",
+        "D": "It is a principle that applies only when both meat and milk come from non-kosher species."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 87, Seif 3",
+        "pageNumbers": "Pages 7-11"
+      },
+      "explanations": {
+        "correct": "Chana\"n teaches that when a drop of milk falls onto a piece of meat and there is insufficient bitul, the meat and milk fuse into a new entity of issur — the whole piece of meat becomes basar b'chalav. If that piece then falls into a larger pot, the pot needs 60x against the entire piece of meat (not just the original drop of milk), because the piece itself has now become issur.",
+        "A": "Chana\"n is about the piece's status, not that it can never be batul in any context.",
+        "B": "Correct.",
+        "C": "Chana\"n affects bitul calculations; it does not automatically make everything assur b'hana'ah.",
+        "D": "Chana\"n specifically applies when two permitted items (meat and milk) combine into a new forbidden entity."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q041",
+      "question": "According to the source material, what is the halachic implication of gelatin derived from non-kosher animal bones or skin, based on the principles of davar hama'amid discussed in Seif 11?",
+      "options": {
+        "A": "It is permitted because bones are not considered meat.",
+        "B": "It is forbidden as a davar hama'amid, and even a drop of non-kosher gelatin forbids the entire mixture l'chatchilah.",
+        "C": "It is permitted because the chemical process of hydrolysis removes the non-kosher status.",
+        "D": "It depends on whether the gelatin is more than 1/60th of the food."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 87, Seif 11",
+        "pageNumbers": "Pages 62-67"
+      },
+      "explanations": {
+        "correct": "Rav Moshe Feinstein applies the principle of davar hama'amid from Seif 11 to gelatin. Since gelatin stabilizes or solidifies food, it functions as a davar hama'amid. If derived from a non-kosher source, it is an intrinsically forbidden davar hama'amid which is never batul — even in 1000x. Therefore, l'chatchilah even a drop of non-kosher gelatin forbids the entire product.",
+        "A": "Rav Moshe Feinstein explicitly rejects the argument that bones are not considered meat in this context.",
+        "B": "Correct.",
+        "C": "Rav Moshe Feinstein rejects the hydrolysis argument as a basis for leniency.",
+        "D": "A forbidden davar hama'amid is not subject to the normal 1/60 bitul rule."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q042",
+      "question": "Mechaber rules in Seif 4 that breast milk falling into a meat dish is batul without needing a specific measurement. What does this teach about the nature of the prohibition of breast milk with meat?",
+      "options": {
+        "A": "Breast milk is treated identically to animal milk for all basar b'chalav purposes.",
+        "B": "The prohibition is based on mar'is ayin, not on taste — so once it falls in, there is no flavor-based issur requiring 60x.",
+        "C": "There is no prohibition at all regarding breast milk with meat.",
+        "D": "Bitul for breast milk requires only 2x instead of 60x."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 87, Seif 4",
+        "pageNumbers": "Pages 20-24"
+      },
+      "explanations": {
+        "correct": "The fact that breast milk falling into a meat pot is batul without any required measurement confirms that the prohibition is entirely based on mar'is ayin — the appearance of cooking meat in milk. Since breast milk itself carries no basar b'chalav flavor-based prohibition, once it falls in without being visible, there is nothing to nullify; no 60x is required.",
+        "A": "Breast milk is treated more leniently than animal milk for basar b'chalav; it only carries a mar'is ayin concern.",
+        "B": "Correct.",
+        "C": "There is a prohibition — cooking meat in breast milk is forbidden l'chatchilah — but it is based on mar'is ayin, not taste.",
+        "D": "The source does not suggest a 2x standard; the point is that no measurement is required at all."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q043",
+      "question": "Shach and Taz cite a debate about whether a rabbinic basar b'chalav prohibition exists when one ingredient is from a non-kosher species. Bach holds such a prohibition exists. What is Shach's primary objection to Bach's position?",
+      "options": {
+        "A": "Shach argues there is no prohibition because non-kosher food cannot become basar b'chalav.",
+        "B": "Shach argues that there is no earlier source for such a decree, and the reason for rabbinic basar b'chalav prohibitions — preventing violation of the d'oraisa — does not apply where the mixture is already forbidden regardless.",
+        "C": "Shach argues that Bach's ruling would make kosher meat too strict.",
+        "D": "Shach argues that chana\"n applies only to kosher foods and therefore Bach's analysis is irrelevant."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 87, Seif 3",
+        "pageNumbers": "Pages 15-17"
+      },
+      "explanations": {
+        "correct": "Shach raises two objections to Bach: (1) there is no earlier source anywhere prior to Tur for such a rabbinic decree, and (2) the entire logic for rabbinic basar b'chalav prohibitions is to create a fence around the d'oraisa — e.g., forbidding chicken and milk to prevent people from eventually eating real basar b'chalav. Where the mixture is already forbidden because one ingredient is non-kosher, no one will eat it anyway, so there is no reason for Chazal to add a basar b'chalav status.",
+        "A": "Shach's argument is about the purpose of rabbinic decrees, not about the inherent nature of non-kosher food.",
+        "B": "Correct.",
+        "C": "Shach's objection is not about strictness to kosher meat.",
+        "D": "Shach does address chana\"n, but his primary objection is about the purpose and existence of the decree."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q044",
+      "question": "According to the Taz in Seif 3, why is there no chana\"n when the mixture contains a non-kosher ingredient alongside kosher meat or milk?",
+      "options": {
+        "A": "Because chana\"n requires a kezayis of issur.",
+        "B": "Because chana\"n only applies when two permitted items combine to form a new entity of issur — when one item was already forbidden, no new entity is formed.",
+        "C": "Because Taz holds chana\"n never applies to basar b'chalav.",
+        "D": "Because chana\"n only applies when both items are of the same species."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 87, Seif 3",
+        "pageNumbers": "Pages 15-17"
+      },
+      "explanations": {
+        "correct": "Taz explains that chana\"n is derived from basar b'chalav and operates on the principle that two independently permitted items (meat and milk) can combine to create a new entity of issur. When one ingredient was already forbidden before the combination, there is no creation of a new entity — the item was issur from the outset. Therefore chana\"n cannot apply.",
+        "A": "The source does not require a kezayis for chana\"n.",
+        "B": "Correct.",
+        "C": "Taz affirms that chana\"n applies to basar b'chalav — he only limits it to cases where both items were previously permitted.",
+        "D": "Species matching is not the criterion Taz uses."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q045",
+      "question": "According to Rama in Seif 3, is there a mar'is ayin concern when eating meat with almond milk in a private setting where the potential appearance is only of an issur mid'rabbanan?",
+      "options": {
+        "A": "Yes — Rama forbids it even in private due to mar'is ayin.",
+        "B": "No — Rama is lenient when the apparent issur would only be mid'rabbanan, though Maharshal and Shach disagree.",
+        "C": "Yes, but only when served at a formal meal.",
+        "D": "No — Rama permits it even when the appearance is of an issur d'oraisa."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 87, Seif 3",
+        "pageNumbers": "Pages 18-21"
+      },
+      "explanations": {
+        "correct": "Rama holds that mar'is ayin does not apply when the apparent violation would only be a rabbinic issur. Eating chicken (not cooked) with almond milk in a private setting therefore does not require almonds to be placed nearby. Maharshal and Shach disagree and require the almonds regardless. Taz generally follows Rama but still recommends placing almonds l'chatchilah as a practical measure.",
+        "A": "Rama is lenient in this case; he does not forbid it.",
+        "B": "Correct.",
+        "C": "The source does not distinguish based on formal versus informal meals in this context.",
+        "D": "Rama requires almonds when the appearance would be of an issur d'oraisa — the leniency only applies to rabbinic-appearing violations."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q046",
+      "question": "When a cow's stomach is completely dried out to the point of being like wood, what does Rama rule regarding its use?",
+      "options": {
+        "A": "It may not be used at all because of residual basar b'chalav concerns.",
+        "B": "It may be used to store milk, since it has lost all taste and will not impart any flavor.",
+        "C": "It may be used only for non-food purposes.",
+        "D": "It requires kashering before use."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 87, Seif 10",
+        "pageNumbers": "Pages 44-52"
+      },
+      "explanations": {
+        "correct": "Rama rules that if a cow's stomach has dried out completely to the point where it is tasteless like wood, it may be used to store milk. Once it can no longer impart any taste, the concern of meat flavor transferring into the milk no longer applies. Shach adds that this applies to other organs as well, though l'chatchilah one should avoid it.",
+        "A": "The source permits using a completely dried stomach for storing milk.",
+        "B": "Correct.",
+        "C": "The source specifically permits using it for storing milk, which is a food purpose.",
+        "D": "The source does not require kashering — the complete drying out resolves the concern."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q047",
+      "question": "In Seif 11, Mechaber rules that cheese curdled using the stomach skin of a kosher shechted animal is forbidden if the cheese has a meat taste. What does this imply about the stomach skin's status?",
+      "options": {
+        "A": "The stomach skin is intrinsically forbidden and always makes the cheese forbidden.",
+        "B": "The stomach skin is permitted, but if it imparts a meat flavor to the cheese, that flavor renders the cheese basar b'chalav.",
+        "C": "The stomach skin is permitted and never makes the cheese forbidden.",
+        "D": "The stomach skin has a rabbinic prohibition that requires 60x to be batul."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 87, Seif 11",
+        "pageNumbers": "Pages 62-63"
+      },
+      "explanations": {
+        "correct": "The stomach skin of a kosher shechted animal is itself permitted. However, when it is used to curdle milk, it may impart a meat flavor into the cheese. If there is a detectable meat taste, the cheese becomes basar b'chalav and is forbidden. If there is no meat taste, the cheese is permitted. This is a standard taste-based analysis.",
+        "A": "The stomach skin from a kosher animal is permitted — the issue is only if it transfers meat taste.",
+        "B": "Correct.",
+        "C": "The source says the cheese is forbidden if there is a meat taste.",
+        "D": "The source does not describe a blanket rabbinic prohibition requiring 60x for the kosher stomach skin."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q048",
+      "question": "Shach discusses whether mar'is ayin applies to issurim mid'rabbanan, in the context of Seif 3. What Gemara does Shach cite as proof that mar'is ayin can apply even to rabbinic issurim?",
+      "options": {
+        "A": "The Gemara about fish blood requiring scales to be present.",
+        "B": "The Gemara about a Jew's donkey on Shabbos — a donkey for sale has bells, and even a plugged bell is prohibited on Shabbos because of mar'is ayin, even though the underlying concern (selling on Shabbos) is only mid'rabbanan.",
+        "C": "The Gemara about bishul akum and how it applies even to pareve food.",
+        "D": "The Gemara about pat akum and the extent of the rabbinic decree."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 87, Seif 3",
+        "pageNumbers": "Pages 18-21"
+      },
+      "explanations": {
+        "correct": "Shach cites the Gemara in Shabbos (54b) about a donkey with a plugged bell on Shabbos. Rashi explains that even a plugged bell (which cannot ring) is forbidden because it looks like the owner is taking the donkey to market to sell it — which is only an issur mid'rabbanan. This proves that Chazal applied mar'is ayin even when the act being imitated would only be a rabbinic violation.",
+        "A": "The fish blood Gemara is cited by Maharshal; Shach cites the donkey case.",
+        "B": "Correct.",
+        "C": "Bishul akum is a separate topic not cited in this context.",
+        "D": "Pat akum is not the source Shach uses here."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q049",
+      "question": "What is Mechaber's ruling in Seif 9 regarding milk found inside the stomach of a dead calf — is it still considered milk?",
+      "options": {
+        "A": "Both liquid and congealed forms retain full milk status.",
+        "B": "Neither liquid nor congealed forms are considered milk; both are treated as waste.",
+        "C": "Liquid is still milk; congealed is not.",
+        "D": "The ruling depends on how recently the calf died."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 87, Seif 9",
+        "pageNumbers": "Pages 42-45"
+      },
+      "explanations": {
+        "correct": "Mechaber follows the opinion of Rif and Rambam: milk found inside the stomach of a dead calf — whether liquid or congealed — is no longer considered milk. Both forms are treated as waste and carry no basar b'chalav status as milk. Rama, however, records the minhag as following the stricter middle position of Rabbeinu Tam, which distinguishes between liquid and congealed.",
+        "A": "That would be Rashi's strict position; Mechaber follows the lenient view of Rif and Rambam.",
+        "B": "Correct.",
+        "C": "That is Rabbeinu Tam's middle position, which Rama records as the minhag.",
+        "D": "The ruling of Rif, Rambam, and Mechaber does not depend on recency of death."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q050",
+      "question": "According to the principles of davar hama'amid discussed in Seif 11, why is a forbidden cheese starter not batul even in 1000 parts?",
+      "options": {
+        "A": "Because basar b'chalav mixtures always require 1000x for bitul.",
+        "B": "Because a davar hama'amid's effect is visible and externally apparent in the finished product — the cheese would not have formed without it — so it cannot be considered nullified.",
+        "C": "Because the starter imparts a taste stronger than 1/60th of the mixture.",
+        "D": "Because Chazal specifically decreed that starters cannot be batul."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 87, Seif 11",
+        "pageNumbers": "Pages 62-67"
+      },
+      "explanations": {
+        "correct": "A davar hama'amid — a substance that causes a food to congeal or solidify — is never batul because its effect is directly visible and essential to the final product. The cheese exists as a distinct food specifically because the starter caused it to curdle; the starter's function is externally apparent. Since bitul generally works when the forbidden item loses its identity in the majority, an item whose presence is proven by the very existence of the dish cannot be considered nullified.",
+        "A": "The 1000x rule is not a general basar b'chalav standard; it is specific to davar hama'amid.",
+        "B": "Correct.",
+        "C": "The issue is not about taste ratio — a davar hama'amid can be forbidden even if tasteless.",
+        "D": "The reason is not merely a decree; it is the logical principle that something whose effect is apparent cannot be treated as absent."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-87-beta-q051",
+      "question": "According to Seif 3, what is the Gemara's basis for understanding that the basar b'chalav prohibition applies to chayah or not?",
+      "options": {
+        "A": "There is a direct passuk excluding chayah from the prohibition.",
+        "B": "There is a machlokes between Rabbi Akiva and Rabbi Yose Haglili about whether the Torah's language of \"kid goat\" includes chayah; the Gemara does not resolve it definitively.",
+        "C": "Chayah is explicitly included d'oraisa in the same passuk as beheimah.",
+        "D": "Chayah is excluded because its meat looks different from beheimah meat."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 87, Seif 3",
+        "pageNumbers": "Pages 7-11"
+      },
+      "explanations": {
+        "correct": "The Gemara records a dispute between Rabbi Akiva and Rabbi Yose Haglili about whether the basar b'chalav prohibition applies to chayah. Rabbi Akiva holds that only beheimah is included d'oraisa; Rabbi Yose Haglili holds that chayah is also included. The majority of Rishonim and Mechaber rule like Rabbi Akiva, making chayah only mid'rabbanan.",
+        "A": "There is no direct exclusionary passuk; the dispute is about interpreting the inclusive scope of the Torah's language.",
+        "B": "Correct.",
+        "C": "Chayah is not explicitly included alongside beheimah in the passuk.",
+        "D": "Physical appearance is not the halachic basis for this distinction."
+      }
+    }
+  ]
+}

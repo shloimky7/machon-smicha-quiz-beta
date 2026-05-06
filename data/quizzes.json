@@ -9,6 +9,13 @@
       "dataUrl": "data/basar-bchalav-siman-87.json"
     },
     {
+      "id": "basar-bchalav-siman-87-beta",
+      "title": "Basar B'chalav - Siman 87 Beta",
+      "course": "Smicha - Basar B'chalav",
+      "kind": "quiz",
+      "dataUrl": "data/basar-bchalav-siman-87-beta.json"
+    },
+    {
       "id": "basar-bchalav-siman-88",
       "title": "Basar B'chalav - Siman 88",
       "course": "Smicha - Basar B'chalav",
