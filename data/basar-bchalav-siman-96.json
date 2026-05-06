@@ -1,0 +1,1372 @@
+{
+  "id": "basar-bchalav-siman-96",
+  "title": "Basar B'chalav - Siman 96",
+  "course": "Smicha - Basar B'chalav",
+  "kind": "quiz",
+  "targetQuestionCount": 24,
+  "difficultyPolicy": {
+    "Easy": 0.5,
+    "Medium": 0.3,
+    "Hard": 0.2
+  },
+  "sourceWorkbook": "siman_96_quiz_bank.xlsx",
+  "questions": [
+    {
+      "id": "basar-bchalav-siman-96-q001",
+      "question": "What is the main topic of Siman 96?",
+      "options": {
+        "A": "Sharp foods cut with meat or issur knives.",
+        "B": "Waiting after eating meat before dairy.",
+        "C": "Kashering ovens used for meat and milk.",
+        "D": "Leaving uncovered foods near milk dishes."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Siman 96 centers on davar charif: sharp foods and the special power they have, especially when cut with a meat or issur knife. The siman explains how sharpness and duchka d'sakina can draw out taste even in cold cases.",
+        "A": "Correct option.",
+        "B": "Waiting after meat is not the topic of this siman.",
+        "C": "Oven kashering is not the focus here.",
+        "D": "Uncovered foods are not the main sugya of Siman 96."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q002",
+      "question": "Why is chiltis from a non-Jew forbidden in the Mishnah's case?",
+      "options": {
+        "D": "It was certainly cooked with milk in a pot.",
+        "A": "It was harvested from a field owned by non-Jews.",
+        "B": "It may have been cut with a non-kosher knife.",
+        "C": "It cannot ever be eaten because it is too bitter."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The Mishnah's concern is that the chiltis was cut with a non-kosher knife. Although an old knife normally gives pagum taste, chiltis is sharp enough to improve stale bliyos and make them nosen ta'am l'shvach.",
+        "A": "Ownership of the field is irrelevant to the issur.",
+        "B": "Correct option.",
+        "C": "The concern is absorbed issur, not that chiltis is inherently forbidden.",
+        "D": "Cooking with milk is not the Mishnah's stated concern."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q003",
+      "question": "What special effect can chiltis have on an eino ben yomo knife?",
+      "options": {
+        "B": "It cools the blade so no taste can leave.",
+        "C": "It refreshes stale bliyos into l'shvach taste.",
+        "D": "It removes every absorbed taste from the knife.",
+        "A": "It makes all knife residue batul by itself."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The Gemara explains that chiltis is sharp enough to make stale, pagum taste in an eino ben yomo knife become l'shvach. That is why non-kosher bliyos in the knife can forbid the chiltis.",
+        "A": "The issue is not ordinary bitul inside the chiltis.",
+        "B": "Sharpness does not cool the blade or block taste.",
+        "C": "Correct option.",
+        "D": "Chiltis does not kasher or empty the knife."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q004",
+      "question": "What do tznon and silka cut with a meat knife show?",
+      "options": {
+        "D": "Cold knife pressure with sharp food can transfer taste.",
+        "A": "Only hot liquids can transfer meat taste to vegetables.",
+        "B": "A meat knife becomes pareve after cutting vegetables.",
+        "C": "Radish and beets are treated like non-charif cucumbers."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The Gemara teaches that tznon and silka cut with a meat knife may not be eaten with dairy. The principle is that duchka d'sakina together with sharp food can transfer taste even when the food and knife are cold, clean, and unsalted.",
+        "A": "The siman's point is that even cold pressure can matter.",
+        "B": "Cutting sharp foods does not make the knife pareve.",
+        "C": "Tznon and silka are the charif examples, unlike cucumber.",
+        "D": "Correct option."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q005",
+      "question": "Which foods are explicitly central examples of davar charif in Seif 1?",
+      "options": {
+        "B": "Rice, beans, and wheat kernels.",
+        "C": "Honey, oil, and fresh grapes.",
+        "D": "Bread, turnips, and cucumbers.",
+        "A": "Chiltis, tznon, and silka."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source builds the siman around the Gemara's examples of chiltis, tznon, and silka. Later the siman expands the category, but these are the classic cases used to introduce the special dinim.",
+        "A": "Correct option.",
+        "B": "These are ordinary foods, not the Gemara's central sharp examples.",
+        "C": "These are not the foods used to introduce the sugya.",
+        "D": "Cucumbers and turnips appear later as non-charif contrasts."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q006",
+      "question": "According to Rabbeinu Yechiel, how broad is the special davar charif category?",
+      "options": {
+        "A": "It applies only to hot cooked food.",
+        "B": "It applies only to foods named by Chazal.",
+        "C": "It applies to every food with any flavor.",
+        "D": "It applies only to salty liquids."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rabbeinu Yechiel limits the special stringencies to the foods explicitly mentioned by Chazal, such as tznon, silka, and chiltis. Other Rishonim broaden the rule to all dvarim charifim.",
+        "A": "Heat is not Rabbeinu Yechiel's limiting factor.",
+        "B": "Correct option.",
+        "C": "He does not include every flavorful food.",
+        "D": "The rule is not limited to salty liquids."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q007",
+      "question": "Which view applies the Gemara's davar charif rules to all sharp foods?",
+      "options": {
+        "C": "Rambam, Rosh, and Tosfos.",
+        "D": "Only Rabbeinu Yechiel.",
+        "A": "Only the view of the Raavad.",
+        "B": "Only the opinion about turnips."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source lists Rambam, Rosh, and Tosfos as holding that the special rules apply to all dvarim charifim. That contrasts with Rabbeinu Yechiel, who limits the category to foods mentioned explicitly.",
+        "A": "Raavad is cited later about depth of absorption.",
+        "B": "Turnips are discussed later as a non-charif contrast.",
+        "C": "Correct option.",
+        "D": "Rabbeinu Yechiel is the narrower opinion."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q008",
+      "question": "What is one of Rashi's explanations why tznon cut with a meat knife may not be eaten with dairy?",
+      "options": {
+        "C": "The radish was cooked together with dairy first.",
+        "D": "The knife had actual meat substance on it.",
+        "A": "The radish became forbidden because it was unsalted.",
+        "B": "Na't bar na't is never permitted in any case."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rashi's first explanation is that the knife had actual meat pieces or fat on it. If so, the radish receives direct meat taste and not merely na't bar na't taste.",
+        "A": "Lack of salting is not Rashi's explanation.",
+        "B": "Na't bar na't is permitted in many other basar b'chalav cases.",
+        "C": "The case is not that the radish was cooked with dairy first.",
+        "D": "Correct option."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q009",
+      "question": "What is Rashi's second explanation for why na't bar na't does not help by tznon?",
+      "options": {
+        "A": "The sharpness makes the knife's taste like ta'am rishon.",
+        "B": "The radish is cooked and roasted at the same time.",
+        "C": "The knife becomes cold enough to stop all transfer.",
+        "D": "The dairy food cancels the radish's sharpness."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rashi's second answer is that the sharpness of tznon or silka makes the weak na't bar na't taste count like ta'am rishon, as if the meat taste is present in a stronger way. According to this view, even a clean knife can create the problem.",
+        "A": "Correct option.",
+        "B": "The case is about cutting with a knife, not combined cooking and roasting.",
+        "C": "Coldness does not stop duchka d'sakina with a sharp food.",
+        "D": "Dairy does not remove the sharp-food problem."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q010",
+      "question": "According to Ramban, Rambam, Rashba, and Ran, when is the vegetable assur with dairy?",
+      "options": {
+        "B": "Only if the knife was dirty with substance.",
+        "C": "Only if the radish was cut into tiny pieces.",
+        "D": "Only if the vegetable was cooked in milk first.",
+        "A": "Only if the knife was made from wood."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "These Rishonim hold that na't bar na't still applies to the absorbed taste in a clean meat knife. The vegetable is assur with dairy only when the knife was dirty, because then the vegetable receives direct meat substance or taste from residue.",
+        "A": "Knife material is not the dividing line in this machlokes.",
+        "B": "Correct option.",
+        "C": "Finely cutting is a separate Rama discussion.",
+        "D": "The issue begins from the meat knife, not milk cooking first."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q011",
+      "question": "According to Sefer Hatrumah and Sma'g, what can a clean meat knife do to davar charif?",
+      "options": {
+        "B": "It can make the vegetable pareve by cutting it.",
+        "C": "It can turn weak absorbed taste into full ta'am.",
+        "D": "It can remove the vegetable's sharp taste entirely.",
+        "A": "It can forbid only if everything is boiling hot."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "They follow the stricter approach that duchka d'sakina with davar charif can make na't bar na't taste count as fully present taste. Therefore even a clean meat knife can prevent eating the sharp vegetable with dairy.",
+        "A": "The rule applies even in cold cutting cases.",
+        "B": "Cutting sharp food does not make it pareve.",
+        "C": "Correct option.",
+        "D": "The vegetable remains sharp; that is why the rule applies."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q012",
+      "question": "How deep does Mechaber treat the absorbed taste as entering the cut davar charif?",
+      "options": {
+        "B": "Only a rinse is needed in every case.",
+        "C": "Only the leafy part is forbidden.",
+        "D": "K'dei netilah from the place of the cut.",
+        "A": "The entire food is always forbidden b'di'eved."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Mechaber permits eating the sharp vegetable with dairy if one removes k'dei netilah, the thickness of a thumb, from the cut area. This follows the view that the knife's taste enters no farther than k'dei netilah.",
+        "A": "Rama is stringent l'chatchilah on the whole item, but Mechaber gives k'dei netilah.",
+        "B": "A rinse alone is not enough for tznon or silka in Mechaber's case.",
+        "C": "Rama says cutting only the leafy part is different, but that is not Mechaber's main depth rule.",
+        "D": "Correct option."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q013",
+      "question": "What alternative to removing k'dei netilah does Mechaber mention?",
+      "options": {
+        "D": "Leaving it overnight in cold water in this case.",
+        "A": "Tasting the cut area and then rinsing if no meat taste is found.",
+        "B": "Cooking it with milk before checking in this scenario.",
+        "C": "Cutting it again with a dairy knife for this ruling."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Mechaber says that if one tastes the area touched by the knife and finds no meat taste, the vegetable may be eaten with dairy after rinsing. Later poskim debate whether tasting can be relied on nowadays.",
+        "A": "Correct option.",
+        "B": "Cooking with milk comes later as the b'di'eved case if no netilah was removed.",
+        "C": "A second cut with a dairy knife does not solve the first absorption.",
+        "D": "Leaving it overnight is not Mechaber's alternative."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q014",
+      "question": "What does Rama say l'chatchilah about a tznon cut with an issur or meat knife?",
+      "options": {
+        "B": "The entire tznon is treated stringently.",
+        "C": "Only hadachah is needed for all sharp foods.",
+        "D": "The knife is considered pareve after one cut.",
+        "A": "Only the leafy part becomes forbidden."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rama cites the opinion that the taste spreads through the whole sharp food and says this is the minhag l'chatchilah. B'di'eved, however, he does not forbid more than k'dei netilah.",
+        "A": "Cutting only the leafy part is a separate leniency.",
+        "B": "Correct option.",
+        "C": "Hadachah alone applies later to turnips, not to sharp tznon.",
+        "D": "A sharp-food cut does not make the knife pareve."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q015",
+      "question": "What does Rama say b'di'eved after a davar charif was cut with the problematic knife?",
+      "options": {
+        "B": "The entire food remains forbidden forever.",
+        "C": "Only k'dei netilah is forbidden b'di'eved.",
+        "D": "A simple rinse removes all concerns.",
+        "A": "The food must be burned and not eaten."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Although Rama's minhag is to treat the whole sharp food stringently l'chatchilah, he says that b'di'eved one need not forbid more than k'dei netilah. This keeps the practical after-the-fact ruling narrower than the initial chumra.",
+        "A": "There is no rule here requiring burning the food.",
+        "B": "Rama is not that strict b'di'eved.",
+        "C": "Correct option.",
+        "D": "A rinse alone is too lenient for a davar charif cut with a problematic knife."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q016",
+      "question": "If the sharp vegetable was cut very finely, what measure does Rama require?",
+      "options": {
+        "D": "Sixty against the entire sharp vegetable.",
+        "A": "Only a rinse of the cutting board.",
+        "B": "Only sixty against a single small slice.",
+        "C": "No sixty because fine chopping weakens taste."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rama says that when the vegetable is chopped finely, one measures sixty against the entire tznon. Since the knife repeatedly cuts through the food, the concern is no longer isolated to one larger cut area.",
+        "A": "The issue is absorbed taste in the food, not just the board.",
+        "B": "Rama does not measure against only one small slice.",
+        "C": "Fine chopping increases concern; it does not weaken it.",
+        "D": "Correct option."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q017",
+      "question": "What if only the leafy part above the radish was cut with the knife?",
+      "options": {
+        "D": "The entire radish becomes assur l'chatchilah.",
+        "A": "There is no concern for the radish itself.",
+        "B": "The radish needs sixty against the whole knife.",
+        "C": "The leaves make the knife permanently pareve."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rama clarifies that the strict rules apply when the tznon itself is cut. If only the leafy growth above the radish is cut, there is no concern that the radish itself absorbed the knife's taste.",
+        "A": "Correct option.",
+        "B": "Sixty against the knife is not required when only the leaves were cut.",
+        "C": "The leaves do not kasher or empty the knife.",
+        "D": "Rama distinguishes this from cutting the radish itself."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q018",
+      "question": "When may cut radishes bought from non-Jews be assumed cut with gardening tools?",
+      "options": {
+        "B": "When the cut is on the tail or root side.",
+        "C": "When the cut is clearly on the top half.",
+        "D": "Whenever the radish is very sharp.",
+        "A": "Only after cooking the radish in milk."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rama permits buying radishes cut on their tail side because we assume they were cut with gardening tools such as an ax or sickle, not an issur knife. Shach adds that if the incision is clearly on the top half, that assumption does not apply.",
+        "A": "Cooking in milk is unrelated to identifying the cutting tool.",
+        "B": "Correct option.",
+        "C": "A top-half incision suggests a knife rather than a gardening tool.",
+        "D": "Sharpness is what creates concern; it does not identify the tool."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q019",
+      "question": "Why does Shach require a sfek sfeika for leniency in doubtful non-Jewish cutting cases?",
+      "options": {
+        "B": "Because the food was certainly cooked with milk.",
+        "C": "Because one doubt is whether the food was cut with an issur knife.",
+        "D": "Because two knives are always used together in this case.",
+        "A": "Because every radish is certainly non-kosher."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Shach explains the leniency through two doubts: perhaps it was cut with a gardening tool rather than an issur knife, and even if it was cut with a knife, perhaps the relevant strict davar charif rule does not apply or the knife was eino ben yomo.",
+        "A": "The radish itself is kosher; the concern is knife taste.",
+        "B": "The case is about cutting, not definite cooking with milk.",
+        "C": "Correct option.",
+        "D": "There is no assumption that two knives were used."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q020",
+      "question": "When is buying cut radishes and removing k'dei netilah considered b'di'eved?",
+      "options": {
+        "D": "When no uncut or safer radishes are available.",
+        "A": "Whenever cheaper radishes are available nearby.",
+        "B": "Only when the radish is not sharp at all.",
+        "C": "Only after the radish was mixed with vinegar."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rama permits buying such radishes and removing k'dei netilah where the only radishes available were cut with non-Jewish knives. Shach and Taz explain that this availability problem makes it b'di'eved; if safer radishes are available, one should not buy the problematic ones.",
+        "A": "Price is not the factor that creates b'di'eved.",
+        "B": "The case assumes tznon, a sharp food.",
+        "C": "Vinegar is not what defines this b'di'eved case.",
+        "D": "Correct option."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q021",
+      "question": "How do Shach and Taz explain why na't bar na't does not help by davar charif?",
+      "options": {
+        "A": "Sharpness with knife pressure draws out full-strength taste.",
+        "B": "Na't bar na't is forbidden in every part of Yoreh Deah.",
+        "C": "The vegetable becomes meat because it is hot and salted.",
+        "D": "The knife becomes dairy before touching the vegetable."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "They explain that na't bar na't normally works because the taste is weakened by two transfers. Here, davar charif together with duchka d'sakina pulls out the full potency of the flavor from the knife and makes it like ta'am rishon.",
+        "A": "Correct option.",
+        "B": "Na't bar na't is permitted in many standard basar b'chalav cases.",
+        "C": "The case can be cold and unsalted; the sharpness and pressure are the issue.",
+        "D": "The knife does not become dairy first."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q022",
+      "question": "When are knives assumed dirty according to Shach?",
+      "options": {
+        "B": "Always, unless they were cleaned by n'itzah b'karka.",
+        "C": "Only when they are made of cheres.",
+        "D": "Only during the first day after purchase.",
+        "A": "Never, because all keilim are assumed clean."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Shach says knives are different from ordinary keilim: they are assumed dirty unless cleaned through n'itzah b'karka. This matters because actual residue on the knife does not become pagum after twenty-four hours.",
+        "A": "Ordinary keilim may be assumed clean, but knives are an exception.",
+        "B": "Correct option.",
+        "C": "The rule is about knives generally, not only cheres.",
+        "D": "Purchase timing is not the issue."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q023",
+      "question": "How does Rama in Toras Chatas treat tasting nowadays?",
+      "options": {
+        "B": "He allows tasting as the main l'chatchilah method.",
+        "C": "He says tasting is not relied on because we are not proficient.",
+        "D": "He requires tasting only when the knife is pareve.",
+        "A": "He says tasting works only for non-Jewish cooks in this case."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rama in Toras Chatas says that no one allows relying on tasting nowadays, because ein anu b'kiin, we are not proficient in identifying the relevant taste. Shach and Taz then debate how far this limits b'di'eved cases.",
+        "A": "The rule is not based on who does the tasting.",
+        "B": "Mechaber mentions tasting, but Rama in Toras Chatas does not allow it nowadays.",
+        "C": "Correct option.",
+        "D": "The issue is not limited to pareve knives."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q024",
+      "question": "What is Shach's b'di'eved position if someone tasted and found no meat taste?",
+      "options": {
+        "D": "If already cooked with milk, Shach permits the food.",
+        "A": "Tasting never helps even after the fact.",
+        "B": "The food is permitted only after burning the knife.",
+        "C": "The taste test works only before cutting."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Shach does not allow tasting l'chatchilah, but b'di'eved, if someone tasted the sharp food, found no meat taste, and it was already cooked with milk, he permits the food. He notes that Levush is stricter, and Taz rules tasting never works.",
+        "A": "That is Taz and Levush's stricter direction, not Shach's b'di'eved ruling.",
+        "B": "Burning the knife is not part of Shach's ruling.",
+        "C": "The taste test concerns the cut food, not before cutting.",
+        "D": "Correct option."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q025",
+      "question": "If the amount of knife used is unknown, what does Shach require for sixty?",
+      "options": {
+        "D": "Sixty against only one fingertip of food.",
+        "A": "Sixty against the entire knife blade.",
+        "B": "Sixty against the pot used later.",
+        "C": "No sixty because doubt is always lenient."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Shach says Mechaber's measure against the part of the knife applies only if one knows exactly what part touched the davar charif. If that is unknown, one measures against the entire blade, because people generally use the whole blade when cutting.",
+        "A": "Correct option.",
+        "B": "The later pot is not the measure of absorbed knife taste.",
+        "C": "Shach is not lenient when the knife-contact amount is unknown.",
+        "D": "A fingertip measure is k'dei netilah, not Shach's unknown-blade rule."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q026",
+      "question": "How does Taz treat a person's claim that only part of the knife was used?",
+      "options": {
+        "D": "He accepts it in all cases.",
+        "A": "He accepts it only for cucumbers.",
+        "B": "He does not rely on it practically.",
+        "C": "He says it removes the need for sixty."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Taz agrees that, in theory, Mechaber's measurement makes sense, but practically he does not rely on a person saying exactly which part of the knife was used. People do not pay attention to that while cutting, so he requires sixty against the entire blade.",
+        "A": "His point is not limited to cucumbers.",
+        "B": "Correct option.",
+        "C": "He increases the sixty measure rather than removing it.",
+        "D": "Taz is stricter than accepting every claim."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q027",
+      "question": "Why does Taz say the k'dei netilah of davar charif does not become chana'n in the meat-and-milk case?",
+      "options": {
+        "C": "Chana'n applies only when actual meat and milk mix.",
+        "D": "Chana'n applies only to vegetables cut with turnips.",
+        "A": "Chana'n never applies anywhere in basar b'chalav.",
+        "B": "Chana'n applies only when the knife is not ben yomo."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Taz explains that chana'n in basar b'chalav applies where actual meat and milk mix, not where their bliyos mix inside another food. Therefore the davar charif itself can become permitted when there is sixty against the meat bliyos.",
+        "A": "Taz does not deny chana'n in basar b'chalav generally.",
+        "B": "Ben yomo status is not the reason Taz gives.",
+        "C": "Correct option.",
+        "D": "Turnips are unrelated to this chana'n question."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q028",
+      "question": "If a davar charif was cut with a meat knife and cooked in milk with enough sixty, what does Taz say?",
+      "options": {
+        "C": "Only the milk is mutar, but the sharp food stays assur.",
+        "D": "Both the milk and the davar charif are mutar.",
+        "A": "The mixture is forbidden because efshar l'sochtoi assur.",
+        "B": "The mixture is mutar only after removing every slice."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Taz rules that if there is sixty against the meat taste from the knife, the entire milk mixture is mutar and the davar charif itself is also mutar. The reason is that the sharp food never became a full issur entity or chana'n.",
+        "A": "Taz explains why efshar l'sochtoi assur does not apply here.",
+        "B": "Removing every slice is not required when the meat bliyos are batul.",
+        "C": "That is true in the issur-knife contrast, not Taz's meat-knife case.",
+        "D": "Correct option."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q029",
+      "question": "How does Rama differ between an issur knife and a meat knife after cooking, according to Shach and Taz?",
+      "options": {
+        "A": "By issur, the k'dei netilah can become chana'n.",
+        "B": "By meat, the whole knife always becomes assur.",
+        "C": "By issur, there is no need for sixty.",
+        "D": "By meat, the food must always be thrown away."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "According to Rama, chana'n applies to all issurim. Therefore, if an issur knife cut the davar charif and it was later cooked with heter, one may need sixty against the whole k'dei netilah, because that section became chana'n. In the meat case, the meat flavor alone does not make the k'dei netilah chana'n.",
+        "A": "Correct option.",
+        "B": "The knife is not the item becoming chana'n in this explanation.",
+        "C": "Rama is stricter by issur, not more lenient.",
+        "D": "Rama does not require throwing away the food in every meat case."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q030",
+      "question": "What does Taz say Rama's fine-chopping rule primarily refers to?",
+      "options": {
+        "B": "An issur knife used to chop the davar charif finely.",
+        "C": "A pareve knife used on a clean pareve board.",
+        "D": "A meat knife used once to cut a cucumber.",
+        "A": "A turnip used to empty a clean knife."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Taz explains that Rama's fine-chopping rule makes best sense by an issur knife. Repeated chopping can spread issur taste throughout the sharp food and make it all chana'n; with a meat knife there is only a fixed amount of meat bliyos available.",
+        "A": "Turnips are the later knife-emptying case, not the fine-chopping rule.",
+        "B": "Correct option.",
+        "C": "A pareve knife on a pareve board is not Rama's fine-chopping problem.",
+        "D": "Cucumber is non-charif and appears later."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q031",
+      "question": "What is the rule for garlic or onion roots and leaves?",
+      "options": {
+        "C": "They have the same leniency as the leafy part of tznon.",
+        "D": "They are always sharper than the bulb itself.",
+        "A": "They require sixty against the entire knife.",
+        "B": "They become pareve after one cut."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rama says the leafy part above a sharp vegetable does not have the same din as the sharp vegetable itself. Shach adds from Toras Chatas that the same applies to garlic and onion roots and leaves.",
+        "A": "The rule is a leniency, not a requirement of sixty.",
+        "B": "Leaves do not make the knife pareve.",
+        "C": "Correct option.",
+        "D": "The source does not say the leaves are sharper than the vegetable."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q032",
+      "question": "What is the practical issue of cutting davar charif on a fleishig cutting board with a pareve knife?",
+      "options": {
+        "D": "Chochmas Adam treats it as duchka d'sakina and meat absorption.",
+        "A": "All poskim agree there is no possible concern.",
+        "B": "It makes the board pareve because the knife is pareve.",
+        "C": "It applies only when the cutting board is made of glass."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Chochmas Adam rules that cutting davar charif on a fleishig cutting board with a pareve knife can make the sharp food absorb meat taste, treating the pressure as duchka d'sakina. Badei Hashulchan is stringent, though most other poskim do not mention this din.",
+        "A": "The source notes that some are stringent.",
+        "B": "A pareve knife does not automatically make the board pareve.",
+        "C": "The issue is the board's absorbed meat taste, not specifically glass.",
+        "D": "Correct option."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q033",
+      "question": "What does the source say about a blender used for davar charif cut with a fleishig knife?",
+      "options": {
+        "A": "Magen Avraham says it becomes fleishig; Even Ha'ozer says it remains pareve.",
+        "B": "Everyone agrees the blender becomes dairy.",
+        "C": "Everyone agrees the blender must be discarded.",
+        "D": "Magen Avraham says it remains pareve; Even Ha'ozer says it becomes treif."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 96, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source presents a machlokes: Magen Avraham says a blender used to grind davar charif that had been cut with a fleishig knife becomes fleishig, while Even Ha'ozer says the blender remains pareve.",
+        "A": "Correct option.",
+        "B": "The issue is fleishig status, not becoming dairy.",
+        "C": "Neither opinion says the blender must simply be discarded.",
+        "D": "This reverses and distorts the two opinions."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q034",
+      "question": "How broad is Mechaber's definition of davar charif in Seif 2?",
+      "options": {
+        "B": "Even edible food can count if slightly sharp.",
+        "C": "Only totally inedible foods can count.",
+        "D": "Only the three foods named in the Gemara count.",
+        "A": "Only foods cooked together with salt count."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 96, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber takes an expansive approach: in ordinary cases, a food can be called davar charif even if it is edible, so long as it has some sharpness. This follows the broader Rishonim who judge by taste.",
+        "A": "Cooking with salt is not Mechaber's definition.",
+        "B": "Correct option.",
+        "C": "That is a narrower approach not adopted by Mechaber here.",
+        "D": "That is Rabbeinu Yechiel's narrower approach."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q035",
+      "question": "Which foods does Mechaber list as examples of davar charif?",
+      "options": {
+        "C": "Garlic, onions, leeks, chrein, sour fruit, and salty fish.",
+        "D": "Rice, oats, wheat, beans, and soft bread in this case.",
+        "A": "Sweet apples, honey, oil, and fresh grapes.",
+        "B": "Turnips, cucumbers, water, and plain bread."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 96, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber lists garlic, onions, leeks, tamcha or chrein, similar sharp foods, sour fruits, and salty fish. He says their din is like tznon cut with the problematic knife.",
+        "A": "Sweet foods are not the listed sharp examples.",
+        "B": "Turnips and cucumbers are later contrasts in Seif 5.",
+        "C": "Correct option.",
+        "D": "These are ordinary staples, not Mechaber's sharp examples."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q036",
+      "question": "Why does Rama permit sharp medicines made by non-Jews, such as ginger products?",
+      "options": {
+        "D": "Because non-Jews have special keilim for them or harvest by hand.",
+        "A": "Because ginger can never have any sharp taste in this case.",
+        "B": "Because all non-Jewish knives are assumed kosher.",
+        "C": "Because medicine is always batul before purchase."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 96, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama permits these sharp medicines because they are made with utensils designated for that purpose, or because the spices are harvested by hand. The heter is not that non-Jewish regular keilim are automatically fine.",
+        "A": "Shach later says ginger is practically not charif, but Rama's stated reason is special keilim or hand harvesting.",
+        "B": "Non-Jewish knives are not assumed kosher.",
+        "C": "Rama does not base this heter on automatic bitul.",
+        "D": "Correct option."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q037",
+      "question": "When does Taz say a slowly fermenting drink becomes davar charif?",
+      "options": {
+        "A": "As soon as it begins to ferment.",
+        "B": "Only after it becomes completely inedible.",
+        "C": "Only after it is cooked with meat.",
+        "D": "Never, because liquids cannot be charif."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 96, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Taz says something that slowly ferments and becomes sour or bitter, such as a bran-and-water alcoholic beverage, is considered davar charif as soon as fermentation begins.",
+        "A": "Correct option.",
+        "B": "Taz does not wait until it is fully inedible.",
+        "C": "Cooking with meat is irrelevant to when it becomes charif.",
+        "D": "The practical list includes sharp liquids."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q038",
+      "question": "How does Shach distinguish very salty fish from slightly salty fish?",
+      "options": {
+        "B": "Very salty fish is charif; slightly salty fish needs only greidah.",
+        "C": "Slightly salty fish is stricter than very salty fish.",
+        "D": "All salty fish is treated like cooked onions for this ruling.",
+        "A": "Neither kind can ever absorb from a knife in this case."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 96, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Shach resolves the sources by saying Mechaber and Rama discuss very salty fish, which is treated as davar charif. Rama in Toras Chatas, which requires only greidah, discusses slightly salty fish that is not fully charif.",
+        "A": "Very salty fish can have davar charif status.",
+        "B": "Correct option.",
+        "C": "This reverses Shach's distinction.",
+        "D": "Cooked onions are a separate discussion."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q039",
+      "question": "What is Shach's practical ruling about ginger?",
+      "options": {
+        "C": "Ginger is practically not considered a davar charif.",
+        "D": "Ginger is always charif whether wet or dry.",
+        "A": "Ginger is charif only after being cooked in meat.",
+        "B": "Ginger is forbidden even with special utensils."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 96, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Shach cites opinions that ginger is never considered a davar charif, whether moist or dry, and rules practically that ginger is not treated as davar charif.",
+        "A": "Cooking in meat is not his criterion.",
+        "B": "Rama permits it where there are special utensils or hand harvesting.",
+        "C": "Correct option.",
+        "D": "That is the implication of Rama before Shach's practical conclusion, not Shach's ruling."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q040",
+      "question": "How should cooked or fried dvarim charifim be evaluated according to Badei Hashulchan?",
+      "options": {
+        "D": "Case by case, because foods and cooking processes differ.",
+        "A": "Always charif exactly like raw onions.",
+        "B": "Never charif once any heat touches them.",
+        "C": "Only charif if cooked by a non-Jew in this case."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 96, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Pischei Teshuvah says cooked sharp foods such as sauteed onions are no longer charif, while Chochmas Adam is stringent. Badei Hashulchan suggests evaluating each case separately, because sharp foods and cooking methods vary.",
+        "A": "That is too absolute and ignores the dispute.",
+        "B": "That follows the lenient direction too broadly.",
+        "C": "The issue is loss of sharpness through cooking, not who cooked it.",
+        "D": "Correct option."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q041",
+      "question": "What does Mechaber rule about sharp spices crushed in a ben yomo meat crusher?",
+      "options": {
+        "A": "They may not be eaten with milk.",
+        "B": "They need only rinsing before milk.",
+        "C": "They become pareve because they are crushed.",
+        "D": "They are permitted only if mixed with salt."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 96, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that spices crushed in a fleishig, ben yomo crusher may not be eaten with milk. Crushing creates pressure comparable to duchka d'sakina, allowing the sharp food to draw meat taste from the utensil.",
+        "A": "Correct option.",
+        "B": "Rinsing alone does not remove absorbed taste caused by crushing.",
+        "C": "Crushing creates the problem; it does not make them pareve.",
+        "D": "Salt does not permit the absorbed meat taste."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q042",
+      "question": "What does Rama add about an eino ben yomo crusher?",
+      "options": {
+        "B": "Some say it still forbids because sharpness makes the taste l'shvach.",
+        "C": "Everyone agrees it is fully permitted in this case.",
+        "D": "It is forbidden only if the spices are not sharp.",
+        "A": "It becomes pareve after the first grinding for this ruling."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 96, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Rama cites the view that even if the crusher is not ben yomo, crushed davar charif still may not be eaten with milk. Sharpness can turn the stale taste into l'shvach.",
+        "A": "Grinding sharp food does not make the utensil pareve.",
+        "B": "Correct option.",
+        "C": "Rama cites a stricter view, and Shach rules that way.",
+        "D": "The concern is specifically because the food is sharp."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q043",
+      "question": "What does Shach say about salt ground in a meat grinder?",
+      "options": {
+        "C": "Salt has the same din as sharp spices and becomes fleishig.",
+        "D": "Salt is never considered sharp in this siman.",
+        "A": "Salt becomes dairy because it is white in this case.",
+        "B": "Salt needs only hadachah after grinding."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 96, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Shach says salt has the same din as the spices Mechaber discusses and is also a davar charif. Therefore, salt ground in a meat grinder becomes fleishig.",
+        "A": "Color has no halachic role here.",
+        "B": "Hadachah does not remove absorbed taste from grinding.",
+        "C": "Correct option.",
+        "D": "Shach explicitly includes salt as davar charif."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q044",
+      "question": "What condition does Shach require for the crusher to transfer taste into the davar charif?",
+      "options": {
+        "D": "The food must actually be crushed, not merely placed inside.",
+        "A": "The crusher must be stored next to milk overnight.",
+        "B": "The spice must be cooked in water before grinding.",
+        "C": "The crusher must be made only of metal."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 96, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Shach clarifies that the sharp food must actually be crushed by the utensil. Mere placement inside the crusher lacks the pressure of duchka d'sakina, so the special transfer does not occur.",
+        "A": "Storage next to milk is unrelated.",
+        "B": "Pre-cooking is not required for this rule.",
+        "C": "The source does not limit the rule to metal crushers.",
+        "D": "Correct option."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q045",
+      "question": "What contemporary utensils does the source connect to Seif 3?",
+      "options": {
+        "A": "Blenders, food scissors, shears, and food processors.",
+        "B": "Coffee cups, tablecloths, napkin rings, and trays.",
+        "C": "Refrigerator shelves, corkscrews, kettles, and timers.",
+        "D": "Ovens, sinks, dish racks, and serving spoons only."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 96, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "The source says Seif 3 has application to modern blenders, food scissors, shears, and food processors. These tools can crush, cut, or process sharp foods with pressure similar to the cases in the siman.",
+        "A": "Correct option.",
+        "B": "Those items are not the modern pressure-processing examples.",
+        "C": "These are not the listed applications.",
+        "D": "Ovens and sinks belong to other discussions, not this Seif 3 list."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q046",
+      "question": "What does Mechaber permit buying from non-Jews in Seif 4?",
+      "options": {
+        "B": "Bulk lemon juice and salted fish pieces in barrels.",
+        "C": "Fresh meat cooked together with milk.",
+        "D": "Individual radishes certainly cut with issur knives.",
+        "A": "Sharp foods chopped one by one for each Jew."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 96, Seif 4",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Mechaber permits lemon juice brought by non-Jews, and salted fish pieces brought in barrels. Rama explains that even if the first few pieces absorbed issur from the knife, they become batul among the large amount.",
+        "A": "Rama's reason depends on bulk amounts, not individual service.",
+        "B": "Correct option.",
+        "C": "Actual basar b'chalav is not permitted here.",
+        "D": "Certain issur-knife cutting is the problem, not the heter."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q047",
+      "question": "How does Rama explain the leniency for bulk lemon juice or salted fish?",
+      "options": {
+        "C": "Only the first pieces absorb, and they become batul in the rest.",
+        "D": "Every lemon is certainly cut with a kosher knife.",
+        "A": "Lemons are always non-charif according to everyone.",
+        "B": "Salted fish cannot absorb any taste from a knife in this case."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 96, Seif 4",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Rama explains that the first lemons or fish cut with the non-Jewish knife may absorb the knife's issur taste, but that taste is used up or nullified in the first few. Those few then become batul among the later pieces in the large batch.",
+        "A": "Rama still treats lemons as a possible davar charif issue.",
+        "B": "Salted fish is one of the cases being addressed.",
+        "C": "Correct option.",
+        "D": "Rama's heter does not assume every knife is kosher."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q048",
+      "question": "Why does Bach disagree with the lemon juice leniency?",
+      "options": {
+        "D": "He holds all lemons receive issur bliyos if all sharp foods refresh stale taste.",
+        "A": "He holds lemon juice is always cooked with meat in this scenario.",
+        "B": "He holds there is never bitul in any mixture in this case for this halachah.",
+        "C": "He holds non-Jews never use knives for lemons for this ruling."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 96, Seif 4",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Bach argues that according to those who say all dvarim charifim can turn pagum taste into l'shvach, the knife's bliyos should affect all the lemons. If so, the lemon juice should not be permitted on the theory that only the first few absorbed.",
+        "A": "Bach's objection is not about cooking with meat.",
+        "B": "He does not deny bitul in all cases.",
+        "C": "The concern assumes non-Jews do cut lemons with knives.",
+        "D": "Correct option."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q049",
+      "question": "How does Shach answer Bach's objection?",
+      "options": {
+        "A": "Only a small k'dei klipah amount of knife bliyos becomes l'shvach and is batul.",
+        "B": "No bliyos ever leave a knife when cutting lemons in this scenario.",
+        "C": "Bach was discussing cucumbers, not lemons in this case for this halachah.",
+        "D": "The lemons become permitted only after hag'alah for this ruling."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 96, Seif 4",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Shach explains that lemons are not as sharp as chiltis. They may improve only the small amount of bliyos in the knife's k'dei klipah, and that minute amount becomes batul in the first lemons and then in the larger batch.",
+        "A": "Correct option.",
+        "B": "Shach accepts that some bliyos may leave the knife.",
+        "C": "The discussion is explicitly about lemons.",
+        "D": "Hag'alah of lemons is not relevant."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q050",
+      "question": "What alternative way does Shach explain Rama's lemon juice ruling?",
+      "options": {
+        "B": "Rama may be justifying a minhag by combining possible leniencies.",
+        "C": "Rama may be forbidding lemon juice in every community.",
+        "D": "Rama may be saying lemons are actual meat in this case.",
+        "A": "Rama may be requiring sixty against every lemon."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 96, Seif 4",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Shach suggests Rama may not be stating the pure practical halachah, but defending the minhag to buy lemon juice by piling up possible leniencies: maybe special knives, maybe only chiltis refreshes stale taste, maybe lemons are not fully charif, and maybe only the first cuts absorb.",
+        "A": "The ruling is not framed as sixty against every lemon.",
+        "B": "Correct option.",
+        "C": "Rama explicitly records lenient practice in some places.",
+        "D": "Lemons are not treated as actual meat."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q051",
+      "question": "Which cabbage does Taz say is being discussed in Rama's kompost case?",
+      "options": {
+        "C": "Cabbage fermented in salt-water or vinegar before cutting.",
+        "D": "Plain raw cabbage that has no sourness at all.",
+        "A": "Cooked cabbage mixed with dairy cheese in this case.",
+        "B": "Cabbage cut only by Jewish-owned knives."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 96, Seif 4",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Taz explains that Rama's cabbage case refers to cabbage fermented in salt-water or vinegar before it is cut. Without that fermentation, the cabbage would not be considered charif.",
+        "A": "The case is non-Jewish cutting, not dairy cooking.",
+        "B": "Rama discusses cabbage cut by non-Jews.",
+        "C": "Correct option.",
+        "D": "Taz says unfermented cabbage is not charif at all."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q052",
+      "question": "What does Taz say about slightly sharp foods bought from non-Jews, such as sour apples?",
+      "options": {
+        "D": "They are completely mutar according to his reading of Rama.",
+        "A": "They are stricter than chiltis in every way.",
+        "B": "They require burning before any use.",
+        "C": "They are permitted only after being cooked with milk."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 96, Seif 4",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Taz emends Rama according to Toras Chatas: even slightly sharp foods, such as sour apples or fermented dried fruits, are completely mutar when bought from non-Jews. This is why Rama's final leniency is not merely about foods with no sharpness at all.",
+        "A": "Sour apples are treated leniently in this reading, not like chiltis.",
+        "B": "There is no rule to burn them.",
+        "C": "Cooking with milk is irrelevant to buying from non-Jews.",
+        "D": "Correct option."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q053",
+      "question": "If someone cuts a davar charif and discovers he cut through a worm, what does Taz rule?",
+      "options": {
+        "A": "Remove a klipah around the cut; the rest is mutar.",
+        "B": "The entire davar charif is always forbidden.",
+        "C": "The knife must be stuck in the ground before eating the food.",
+        "D": "The food becomes permitted only after sixty against the knife."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 96, Seif 4",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Taz rejects Maharil's stringency and follows Toras Chatas: since a totally disgusting worm gives pagum taste, one removes a klipah around the incision to remove possible remains, and the rest of the food is mutar. This applies even to davar charif.",
+        "A": "Correct option.",
+        "B": "Taz does not forbid the whole food.",
+        "C": "That is Maharil's knife-cleaning stringency, which Taz rejects here.",
+        "D": "The issue is removing worm remains, not sixty against knife taste."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q054",
+      "question": "What does Mechaber require for cucumbers cut with a meat knife before eating with milk?",
+      "options": {
+        "B": "Greidah from the cut area.",
+        "C": "K'dei netilah from the whole cucumber.",
+        "D": "Sixty against the entire knife.",
+        "A": "No action at all, not even rinsing."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 96, Seif 5",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that cucumbers cut with a meat knife may be eaten with milk after greidah, scraping the cut area. Cucumbers are not treated like davar charif, so the concern is surface residue rather than deep taste transfer.",
+        "A": "Mechaber still requires greidah.",
+        "B": "Correct option.",
+        "C": "K'dei netilah is the sharp-food measure, not the cucumber rule.",
+        "D": "Sixty against the knife is not required for cucumbers."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q055",
+      "question": "What does Mechaber require for turnips cut with a meat knife?",
+      "options": {
+        "C": "Hadachah alone.",
+        "D": "K'dei netilah from every side.",
+        "A": "Sixty against the whole turnip.",
+        "B": "Treating the turnip as davar charif."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 96, Seif 5",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that turnips cut with a meat knife need only hadachah before being eaten with milk. Their distinct taste also has an additional effect: it can weaken or neutralize the taste that leaves the knife.",
+        "A": "Sixty against the turnip is not Mechaber's rule.",
+        "B": "Turnips are used as the non-charif contrast.",
+        "C": "Correct option.",
+        "D": "Netilah is not required for turnips in this case."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q056",
+      "question": "Why is greidah enough for cucumbers rather than k'dei klipah?",
+      "options": {
+        "D": "There is surface substance, not real flavor transfer.",
+        "A": "Cucumbers are sharper than radishes.",
+        "B": "The knife becomes pareve after cutting cucumber.",
+        "C": "Milk taste enters first and blocks meat taste."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 96, Seif 5",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Shach and Taz explain that for cucumbers the problem is surface substance from the knife, not absorbed taste entering the cucumber. Therefore scraping less than k'dei klipah is enough; rinsing is not ideal because cucumber moisture can make residue stick.",
+        "A": "Cucumbers are non-charif in this discussion.",
+        "B": "Cutting cucumber does not make the knife pareve.",
+        "C": "Milk taste is not part of the case.",
+        "D": "Correct option."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q057",
+      "question": "What special effect can cutting a turnip have on a meat knife?",
+      "options": {
+        "A": "It can empty or neutralize the knife's taste for one later radish cut.",
+        "B": "It permanently kashers the knife for all future use.",
+        "C": "It makes the knife dairy after one cut in this case.",
+        "D": "It creates issur taste in every future vegetable for this ruling."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 96, Seif 5",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Mechaber says that after cutting a turnip, even a tznon cut afterward may be eaten with milk after rinsing. Rama limits this: the effect is specifically from turnip's distinct taste and permits only one later radish cut unless a turnip is cut again between each radish.",
+        "A": "Correct option.",
+        "B": "Rama says the knife does not become pareve forever.",
+        "C": "Cutting turnip does not make a meat knife dairy.",
+        "D": "The turnip effect is lenient, not a new issur for every vegetable."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q058",
+      "question": "May one l'chatchilah cut a turnip just to prepare a meat knife for radish that will be eaten with milk?",
+      "options": {
+        "B": "No, even lenient opinions agree not to plan this l'chatchilah.",
+        "C": "Yes, everyone agrees this is the preferred method.",
+        "D": "Yes, but only if the knife was an issur knife.",
+        "A": "No, because turnips are sharper than radishes in this case."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 96, Seif 5",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Shach says even those who allow eating the later radish l'chatchilah would agree that one may not intentionally take a fleishig knife, cut a turnip, and plan to use that knife to cut radish for milk. That would be creating the heter deliberately.",
+        "A": "Turnips are not treated as sharper than radishes.",
+        "B": "Correct option.",
+        "C": "Shach rejects planning this as the preferred method.",
+        "D": "The case is a meat knife, and an issur knife would be worse."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-96-q059",
+      "question": "What practical advice does Sefer HaKashrus give for cutting dvarim charifim?",
+      "options": {
+        "C": "Keep pareve knives designated for sharp foods.",
+        "D": "Use only old meat knives for sharp foods.",
+        "A": "Cut sharp foods only on dairy boards.",
+        "B": "Avoid ever eating onions or lemons."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 96, Seif 5",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Sefer HaKashrus rules that one should have pareve knives designated for cutting dvarim charifim. This avoids the recurring problem of sharp foods drawing meat or milk taste from knives.",
+        "A": "A dairy board would create the opposite problem.",
+        "B": "The advice is about utensils, not avoiding sharp foods.",
+        "C": "Correct option.",
+        "D": "Old meat knives still create davar charif concerns."
+      }
+    }
+  ]
+}
