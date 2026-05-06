@@ -1,0 +1,1510 @@
+{
+  "id": "basar-bchalav-siman-92",
+  "title": "Basar B'chalav - Siman 92",
+  "course": "Smicha - Basar B'chalav",
+  "kind": "quiz",
+  "targetQuestionCount": 28,
+  "difficultyPolicy": {
+    "Easy": 0.5,
+    "Medium": 0.3,
+    "Hard": 0.2
+  },
+  "sourceWorkbook": "siman_92_quiz_bank.xlsx",
+  "questions": [
+    {
+      "id": "basar-bchalav-siman-92-q001",
+      "question": "What does ta'am k'ikar mean in the context of basar b'chalav?",
+      "options": {
+        "A": "Taste is treated like the food substance itself.",
+        "B": "Taste is ignored unless the food is visible.",
+        "C": "Taste matters only after the food cools down.",
+        "D": "Taste is counted only for rabbinic issurim."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Introduction",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Ta'am k'ikar means that taste is halachically significant like the actual substance. If meat absorbs milk taste, the milk is treated as present in the meat even though the milk is not visible and cannot be physically separated from the meat.",
+        "A": "Correct option.",
+        "B": "The source says taste matters even when the substance is not visible.",
+        "C": "The concept is not limited to after the food cools.",
+        "D": "The source applies ta'am k'ikar to basar b'chalav and other issurim generally."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q002",
+      "question": "Why is chana'n especially understandable by basar b'chalav?",
+      "options": {
+        "B": "The meat and milk combine to create a new issur.",
+        "C": "The milk was already forbidden before it mixed.",
+        "D": "The meat was already forbidden before it mixed.",
+        "A": "The mixture is permitted until another food joins."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Introduction",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source explains, following Rav Chaim Brisker, that meat and milk are each mutar before they combine. Once they combine, a new entity of issur, basar b'chalav, is created, so the meat itself can be viewed as inherently assur.",
+        "B": "Correct option.",
+        "C": "Milk by itself is mutar before the basar b'chalav mixture forms.",
+        "D": "Meat by itself is mutar before the basar b'chalav mixture forms.",
+        "A": "The mixture creates issur immediately when meat and milk combine halachically."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q003",
+      "question": "How do Mechaber and Rama rule about chana'n by other issurim?",
+      "options": {
+        "C": "Mechaber limits it; Rama applies it broadly.",
+        "D": "Mechaber applies it broadly; Rama limits it.",
+        "A": "Both limit it only to chametz on Pesach.",
+        "B": "Both reject it even by basar b'chalav."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 92, Introduction",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Mechaber rules like Rabbeinu Efraim that chana'n applies only by basar b'chalav, while Rama rules like Rabbeinu Tam that chana'n also applies to other issurim. Rama's application to other issurim is treated more leniently because it is rabbinic.",
+        "C": "Correct option.",
+        "D": "This reverses the opinions of Mechaber and Rama.",
+        "A": "The discussion is not limited to chametz on Pesach.",
+        "B": "Both Mechaber and Rama accept chana'n by basar b'chalav."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q004",
+      "question": "What does efshar l'sochto assur mean?",
+      "options": {
+        "D": "A food remains assur even if the issur could theoretically leave it.",
+        "A": "A food becomes mutar once all taste spreads into a larger pot.",
+        "B": "A keili can never be kashered after it absorbs issur.",
+        "C": "A food is mutar whenever the issur is less than sixty."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Introduction",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Efshar l'sochto assur means that once a food absorbs issur and becomes forbidden, it does not become permitted merely because the absorbed issur could theoretically spread out later. Food does not have hag'alah like keilim; the absorbed issur cannot simply be extracted from the food.",
+        "D": "Correct option.",
+        "A": "That describes efshar l'sochto mutar, not the ruling here.",
+        "B": "The source contrasts food with keilim, which can sometimes be kashered.",
+        "C": "Sixty may save the later mixture, but not necessarily the original piece."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q005",
+      "question": "According to Mechaber, when may a non-Jew taste a mixture to test for issur taste?",
+      "options": {
+        "A": "Only in specific cases where taste can be checked.",
+        "B": "Whenever the Jewish owner requests the tasting.",
+        "C": "Only if the mixture already has sixty.",
+        "D": "Never, because tasting is always rejected."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber allows reliance on a non-Jew's tasting in specific cases where the question is whether the issur taste is discernible. Rama disagrees with this practice and rules that we do not rely on a non-Jew's taste assessment.",
+        "A": "Correct option.",
+        "B": "Mechaber's permission is limited, not automatic in every request.",
+        "C": "If the mixture already has sixty, tasting is not needed for bitul.",
+        "D": "That is Rama's practical ruling, not Mechaber's stated position."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q006",
+      "question": "If meat falls into boiling milk and is removed before the pot rests, what does Mechaber require for the milk?",
+      "options": {
+        "B": "A non-Jew may taste for meat flavor.",
+        "C": "The milk is forbidden in every case.",
+        "D": "The meat must be sixty times the milk.",
+        "A": "The pot must be broken before tasting."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that if the meat is removed while the pot is still boiling, before the meat can exude absorbed milk back into the pot, the milk can be checked by a non-Jew's taste. If no meat taste is present, the milk is mutar even without sixty.",
+        "B": "Correct option.",
+        "C": "Mechaber permits the milk if no meat taste is detected in this limited case.",
+        "D": "The question is whether the milk has meat taste, not whether meat is sixty times milk.",
+        "A": "Breaking the pot is not part of this seif's ruling."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q007",
+      "question": "Why does the din become stricter after the pot stops bubbling?",
+      "options": {
+        "C": "The meat may exude chana'n milk back into the pot.",
+        "D": "The milk becomes cold and can no longer be tasted.",
+        "A": "The meat becomes pareve once the boiling stops.",
+        "B": "The pot walls become new once bubbling stops."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 92, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "While the pot is bubbling, Rav's rule is that the absorbed milk does not exude back into the pot. Once the pot rests from boiling, the milk absorbed in the meat can come back out after becoming chana'n, and that chana'n milk cannot be identified by taste because it tastes like milk.",
+        "C": "Correct option.",
+        "D": "The concern is exuded chana'n milk, not the milk becoming too cold to taste.",
+        "A": "The meat remains assur even if the milk itself is permitted.",
+        "B": "Nothing in the source says the pot walls become new after bubbling stops."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q008",
+      "question": "Why can a non-Jew not identify the chana'n milk that reenters the pot?",
+      "options": {
+        "D": "It tastes like the other milk in the pot.",
+        "A": "It tastes exactly like the meat piece.",
+        "B": "It is visible but too small to measure.",
+        "C": "It is outside the pot by that point."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 92, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Shach and Taz explain that even Mechaber cannot rely on a non-Jew to detect the chana'n milk. That milk has the same taste as the rest of the milk, so taste-testing cannot reveal whether it reentered the pot; therefore sixty against the meat is needed.",
+        "D": "Correct option.",
+        "A": "The chana'n milk remains milk-tasting, which is exactly the problem.",
+        "B": "The issue is not visibility but indistinguishable taste.",
+        "C": "The whole concern is that it reenters the milk inside the pot."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q009",
+      "question": "Where can a drop of milk land in the pot case of Seif 2?",
+      "options": {
+        "A": "On meat outside broth, partly in broth, or in the broth.",
+        "B": "Only on the lid, the handle, or the fire-facing side.",
+        "C": "Only on bread, cheese, or a cold plate.",
+        "D": "Only in a kli sheini, a knife, or a faucet."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Seif 2",
+        "pageNumbers": "Pages 2-4"
+      },
+      "explanations": {
+        "correct": "The seif distinguishes three placements: the drop may fall on a piece entirely outside the broth, on a piece partly in the broth, or directly into the broth. Each placement affects whether the drop is judged locally or as part of the whole pot.",
+        "A": "Correct option.",
+        "B": "Those are later pot-wall and lid discussions, not the opening cases of Seif 2.",
+        "C": "Bread and cold plates belong to different simanim and cases.",
+        "D": "Kli sheini and faucet issues are not the three placements here."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q010",
+      "question": "How do Ri and Rashi disagree about a piece partly inside the broth?",
+      "options": {
+        "B": "Ri treats it as in the broth; Rashi treats its top as outside.",
+        "C": "Ri treats it as outside; Rashi treats it as fully in the broth.",
+        "D": "Both say the whole pot is always forbidden.",
+        "A": "Both say the drop never affects the meat."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 92, Seif 2",
+        "pageNumbers": "Pages 2-4"
+      },
+      "explanations": {
+        "correct": "Ri views a partly submerged piece as part of the broth system, so the whole pot can combine to nullify the drop. Rashi, as understood by the Tur, treats the part above the liquid as outside the broth, so the drop is judged more locally on that piece.",
+        "B": "Correct option.",
+        "C": "This reverses the positions of Ri and Rashi.",
+        "D": "Ri's view can allow the whole pot to combine to permit the mixture.",
+        "A": "Both opinions recognize that the drop can create a halachic issue."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q011",
+      "question": "How do Shach and Taz rule about a piece partly in the broth?",
+      "options": {
+        "C": "Shach follows Ri; Taz follows Rashi.",
+        "D": "Shach follows Rashi; Taz follows Ri.",
+        "A": "Both follow Ri without qualification.",
+        "B": "Both follow Rashi without qualification."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Seif 2",
+        "pageNumbers": "Pages 2-4"
+      },
+      "explanations": {
+        "correct": "The source states directly that Shach rules like Ri, while Taz rules like Rashi. This affects whether the whole pot can be viewed as joining immediately when a drop lands on a piece that is only partly in the broth.",
+        "C": "Correct option.",
+        "D": "This reverses Shach and Taz.",
+        "A": "Taz does not follow Ri as his primary ruling here.",
+        "B": "Shach does not follow Rashi as his primary ruling here."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q012",
+      "question": "According to Rama, what do we require for the piece that milk fell on?",
+      "options": {
+        "D": "The piece itself must have sixty against the drop.",
+        "A": "A non-Jew must taste the piece in every case.",
+        "B": "Only the broth must be rinsed after cooking.",
+        "C": "The piece becomes permitted without any measure."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Seif 2",
+        "pageNumbers": "Pages 2-4"
+      },
+      "explanations": {
+        "correct": "Rama says that because we do not rely on a non-Jew's tasting, the piece that the milk fell on must itself contain sixty against the milk drop. If it does not, the entire piece becomes forbidden.",
+        "D": "Correct option.",
+        "A": "Rama specifically says we do not rely on the non-Jew's taste assessment.",
+        "B": "The issue is the piece that absorbed milk, not rinsing the broth.",
+        "C": "The piece is not automatically permitted; it needs sixty against the drop."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q013",
+      "question": "If the milk-struck piece became assur and later mixed into the pot, what must the pot contain?",
+      "options": {
+        "A": "Sixty against the entire forbidden piece.",
+        "B": "Sixty against only the original milk drop.",
+        "C": "A simple majority against the other pieces.",
+        "D": "Enough water to rinse the forbidden piece."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Seif 2",
+        "pageNumbers": "Pages 2-4"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that once that piece becomes forbidden and then enters the rest of the pot, the whole pot must have sixty against the entire forbidden piece. Since the piece became chana'n, we do not measure only against the small milk drop.",
+        "A": "Correct option.",
+        "B": "That would ignore the chana'n status of the piece.",
+        "C": "Rov is not enough for this lach b'lach taste-transfer case.",
+        "D": "Rinsing does not remove absorbed basar b'chalav taste from the cooked piece."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q014",
+      "question": "What does stirring or covering immediately accomplish when milk falls into the pot?",
+      "options": {
+        "B": "It makes the whole pot join to nullify the drop.",
+        "C": "It makes the milk drop leave the pot entirely.",
+        "D": "It makes the piece require only hadachah.",
+        "A": "It removes the need for any bitul measure."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Seif 2",
+        "pageNumbers": "Pages 2-4"
+      },
+      "explanations": {
+        "correct": "When the pot is stirred or covered from the beginning, the milk is spread through the entire pot before it is localized in one piece. Therefore all the pot's contents join to nullify the milk drop, and the measure is against the drop rather than against one chana'n piece.",
+        "B": "Correct option.",
+        "C": "The milk is spread through the pot, not removed from it.",
+        "D": "Hadachah is not the remedy for cooked milk absorbed into meat.",
+        "A": "Bitul is still needed; the question is what joins to provide it."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q015",
+      "question": "How does Rama rule if the pot was not stirred or covered at all?",
+      "options": {
+        "C": "The piece is assur, but the pot is mutar with sixty against the drop.",
+        "D": "The entire pot is assur even with sixty against the drop.",
+        "A": "Everything is mutar without any sixty calculation for this ruling.",
+        "B": "Only a non-Jew's tasting can permit the pot in this case."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 92, Seif 2",
+        "pageNumbers": "Pages 2-4"
+      },
+      "explanations": {
+        "correct": "Rama writes that if there was no stirring or covering at all, then if the rest of the pot has sixty against the milk drop, only the piece that received the drop is forbidden and the rest of the pot remains permitted.",
+        "C": "Correct option.",
+        "D": "Rama permits the rest of the pot when it has sixty against the drop.",
+        "A": "The pot still needs sixty against the milk drop.",
+        "B": "Rama does not rely on a non-Jew's tasting."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q016",
+      "question": "How does Shach explain Rama's compromise in the no-stirring case?",
+      "options": {
+        "D": "Rama is stringent for both Rashi and Ri concerns.",
+        "A": "Rama rejects both Rashi and Ri entirely.",
+        "B": "Rama follows Rashi only for all leniencies.",
+        "C": "Rama follows Ri only for all stringencies."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 92, Seif 2",
+        "pageNumbers": "Pages 2-4"
+      },
+      "explanations": {
+        "correct": "Shach says Rama was unsure whether to follow Rashi or Ri, so he took stringencies from both. The piece itself is forbidden like Rashi's concern, while the pot must have sixty against the milk drop like Ri's framework for the drop spreading in the pot.",
+        "D": "Correct option.",
+        "A": "Shach explains Rama by combining concerns from Rashi and Ri.",
+        "B": "Rama's ruling is not simply Rashi's leniencies.",
+        "C": "Rama's ruling is not simply Ri's stringencies."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q017",
+      "question": "What should be done if the milk fell into the broth or onto an unknown piece?",
+      "options": {
+        "A": "Stir the pot well and then assess the mixture.",
+        "B": "Remove every piece and forbid the broth.",
+        "C": "Assume the lid absorbed the whole drop.",
+        "D": "Break the pot before any tasting occurs."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Seif 2",
+        "pageNumbers": "Pages 2-4"
+      },
+      "explanations": {
+        "correct": "Mechaber says that if the drop fell into the broth, or onto a piece but the piece is unknown, one should stir the pot thoroughly so the mixture is uniform. Then the pot can be assessed by taste according to Mechaber, or by sixty where tasting is not relied upon.",
+        "A": "Correct option.",
+        "B": "Mechaber gives a way to assess and permit the pot.",
+        "C": "The lid is not involved in this case.",
+        "D": "Breaking the pot is not part of the remedy here."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q018",
+      "question": "Why does Taz say stirring helps when the affected piece was unknown?",
+      "options": {
+        "B": "The piece did not become chana'n while the fall was unknown.",
+        "C": "The piece became chana'n and then became cold.",
+        "D": "The milk became visible after the pot was stirred.",
+        "A": "The broth became a new keili after stirring."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 92, Seif 2",
+        "pageNumbers": "Pages 2-4"
+      },
+      "explanations": {
+        "correct": "Taz answers that as long as it is unknown which piece received the milk, no specific piece becomes chana'n. Therefore the entire pot can combine against the milk. Stirring is mainly practical advice so the non-Jew does not taste a concentrated milky spot.",
+        "B": "Correct option.",
+        "C": "Cooling is not Taz's explanation for the leniency.",
+        "D": "Stirring makes the mixture uniform, not more visibly milky.",
+        "A": "The broth is food, not a keili that becomes new through stirring."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q019",
+      "question": "When a piece of issur falls into a pot of heter, what are the two basic concerns?",
+      "options": {
+        "C": "Removing the piece and nullifying its emitted taste.",
+        "D": "Marking the pot and waiting six hours afterward.",
+        "A": "Rinsing the lid and checking the stove fire.",
+        "B": "Testing the faucet and replacing the oven hood."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Seif 3",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "The source explains that when an issur piece falls into heter, the actual issur piece must be removed, and the taste that it emitted into the pot must be batul. Even if there is sixty against its taste, the actual forbidden piece may not be eaten.",
+        "C": "Correct option.",
+        "D": "These are not the two issues in the issur-piece-in-pot case.",
+        "A": "The lid and stove are not the focus of Seif 3.",
+        "B": "Faucets and hoods are practical zei'ah cases discussed later."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q020",
+      "question": "If the forbidden piece cannot be identified, when is rov not enough?",
+      "options": {
+        "D": "When the issur piece is a chaha'l.",
+        "A": "When the heter pieces are all cold.",
+        "B": "When the pot was stirred immediately.",
+        "C": "When the issur piece is very small."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 92, Seif 3",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "If the actual issur piece is lost among other pieces, rov can normally nullify it. But if the forbidden piece is a chatichah hare'uyah l'hischabed, an important piece fit to serve, it is not batul in rov and the pieces remain forbidden.",
+        "D": "Correct option.",
+        "A": "Cold status is not the reason rov fails here.",
+        "B": "Immediate stirring is not what prevents rov from working in this case.",
+        "C": "A small piece can still be batul unless another rule, like chaha'l, prevents it."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q021",
+      "question": "How do Shach and Taz disagree about a chana'n basar b'chalav piece touching another piece without liquid?",
+      "options": {
+        "A": "Shach forbids k'dei n'tilah; Taz does not.",
+        "B": "Shach permits entirely; Taz forbids everything.",
+        "C": "Both require sixty against the whole pot.",
+        "D": "Both permit it after simple hadachah."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 92, Seif 3",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "The question is whether a chana'n basar b'chalav piece is like an inherently forbidden food that transfers taste by roasting contact, or only an absorbed issur that does not leave without liquid. Shach treats it as able to forbid k'dei n'tilah; Taz holds it does not asser another piece without rotev.",
+        "A": "Correct option.",
+        "B": "This reverses and overstates the positions.",
+        "C": "The case is contact without liquid, not a whole-pot sixty calculation.",
+        "D": "Hadachah is not enough according to Shach's view."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q022",
+      "question": "What is issur davuk?",
+      "options": {
+        "B": "Issur attached to heter that can forbid its host piece.",
+        "C": "Issur dissolved evenly throughout a large pot.",
+        "D": "Issur that appears only inside cold steam.",
+        "A": "Issur that exists only after a pot lid boils."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Seif 4",
+        "pageNumbers": "Pages 5-7"
+      },
+      "explanations": {
+        "correct": "Issur davuk means an issur physically sticking or attached to a piece of heter, such as cheilev attached to meat. The attached heter is treated as a closed system with the issur, so the piece can become forbidden before the rest of the pot combines to nullify the issur.",
+        "B": "Correct option.",
+        "C": "That describes a mixture in a pot, not attached issur.",
+        "D": "Steam is discussed later and is not the definition of issur davuk.",
+        "A": "Pot lids are part of Seif 7, not the definition here."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q023",
+      "question": "Which practical issue depends on the rationale for issur davuk?",
+      "options": {
+        "C": "Whether it applies to an issur d'rabbanan.",
+        "D": "Whether meat must wait six hours after cheese.",
+        "A": "Whether zei'ah can rise from a milchig pan.",
+        "B": "Whether a faucet should have two handles."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 92, Seif 4",
+        "pageNumbers": "Pages 5-7"
+      },
+      "explanations": {
+        "correct": "The source gives two reasons for issur davuk, and one practical difference is whether it applies to a rabbinic issur. If the reason is faster absorption into the attached piece, it can apply even to d'rabbanan; if the reason is concern that the piece may leave the pot, that concern is treated more strictly for d'oraisa.",
+        "C": "Correct option.",
+        "D": "Waiting after cheese is discussed in Siman 89, not here.",
+        "A": "Zei'ah is a separate steam topic in Seif 8.",
+        "B": "Faucet setup is a later practical application of steam concerns."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q024",
+      "question": "Who accepts issur davuk in the main ruling presented?",
+      "options": {
+        "D": "Rama accepts it; Mechaber does not.",
+        "A": "Mechaber accepts it; Rama rejects it.",
+        "B": "Both accept it without qualification.",
+        "C": "Both reject it even by cheilev."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Seif 4",
+        "pageNumbers": "Pages 5-7"
+      },
+      "explanations": {
+        "correct": "The source states that Rama rules like Sma'k and holds of issur davuk, whereas Tur and Mechaber follow Rashba and do not. This difference affects whether the attached heter piece becomes chana'n before the wider pot can help.",
+        "D": "Correct option.",
+        "A": "This reverses the positions.",
+        "B": "Mechaber is presented as not accepting the din of issur davuk.",
+        "C": "Rama accepts the concept, following Sma'k."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q025",
+      "question": "According to Mechaber in Seif 4, where does chana'n apply?",
+      "options": {
+        "A": "Only by basar b'chalav.",
+        "B": "Only by other issurim.",
+        "C": "Only by yavesh b'yavesh.",
+        "D": "Only by metal keilim."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Seif 4",
+        "pageNumbers": "Pages 5-7"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that chana'n applies only to basar b'chalav, not to other issurim. Therefore, by other issurim he measures against the original issur rather than treating the whole first piece as a new neveilah.",
+        "A": "Correct option.",
+        "B": "Mechaber specifically excludes other issurim from chana'n.",
+        "C": "Rama later says chana'n does not apply to yavesh b'yavesh.",
+        "D": "Rama says a keili that absorbed issur does not become chana'n."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q026",
+      "question": "According to Rama, when can a piece become chana'n even in a pot of food?",
+      "options": {
+        "B": "When issur is attached to it or it is fully outside the broth.",
+        "C": "Only when the pot is cold and completely dry.",
+        "D": "Only when the piece is smaller than the issur.",
+        "A": "When the lid is removed before any cooking in this case."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 92, Seif 4",
+        "pageNumbers": "Pages 5-7"
+      },
+      "explanations": {
+        "correct": "Rama explains that by other issurim a piece can become chana'n in a pot when the issur is davuk to it, or when the piece is entirely outside the broth and issur falls on it. In those cases, the rest of the pot does not immediately combine to save the piece.",
+        "B": "Correct option.",
+        "C": "The case is a cooking pot, not only cold dry contact.",
+        "D": "The size comparison is not Rama's condition here.",
+        "A": "Removing the lid is unrelated to these chana'n cases."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q027",
+      "question": "How does Rama distinguish basar b'chalav from other issurim when the piece is partly in broth?",
+      "options": {
+        "C": "Basar b'chalav can become chana'n even without davuk.",
+        "D": "Other issurim are stricter than basar b'chalav here.",
+        "A": "Both are always permitted when partly in broth.",
+        "B": "Neither can become chana'n after any cooking."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 92, Seif 4",
+        "pageNumbers": "Pages 5-7"
+      },
+      "explanations": {
+        "correct": "Rama says that by other issurim, if part of the piece is in the broth and the issur is not attached, chana'n does not apply, though the piece itself should be treated strictly. By basar b'chalav, even without davuk and even when part of the piece is in broth, chana'n applies.",
+        "C": "Correct option.",
+        "D": "Rama treats basar b'chalav more strictly in this point.",
+        "A": "Rama is not giving a blanket permission for either case.",
+        "B": "Rama explicitly discusses cases where chana'n can apply after cooking begins."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q028",
+      "question": "When may Rama rely on the leniency that lach b'lach does not become chana'n?",
+      "options": {
+        "D": "By other issurim where there is hefsed merubah.",
+        "A": "By basar b'chalav in every ordinary case.",
+        "B": "By yavesh b'yavesh when there is no rov.",
+        "C": "By a pot lid that received cold steam."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 92, Seif 4",
+        "pageNumbers": "Pages 5-7"
+      },
+      "explanations": {
+        "correct": "Rama cites a leniency that lach b'lach mixtures of other issurim need only sixty against the original issur, and he allows relying on it for hefsed merubah. He explicitly does not allow that leniency by basar b'chalav.",
+        "D": "Correct option.",
+        "A": "Rama says not to rely on this leniency by basar b'chalav.",
+        "B": "Yavesh b'yavesh is a different discussion from lach b'lach.",
+        "C": "Steam on a lid belongs to a later seif and is not this leniency."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q029",
+      "question": "Does chana'n apply to yavesh b'yavesh mixtures according to Rama?",
+      "options": {
+        "A": "No, not by basar b'chalav or other issurim.",
+        "B": "Yes, but only by basar b'chalav pieces.",
+        "C": "Yes, but only by chametz on Pesach.",
+        "D": "No, except when the pieces are cold."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Seif 4",
+        "pageNumbers": "Pages 5-7"
+      },
+      "explanations": {
+        "correct": "Rama rules that chana'n does not apply in yavesh b'yavesh mixtures. Shach clarifies that this is true both for basar b'chalav and for other issurim, because the pieces are only mixed by uncertainty, not blended into one combined substance.",
+        "A": "Correct option.",
+        "B": "Shach says the rule applies even by basar b'chalav.",
+        "C": "Chametz is discussed in relation to mashehu, not this yavesh b'yavesh rule.",
+        "D": "The distinction is dry-piece mixture, not whether the pieces are cold."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q030",
+      "question": "How do Taz and Shach disagree about issur mashehu becoming chana'n?",
+      "options": {
+        "B": "Taz requires sixty against the piece; Shach measures the mashehu.",
+        "C": "Taz measures the mashehu; Shach permits without any measure.",
+        "D": "Both require sixty against every later mixture.",
+        "A": "Both say mashehu never forbids the first mixture."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 92, Seif 4",
+        "pageNumbers": "Pages 5-7"
+      },
+      "explanations": {
+        "correct": "Taz rules that if a piece becomes forbidden through an issur mashehu and later falls elsewhere, the later mixture must have sixty against the piece, though he also limits further mashehu transfer with trei mashehu lo amrinan. Shach disagrees and requires only sixty against the mashehu itself.",
+        "B": "Correct option.",
+        "C": "This reverses Taz and Shach and omits Shach's stringency by chametz.",
+        "D": "Taz limits repeated mashehu transfer, and Shach measures the mashehu.",
+        "A": "Both agree an issur mashehu can forbid its first mixture."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q031",
+      "question": "What is Rama's rule about keilim becoming chana'n?",
+      "options": {
+        "C": "A keili that absorbed issur does not become chana'n.",
+        "D": "Every keili always becomes chana'n from any cold contact.",
+        "A": "Only glass keilim become chana'n after washing.",
+        "B": "A keili becomes chana'n only after six hours."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Seif 4",
+        "pageNumbers": "Pages 5-7"
+      },
+      "explanations": {
+        "correct": "Rama writes that when a keili becomes forbidden through absorbed issur, we do not say the keili itself becomes chana'n. Therefore, food cooked in it needs sixty only against the absorbed issur, not against the volume of the whole vessel.",
+        "C": "Correct option.",
+        "D": "Rama's rule here is the opposite; the whole vessel is not treated as chana'n.",
+        "A": "Glass is not the case discussed in this ruling.",
+        "B": "The six-hour waiting rule is unrelated to keilim becoming chana'n."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q032",
+      "question": "What does piapua mean in the discussion of milk on a pot wall?",
+      "options": {
+        "D": "Cooking causes absorbed taste to diffuse through the keili.",
+        "A": "Cold food cannot absorb taste from any keili.",
+        "B": "Steam never carries the status of its source.",
+        "C": "A pot lid is always treated as empty space in this case."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Seif 5",
+        "pageNumbers": "Pages 7-9"
+      },
+      "explanations": {
+        "correct": "Piapua means that cooking causes taste to diffuse. In this seif, it explains why a milk drop landing on a hot meat pot can spread into the pot's walls and interact with meat bliyos absorbed there.",
+        "D": "Correct option.",
+        "A": "Piapua is about diffusion during hot cooking, not cold non-absorption.",
+        "B": "Steam is discussed later and actually can carry its source status.",
+        "C": "The lid has its own later rules and is not the definition of piapua."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q033",
+      "question": "According to Mechaber's Sma'k-based ruling, what if milk falls k'neged hatavshil?",
+      "options": {
+        "A": "The food is mutar if it has sixty against the drop.",
+        "B": "The food is assur unless it has 3600 against the drop.",
+        "C": "The food is always assur because the wall is chana'n.",
+        "D": "The food is mutar only after the pot breaks."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Seif 5",
+        "pageNumbers": "Pages 7-9"
+      },
+      "explanations": {
+        "correct": "Mechaber rules like Sma'k that when the milk lands opposite the food in the pot, it is treated as if the drop entered the food. If the food has sixty against the milk drop, the food remains mutar.",
+        "A": "Correct option.",
+        "B": "The 3600-type concern belongs to k'neged hareikan according to some analysis.",
+        "C": "K'neged hatavshil is more lenient because the food can nullify the drop.",
+        "D": "Breaking the pot is not part of this ruling."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q034",
+      "question": "What is the concern when milk falls k'neged hareikan on a ben yomo meat pot?",
+      "options": {
+        "B": "The wall's meat bliyos can become chana'n.",
+        "C": "The food immediately becomes pareve.",
+        "D": "The milk is cooled by the empty space.",
+        "A": "The fire removes all absorbed taste."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Seif 5",
+        "pageNumbers": "Pages 7-9"
+      },
+      "explanations": {
+        "correct": "When the drop lands opposite empty space, it diffuses into the pot wall before directly encountering the food. Since the pot is ben yomo and contains meat bliyos, the milk can combine with those bliyos and make that area of the wall chana'n.",
+        "B": "Correct option.",
+        "C": "The issue is forbidden basar b'chalav bliyos, not becoming pareve.",
+        "D": "Empty space does not solve the absorbed-wall problem.",
+        "A": "Fire helps only in the later case where a small drop hits the fire-facing side."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q035",
+      "question": "What should be done after milk falls k'neged hareikan according to Mechaber?",
+      "options": {
+        "C": "Leave the pot untouched until it cools.",
+        "D": "Pour the food out over the nearest side.",
+        "A": "Stir the food immediately until it mixes.",
+        "B": "Add milk to create a larger mixture."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Seif 5",
+        "pageNumbers": "Pages 7-9"
+      },
+      "explanations": {
+        "correct": "Mechaber says the solution is to leave the pot as it is until it cools. Pouring or shaking it while hot may cause the food to pass over or contact the chana'n area of the wall and become forbidden.",
+        "C": "Correct option.",
+        "D": "Pouring while hot is exactly the danger Mechaber is avoiding.",
+        "A": "Stirring does not remove chana'n bliyos in the upper wall.",
+        "B": "Adding milk would create more basar b'chalav concern, not a remedy."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q036",
+      "question": "How does Rama limit Mechaber's strict pot-wall discussion?",
+      "options": {
+        "D": "It applies to a ben yomo pot, not a new or non-ben-yomo pot.",
+        "A": "It applies only when the pot is made from glass.",
+        "B": "It applies only where the food has no liquid at all.",
+        "C": "It applies only when the drop falls on the lid."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 92, Seif 5",
+        "pageNumbers": "Pages 7-9"
+      },
+      "explanations": {
+        "correct": "Rama says this concern applies specifically to an old pot, meaning a ben yomo meat pot. If the pot is new, or treated like new because it is not ben yomo, its walls do not contain fresh meat bliyos that become chana'n, so the food needs only sixty against the drop.",
+        "D": "Correct option.",
+        "A": "The limitation is based on ben yomo meat bliyos, not glass.",
+        "B": "The discussion assumes pot contents and walls; no-liquid cases are not Rama's limitation.",
+        "C": "The lid is treated separately in Seif 7."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q037",
+      "question": "How does Shach calculate the worst case when milk spreads k'neged hareikan?",
+      "options": {
+        "A": "The food may need nearly 3660 times the drop.",
+        "B": "The food always needs only a simple majority.",
+        "C": "The food needs exactly twice the pot wall.",
+        "D": "The food is permitted with hadachah alone."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 92, Seif 5",
+        "pageNumbers": "Pages 7-9"
+      },
+      "explanations": {
+        "correct": "Shach holds the drop can spread through wall bliyos until slightly less than sixty times the drop becomes chana'n. The possible issur is therefore slightly less than sixty-one times the drop, and the food would need sixty times that amount, nearly 3660 times the drop, if it contacted that area.",
+        "A": "Correct option.",
+        "B": "Rov is not enough for this absorbed taste concern.",
+        "C": "The calculation is based on sixty times a sixty-one-type amount, not twice the wall.",
+        "D": "Hadachah cannot remove absorbed chana'n bliyos from hot food contact."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q038",
+      "question": "How does Taz understand the spread of milk in the pot wall differently from Shach?",
+      "options": {
+        "B": "More spreading can create more issur, not more bitul.",
+        "C": "More spreading always permits the pot immediately.",
+        "D": "The drop can never enter a hot wall.",
+        "A": "The drop becomes pareve when it touches the wall."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 92, Seif 5",
+        "pageNumbers": "Pages 7-9"
+      },
+      "explanations": {
+        "correct": "Taz argues against the idea that spreading through more wall bliyos necessarily helps by creating bitul. Since the amount of bliyos in the wall is unknown, broader spreading may mean more of the pot becomes forbidden, not that the milk is safely nullified.",
+        "B": "Correct option.",
+        "C": "Taz rejects the assumption that wider spreading automatically permits.",
+        "D": "The whole discussion assumes the milk can enter the hot wall.",
+        "A": "The milk does not become pareve by touching meat bliyos."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q039",
+      "question": "What is the basic din when milk falls k'neged harotev?",
+      "options": {
+        "C": "The food is mutar if it has sixty against the drop.",
+        "D": "The food is always assur even with sixty.",
+        "A": "The food needs only a majority against the pot.",
+        "B": "The food is mutar only after waiting overnight."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Seif 5",
+        "pageNumbers": "Pages 7-9"
+      },
+      "explanations": {
+        "correct": "K'neged harotev is more lenient because the drop is treated as able to reach the food or be nullified in the context of the food. Mechaber rules that if the food has sixty against the drop, the contents are permitted.",
+        "C": "Correct option.",
+        "D": "Mechaber permits the food when there is sixty against the drop.",
+        "A": "The measure is sixty against the milk drop, not a majority against the pot.",
+        "B": "Waiting overnight is not the permitting mechanism here."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q040",
+      "question": "According to Rama and Shach, what is the keili's status when milk falls k'neged harotev?",
+      "options": {
+        "D": "The food may be mutar, but the keili needs kashering.",
+        "A": "The keili is certainly mutar together with the food.",
+        "B": "The keili is broken and the food is burned.",
+        "C": "The keili becomes pareve after the food cools."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 92, Seif 5",
+        "pageNumbers": "Pages 7-9"
+      },
+      "explanations": {
+        "correct": "Rama and Shach distinguish the food from the vessel. Even if the food has sixty against the milk drop and remains mutar, some milk may remain in the wall, so the pot itself is treated as assur and requires kashering before further use.",
+        "D": "Correct option.",
+        "A": "Taz following Maharshal is more lenient, but Rama and Shach are strict about the keili.",
+        "B": "The source does not require breaking the vessel or burning the food.",
+        "C": "Cooling does not make the absorbed milk disappear from the keili."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q041",
+      "question": "What should be done with the food when the drop falls k'neged harotev, according to Rama and Shach?",
+      "options": {
+        "A": "Pour it out immediately from the opposite side.",
+        "B": "Leave it in place until it cools fully.",
+        "C": "Pour it over the milk-drop spot right away.",
+        "D": "Add more milk until the pot is full."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 92, Seif 5",
+        "pageNumbers": "Pages 7-9"
+      },
+      "explanations": {
+        "correct": "Unlike k'neged hareikan, Rama and Shach say that when the drop falls k'neged harotev one should pour the food out immediately from the opposite side. The concern is that leaving it longer allows more contact or spreading, and allowing that contact can resemble being m'vatel issur l'chatchilah.",
+        "A": "Correct option.",
+        "B": "Waiting to cool is the instruction for k'neged hareikan, not this case.",
+        "C": "Pouring over the milk-drop spot would create the contact being avoided.",
+        "D": "Adding milk would worsen the basar b'chalav issue."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q042",
+      "question": "Why does Shach say a new cheres keili is not made chana'n by a milk drop here?",
+      "options": {
+        "B": "Milk alone is heter until it mixes with meat.",
+        "C": "Chana'n can never apply to earthenware.",
+        "D": "A cheres keili can always be kashered fully.",
+        "A": "The drop disappears because cheres is cold."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 92, Seif 5",
+        "pageNumbers": "Pages 7-9"
+      },
+      "explanations": {
+        "correct": "Shach explains that in the new-keili case, the milk falling onto the vessel is still heter; it has not mixed with meat bliyos to create basar b'chalav. Therefore the vessel does not become chana'n from the milk drop itself, and sixty against the drop suffices for the food.",
+        "B": "Correct option.",
+        "C": "Rama elsewhere discusses cheres becoming chana'n, which creates Shach's question.",
+        "D": "Chagna'n and kashering cheres are not solved by saying cheres can always be kashered.",
+        "A": "The case is a hot cooking pot, not a cold cheres vessel."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q043",
+      "question": "What is the stringent minhag cited in Seif 6?",
+      "options": {
+        "C": "To forbid contents when milk falls above the liquid.",
+        "D": "To permit all drops that touch the pot wall.",
+        "A": "To ignore drops that are not opposite the fire.",
+        "B": "To require libbun for every metal pot."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Seif 6",
+        "pageNumbers": "Page 9"
+      },
+      "explanations": {
+        "correct": "Mechaber cites a common custom to forbid the contents when a milk drop falls on the wall of the pot above the liquid, meaning not k'neged harotev. This custom is stricter than the basic Sma'k framework because it worries that the liquid may have boiled up to the forbidden wall area.",
+        "C": "Correct option.",
+        "D": "The minhag is stringent, not a blanket permission.",
+        "A": "The case specifically involves a drop not opposite the liquid and not facing the fire.",
+        "B": "Libbun for every pot is not the cited minhag."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q044",
+      "question": "What if a small drop falls on the side of the pot facing the fire?",
+      "options": {
+        "D": "The fire burns and dries it, so the food is mutar.",
+        "A": "The food is always assur even with sixty.",
+        "B": "The pot must cool before any ruling exists.",
+        "C": "The lid must be removed and broken."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Seif 6",
+        "pageNumbers": "Page 9"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that when a small drop falls on the side facing the fire, the fire burns and dries it before it is absorbed in a problematic way, so the food is permitted. Rama adds that in this case the pot itself is also mutar.",
+        "D": "Correct option.",
+        "A": "Mechaber permits the food in this small-drop fire-facing case.",
+        "B": "Cooling is not the relevant remedy when the fire burns the drop.",
+        "C": "The lid is not involved in this case."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q045",
+      "question": "How does Mechaber limit the fire-facing leniency?",
+      "options": {
+        "A": "It applies only to a small amount, like one drop.",
+        "B": "It applies only after the pot is removed from the fire.",
+        "C": "It applies only when the milk is already meat-flavored.",
+        "D": "It applies only if the food has no liquid inside."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 92, Seif 6",
+        "pageNumbers": "Page 9"
+      },
+      "explanations": {
+        "correct": "Mechaber limits the leniency to a small amount, such as a drop, because the fire can burn and dry it. If a large amount of milk falls, it cannot be permitted merely because it is on the fire-facing side unless it is k'neged harotev and there is sixty.",
+        "A": "Correct option.",
+        "B": "Taz says the leniency applies while the pot is on the fire, not after removal.",
+        "C": "The milk is not already meat-flavored in the case.",
+        "D": "The case is about a pot with food and the location of the drop."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q046",
+      "question": "Which cases does Shach use to limit the stringent minhag?",
+      "options": {
+        "B": "A new or non-ben-yomo pot, or contents with 3660.",
+        "C": "Any pot lid, any faucet, or any cold oven hood.",
+        "D": "Only a pot made of glass or a pot without handles.",
+        "A": "Only a case where the milk became pareve first."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 92, Seif 6",
+        "pageNumbers": "Page 9"
+      },
+      "explanations": {
+        "correct": "Shach explains the minhag as a concern that the liquid may boil up and touch chana'n bliyos. Therefore, if there are no chana'n bliyos, such as a new or non-ben-yomo pot, or if the food has enough to nullify even the worst case, approximately 3660 times the drop, the minhag's reason does not apply in the same way.",
+        "B": "Correct option.",
+        "C": "These are later practical steam or lid issues, not Shach's limits here.",
+        "D": "Shach's limitation is based on bliyos and bitul, not glass or handles.",
+        "A": "Milk becoming pareve is not part of Shach's explanation."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q047",
+      "question": "What leniency does Mechaber record for sha'as hadchak in Seif 7?",
+      "options": {
+        "C": "The food may be permitted with sixty against the drop.",
+        "D": "The pot is permitted without any sixty measure.",
+        "A": "The drop is ignored because it fell outside.",
+        "B": "The food is permitted only after the next day."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Seif 7",
+        "pageNumbers": "Pages 9-11"
+      },
+      "explanations": {
+        "correct": "In sha'as hadchak, such as erev Shabbos, Mechaber records an opinion that permits the food if it has sixty against the milk drop, even when the drop fell outside the pot not opposite the liquid and not facing the fire. Rama accepts this as the minhag in such pressured cases.",
+        "C": "Correct option.",
+        "D": "The leniency still requires sixty against the milk drop.",
+        "A": "The drop is not ignored; it is handled through bitul in sha'as hadchak.",
+        "B": "Waiting until the next day is not the basis of the leniency."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q048",
+      "question": "What counts as sha'as hadchak according to the discussion?",
+      "options": {
+        "D": "Erev Shabbos, guests, hefsed, or comparable need.",
+        "A": "Only a case where the pot is completely new.",
+        "B": "Only when the drop falls directly into broth.",
+        "C": "Only where a non-Jew can taste the food."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 92, Seif 7",
+        "pageNumbers": "Pages 9-11"
+      },
+      "explanations": {
+        "correct": "Mechaber gives erev Shabbos as an example, and Shach and Taz quote Rama extending it to other great needs, such as guests, hefsed merubah, or even a smaller loss for someone poor. The final judgment depends partly on the ruling rav's discretion.",
+        "D": "Correct option.",
+        "A": "A new pot is a separate factor from sha'as hadchak.",
+        "B": "A drop in the broth is a different, more direct bitul case.",
+        "C": "Rama does not make sha'as hadchak depend on a non-Jew tasting."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q049",
+      "question": "If hot milk pooled on a cold surface and a hot meat pot was placed on it, what is Rama's basic ruling?",
+      "options": {
+        "A": "The pot is assur, but the food is mutar.",
+        "B": "The food is assur, but the pot is mutar.",
+        "C": "Both are mutar without any concern.",
+        "D": "Both are assur even if the milk cooled."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Seif 7",
+        "pageNumbers": "Pages 9-11"
+      },
+      "explanations": {
+        "correct": "Rama rules that if hot milk spilled away from the fire and cooled on the surface, then a hot meat pot placed on it becomes assur because the wall absorbs somewhat. The contents remain mutar because the lower cooled puddle overpowers the hot pot exterior through tata'ah gavar, limiting the absorption to the pot wall.",
+        "A": "Correct option.",
+        "B": "Rama's ruling is the opposite: the pot is assur and the contents are mutar.",
+        "C": "The pot does absorb somewhat and is not simply mutar.",
+        "D": "The food is not assur in Rama's basic cooled-surface case."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q050",
+      "question": "When would the food also become assur in the pooled-milk case?",
+      "options": {
+        "B": "When the milk pooled on a hot surface or near the fire.",
+        "C": "When the pot was cold and the puddle was cold.",
+        "D": "When the milk was wiped away before contact.",
+        "A": "When the pot had no food inside at all."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 92, Seif 7",
+        "pageNumbers": "Pages 9-11"
+      },
+      "explanations": {
+        "correct": "Shach and Taz say Rama's leniency applies only where the milk pooled on a cold surface. If it pooled on a hot surface, or the meat pot is near enough to the fire that it heats the milk, the milk has stronger heat status and the contents can become assur unless there is sixty.",
+        "B": "Correct option.",
+        "C": "Shach says if both pot and puddle are cold, both are mutar.",
+        "D": "If the milk was removed before contact, the stated pooled-milk case is absent.",
+        "A": "The question is whether contents become assur, which assumes food inside."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q051",
+      "question": "What is the difference between an interrupted and uninterrupted hot stream reaching a cold meat pot?",
+      "options": {
+        "C": "Interrupted is like kli sheini; uninterrupted is like irui.",
+        "D": "Interrupted is stronger; uninterrupted is always cold.",
+        "A": "Both are treated as boiling kli rishon contact.",
+        "B": "Both are ignored because the pot is cold."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Seif 7",
+        "pageNumbers": "Pages 9-11"
+      },
+      "explanations": {
+        "correct": "Rama rules that if the hot stream is interrupted before reaching the cold pot, it is like kli sheini and does not asser. If the stream remains connected from the hot source, it is treated like irui from a kli rishon and can forbid the cold pot k'dei klipah, though the food inside remains mutar.",
+        "C": "Correct option.",
+        "D": "This reverses the strength of connected versus disconnected flow.",
+        "A": "An uninterrupted stream is irui, not necessarily full kli rishon cooking.",
+        "B": "The cold pot can still absorb k'dei klipah from connected irui."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q052",
+      "question": "What if milk, even cold milk, flows onto a hot meat pot?",
+      "options": {
+        "D": "Everything is assur because the pot is the hot tata'ah.",
+        "A": "Everything is mutar because the milk was cold.",
+        "B": "Only the milk is assur, but the pot stays mutar.",
+        "C": "Only the lid needs rinsing after the pot cools."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Seif 7",
+        "pageNumbers": "Pages 9-11"
+      },
+      "explanations": {
+        "correct": "Rama rules that if the meat pot is hot, especially if it is a kli rishon or near the fire, even a cold flow of milk makes everything assur. The hot lower pot is considered tata'ah, so it heats the milk and creates full taste transfer.",
+        "D": "Correct option.",
+        "A": "The cold milk is heated by the hot pot under tata'ah gavar.",
+        "B": "The pot and its contents are affected in this hot-pot case.",
+        "C": "The lid is not the relevant object in this flowing-milk case."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q053",
+      "question": "How does Rama treat a milk drop that falls on a boiling pot's lid?",
+      "options": {
+        "A": "Like a drop k'neged harotev, because steam reaches the lid.",
+        "B": "Like cold contact that needs only hadachah.",
+        "C": "Like a drop facing the fire that always evaporates.",
+        "D": "Like yavesh b'yavesh that needs only rov."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 92, Seif 7",
+        "pageNumbers": "Pages 9-11"
+      },
+      "explanations": {
+        "correct": "Rama rules that if the pot has begun boiling, steam rises constantly to the cover and then returns to the liquid. Therefore a drop on the lid is treated like a drop that fell k'neged harotev: the cover is assur, and the food is permitted only if it has sixty against the drop.",
+        "A": "Correct option.",
+        "B": "The case is a boiling pot, not simple cold contact.",
+        "C": "A lid drop is not the same as a small drop on the fire-facing side.",
+        "D": "This is absorbed liquid/steam transfer, not yavesh b'yavesh."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q054",
+      "question": "Why does Taz side with stringency about a milk drop on a steaming lid?",
+      "options": {
+        "B": "Perhaps steam was absent then and the lid became chana'n.",
+        "C": "Steam always makes the drop fully pareve.",
+        "D": "The lid is always colder than the food in this case.",
+        "A": "The drop can be washed off after cooking."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 92, Seif 7",
+        "pageNumbers": "Pages 9-11"
+      },
+      "explanations": {
+        "correct": "Taz agrees with Maharshal's stringency, though for a different reason. He is concerned that perhaps at the moment the drop fell, steam was not actually present at the lid, so the drop entered the cover k'neged hareikan and made it chana'n. He therefore treats it as a safeik, strict for d'oraisa and lenient for d'rabbanan.",
+        "B": "Correct option.",
+        "C": "Steam does not make milk pareve; it can carry milk status.",
+        "D": "The concern is not simply the lid's relative temperature.",
+        "A": "Washing cannot remove absorbed basar b'chalav from a hot lid."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q055",
+      "question": "What is zei'ah in the halachos of basar b'chalav?",
+      "options": {
+        "C": "Steam that carries the status of its source food.",
+        "D": "Cold residue that never needs rinsing.",
+        "A": "A dry piece mixed with another dry piece.",
+        "B": "A knife mark left after cutting cheese."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Seif 8",
+        "pageNumbers": "Pages 11-12"
+      },
+      "explanations": {
+        "correct": "Zei'ah means steam, and the Mishnah's principle is that steam has the halachic status of the liquid from which it rises. Applied to basar b'chalav, milk steam can affect a meat pot like hot milk contact when it reaches it with sufficient heat.",
+        "C": "Correct option.",
+        "D": "Cold droplets may need rinsing, but that is not the definition of zei'ah.",
+        "A": "Dry pieces are yavesh b'yavesh, not steam.",
+        "B": "Knife marks are not the subject of zei'ah."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q056",
+      "question": "What two conditions does Rama require for steam from milk below to forbid the meat pot above?",
+      "options": {
+        "D": "The lower pan is uncovered, and the steam is yad soledes at contact.",
+        "A": "The lower pan is covered, and the upper pot is empty.",
+        "B": "The steam is cold, and the two pots are far apart.",
+        "C": "The upper pot is pareve, and the lower pan has only bliyos."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Seif 8",
+        "pageNumbers": "Pages 11-12"
+      },
+      "explanations": {
+        "correct": "Rama requires that the lower milk pan be uncovered so steam rises from the food itself, and that the steam still be yad soledes when it reaches the upper meat pot. If the pan is covered or the steam is no longer yad soledes at contact, the case is treated leniently.",
+        "D": "Correct option.",
+        "A": "A covered pan is one of Rama's reasons for leniency, not stringency.",
+        "B": "Cold, distant steam does not create the same issur.",
+        "C": "Rama's case requires actual milk, not only milchig bliyos."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q057",
+      "question": "What if cold steam touches a hot meat pot?",
+      "options": {
+        "A": "Pri Megadim says the pot can heat the steam and become assur.",
+        "B": "Rama says cold steam always forbids even cold pots.",
+        "C": "Shach says cold steam becomes yavesh b'yavesh.",
+        "D": "Taz says cold steam requires only n'itzah b'karka."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 92, Seif 8",
+        "pageNumbers": "Pages 11-12"
+      },
+      "explanations": {
+        "correct": "Although Rama says steam that is not yad soledes when it reaches the pot does not asser, Pri Megadim cites Trumas Hadeshen that if the pot itself is yad soledes, the cold steam can heat up upon contact and then asser the pot.",
+        "A": "Correct option.",
+        "B": "Rama is lenient when the steam itself is not yad soledes.",
+        "C": "Steam is not treated as a dry-piece mixture.",
+        "D": "N'itzah b'karka is a knife remedy, not the rule for steam."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q058",
+      "question": "Do hot meat and milk pots forbid each other merely by touching?",
+      "options": {
+        "B": "No, touching pots do not asser each other.",
+        "C": "Yes, both pots are always forbidden.",
+        "D": "Only the upper pot becomes forbidden.",
+        "A": "Only the lower pot becomes forbidden."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Seif 8",
+        "pageNumbers": "Pages 11-12"
+      },
+      "explanations": {
+        "correct": "Rama rules that two pots touching each other do not asser one another. The issue in this seif is steam rising from actual food, not mere keili-to-keili contact; nevertheless, Rama says one should avoid such situations l'chatchilah.",
+        "B": "Correct option.",
+        "C": "Mere touching pots are not treated as forbidding each other.",
+        "D": "The rule is not based on upper pot alone.",
+        "A": "The rule is not based on lower pot alone."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q059",
+      "question": "Why should one be careful with an exhaust hood or shelf above a stovetop?",
+      "options": {
+        "C": "Yad-soledes steam may carry meat or milk taste into it.",
+        "D": "Cold air from the hood always kashered the food.",
+        "A": "The hood is treated like yavesh b'yavesh.",
+        "B": "A shelf above the stove is always pareve."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 92, Seif 8",
+        "pageNumbers": "Pages 11-12"
+      },
+      "explanations": {
+        "correct": "The source applies Rama's zei'ah rules to contemporary kitchens. If uncovered meat or milk pots produce yad-soledes steam that reaches a hood, shelf, or utensils above the stove, those surfaces can absorb the taste and later contribute to a basar b'chalav problem.",
+        "C": "Correct option.",
+        "D": "Cold air does not kasher absorbed meat or milk taste.",
+        "A": "Steam absorption into a hood is not a dry-piece mixture.",
+        "B": "A shelf can absorb steam taste and is not automatically pareve."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q060",
+      "question": "What concern is raised about using one faucet for both meat and dairy sinks?",
+      "options": {
+        "D": "Steam from sink use may affect the faucet and later become mixed.",
+        "A": "The faucet is always a kli rishon from cold water.",
+        "B": "The faucet handle makes all foods yavesh b'yavesh.",
+        "C": "The faucet creates issur davuk on every plate in this case."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 92, Seif 8",
+        "pageNumbers": "Pages 11-12"
+      },
+      "explanations": {
+        "correct": "The source notes that ideally one should have separate faucets, because steam from milk or meat being prepared or cleaned can rise to the faucet and give it milk or meat status. Later opposite steam or contact can create basar b'chalav bliyos.",
+        "D": "Correct option.",
+        "A": "Cold water from a faucet is not automatically kli rishon.",
+        "B": "A faucet concern is about steam and absorption, not yavesh b'yavesh.",
+        "C": "Issur davuk is attached food issur, not the faucet concern."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q061",
+      "question": "What is the din if hot solid cheilev from a candle drips onto a keili?",
+      "options": {
+        "A": "The keili needs greidah.",
+        "B": "The keili needs libbun every time.",
+        "C": "The keili is permitted without scraping.",
+        "D": "The keili becomes pareve after rinsing."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Seif 9",
+        "pageNumbers": "Page 12"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that if a hardened cheilev candle drips onto a keili, the keili needs greidah, scraping. This is contrasted with hot liquid cheilev from a lamp, which can require hag'alah.",
+        "A": "Correct option.",
+        "B": "Libbun is mentioned for the burning candle itself falling, not an ordinary drip.",
+        "C": "Mechaber requires an action; it is not simply permitted as is.",
+        "D": "Rinsing is not the remedy stated for hot solid cheilev."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q062",
+      "question": "What is the din if hot liquid cheilev from a lamp drips onto a keili?",
+      "options": {
+        "B": "The keili needs hag'alah.",
+        "C": "The keili needs only hadachah.",
+        "D": "The keili is mutar because liquid is weaker.",
+        "A": "The keili must be used for dairy next."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 92, Seif 9",
+        "pageNumbers": "Page 12"
+      },
+      "explanations": {
+        "correct": "Mechaber distinguishes liquid cheilev from hardened candle drips. Hot melted cheilev from a lamp is treated more strongly and requires hag'alah for the keili that it falls on.",
+        "B": "Correct option.",
+        "C": "Hadachah is too weak for the hot liquid-cheilev case.",
+        "D": "Liquid cheilev near the flame is treated more stringently, not more leniently.",
+        "A": "Using it for dairy is unrelated and would not kasher it."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q063",
+      "question": "How does Taz limit the liquid-cheilev lamp case?",
+      "options": {
+        "C": "Only cheilev near the flame is hot enough for hag'alah.",
+        "D": "Only cheilev far from the flame requires hag'alah.",
+        "A": "All liquid cheilev in every pot requires libbun.",
+        "B": "No liquid cheilev can ever affect a keili."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 92, Seif 9",
+        "pageNumbers": "Page 12"
+      },
+      "explanations": {
+        "correct": "Taz explains that the liquid-cheilev stringency applies to cheilev near the flame, where it is hot enough to be considered an uninterrupted hot stream. Cheilev dripping from other sides is not hot in the same way and is treated more leniently.",
+        "C": "Correct option.",
+        "D": "Taz says the area near the flame is the more stringent part.",
+        "A": "A pot of hot liquid cheilev is actually treated like the hardened candle case by Shach and Taz.",
+        "B": "Mechaber says liquid cheilev can require hag'alah."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q064",
+      "question": "How does Shach understand Mechaber's requirement of greidah?",
+      "options": {
+        "D": "It means removing a klipah from the keili.",
+        "A": "It means rinsing the keili with cold water.",
+        "B": "It means waiting until the keili cools overnight.",
+        "C": "It means adding sixty times the cheilev."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 92, Seif 9",
+        "pageNumbers": "Page 12"
+      },
+      "explanations": {
+        "correct": "Although many poskim understand greidah as ordinary scraping, Shach understands it as removing a klipah from the keili. He reasons that even an interrupted hot stream forbids a k'dei klipah by tata'ah gavar, while direct fire heating explains why liquid cheilev can require hag'alah.",
+        "D": "Correct option.",
+        "A": "Shach's greidah is stronger than simple rinsing.",
+        "B": "Waiting does not remove absorbed or surface issur.",
+        "C": "Sixty is not the action required on the keili itself."
+      }
+    },
+    {
+      "id": "basar-bchalav-siman-92-q065",
+      "question": "How do Shach and Taz rule about a keili dipped into a kli rishon?",
+      "options": {
+        "A": "Treat it strictly like both kli sheini and kli rishon.",
+        "B": "Treat it leniently as only a kli sheini in this case.",
+        "C": "Treat it leniently as only a cold keili.",
+        "D": "Treat it as pareve after one minute inside."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 92, Seif 9",
+        "pageNumbers": "Page 12"
+      },
+      "explanations": {
+        "correct": "The conclusion is to be machmir in both directions. Such a keili is not relied on as a kli rishon for kashering purposes, but it is treated as powerful like a kli rishon to absorb or exude basar b'chalav or issur taste.",
+        "A": "Correct option.",
+        "B": "They are not lenient to treat it only as a kli sheini in all respects.",
+        "C": "A keili immersed in a kli rishon is certainly not treated as merely cold.",
+        "D": "No fixed one-minute rule is given to make it pareve."
+      }
+    }
+  ]
+}
