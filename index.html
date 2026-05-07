@@ -24,12 +24,38 @@
         </div>
       </header>
 
+      <nav class="student-path" aria-label="Quiz steps">
+        <ol>
+          <li class="is-active" data-path-step="course">
+            <span>1</span>
+            <strong>Choose Course</strong>
+          </li>
+          <li data-path-step="quiz">
+            <span>2</span>
+            <strong>Choose Quiz</strong>
+          </li>
+          <li data-path-step="review">
+            <span>3</span>
+            <strong>Choose Review Mode</strong>
+          </li>
+          <li data-path-step="take">
+            <span>4</span>
+            <strong>Take Quiz</strong>
+          </li>
+          <li data-path-step="results">
+            <span>5</span>
+            <strong>Review Results</strong>
+          </li>
+        </ol>
+      </nav>
+
       <main>
         <section class="panel setup-panel" id="setupPanel">
           <div class="panel-heading">
             <div>
-              <p class="eyebrow">Question Bank</p>
-              <h2>Machon Smicha Smicha Quizzes - Beta</h2>
+              <p class="eyebrow">Step 1</p>
+              <h2>Choose Course</h2>
+              <p class="panel-subtext">Start by selecting the course you are learning.</p>
             </div>
           </div>
 
@@ -38,7 +64,7 @@
           <section class="course-quiz-panel hidden" id="courseQuizPanel">
             <div class="course-panel-top">
               <div>
-                <p class="eyebrow">Choose Quiz</p>
+                <p class="eyebrow">Step 2</p>
                 <h3 id="selectedCourseTitle">Course</h3>
                 <p id="selectedCourseMeta"></p>
               </div>
@@ -49,8 +75,9 @@
 
             <section class="start-panel hidden" id="startPanel">
               <div>
-                <p class="eyebrow">Ready to Start</p>
+                <p class="eyebrow">Step 3</p>
                 <h3 id="chosenQuizTitle">Quiz</h3>
+                <p>Choose how you want to review answers, then start the quiz.</p>
               </div>
 
               <fieldset class="review-mode">
@@ -79,7 +106,7 @@
         <section class="panel quiz-panel hidden" id="quizPanel">
           <div class="quiz-topline">
             <div>
-              <p class="eyebrow" id="quizCourse">Course</p>
+              <p class="eyebrow">Step 4 · <span id="quizCourse">Course</span></p>
               <h2 id="quizTitle">Quiz</h2>
             </div>
             <div class="progress-box">
@@ -105,7 +132,7 @@
         <section class="results-panel hidden" id="resultsPanel">
           <div class="results-hero">
             <div>
-              <p class="eyebrow">Results</p>
+              <p class="eyebrow">Step 5</p>
               <h2 id="scoreTitle"></h2>
               <p id="scoreSubtext"></p>
             </div>

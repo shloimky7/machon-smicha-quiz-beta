@@ -1,4 +1,5 @@
 const bankStatus = document.querySelector("#bankStatus");
+const pathSteps = [...document.querySelectorAll("[data-path-step]")];
 const courseList = document.querySelector("#courseList");
 const courseQuizPanel = document.querySelector("#courseQuizPanel");
 const selectedCourseTitle = document.querySelector("#selectedCourseTitle");
@@ -41,6 +42,16 @@ const state = {
 };
 
 const letters = ["A", "B", "C", "D"];
+const stepOrder = ["course", "quiz", "review", "take", "results"];
+
+function setPathStep(activeStep) {
+  const activeIndex = stepOrder.indexOf(activeStep);
+  pathSteps.forEach((step) => {
+    const stepIndex = stepOrder.indexOf(step.dataset.pathStep);
+    step.classList.toggle("is-active", stepIndex === activeIndex);
+    step.classList.toggle("is-complete", stepIndex < activeIndex);
+  });
+}
 
 function escapeHtml(value) {
   return String(value ?? "")
@@ -165,6 +176,7 @@ async function loadCatalog() {
   state.catalog = catalog.quizzes || [];
   bankStatus.textContent = `${state.catalog.length} quizzes available`;
   renderCourseList();
+  setPathStep("course");
 }
 
 async function loadQuiz(id) {
@@ -201,6 +213,7 @@ function renderCourseList() {
       state.selectedQuizId = null;
       renderCourseList();
       renderQuizList();
+      setPathStep("quiz");
     });
   });
 }
@@ -211,7 +224,7 @@ function renderQuizList() {
 
   courseQuizPanel.classList.remove("hidden");
   selectedCourseTitle.textContent = course?.title || "Course";
-  selectedCourseMeta.textContent = `${quizzes.length} quiz${quizzes.length === 1 ? "" : "zes"} available`;
+  selectedCourseMeta.textContent = `Choose one of the ${quizzes.length} quiz${quizzes.length === 1 ? "" : "zes"} in this course.`;
   startPanel.classList.add("hidden");
   quizList.innerHTML = quizzes
     .map((entry) => `
@@ -239,6 +252,7 @@ function selectQuiz(id) {
   selectedButton?.closest(".quiz-choice")?.classList.add("is-selected");
   chosenQuizTitle.textContent = entry.title;
   startPanel.classList.remove("hidden");
+  setPathStep("review");
   startPanel.scrollIntoView({ behavior: "smooth", block: "nearest" });
 }
 
@@ -248,6 +262,7 @@ function showCoursesOnly() {
   courseQuizPanel.classList.add("hidden");
   startPanel.classList.add("hidden");
   renderCourseList();
+  setPathStep("course");
 }
 
 async function startQuiz(id) {
@@ -263,6 +278,7 @@ async function startQuiz(id) {
   homeButton.classList.remove("hidden");
   quizCourse.textContent = state.activeQuiz.course;
   quizTitle.textContent = state.activeQuiz.title;
+  setPathStep("take");
   renderQuestion();
   window.scrollTo({ top: 0, behavior: "smooth" });
 }
@@ -282,6 +298,7 @@ function showHome() {
   courseQuizPanel.classList.add("hidden");
   startPanel.classList.add("hidden");
   renderCourseList();
+  setPathStep("course");
   window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
@@ -491,6 +508,7 @@ function showResults() {
   quizPanel.classList.add("hidden");
   resultsPanel.classList.remove("hidden");
   homeButton.classList.remove("hidden");
+  setPathStep("results");
   scoreTitle.textContent = `${correctCount} / ${total} (${percent}%)`;
   scoreSubtext.textContent = `${state.activeQuiz.title} · ${skippedCount} skipped`;
   reviewList.innerHTML =
