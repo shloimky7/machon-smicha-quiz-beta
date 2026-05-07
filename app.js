@@ -5,6 +5,9 @@ const selectedCourseTitle = document.querySelector("#selectedCourseTitle");
 const selectedCourseMeta = document.querySelector("#selectedCourseMeta");
 const backToCoursesButton = document.querySelector("#backToCoursesButton");
 const quizList = document.querySelector("#quizList");
+const startPanel = document.querySelector("#startPanel");
+const chosenQuizTitle = document.querySelector("#chosenQuizTitle");
+const startSelectedQuizButton = document.querySelector("#startSelectedQuizButton");
 const setupPanel = document.querySelector("#setupPanel");
 const quizPanel = document.querySelector("#quizPanel");
 const resultsPanel = document.querySelector("#resultsPanel");
@@ -28,6 +31,7 @@ const state = {
   courses: [],
   loadedQuizzes: new Map(),
   activeCourseId: null,
+  selectedQuizId: null,
   activeQuiz: null,
   activeQuestions: [],
   currentIndex: 0,
@@ -170,8 +174,12 @@ async function loadQuiz(id) {
   const response = await fetch(entry.dataUrl);
   if (!response.ok) throw new Error(`Could not load ${entry.title}.`);
   const quiz = await response.json();
-  state.loadedQuizzes.set(id, quiz);
-  return quiz;
+  const normalizedQuiz = {
+    ...quiz,
+    course: entry.courseTitle || quiz.course,
+  };
+  state.loadedQuizzes.set(id, normalizedQuiz);
+  return normalizedQuiz;
 }
 
 function renderCourseList() {
@@ -190,6 +198,7 @@ function renderCourseList() {
   courseList.querySelectorAll("button[data-course-id]").forEach((button) => {
     button.addEventListener("click", () => {
       state.activeCourseId = button.dataset.courseId;
+      state.selectedQuizId = null;
       renderCourseList();
       renderQuizList();
     });
@@ -203,26 +212,41 @@ function renderQuizList() {
   courseQuizPanel.classList.remove("hidden");
   selectedCourseTitle.textContent = course?.title || "Course";
   selectedCourseMeta.textContent = `${quizzes.length} quiz${quizzes.length === 1 ? "" : "zes"} available`;
+  startPanel.classList.add("hidden");
   quizList.innerHTML = quizzes
     .map((entry) => `
-      <article class="quiz-choice">
+      <article class="quiz-choice ${state.selectedQuizId === entry.id ? "is-selected" : ""}">
         <div>
           <h3>${escapeHtml(entry.title)}</h3>
           <p>${escapeHtml(entry.courseTitle || course?.title || "")}</p>
         </div>
-        <button class="primary-action" type="button" data-quiz-id="${escapeHtml(entry.id)}">Start</button>
+        <button class="primary-action" type="button" data-quiz-id="${escapeHtml(entry.id)}">Choose</button>
       </article>
     `)
     .join("");
 
   quizList.querySelectorAll("button[data-quiz-id]").forEach((button) => {
-    button.addEventListener("click", () => startQuiz(button.dataset.quizId));
+    button.addEventListener("click", () => selectQuiz(button.dataset.quizId));
   });
+}
+
+function selectQuiz(id) {
+  const entry = state.catalog.find((quiz) => quiz.id === id);
+  if (!entry) return;
+  state.selectedQuizId = id;
+  quizList.querySelectorAll(".quiz-choice").forEach((choice) => choice.classList.remove("is-selected"));
+  const selectedButton = [...quizList.querySelectorAll("button[data-quiz-id]")].find((button) => button.dataset.quizId === id);
+  selectedButton?.closest(".quiz-choice")?.classList.add("is-selected");
+  chosenQuizTitle.textContent = entry.title;
+  startPanel.classList.remove("hidden");
+  startPanel.scrollIntoView({ behavior: "smooth", block: "nearest" });
 }
 
 function showCoursesOnly() {
   state.activeCourseId = null;
+  state.selectedQuizId = null;
   courseQuizPanel.classList.add("hidden");
+  startPanel.classList.add("hidden");
   renderCourseList();
 }
 
@@ -249,12 +273,14 @@ function showHome() {
   resultsPanel.classList.add("hidden");
   homeButton.classList.add("hidden");
   state.activeCourseId = null;
+  state.selectedQuizId = null;
   state.activeQuiz = null;
   state.activeQuestions = [];
   state.currentIndex = 0;
   state.answers = new Map();
   state.revealed = new Set();
   courseQuizPanel.classList.add("hidden");
+  startPanel.classList.add("hidden");
   renderCourseList();
   window.scrollTo({ top: 0, behavior: "smooth" });
 }
@@ -493,5 +519,8 @@ nextButton.addEventListener("click", moveNext);
 homeButton.addEventListener("click", showHome);
 newAttemptButton.addEventListener("click", () => startQuiz(state.activeQuiz.id));
 backToCoursesButton.addEventListener("click", showCoursesOnly);
+startSelectedQuizButton.addEventListener("click", () => {
+  if (state.selectedQuizId) startQuiz(state.selectedQuizId).catch(showLoadError);
+});
 
 loadCatalog().catch(showLoadError);

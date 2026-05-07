@@ -45,25 +45,34 @@
               <button class="secondary-action" id="backToCoursesButton" type="button">Back to Courses</button>
             </div>
 
-            <fieldset class="review-mode">
-              <legend>Answer Review</legend>
-              <label class="mode-choice">
-                <input type="radio" name="reviewMode" value="immediate" checked />
-                <span>
-                  <strong>After each question</strong>
-                  <small>Check each answer before moving on.</small>
-                </span>
-              </label>
-              <label class="mode-choice">
-                <input type="radio" name="reviewMode" value="end" />
-                <span>
-                  <strong>At the end</strong>
-                  <small>Finish the quiz first, then review everything.</small>
-                </span>
-              </label>
-            </fieldset>
-
             <div class="quiz-list" id="quizList"></div>
+
+            <section class="start-panel hidden" id="startPanel">
+              <div>
+                <p class="eyebrow">Ready to Start</p>
+                <h3 id="chosenQuizTitle">Quiz</h3>
+              </div>
+
+              <fieldset class="review-mode">
+                <legend>Answer Review</legend>
+                <label class="mode-choice">
+                  <input type="radio" name="reviewMode" value="immediate" checked />
+                  <span>
+                    <strong>After each question</strong>
+                    <small>Check each answer before moving on.</small>
+                  </span>
+                </label>
+                <label class="mode-choice">
+                  <input type="radio" name="reviewMode" value="end" />
+                  <span>
+                    <strong>At the end</strong>
+                    <small>Finish the quiz first, then review everything.</small>
+                  </span>
+                </label>
+              </fieldset>
+
+              <button class="primary-action" id="startSelectedQuizButton" type="button">Start Quiz</button>
+            </section>
           </section>
         </section>
 
