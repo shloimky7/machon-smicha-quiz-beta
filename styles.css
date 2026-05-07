@@ -190,13 +190,13 @@ main {
 }
 
 .student-path li.is-complete {
-  border-color: rgba(47, 125, 84, 0.32);
-  background: var(--green-soft);
-  color: var(--green);
+  border-color: #d7dde2;
+  background: rgba(236, 240, 243, 0.78);
+  color: #8a949e;
 }
 
 .student-path li.is-complete span {
-  background: var(--green);
+  background: #a8b1ba;
   color: #fff;
 }
 
