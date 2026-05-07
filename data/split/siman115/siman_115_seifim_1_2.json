@@ -1,0 +1,816 @@
+{
+  "id": "siman_115_seifim_1_2-part-1",
+  "title": "Siman 115 - Seifim 1-2",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 35,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 115",
+  "questions": [
+    {
+      "id": "siman_115_seifim_1_2-part-1-q001",
+      "question": "What is the basic concern behind the issur of chalav aku\"m?",
+      "options": {
+        "A": "The non-Jew may mix milk from a non-kosher animal into the kosher milk.",
+        "B": "The non-Jew may cook the milk and create a bishul aku\"m problem.",
+        "C": "The non-Jew may use the milk for cheese before the Jew buys it.",
+        "D": "The non-Jew may make the milk into butter before selling it."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 115, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source explains that Chachamim forbade milk milked by a non-Jew without Jewish supervision because the non-Jew might add non-kosher milk to increase the amount. The decree is focused on possible mixture, not on cooking or later processing by itself.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The siman's chalav aku\"m concern is mixture with non-kosher milk, not bishul aku\"m.",
+        "C": "Cheese is discussed separately; the basic milk decree is not because the milk may later become cheese.",
+        "D": "Butter has its own discussion in Seif 3 and is not the reason for the basic chalav aku\"m decree."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q002",
+      "question": "What does the source say is not the main concern with chalav aku\"m?",
+      "options": {
+        "A": "That the non-Jew may add a small amount of non-kosher milk.",
+        "B": "That the non-Jew would entirely substitute non-kosher milk for the kosher milk.",
+        "C": "That the milk was not supervised at the time of milking.",
+        "D": "That the non-Jew might increase the quantity by mixing something in."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 115, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source says the concern is not that the non-Jew would completely replace kosher milk with non-kosher milk, since the Gemara says the difference can be recognized visually. The concern is that some non-kosher milk may be mixed into the kosher milk.",
+        "A": "That is the actual concern behind the decree.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Lack of supervision at milking is exactly what makes it chalav aku\"m.",
+        "D": "Increasing the quantity by mixing non-kosher milk is the concern described."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q003",
+      "question": "If there are no non-kosher animals in the non-Jew's own herd, what is still required according to the basic halachah?",
+      "options": {
+        "A": "The milk is permitted automatically because his herd has only kosher animals.",
+        "B": "The milk is permitted only if it is turned into cheese immediately.",
+        "C": "A Jew must still supervise, because the chance of mixing is only low, not impossible.",
+        "D": "The milk is forbidden forever, even if a Jew watches the milking afterward."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 115, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source says Chachamim were concerned even when the likelihood of mixing is low. Therefore, even if there is no non-kosher animal in that non-Jew's herd, Jewish supervision is still required unless the case reaches a level where mixing is essentially impossible, which is itself a machlokes.",
+        "A": "No non-kosher animals in his herd lowers the concern but does not remove the supervision requirement by itself.",
+        "B": "Cheese introduces a separate discussion and does not automatically permit unsupervised milk.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The point of supervision is to permit the milk; it is not forbidden forever if properly supervised."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q004",
+      "question": "What is Pri Chadash's approach when mixing in non-kosher milk is extremely unlikely?",
+      "options": {
+        "A": "The milk is forbidden because chalav aku\"m is always a gezeirah b'minyan.",
+        "B": "The milk is permitted because the original concern does not exist in that situation.",
+        "C": "The milk is permitted only if the Jew owns the bucket used for milking.",
+        "D": "The milk is forbidden unless a child supervises the entire milking."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 115, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Pri Chadash holds that when there is no real suspicion of non-kosher milk being mixed in, such as no non-kosher animals in the city or non-kosher milk being more expensive, the milk is permitted without supervision. He understands the issue as tied to the actual concern, not as an independent decree that applies even when the concern is gone.",
+        "A": "That is the Chasam Sofer approach, not Pri Chadash.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Bucket ownership is not the basis of Pri Chadash's leniency.",
+        "D": "Pri Chadash's leniency is about absence of the concern, not child supervision."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q005",
+      "question": "What does Chasam Sofer add about chalav aku\"m?",
+      "options": {
+        "A": "It is only a private minhag and was never a formal decree of Chachamim.",
+        "B": "It is permitted whenever government inspectors can punish dairy companies.",
+        "C": "It applies only to milk meant for drinking, but not milk meant for cheese.",
+        "D": "It is a gezeirah b'minyan that remains in force even if the original reason seems absent."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 115, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Chasam Sofer holds that chalav aku\"m is a gezeirah b'minyan, a formal decree enacted by vote. Such a decree remains binding even if the original reason no longer appears to apply, unless a proper beis din removes it.",
+        "A": "He treats chalav aku\"m as a formal rabbinic decree, not a private custom.",
+        "B": "That is related to Rav Moshe's later chalav stam discussion, not Chasam Sofer's framing.",
+        "C": "Chasam Sofer's point is about the force of the decree, not a simple drinking-versus-cheese split.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q006",
+      "question": "What additional concern do the Rishonim mention about the milking bucket?",
+      "options": {
+        "A": "The bucket may be too small to hold the entire milking.",
+        "B": "The bucket may be used later for cheese or butter production.",
+        "C": "The bucket may belong to the Jewish owner of the animal.",
+        "D": "The non-Jew may leave non-kosher milk in the bucket before beginning."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 115, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Besides the concern that the non-Jew may add non-kosher milk during milking, the Rishonim mention that he may not clean out the bucket beforehand. Some non-kosher milk could remain in the bucket and mix into the kosher milk.",
+        "A": "Bucket size is not the concern described.",
+        "B": "Later use for cheese or butter is not the milking-bucket concern.",
+        "C": "Jewish ownership of the bucket would not create this problem; the concern is residue in the bucket.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q007",
+      "question": "What does Maharai permit in the case of a Jew-owned animal?",
+      "options": {
+        "A": "Any milk from a non-Jewish dairy, even without knowing who owns the animals.",
+        "B": "Milk from a non-Jew's animal if the non-Jew promises not to mix anything in.",
+        "C": "Milk from a Jew-owned animal milked on Jewish property where non-kosher milk use is uncommon.",
+        "D": "Milk from any animal if the non-Jew intended to make cheese from it."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 115, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Maharai holds that nowadays, since even non-Jews generally do not use non-kosher milk, milk from an animal owned by a Jew and milked on the Jew's property may be permitted. The combination of Jewish ownership, Jewish property, and low likelihood of mixing creates the leniency.",
+        "A": "Maharai's case is limited and does not permit every unsupervised dairy.",
+        "B": "The non-Jew's promise alone is not the heter described.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Intent to make cheese is a separate discussion and is not Maharai's specific case."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q008",
+      "question": "What does Mechaber require when a non-Jew milks and no Jew sees the milking?",
+      "options": {
+        "A": "The milk may be used only for butter but not for drinking.",
+        "B": "The milk may be drunk if the non-Jew owns only kosher animals.",
+        "C": "The milk may be used only if it is immediately boiled afterward.",
+        "D": "The milk is forbidden because perhaps non-kosher milk was mixed in."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 115, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that milk milked by a non-Jew without a Jew seeing the milking is forbidden. The reason is the concern that the non-Jew may have mixed in milk from a non-kosher animal.",
+        "A": "Turning it into butter does not simply permit milk that already became chalav aku\"m.",
+        "B": "Mechaber still requires a valid supervision setup even when the herd has no non-kosher animals.",
+        "C": "Boiling the milk afterward does not remove the chalav aku\"m prohibition.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q009",
+      "question": "If the non-Jew has a non-kosher animal in his herd and is milking for a Jew, what must be true for Mechaber's outside-sitting supervision to work?",
+      "options": {
+        "A": "The Jew must be able to see the milking if he stands up.",
+        "B": "The non-Jew must milk only after the Jew leaves the area.",
+        "C": "The Jew must own the pail but need not be near the house.",
+        "D": "The milk must be intended only for cheese and not for drinking."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 115, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Mechaber allows the Jew to sit outside only if the non-Jew will be afraid to mix anything in. When the non-Jew has a non-kosher animal and is milking for the Jew, the Jew must be in a position where he can see the milking if he stands up.",
+        "A": "Correct option; see the main explanation.",
+        "B": "If the Jew is gone and cannot see, the non-Jew has no fear of being caught.",
+        "C": "Pail ownership is not enough; the supervision must create fear of being seen.",
+        "D": "Cheese intention is a separate topic and is not the condition in Mechaber's supervision case."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q010",
+      "question": "Which three things does Rama require l'chatchilah for chalav Yisroel supervision?",
+      "options": {
+        "A": "The Jew owns the animal, owns the pail, and pays before milking begins.",
+        "B": "The Jew is present at the start, checks the pail, and does not leave until the end.",
+        "C": "The Jew boils the milk, strains the milk, and turns part of it into cheese.",
+        "D": "The Jew signs the bottle, seals the barn, and watches the milk cool."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 115, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rama adds three l'chatchilah stringencies: the Jew should be present at the beginning of milking, should look into the vessel receiving the milk, and should not leave until the milking is completed. Rama then discusses how far these requirements apply b'dieved.",
+        "A": "These ownership/payment details are not Rama's three l'chatchilah requirements.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Boiling, straining, or making cheese are not the three supervision requirements.",
+        "D": "Signing, sealing, and watching cooling are not the requirements Rama lists."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q011",
+      "question": "What does Rama say about his three supervision stringencies b'dieved?",
+      "options": {
+        "A": "B'dieved there is no need to be concerned for all of them.",
+        "B": "B'dieved the milk is permitted only if it becomes butter.",
+        "C": "B'dieved all three are still required exactly as l'chatchilah.",
+        "D": "B'dieved the milk is forbidden unless the animal belongs to a non-Jew."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 115, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "After listing the l'chatchilah requirements, Rama writes that b'dieved one need not be concerned for all of them. Later Taz and Shach discuss exactly which requirements Rama meant to relax and how far the b'dieved leniency goes.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The b'dieved rule is about supervision, not changing the milk into butter.",
+        "C": "Rama explicitly says there is b'dieved room not to require all three stringencies.",
+        "D": "Non-Jewish ownership does not create a b'dieved leniency."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q012",
+      "question": "When does Rama permit milk from servants or workers milking in a Jewish setting without direct supervision?",
+      "options": {
+        "A": "When the workers milk in a non-Jew's home far from the Jewish property.",
+        "B": "When the milk is sold only to non-Jewish customers afterward.",
+        "C": "When the workers milk in the Jew's house or barn and no non-Jewish house blocks the way.",
+        "D": "When the workers promise they used only kosher animals and a clean bucket."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 115, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rama permits where maids, servants, or hired workers milk in the Jew's house or barn, and there is no non-Jewish house interrupting between the Jew's house and the milking place. The worker fears that the Jewish owner may appear at any moment.",
+        "A": "A non-Jew's house blocking the way is exactly the case where Rama requires a Jew to be present.",
+        "B": "Who later buys the milk is not the basis for the heter.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The heter is based on the worker's fear of being caught, not a promise."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q013",
+      "question": "Can a Jewish child supervise milking for chalav Yisroel?",
+      "options": {
+        "A": "Yes, Rama says even a Jewish boy or girl can help because the non-Jew is afraid of them.",
+        "B": "No, only an adult male can supervise because children are not believed.",
+        "C": "Yes, but only if the child owns the animal being milked.",
+        "D": "No, because a child can supervise cheese but not milk."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 115, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rama rules that even a Jewish minor, boy or girl, can be effective for supervision because the non-Jew will be afraid to mix in non-kosher milk in front of them. Taz and Shach qualify that the child must be old enough, around age nine, for the non-Jew to fear their report.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Rama explicitly allows a child to supervise in this context.",
+        "C": "Ownership by the child is not required.",
+        "D": "Rama's ruling is specifically about milk supervision."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q014",
+      "question": "What does Rama say if non-Jews milked some animals before a Jew arrived, and the Jew then saw the rest of the milking?",
+      "options": {
+        "A": "All the milk is automatically forbidden because the Jew missed the beginning.",
+        "B": "There is a heter when the Jew sees some of the milking, but not if he arrives only after it is finished.",
+        "C": "The milk is permitted only if it is mixed with chalav Yisroel afterward.",
+        "D": "The milk is permitted only if a child was present before the adult arrived."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 115, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rama introduces a leniency where the Jew comes in during the milking and sees part of it; that can permit the milk in the discussed circumstances. If the Jew arrives only after all milking is finished, the milk is forbidden because no supervision affected the milking itself.",
+        "A": "Rama does not automatically forbid when the Jew sees part of the milking.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Mixing later with chalav Yisroel is not Rama's stated mechanism.",
+        "D": "The case does not depend on a child having been present earlier."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q015",
+      "question": "How does Rama distinguish keilim used for chalav aku\"m, gvinas aku\"m, and chem'as aku\"m?",
+      "options": {
+        "A": "All three always forbid keilim and require sixty against their taste.",
+        "B": "None of the three forbid keilim because each is only rabbinic.",
+        "C": "Chalav and gvinas aku\"m forbid keilim, but chem'as aku\"m does not.",
+        "D": "Only butter forbids keilim, because it is cooked longer than milk."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 115, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rama rules that chalav aku\"m and gvinas aku\"m forbid the vessels in which they are cooked or soaked, like other issurim. Butter of non-Jews, however, does not forbid the vessels even in a place where the custom is to prohibit the butter itself.",
+        "A": "Rama distinguishes butter from milk and cheese.",
+        "B": "Rama says chalav and gvinas aku\"m do forbid keilim.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The direction is the opposite: butter is more lenient regarding keilim."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q016",
+      "question": "If milk already became chalav aku\"m, does making it into cheese or butter permit it?",
+      "options": {
+        "A": "Yes, because non-kosher milk cannot become cheese or butter.",
+        "B": "Yes, but only if the non-Jew makes the cheese for himself.",
+        "C": "Yes, if the Jew later sees the finished product before eating it.",
+        "D": "No, once the milk is forbidden, later making cheese or butter does not help."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 115, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rama rules that chalav aku\"m that already became forbidden is not permitted by later turning it into cheese or butter. Once the milk was designated as forbidden milk, later processing does not remove that status.",
+        "A": "That logic may help in cases where the non-Jew intended from the start to make cheese, but it does not fix milk that already became chalav aku\"m.",
+        "B": "The non-Jew making it for himself does not permit milk already forbidden.",
+        "C": "Seeing the finished product afterward is not enough to undo chalav aku\"m.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q017",
+      "question": "Does it help if the non-Jew milked for his own use rather than for a Jew?",
+      "options": {
+        "A": "No, Taz and Shach quote Tur that unsupervised milking is forbidden either way.",
+        "B": "Yes, because a non-Jew would never mix milk into his own supply.",
+        "C": "Yes, but only if the milk is later sold to a Jewish buyer.",
+        "D": "No, because milk for himself is more severe than all other chalav aku\"m."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 115, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Taz and Shach quote Tur that it makes no difference whether the non-Jew milks for himself or for a Jew; without proper supervision, the milk is forbidden. We do not assume that milking for himself removes the concern of mixing.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Tur does not rely on this assumption.",
+        "C": "Later sale to a Jew does not create supervision at the time of milking.",
+        "D": "The milk is forbidden for the same basic reason, not because it is more severe."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q018",
+      "question": "What is yotzei v'nichnas supervision in this context?",
+      "options": {
+        "A": "The Jew watches continuously from the start to the end without moving.",
+        "B": "The Jew comes in and out unpredictably, so the non-Jew fears being caught.",
+        "C": "The Jew checks the milk only after it has already been bottled.",
+        "D": "The Jew sends a non-Jewish messenger to inspect the milking place."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 115, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Taz and Shach say that where outside supervision works, it is certainly effective if the Jew comes in and out randomly. Even if he does not see every moment, the non-Jew is afraid that the Jew may appear and catch him mixing in non-kosher milk.",
+        "A": "That is constant supervision, not yotzei v'nichnas.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Checking after bottling does not create fear during the milking.",
+        "D": "A non-Jewish messenger does not provide the Jewish supervision described."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q019",
+      "question": "What is Rav Moshe Feinstein's heter for commercially produced milk under government supervision?",
+      "options": {
+        "A": "Government supervision counts as visual supervision by a Jewish child.",
+        "B": "Commercial milk is not included because it is usually turned into powder.",
+        "C": "Government supervision creates certainty that non-kosher milk is not being added.",
+        "D": "Commercial milk is permitted only because all companies are Jewish-owned."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 115, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rav Moshe rules that government supervision and penalties can create absolute certainty that nothing non-kosher is being added. He treats that certainty as halachically comparable to the knowledge needed to remove the concern of non-kosher milk.",
+        "A": "He does not define government inspection as a child watching the milking.",
+        "B": "His heter is about ordinary commercial milk, not only milk powder.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The companies need not be Jewish-owned; the point is external legal supervision."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q020",
+      "question": "What did Rav Moshe write about a baal nefesh and chalav stam?",
+      "options": {
+        "A": "A baal nefesh must treat it like neveilah in all respects.",
+        "B": "A baal nefesh should rely on it specifically for cheese but not milk.",
+        "C": "A baal nefesh may rely on it only when no other milk exists in the city.",
+        "D": "Although he permits it, a baal nefesh should refrain from relying on the heter."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 115, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rav Moshe permits chalav stam under his government-supervision reasoning, but he writes that a baal nefesh should avoid relying on the heter. The source also notes that in places where chalav Yisroel is readily available, there is more reason to be careful.",
+        "A": "Rav Moshe permits the milk and does not classify it like neveilah.",
+        "B": "His baal nefesh comment is about relying on chalav stam generally, not only cheese.",
+        "C": "He permits the milk under the heter, while recommending higher personal stringency.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q021",
+      "question": "How do Taz and Shach differ about Rama's requirement to be present at the beginning of milking?",
+      "options": {
+        "A": "Shach limits it to the outside-sitting case, while Taz requires seeing the beginning directly.",
+        "B": "Taz limits it to butter production, while Shach applies it only to cheese production.",
+        "C": "Shach requires a child under nine, while Taz requires only an adult supervisor.",
+        "D": "Taz says it applies only to non-Jewish animals, while Shach says only Jewish animals."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 115, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Shach understands Rama as adding that when the non-Jew has no non-kosher animals and Mechaber allowed the Jew to sit outside, the Jew must be sitting there from the beginning. Taz understands Rama more strongly: at the beginning the Jew must actually see the milking, even in that case.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The discussion is about milk supervision, not butter or cheese production.",
+        "C": "The age of a child is a separate point, not this dispute.",
+        "D": "The dispute is about what presence at the beginning means, not a simple animal-ownership split."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q022",
+      "question": "According to Taz and Shach, how old must a child be for milking supervision to work?",
+      "options": {
+        "A": "Any age, even a toddler who cannot understand what is happening.",
+        "B": "Only a child old enough to own the animal being milked.",
+        "C": "Only a child who is already bar or bas mitzvah.",
+        "D": "Around age nine and up, when the non-Jew will fear the child's report."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 115, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Although Rama says a Jewish boy or girl can supervise, Taz and Shach explain that this works only when the child is old enough for the non-Jew to fear being reported. They give the age as nine and up.",
+        "A": "A very young child would not create fear because they do not understand or report reliably.",
+        "B": "Ownership is irrelevant to the child's effectiveness.",
+        "C": "Taz and Shach do not require bar or bas mitzvah age.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q023",
+      "question": "What is Shach's conclusion about milking in a non-Jew's home?",
+      "options": {
+        "A": "The Jew may arrive after the milking is complete and still permit the milk.",
+        "B": "The Jew may rely on the non-Jew's later claim that no non-kosher milk was added.",
+        "C": "The Jew must be present the whole time, because the non-Jew does not fear him when absent.",
+        "D": "The Jew need only own the animals, even if the non-Jew controls the milking place."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 115, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "After analyzing Rama's case of a Jew arriving midway, Shach questions whether partial supervision can work in a non-Jew's home. He concludes that in a non-Jew's home the Jew must be present the whole time, because whenever the Jew is absent the non-Jew has no fear of being caught.",
+        "A": "Arriving after completion is not sufficient according to Rama, and certainly not according to Shach's conclusion.",
+        "B": "A later claim by the non-Jew is not accepted as supervision.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Jewish ownership alone does not solve the concern when the non-Jew is in control and unafraid."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q024",
+      "question": "What should someone who does not rely on chalav stam do about chalav stam keilim?",
+      "options": {
+        "A": "They may eat from the equipment because keilim never follow the milk status.",
+        "B": "They may use the equipment only if the product is butter rather than milk.",
+        "C": "They may use the equipment if the company has government supervision.",
+        "D": "They should also avoid foods made with chalav stam equipment."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 115, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source states that those who rely on the chalav stam heter also permit products made on chalav stam equipment. However, those who do not rely on chalav stam also forbid foods made with chalav stam keilim or equipment.",
+        "A": "The source explicitly ties equipment status to the person's position on chalav stam.",
+        "B": "The statement is about chalav stam keilim generally, not only butter.",
+        "C": "For someone who rejects the heter, government supervision is not enough to permit the equipment.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q025",
+      "question": "What is the basic machlokes about milk powder made from unsupervised milk?",
+      "options": {
+        "A": "Whether the chalav aku\"m gezeirah applies to powder after the milk changed form.",
+        "B": "Whether powder can ever dissolve back into liquid milk.",
+        "C": "Whether powdered milk is considered cheese or butter.",
+        "D": "Whether powder requires bishul Yisroel before being eaten."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 115, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source says some poskim hold the decree applies only to milk itself, and milk powder changed enough that it was never included. Others hold that since the powder comes from milk, the chalav aku\"m restriction still applies.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The dispute is halachic inclusion in the decree, not the technical ability to dissolve.",
+        "C": "Milk powder is not classified as cheese or butter in the discussion.",
+        "D": "The issue is chalav aku\"m, not bishul Yisroel."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q026",
+      "question": "What is the main reason Mechaber gives for the issur of gvinas aku\"m?",
+      "options": {
+        "A": "The non-Jew may sell the cheese in a store attached to his home.",
+        "B": "The non-Jew may drink the milk before turning the remainder into cheese.",
+        "C": "The non-Jew may use a wooden cheese mold instead of a metal one.",
+        "D": "The non-Jew may curdle it with the stomach skin of an animal that is neveilah."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 115, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that cheeses of non-Jews were forbidden because they would curdle the milk with the stomach skin of an animal that was a neveilah. This is a separate decree from chalav aku\"m and is not based primarily on suspicion of non-kosher milk in the cheese.",
+        "A": "The place of sale is relevant to some beverage concerns, not the basic cheese decree.",
+        "B": "Drinking some milk first is not the reason for gvinas aku\"m.",
+        "C": "The type of mold is not the stated reason for the decree.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q027",
+      "question": "Why are even vegetarian-starter cheeses included in gvinas aku\"m according to Taz and Shach?",
+      "options": {
+        "A": "Because vegetarian starter is always mixed with wine sediment.",
+        "B": "Because the gezeirah was enacted broadly and did not make case-by-case exceptions.",
+        "C": "Because non-kosher milk always curdles when mixed with vegetarian starter.",
+        "D": "Because vegetarian-starter cheese is treated as butter rather than cheese."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 115, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Taz and Shach explain that gvinas aku\"m is a gezeirah b'minyan. Chachamim applied the decree to all cheeses of non-Jews, even where the specific concern of animal stomach does not apply, such as vegetarian or other starters.",
+        "A": "Wine sediment is not the reason given for vegetarian-starter cheese.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The source says non-kosher milk does not curdle into cheese.",
+        "D": "Vegetarian-starter cheese remains cheese, not butter."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q028",
+      "question": "What does Rama say if a Jew sees both the milking and the cheese-making?",
+      "options": {
+        "A": "The cheese is still forbidden because supervision never helps cheese.",
+        "B": "The cheese is forbidden unless the non-Jew owns the milk.",
+        "C": "The cheese is permitted only if a child also watches the milking.",
+        "D": "The cheese is permitted, and that is the common custom in Rama's countries."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 115, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama rules that if the Jew sees the milking and the cheese-making, the cheese is permitted. He adds that this is the widespread custom in his countries, assuming the Jew can verify that the problematic stomach skin is not used.",
+        "A": "That is Shach's stricter position, not Rama's ruling.",
+        "B": "Non-Jewish ownership would not help; ownership by a Jew can be a separate path to leniency.",
+        "C": "Rama does not require an additional child when an adult Jew supervises.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q029",
+      "question": "According to Shach, what are two ways to make cheese kosher if supervision alone is not enough?",
+      "options": {
+        "A": "A Jew drinks some milk first, or the non-Jew sells the cheese by weight.",
+        "B": "A Jew heats the cheese, or the cheese is aged until it becomes hard.",
+        "C": "A Jew puts in the starter, or the milk is owned by a Jew when cheese is made.",
+        "D": "A Jew checks the cheese mold, or the non-Jew uses only vegetarian starter."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 115, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Shach holds that gvinas aku\"m applies when the cheese is made and owned by a non-Jew. Therefore, it can be avoided if the Jew makes the cheese by putting in the starter, or if the milk belongs to a Jew at the time the cheese is made.",
+        "A": "Drinking milk and selling by weight do not address Shach's requirements.",
+        "B": "Heating or aging does not make non-Jew-made cheese into Jewish-made cheese.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Checking molds or using vegetarian starter does not remove Shach's gezeirah-b'minyan concern."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q030",
+      "question": "Why may cheese be permitted b'dieved when the non-Jew milked with the intention to make cheese?",
+      "options": {
+        "A": "Because the Jew may assume the non-Jew did not add non-kosher milk that would not curdle.",
+        "B": "Because milk intended for cheese is not included in any rabbinic decree.",
+        "C": "Because any later cheese-making automatically counts as Jewish supervision.",
+        "D": "Because non-kosher milk becomes kosher when mixed into cheese curds."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 115, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama allows room b'dieved to rely on the non-Jew's intention to make cheese. Since non-kosher milk does not curdle, the non-Jew has no reason to add it if he plans from the start to produce cheese, so we can assume it was not mixed in for the cheese itself.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Rama still treats this as a b'dieved heter and l'chatchilah wants chalav Yisroel.",
+        "C": "Cheese-making does not retroactively create Jewish supervision.",
+        "D": "Non-kosher milk does not become kosher; the argument is that it was not added."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q031",
+      "question": "What are the conditions for relying on the non-Jew's intention to make cheese?",
+      "options": {
+        "A": "The Jew must pay by milk volume, and the non-Jew may state his intent afterward.",
+        "B": "The Jew must buy by cheese volume, and the intent must be certain before milking begins.",
+        "C": "The Jew must buy the whey, and the non-Jew must use a vegetarian starter.",
+        "D": "The Jew must own the animal, and the non-Jew must finish the cheese alone."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 115, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The source gives two conditions. The Jew must buy by volume of finished cheese, so the non-Jew gains nothing by adding milk that will not curdle. Also, it must be absolutely clear before milking begins that the non-Jew intends to make cheese; a later claim is not accepted.",
+        "A": "Paying by milk volume creates incentive to add non-kosher milk, and later claims are not trusted.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Buying whey or using vegetarian starter is not the stated condition for this heter.",
+        "D": "Jewish animal ownership is a different possible leniency and is not this intention-based rule."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q032",
+      "question": "May one drink the milk that a non-Jew intended to use for cheese?",
+      "options": {
+        "A": "Yes, because the cheese intention proves no non-kosher milk was added.",
+        "B": "Yes, but only if the non-Jew has no non-kosher animals in his herd.",
+        "C": "No, Rama permits the heter only for actual cheese, not for drinking the milk.",
+        "D": "No, unless the milk is first cooked until all whey disappears."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 115, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama concludes that even when we rely on cheese intention for the cheese, the remaining milk may not be drunk as milk. The heter is limited to the product that actually became cheese and does not permit unsupervised milk for drinking.",
+        "A": "Rama explicitly does not allow drinking the milk as is.",
+        "B": "Even with reduced concern, Rama's cheese-intention heter is not a drinking-milk heter.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Cooking until whey disappears is part of the butter discussion, not a way to drink this milk."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q033",
+      "question": "What is the widespread custom today regarding Jewish involvement in cheese-making?",
+      "options": {
+        "A": "L'chatchilah a Jew should put in the starter or own the milk, following Shach's concern.",
+        "B": "A Jew should avoid all cheese unless he personally milked the animal.",
+        "C": "A Jew need only taste the finished cheese before it is packaged.",
+        "D": "A Jew should rely only on the non-Jew's later statement of intent."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 115, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Although many poskim follow Rama that Jewish presence can help, the source says the widespread custom today is to follow Shach l'chatchilah: a Jew should put in the starter or arrange Jewish ownership of the milk. Noda B'Yehudah adds that if the starter belongs to a Jew, Shach would agree even if the non-Jew puts it in.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The custom is not that only personal milking by the Jew works.",
+        "C": "Tasting finished cheese is not cheese-making participation.",
+        "D": "A later statement of intent is specifically not accepted for the cheese-intention heter."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q034",
+      "question": "How does Rav Moshe treat cheese made from chalav stam?",
+      "options": {
+        "A": "He says it is more severe than chalav stam and must always be avoided.",
+        "B": "He says being strict is an extraordinary chumra and one need not be machmir.",
+        "C": "He permits it only when the cheese is soft rather than hard.",
+        "D": "He forbids it unless the non-Jew intended from the start to make cheese."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 115, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The source says Rav Moshe, who permits chalav stam while recommending stringency for a baal nefesh, writes that being strict with cheese made from chalav stam would be an extraordinary stringency. According to him, one need not be machmir on that cheese.",
+        "A": "Rav Moshe is more lenient regarding cheese made from chalav stam, not stricter.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The chalav stam cheese point is not limited to soft cheese.",
+        "D": "That condition belongs to unsupervised milking for cheese, not Rav Moshe's chalav stam heter."
+      }
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1-q035",
+      "question": "Why is there a discussion whether soft cheeses and yogurt are included in gvinas aku\"m?",
+      "options": {
+        "A": "They are always made with the same animal-stomach starter as hard cheese.",
+        "B": "They are never fermented, so everyone agrees they are ordinary milk.",
+        "C": "Some are coagulated by fermentation without starter, but they still may be included as cheese.",
+        "D": "They are made from butter, so they follow the minhag of chem'as aku\"m."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 115, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The source explains that many soft products, such as cream cheese, cottage cheese, or yogurt, are not made with starter in the same way as hard cheese; they coagulate through fermentation. Some poskim therefore compare them more to butter, while others say the cheese decree includes all cheese-like fermented products and requires Jewish participation.",
+        "A": "The discussion exists because many of these products are not made with the same starter process.",
+        "B": "Fermentation is exactly part of the concern for including them.",
+        "C": "Correct option; see the main explanation.",
+        "D": "They are not made from butter; butter is used as a comparison by some poskim."
+      }
+    }
+  ]
+}

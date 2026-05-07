@@ -1,0 +1,195 @@
+{
+  "id": "siman_108_seifim_5_7-part-2",
+  "title": "Siman 108 - Seifim 5-7",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 8,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 108",
+  "questions": [
+    {
+      "id": "siman_108_seifim_5_7-part-2-q001",
+      "question": "What does Mechaber permit regarding the smell of yayin nesech?",
+      "options": {
+        "A": "Inhaling its scent through a barrel hole to test whether it is good.",
+        "B": "Tasting it without swallowing.",
+        "C": "Sprinkling it around a room for fragrance.",
+        "D": "Drinking it if it is no longer used for idolatry."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 108, Seif 5",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Mechaber permits inhaling the smell of yayin nesech through a hole in the barrel to determine whether the wine is good. Rama forbids tasting it even without swallowing and forbids sprinkling yayin nesech for fragrance because it is assur b'hana'ah.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Rama forbids tasting even without swallowing.",
+        "C": "Rama forbids sprinkling yayin nesech for fragrance.",
+        "D": "The wine remains forbidden to drink."
+      }
+    },
+    {
+      "id": "siman_108_seifim_5_7-part-2-q002",
+      "question": "Why may one inhale the scent of yayin nesech according to one explanation in Shach?",
+      "options": {
+        "A": "Wine's primary purpose is drinking, not giving aroma.",
+        "B": "Yayin nesech is always permitted b'hana'ah nowadays.",
+        "C": "Smelling is always unrelated to hana'ah.",
+        "D": "A barrel hole turns wine into stam yeinam."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 108, Seif 5",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "One explanation Shach cites is that benefit from smell is forbidden only when the item is primarily made for aroma. Wine's primary purpose is drinking, not giving smell, so inhaling through the barrel hole for testing can be permitted. Another explanation is that directly inhaling wine's strong smell is harmful rather than beneficial.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Mechaber does not accept a general contemporary leniency for hana'ah.",
+        "C": "Smell can be hana'ah when the object is made for fragrance.",
+        "D": "The barrel hole does not change yayin nesech into stam yeinam."
+      }
+    },
+    {
+      "id": "siman_108_seifim_5_7-part-2-q003",
+      "question": "May one taste issur without swallowing?",
+      "options": {
+        "A": "Yes, tasting without swallowing is always permitted.",
+        "B": "Yes, but only if the food is sharp.",
+        "C": "No, one may not taste or lick issur even without swallowing.",
+        "D": "No, unless the issur is yayin nesech."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 108, Seif 5",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "The source states that one may not taste any issur even without swallowing, and may not even lick it. Taz connects this to the logic of reicha, while Rivash explains that tasting is forbidden lest one come to eat the issur.",
+        "A": "The source explicitly forbids tasting without swallowing.",
+        "B": "Sharpness does not permit tasting issur.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Yayin nesech is specifically included in Rama's prohibition to taste."
+      }
+    },
+    {
+      "id": "siman_108_seifim_5_7-part-2-q004",
+      "question": "What does Psakim U'teshuvos say about ordinary pills for a choleh she'ein bo sakanah?",
+      "options": {
+        "A": "They may be swallowed without a hechsher to alleviate pain.",
+        "B": "They are forbidden even if needed for pain.",
+        "C": "They may be chewed only if they taste pleasant.",
+        "D": "They require libun before swallowing."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 108, Seif 5",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Psakim U'teshuvos discusses medicines that may contain non-kosher ingredients. While vitamins and supplements without a hechsher require consultation, a choleh she'ein bo sakanah, a sick person in non-life-threatening pain, may swallow pills without a hechsher to alleviate the pain.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The source allows swallowing pills for such a sick person.",
+        "C": "The leniency is for swallowing pills, not chewing pleasant-tasting items.",
+        "D": "Libun is a kashering method for utensils, not pills."
+      }
+    },
+    {
+      "id": "siman_108_seifim_5_7-part-2-q005",
+      "question": "What does Mechaber rule about smelling spices placed in barrels of yayin nesech?",
+      "options": {
+        "A": "One may smell them, but may not use them for havdalah.",
+        "B": "One may use them for havdalah, but may not smell them ordinarily.",
+        "C": "One may neither smell them nor move them.",
+        "D": "One may use them only if they are pepper."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 108, Seif 6",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that bags of pepper or ginger placed in barrels of yayin nesech may be smelled, but may not be used as b'samim for havdalah. Shach and Taz explain that the wine is not enhancing the spices; rather, the spices enhance the wine, but the association with yayin nesech makes them inappropriate for a mitzvah.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Mechaber says the opposite: ordinary smelling is allowed, havdalah is not.",
+        "C": "Mechaber permits smelling them.",
+        "D": "Pepper is part of a later dispute, not the condition for the basic ruling."
+      }
+    },
+    {
+      "id": "siman_108_seifim_5_7-part-2-q006",
+      "question": "Why are those spices not used for havdalah even though one may smell them?",
+      "options": {
+        "A": "Because they are associated with yayin nesech and are repulsive for mitzvah use.",
+        "B": "Because spices may never be used for havdalah.",
+        "C": "Because smelling them is forbidden b'hana'ah.",
+        "D": "Because havdalah requires only wine aroma."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 108, Seif 6",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Shach and Taz explain that smelling the spices is permitted because one's intent is to smell the spices and the wine does not improve their scent. Nevertheless, they should not be used for havdalah because an item associated with yayin nesech is repulsive and inappropriate for worship of Hashem, based on the principle from Malachi.",
+        "A": "Correct option; see the main explanation.",
+        "B": "B'samim are normally used for havdalah.",
+        "C": "Mechaber permits smelling them ordinarily.",
+        "D": "Havdalah uses b'samim fragrance, not wine aroma."
+      }
+    },
+    {
+      "id": "siman_108_seifim_5_7-part-2-q007",
+      "question": "Which items does Mechaber forbid smelling in Seif 7?",
+      "options": {
+        "A": "B'samim of avodah zarah, kil'ei hakerem, and orlah.",
+        "B": "All foods that were ever cooked in an oven.",
+        "C": "Any bread baked by a non-Jew.",
+        "D": "All spices meant for flavor rather than smell."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 108, Seif 7",
+        "pageNumbers": "Page 6"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that b'samim of avodah zarah, kil'ei hakerem, and orlah may not be smelled. These are items forbidden in benefit, and when they are fragrance items, smelling them would be deriving prohibited benefit.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The seif is about specific issurei hana'ah, not all cooked foods.",
+        "C": "Non-Jewish bread is not the Seif 7 category.",
+        "D": "The question is about forbidden b'samim, not all flavor spices."
+      }
+    },
+    {
+      "id": "siman_108_seifim_5_7-part-2-q008",
+      "question": "Why may e-cigarettes be more serious than ordinary reicha according to Psakim U'teshuvos?",
+      "options": {
+        "A": "Because the vapor may have the status of zei'ah rather than mere aroma.",
+        "B": "Because all tobacco is actual yayin nesech.",
+        "C": "Because cigarettes are always issur mashehu mid'oraisa.",
+        "D": "Because aroma never enters the mouth."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 108, Seif 7",
+        "pageNumbers": "Page 6"
+      },
+      "explanations": {
+        "correct": "Psakim U'teshuvos suggests that e-cigarette vapor may have the status of zei'ah, which is stricter than reicha because steam has the status of the substance itself. Even if it enters the trachea rather than the esophagus, the vapor enters the mouth, so non-kosher ingredients in the liquid could raise a concern.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Tobacco is not yayin nesech.",
+        "C": "The concern discussed is the possible non-kosher ingredients and vapor status.",
+        "D": "The source is concerned specifically because vapor enters the mouth."
+      }
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "id": "siman_114_seifim_1_6-part-1",
+  "title": "Siman 114 - Seifim 1-6",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 18,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 114",
+  "questions": [
+    {
+      "id": "siman_114_seifim_1_6-part-1-q001",
+      "question": "What are the two possible problems with beverages made or owned by non-Jews?",
+      "options": {
+        "A": "They may create social closeness, and wine may have been mixed into them.",
+        "B": "They are always bishul aku\"m, and their bracha always changes to hagafen.",
+        "C": "They are forbidden d'oraisa, and they always absorb taste from the bottle.",
+        "D": "They are always pas aku\"m, and the drinking vessel must be broken afterward."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 114, Seif 1",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "The beginning of the siman identifies two separate concerns: drinking certain beverages with non-Jews can lead to closeness and intermarriage, and some beverages may have non-kosher wine mixed into them. The first three se'ifim focus mainly on the beer/gezeirah issue, while later se'ifim discuss wine mixtures and other concerns.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The source says beer is not bishul aku\"m, and the bracha point is used as a reason for leniency.",
+        "C": "The siman deals with rabbinic concerns and possible mixtures, not a definite Torah prohibition.",
+        "D": "Pas aku\"m applies to bread, not beverages, and breaking the vessel is not the rule here."
+      }
+    },
+    {
+      "id": "siman_114_seifim_1_6-part-1-q002",
+      "question": "Where does the special gezeirah on beer of non-Jews apply according to Mechaber?",
+      "options": {
+        "A": "Only when the beer was brewed personally by the non-Jew who sells it.",
+        "B": "In the non-Jew's place of sale or house, when drinking in a fixed way.",
+        "C": "In every place, even when the Jew brings it to his own home.",
+        "D": "Only in a city where all residents drink yayin stam openly."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 114, Seif 1",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that the beer is forbidden only in the place of sale, meaning the non-Jew's house or store, and only when the Jew establishes himself there to drink in a normal fixed drinking setting. If the beer is brought to the Jew's home, or he drinks casually in the store without establishing himself, the gezeirah does not apply in the same way.",
+        "A": "The source says the issue follows ownership and drinking setting, not only who brewed it.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Mechaber specifically permits when it is brought to the Jew's home and drunk there.",
+        "D": "That is the separate case in Seif 2, where beer is forbidden as a reminder against yayin stam."
+      }
+    },
+    {
+      "id": "siman_114_seifim_1_6-part-1-q003",
+      "question": "Why is beer made by a non-Jew not generally forbidden as bishul aku\"m?",
+      "options": {
+        "A": "Because beer is always made by a professional palter.",
+        "B": "Because beer is eaten only with bread and not as a drink.",
+        "C": "Because it is not oleh al shulchan melachim, and the grain is batul to the water.",
+        "D": "Because the beer was cooked before the non-Jew owned it."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 114, Seif 1",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "The source gives two reasons beer is not bishul aku\"m. First, beer is not considered oleh al shulchan melachim. Second, the ingredients used to make the beer are treated as secondary to the water, similar to the reason the bracha on beer is shehakol.",
+        "A": "Palter is a bread category and is not the reason beer avoids bishul aku\"m.",
+        "B": "Beer is a beverage; the point is its halachic importance and the ingredients being batul to water.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Ownership before brewing is not the reason given in the source."
+      }
+    },
+    {
+      "id": "siman_114_seifim_1_6-part-1-q004",
+      "question": "A Jew is lodging in a non-Jew's home. What does Mechaber permit regarding beer?",
+      "options": {
+        "A": "He may drink the host's beer in the host's drinking room whenever he wants.",
+        "B": "He may drink only if the beer was brewed by a Jew earlier that day.",
+        "C": "He may drink only outside the city, away from the non-Jew's house.",
+        "D": "He may send to buy beer in the city, because the lodging place counts like his home."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 114, Seif 1",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that one who lodges in a non-Jew's home is treated as if that place is his own home for this halachah. Therefore, he may send in town to buy beer from a non-Jew and drink it where he is lodging, because it is not considered the ordinary prohibited drinking in the non-Jew's store.",
+        "A": "Mechaber's heter is for beer brought from elsewhere; Shach adds that the host's own beer remains a problem when the Jew goes and drinks it with him.",
+        "B": "The permission is not based on Jewish brewing that day.",
+        "C": "The rule permits drinking in the lodging place itself, not only outside the city.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_114_seifim_1_6-part-1-q005",
+      "question": "What leniency does Rama record about honey and grain beer?",
+      "options": {
+        "A": "Some permit honey and grain beer, and the custom in Rama's countries was to be lenient.",
+        "B": "Honey and grain beer are permitted only when wine is more expensive than beer.",
+        "C": "Honey and grain beer are forbidden because they are always served at formal meals.",
+        "D": "Honey and grain beer are permitted only after the drinking vessel is kashered."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 114, Seif 1",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Rama cites authorities who permit beer made from honey and grain, and he writes that the custom in his lands was to be lenient. This is a specific Rama leniency within the broader discussion of beer of non-Jews.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Wine price becomes relevant later for concerns of wine being mixed into beverages.",
+        "C": "Rama records a lenient custom, not a blanket prohibition for these beers.",
+        "D": "Kashering the drinking vessel is not the basis of Rama's beer leniency."
+      }
+    },
+    {
+      "id": "siman_114_seifim_1_6-part-1-q006",
+      "question": "When can even Jewish beer become forbidden according to Mechaber in Seif 2?",
+      "options": {
+        "A": "When it was sold in bottles rather than drawn from a barrel.",
+        "B": "In a place where Jews are acting leniently and drinking wine of non-Jews.",
+        "C": "When it is made from dates, figs, grain, or honey.",
+        "D": "When it is served in the Jew's own home with a formal meal."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 114, Seif 2",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that in a place where Jews are treating non-Jewish wine leniently, even beer is forbidden. This is not because of the beer itself, but as a reminder and protective measure so people will distance themselves from the prohibited wine.",
+        "A": "Bottle versus barrel is not the rule in Seif 2.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Those are examples of beer types in Seif 1, not a reason all beer becomes forbidden.",
+        "D": "The Seif 2 restriction depends on local laxity with yayin stam, not the Jew's home meal."
+      }
+    },
+    {
+      "id": "siman_114_seifim_1_6-part-1-q007",
+      "question": "How does Maharshal limit the rule that beer is forbidden where people are lax about yayin stam?",
+      "options": {
+        "A": "It applies only when the beer is more expensive than the local wine.",
+        "B": "It applies only when the beer was brewed inside a non-Jew's home.",
+        "C": "It applies only where people know the wine is forbidden and are still lenient.",
+        "D": "It applies only when the city has no Jewish-owned beer sellers."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 114, Seif 2",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Taz quotes Maharshal that the added beer restriction applies when people are aware of the prohibition of wine of non-Jews and nevertheless act leniently. If they are simply ignorant and do not know the wine is forbidden, the special reminder-gezeirah is not applied in the same way.",
+        "A": "Wine price is relevant to suspicion of wine mixtures, not Maharshal's limitation here.",
+        "B": "The limitation is about the community's awareness and conduct with wine.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Jewish-owned sellers are not the criterion Maharshal gives."
+      }
+    },
+    {
+      "id": "siman_114_seifim_1_6-part-1-q008",
+      "question": "Why may apple wine, pomegranate wine, and similar uncommon drinks be drunk anywhere?",
+      "options": {
+        "A": "Because non-Jews never own these drinks.",
+        "B": "Because they are always too expensive to contain wine.",
+        "C": "Because they are considered ordinary beer for all purposes.",
+        "D": "Because Chazal did not make the beer gezeirah on uncommon beverages."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 114, Seif 3",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that apple wine, pomegranate wine, and similar beverages are permitted everywhere because they are not common. The gezeirah was made on the common drinking situation that creates social closeness, not on every unusual beverage.",
+        "A": "The drinks may be owned by non-Jews; ownership alone is not the issue here.",
+        "B": "The reason in Seif 3 is that they are uncommon, not their price.",
+        "C": "They are specifically not treated like ordinary beer for the gezeirah.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_114_seifim_1_6-part-1-q009",
+      "question": "What is one reason to suspect that a non-Jew mixed wine into another beverage?",
+      "options": {
+        "A": "Wine is cheaper than that beverage, so it may be added to increase quantity.",
+        "B": "The beverage is always served cold instead of hot.",
+        "C": "The beverage was made from water that was already drinkable.",
+        "D": "The beverage was sold by someone who also sells bread."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 114, Seif 4",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "The source lists several reasons for concern. One is economic: if wine is cheaper than the beverage, the seller may add wine to stretch the more expensive drink and increase the quantity.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Serving temperature is not one of the reasons for suspicion.",
+        "C": "Drinkable water is a reason for leniency in bishul aku\"m contexts, not a wine-mixture suspicion.",
+        "D": "Selling bread is unrelated to whether wine was mixed into the beverage."
+      }
+    },
+    {
+      "id": "siman_114_seifim_1_6-part-1-q010",
+      "question": "Why can a beverage be suspected of wine mixture even if wine is more expensive?",
+      "options": {
+        "A": "Because any use of wine vessels automatically forbids the beverage.",
+        "B": "Because wine may improve its taste, giving the seller a reason to add it.",
+        "C": "Because all beverages are assumed to contain wine unless proven otherwise.",
+        "D": "Because wine sediments always make every beverage ferment faster."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 114, Seif 4",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "The source explains that even if wine costs more, there can still be concern where wine improves the drink's taste. In that case, the seller may add wine not to increase volume cheaply, but to improve the product.",
+        "A": "Rama later says use of wine vessels is not automatically a concern in these cases.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The siman requires a reason to suspect wine was added; it is not a universal assumption.",
+        "D": "Wine sediments are a specific concern for certain alcoholic beverages, not every beverage."
+      }
+    },
+    {
+      "id": "siman_114_seifim_1_6-part-1-q011",
+      "question": "When does Mechaber's concern about buying these beverages from a store not apply?",
+      "options": {
+        "A": "When the Jew pays before the non-Jew pours the drink.",
+        "B": "When the seller promises that no wine was added to the drink.",
+        "C": "When the drink is served in a glass instead of a bottle.",
+        "D": "When the Jew sees it drawn from the original barrel where it was made."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 114, Seif 4",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Mechaber distinguishes between a store sale and seeing the beverage taken from the barrel in which it was made. If the Jew sees it drawn from its original barrel, the concern that the seller mixed in wine afterward is removed.",
+        "A": "The timing of payment does not address the concern of added wine.",
+        "B": "The source does not rely simply on the non-Jew's promise.",
+        "C": "The serving container is not the distinction Mechaber gives.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_114_seifim_1_6-part-1-q012",
+      "question": "Why is there usually no concern that pig fat smeared on the pots forbids these beverages?",
+      "options": {
+        "A": "Because pig fat is never absorbed into metal pots.",
+        "B": "Because the beverages always contain sixty times against the fat.",
+        "C": "Because the taste is considered nosen taam lifgam.",
+        "D": "Because the seller certainly cleans the pots with boiling water."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 114, Seif 4",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Rama writes that although pots and vessels were commonly smeared with pig fat, there is no need to be concerned because the taste is nosen taam lifgam, a ruined or detrimental taste. Such a taste does not forbid the beverage.",
+        "A": "The reason is not that absorption is impossible.",
+        "B": "Rama's stated reason here is ruined taste, not a specific sixty-to-one ratio.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The heter is not built on certainty that the seller kashered the pots."
+      }
+    },
+    {
+      "id": "siman_114_seifim_1_6-part-1-q013",
+      "question": "What is the dispute about how wine becomes nullified in other liquids?",
+      "options": {
+        "A": "Rama requires only a majority, while Taz requires one hundred times.",
+        "B": "Rama forbids all mixtures, while Shach permits all mixtures without bitul.",
+        "C": "Rama requires sixty, while Taz says wine can be nullified in six times as much liquid.",
+        "D": "Rama requires six, while Taz and Shach require the wine to be completely removed."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 114, Seif 4",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Rama assumes the wine concern is removed when there is bitul b'shishim. Taz argues that wine in other liquids can be nullified with only six times as much liquid, while Shach limits that six-times rule to water and agrees that other liquids require sixty.",
+        "A": "Neither side is described as using a simple majority or one hundred times.",
+        "B": "Rama does not forbid all mixtures; he allows bitul, and Shach gives a more nuanced rule.",
+        "C": "Correct option; see the main explanation.",
+        "D": "This reverses Rama and Taz and misses Shach's distinction between water and other liquids."
+      }
+    },
+    {
+      "id": "siman_114_seifim_1_6-part-1-q014",
+      "question": "Why may medicinal pomegranate wine be bought even when not seen coming from the barrel?",
+      "options": {
+        "A": "Because medicinal drinks are never consumed for enjoyment.",
+        "B": "Because anything used as medicine is automatically outside all gezeiros.",
+        "C": "Because pomegranate wine is never improved by adding ordinary wine.",
+        "D": "Because the merchant would not ruin his reputation by diluting or altering it."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 114, Seif 5",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Mechaber permits pomegranate wine sold for medicinal purposes because the seller would damage his reputation if he diluted or altered the medicine. Since the buyer specifically needs the real medicinal product, the seller has a strong reason not to mix in wine.",
+        "A": "The reason is the seller's reputation and the product's medicinal reliability, not lack of enjoyment.",
+        "B": "Medicine is not automatically exempt from all concerns; this case depends on the seller not wanting to damage himself.",
+        "C": "The source does not base the heter on wine failing to improve the taste.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_114_seifim_1_6-part-1-q015",
+      "question": "How does Rama extend the medicinal pomegranate-wine rule?",
+      "options": {
+        "A": "Any artisan product is permitted if the artisan would not damage his own reputation.",
+        "B": "Any beverage is permitted if it is bought in a sealed bottle.",
+        "C": "Any wine-flavored product is permitted when wine is more expensive.",
+        "D": "Any product used for healing is permitted even when everyone adds wine."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 114, Seif 5",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Rama generalizes Mechaber's logic: if an item is bought from a craftsman or merchant who would not damage his reputation by adulterating it, one may buy it. The key is the business/reputation reason not to mix in wine.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Sealed bottles are not the rule Rama states here.",
+        "C": "Wine price is one factor elsewhere, but Rama's extension here is based on not damaging one's reputation.",
+        "D": "If everyone is known to add wine, the siman treats that as a serious concern rather than an automatic medicinal heter."
+      }
+    },
+    {
+      "id": "siman_114_seifim_1_6-part-1-q016",
+      "question": "Why must one investigate beer and mead made by non-Jews in Mechaber's case?",
+      "options": {
+        "A": "Because non-Jews may have used Jewish-owned barrels without permission.",
+        "B": "Because the drinks may have been served in a non-Jew's house.",
+        "C": "Because wine sediments may have been added to help fermentation.",
+        "D": "Because honey and grain drinks are always oleh al shulchan melachim."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 114, Seif 6",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Mechaber says one must check beer and mead because there may be a practice of adding wine sediments. The sediments can help the fermentation process, so this is a real reason to suspect a wine-related ingredient.",
+        "A": "Unauthorized barrel use is not the concern in this seif.",
+        "B": "Drinking location is the Seif 1 beer-gezeirah issue, not the sediment concern here.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The concern here is wine sediments, not the food-importance standard of bishul aku\"m."
+      }
+    },
+    {
+      "id": "siman_114_seifim_1_6-part-1-q017",
+      "question": "When can wine sediments in beer or mead be nullified according to Rama?",
+      "options": {
+        "A": "Only when they are put in for flavor, because flavor is weaker than fermentation.",
+        "B": "Only when there is sixty times against them and they were not added for taste.",
+        "C": "Only when there are six times against them, even if they give flavor.",
+        "D": "Only when the non-Jew removes them before selling the drink."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 114, Seif 6",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Rama rules that if wine sediments are usually added, the drink is forbidden unless there is sixty times against the sediments. He adds that this works only when the sediments are not added for taste, because something added for flavor is not nullified even in a thousand.",
+        "A": "Rama says the opposite: if they are added for taste, bitul does not help.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Taz mentions six, but Rama and Shach require sixty, and flavor remains a problem.",
+        "D": "The source discusses bitul in the drink, not a rule that removal alone permits it."
+      }
+    },
+    {
+      "id": "siman_114_seifim_1_6-part-1-q018",
+      "question": "How does Taz differ from Rama and Shach about nullifying wine sediments?",
+      "options": {
+        "A": "Taz says sediments are never a wine concern at all.",
+        "B": "Taz says they require one hundred times against them.",
+        "C": "Taz says they can become batul in six, like wine.",
+        "D": "Taz says they are permitted only if added by a Jew."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 114, Seif 6",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "The source says Rama requires sixty times against the wine sediments, and Shach agrees with Rama. Taz disagrees and treats the sediments like wine, which in his view can be nullified with six times as much beverage.",
+        "A": "Taz does not deny that sediments can be a concern; he argues about the amount needed for bitul.",
+        "B": "The dispute is six versus sixty, not one hundred.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The question is the amount of nullification, not who added the sediments."
+      }
+    }
+  ]
+}

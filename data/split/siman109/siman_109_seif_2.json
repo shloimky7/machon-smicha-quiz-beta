@@ -1,0 +1,402 @@
+{
+  "id": "siman_109_seif_2-part-2",
+  "title": "Siman 109 - Seif 2",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 17,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 109",
+  "questions": [
+    {
+      "id": "siman_109_seif_2-part-2-q001",
+      "question": "What is yedias hata'aruvos?",
+      "options": {
+        "A": "Knowing whether bread is barley or wheat.",
+        "B": "Knowing how to kasher a utensil with hagalah.",
+        "C": "Knowing which oven is considered large.",
+        "D": "Knowing that a mixture of issur and heter occurred."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 109, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Yedias hata'aruvos means awareness that the ta'aruvos occurred. The source explains that, at least in yavesh b'yavesh, knowledge helps create the halachic status of mixture and allows bitul to take effect before another issur falls in or before the mixture is cooked.",
+        "A": "Barley and wheat bread are from Siman 108.",
+        "B": "That is utensil kashering, not this concept.",
+        "C": "Oven size is from Siman 108.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_109_seif_2-part-2-q002",
+      "question": "According to Rosh's explanation of the Mishnah, when does Rabbi Shimon permit the second se'ah?",
+      "options": {
+        "A": "Only if the mixture was lach b'lach.",
+        "B": "Only if both se'ah fell in at exactly the same moment.",
+        "C": "Only if no person ever knew about the mixture.",
+        "D": "Only if the first fall-in was known before the second one fell."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 109, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rosh explains that even Rabbi Shimon's leniency works only if there was knowledge of the first mixture before the second se'ah fell. If both are discovered only afterward, bitul did not take effect between the two events and the total issur amount is measured together.",
+        "A": "The discussion here explains yedias hata'aruvos in bitul.",
+        "B": "If they fall together, the combined amount must be measured.",
+        "C": "Knowledge is a prerequisite according to Rosh.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_109_seif_2-part-2-q003",
+      "question": "Why is yedias hata'aruvos especially relevant to yavesh b'yavesh according to the Rebbe's explanation?",
+      "options": {
+        "A": "Because every piece physically dissolves into every other piece.",
+        "B": "Because yavesh b'yavesh is always a liquid mixture.",
+        "C": "Because no rov can exist until the food is cooked.",
+        "D": "Because the mixture is defined by human perception, not by physical blending."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 109, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The Rebbe explains that yavesh b'yavesh pieces remain physically distinct; the ta'aruvos exists because people cannot tell which piece is issur. Since human perception creates the halachic mixture, knowledge of the mixture is relevant to when bitul can take effect.",
+        "A": "Dissolving describes lach b'lach, not yavesh b'yavesh.",
+        "B": "Yavesh b'yavesh is not a liquid mixture.",
+        "C": "Rov can apply before cooking.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_109_seif_2-part-2-q004",
+      "question": "How does Rav Shimon Shkop explain yedias hata'aruvos?",
+      "options": {
+        "A": "Yedias hata'aruvos applies only to flour mixtures.",
+        "B": "Bitul applies only after a rav writes a formal ruling.",
+        "C": "The owner must always eat one piece immediately.",
+        "D": "Before people cannot distinguish the issur, there is no subjective ta'aruvos."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 109, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rav Shimon Shkop explains that in yavesh b'yavesh, each piece remains a separate entity. The ta'aruvos begins only when people are unable to distinguish the issur, so before awareness of that uncertainty, the rules of roiv do not yet apply in the same way.",
+        "A": "The concept is not limited to flour.",
+        "B": "The explanation is about awareness and uncertainty, not a written ruling.",
+        "C": "Eating immediately is unrelated.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_109_seif_2-part-2-q005",
+      "question": "Whose knowledge may be needed for yedias hata'aruvos?",
+      "options": {
+        "A": "Only the non-Jew who owns the issur.",
+        "B": "Either anyone's knowledge or specifically the owner's knowledge, depending on the view.",
+        "C": "Only the person who will eat the first piece.",
+        "D": "Only the person who cooked the mixture."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 109, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The poskim cite a question from the Yerushalmi whether yedias hata'aruvos requires any person's knowledge of the mixture or specifically the owner's knowledge. Some accept anyone's knowledge, while others require the owner's awareness.",
+        "A": "The question is not limited to a non-Jewish owner.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The eater's knowledge is not the only possible requirement.",
+        "D": "Cooking is not the defining person."
+      }
+    },
+    {
+      "id": "siman_109_seif_2-part-2-q006",
+      "question": "What question arises if yavesh b'yavesh min b'mino is later cooked together?",
+      "options": {
+        "A": "Whether the pieces became flies in the pot.",
+        "B": "Whether the oven is considered tanur gadol.",
+        "C": "Whether the earlier rov still suffices or shishim is now needed.",
+        "D": "Whether smelling the mixture is hana'ah."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 109, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Once a yavesh b'yavesh mixture is cooked together, taste can move through the broth into all the pieces. The question is whether the earlier dry-stage bitul b'rov remains enough or whether the mixture now requires shishim against the issur.",
+        "A": "Flies are from Siman 107.",
+        "B": "Oven size is a reicha issue.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Smelling issur is from Siman 108."
+      }
+    },
+    {
+      "id": "siman_109_seif_2-part-2-q007",
+      "question": "What does Rosh hold if the mixture was known before it was cooked?",
+      "options": {
+        "A": "No one may eat the mixture even if one piece is discarded.",
+        "B": "Shishim is always needed because cooking creates a new issur.",
+        "C": "Only rov is needed because the issur already became heter through bitul.",
+        "D": "The mixture is permitted only if it is min b'she'eino mino."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 109, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rosh holds that once the yavesh b'yavesh mixture became known and the issur was batul b'rov, it transformed into heter. Therefore, later cooking does not re-forbid the mixture, and rov remains enough.",
+        "A": "Rosh is the most lenient opinion about eating the mixture.",
+        "B": "That is Rashba's stricter direction, not Rosh when there was prior knowledge.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The discussion is min b'mino."
+      }
+    },
+    {
+      "id": "siman_109_seif_2-part-2-q008",
+      "question": "According to Rosh, what if the mixture was cooked before anyone knew issur had mixed in?",
+      "options": {
+        "A": "It remains permitted with rov because knowledge is irrelevant.",
+        "B": "It needs shishim because bitul had not yet taken effect.",
+        "C": "It must be thrown out even with shishim.",
+        "D": "It becomes permitted only after twenty-four hours."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 109, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rosh requires yedias hata'aruvos for bitul to take effect. If the mixture was cooked before anyone knew that issur had mixed in, the dry-stage bitul never occurred, and once cooked it is judged as lach b'lach min b'mino requiring shishim.",
+        "A": "Rosh makes knowledge essential.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Shishim can address the cooked taste issue.",
+        "D": "Twenty-four hours is a kavush measure, not this rule."
+      }
+    },
+    {
+      "id": "siman_109_seif_2-part-2-q009",
+      "question": "Why does Rashba require shishim when the whole dry mixture is later cooked?",
+      "options": {
+        "A": "Because yedias hata'aruvos never helps any mixture.",
+        "B": "Because Rosh also forbids one person to eat all pieces.",
+        "C": "Because once cooked, each piece receives flavor from all the others.",
+        "D": "Because all min b'mino yavesh b'yavesh requires shishim from the start."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 109, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rashba holds the issur does not fully transform into heter mid'rabbanan. If the entire mixture is cooked, the broth carries flavor from the issur into all pieces, making it as if the whole mixture is being eaten together; therefore shishim is needed.",
+        "A": "Rashba's issue is cooking and flavor spread, not denying knowledge entirely.",
+        "B": "Rosh is lenient about one person eating all pieces.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Before cooking, min b'mino yavesh b'yavesh is batul b'rov."
+      }
+    },
+    {
+      "id": "siman_109_seif_2-part-2-q010",
+      "question": "How does Mechaber rule if all the batul yavesh b'yavesh pieces were cooked together?",
+      "options": {
+        "A": "They are permitted only if one person eats them all at once.",
+        "B": "They are permitted with rov even without prior knowledge.",
+        "C": "They are assur unless there is shishim against the issur.",
+        "D": "They are forbidden even if there is shishim."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 109, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber rules like Rashba that if the yavesh b'yavesh pieces were all cooked together, they are forbidden even to eat one at a time unless there is shishim against the issur, because the broth carries the issur's taste into all the pieces.",
+        "A": "Eating all at once is not Mechaber's solution.",
+        "B": "That follows Rosh's lenient view only when the mixture was known first.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Mechaber allows shishim to permit the cooked mixture."
+      }
+    },
+    {
+      "id": "siman_109_seif_2-part-2-q011",
+      "question": "What may one do before cooking a yavesh b'yavesh mixture that lacks shishim?",
+      "options": {
+        "A": "Add issur until the pieces become recognizable.",
+        "B": "Cook it first and then add heter afterward.",
+        "C": "Add heter until there is shishim and then cook it.",
+        "D": "Taste the mixture to locate the issur."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 109, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that if one wants to cook the yavesh b'yavesh mixture together and there is not shishim, one may add heter until there is shishim and then cook it. This is not considered forbidden nullification l'chatchilah.",
+        "A": "Adding issur would worsen the problem.",
+        "B": "Mechaber's permission is to add before cooking.",
+        "C": "Correct option; see the main explanation.",
+        "D": "A Jew may not taste issur to identify it."
+      }
+    },
+    {
+      "id": "siman_109_seif_2-part-2-q012",
+      "question": "Why is adding heter before cooking not considered ein m'vatlin issur l'chatchilah?",
+      "options": {
+        "A": "Because the issur becomes visible once more heter is added.",
+        "B": "Because ein m'vatlin applies only to dairy mixtures.",
+        "C": "Because the mixture is already permitted through bitul b'rov before cooking.",
+        "D": "Because one is adding liquid rather than dry food."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 109, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Shach and Taz explain that before the foods are cooked, the yavesh b'yavesh mixture is already permitted through bitul b'rov. Since there is no current issur to nullify, adding heter before cooking to avoid a future taste problem is not the prohibited act of intentionally nullifying issur.",
+        "A": "Adding heter does not make the issur visible.",
+        "B": "Ein m'vatlin issur l'chatchilah is not limited to dairy.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The permission is not based on liquid versus dry addition."
+      }
+    },
+    {
+      "id": "siman_109_seif_2-part-2-q013",
+      "question": "What lenient opinion does Rama cite about cooking after the mixture was known?",
+      "options": {
+        "A": "If the mixture is min b'she'eino mino, rov always suffices.",
+        "B": "If the ta'aruvos was cooked first, no knowledge is ever needed.",
+        "C": "If the ta'aruvos was known before cooking, everything remains mutar.",
+        "D": "If the pieces are cooked together, they become chaha'l."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 109, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama cites the opinion that if the yavesh b'yavesh mixture was known before the pieces were cooked together, everything remains permitted. Since the issur was already batul while dry, it does not return and forbid the mixture when cooked.",
+        "A": "Rama generally requires shishim for min b'she'eino mino.",
+        "B": "Knowledge before cooking is the condition in the lenient view.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The lenient opinion is not based on chaha'l."
+      }
+    },
+    {
+      "id": "siman_109_seif_2-part-2-q014",
+      "question": "When does Rama allow relying on the lenient opinion about later cooking?",
+      "options": {
+        "A": "In a situation of loss.",
+        "B": "Only in a case of pikuach nefesh.",
+        "C": "Only when the issur is chametz on Pesach.",
+        "D": "Only when no one knew of the mixture."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 109, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama rules that in a case of hefsed, one may rely on the lenient opinion and permit the mixture if the ta'aruvos was known before cooking. Without that need, Mechaber's stricter ruling requiring shishim remains the basic approach.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Rama says hefsed, not only danger to life.",
+        "C": "Chametz on Pesach is not the condition.",
+        "D": "The leniency requires prior knowledge."
+      }
+    },
+    {
+      "id": "siman_109_seif_2-part-2-q015",
+      "question": "What if the yavesh b'yavesh mixture was divided and cooked in two pots?",
+      "options": {
+        "A": "According to Shach quoting Rashba, each pot may be eaten one at a time.",
+        "B": "Both pots are forbidden even if together they have shishim.",
+        "C": "Only the first pot may be eaten because it surely has the issur.",
+        "D": "The pots become one lach b'lach mixture immediately."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 109, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Shach quotes Rashba that if the dry mixture is divided and cooked in two pots, each pot may be eaten one at a time, even without shishim in each pot. Since the issur is in only one pot, when eating from one it can be said the issur may be in the other.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Shach presents a leniency for the two-pot case.",
+        "C": "There is no certainty which pot contains the issur.",
+        "D": "Separate pots remain separate for this analysis."
+      }
+    },
+    {
+      "id": "siman_109_seif_2-part-2-q016",
+      "question": "How does Shach respond to Bach's leniency when cooking occurred before the issur was known?",
+      "options": {
+        "A": "He agrees fully that no shishim is ever needed.",
+        "B": "He says Rashba would require shishim, but the pots may combine to reach it.",
+        "C": "He says the mixture is forbidden even with shishim.",
+        "D": "He says Bach applies only to barley bread."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 109, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Bach says even if the mixture was cooked in two pots before knowledge, Rashba would permit it. Shach disagrees, arguing that without prior knowledge bitul had not occurred and shishim is needed. However, Shach adds that the two pots may combine to reach shishim, like a case where issur fell into one of two pots belonging to the same person.",
+        "A": "Shach explicitly argues with Bach.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Shishim can solve the taste problem.",
+        "D": "Barley bread is unrelated."
+      }
+    },
+    {
+      "id": "siman_109_seif_2-part-2-q017",
+      "question": "What does Mechaber's permission to add heter teach about the mixture before cooking?",
+      "options": {
+        "A": "It is currently permitted, so the added heter prevents a future problem.",
+        "B": "It is currently forbidden and one may always nullify issur intentionally.",
+        "C": "It is currently chametz on Pesach and cannot be fixed.",
+        "D": "It is currently a beriah and cannot be batul."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 109, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The permission to add heter before cooking rests on the fact that the yavesh b'yavesh mixture is already permitted through rov. Adding heter is not nullifying a present issur; it is increasing the amount before cooking so that a later lach b'lach taste issue will not arise.",
+        "A": "Correct option; see the main explanation.",
+        "B": "One may not generally nullify a current issur intentionally.",
+        "C": "Chametz is not the case here.",
+        "D": "Beriah would not follow these ordinary bitul rules."
+      }
+    }
+  ]
+}

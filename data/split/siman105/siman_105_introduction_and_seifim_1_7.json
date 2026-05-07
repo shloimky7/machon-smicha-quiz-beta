@@ -1,0 +1,655 @@
+{
+  "id": "siman_105_introduction_and_seifim_1_7-part-1",
+  "title": "Siman 105 - Introduction and Seifim 1-7",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 28,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 105",
+  "questions": [
+    {
+      "id": "siman_105_introduction_and_seifim_1_7-part-1-q001",
+      "question": "What is the broad subject of Siman 105?",
+      "options": {
+        "A": "Different ways issur taste can transfer into heter.",
+        "B": "The order for kashering liver before cooking.",
+        "C": "The laws of animals that are born treifos.",
+        "D": "The rules for selling chametz before Pesach."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 105, Introduction",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The introduction describes Siman 105 as a central siman in Hilchos Ta'aruvos because it gathers the major systems of taste transfer between issur and heter. It covers kavush, bishul, kli rishon and kli sheini, irui, tzliyah, shamein and kachush, heter m'fateim l'issur, and melichah.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Kashering liver is not the organizing topic of this siman.",
+        "C": "Treifah status is not the focus of these se'ifim.",
+        "D": "Selling chametz is not part of Hilchos Ta'aruvos here."
+      }
+    },
+    {
+      "id": "siman_105_introduction_and_seifim_1_7-part-1-q002",
+      "question": "Which list places the transfer amounts in increasing order of severity?",
+      "options": {
+        "A": "Kulo, k'dei netilah, k'dei klipah, greidah.",
+        "B": "K'dei klipah, kulo, greidah, k'dei netilah.",
+        "C": "Greidah, k'dei klipah, k'dei netilah, kulo.",
+        "D": "Greidah, kulo, k'dei klipah, k'dei netilah."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 105, Introduction",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source lists the quantities from less severe to more severe as greidah, then k'dei klipah, then k'dei netilah, and finally kulo. This matters because the siman often distinguishes whether only a scrape, peel, thumb-width layer, or the whole food becomes assur.",
+        "A": "This starts with the most severe amount instead of the least severe.",
+        "B": "This puts kulo before the smaller transfer amounts.",
+        "C": "Correct option; see the main explanation.",
+        "D": "This moves kulo into the middle, which is not the source's order."
+      }
+    },
+    {
+      "id": "siman_105_introduction_and_seifim_1_7-part-1-q003",
+      "question": "What does kavush harei hu k'mevushal mean?",
+      "options": {
+        "A": "Soaking works only when the liquid is vinegar.",
+        "B": "Soaking long enough is treated like cooking for taste transfer.",
+        "C": "Cold food never transfers taste into a liquid.",
+        "D": "A utensil becomes kosher through twenty-four-hour soaking."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 105, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Kavush means that when a solid remains soaking in liquid for the halachic amount of time, the soaking is treated like bishul with respect to taste transfer. Even without actual heat, the taste can move through the liquid and affect the foods involved.",
+        "A": "The halachah follows the view that kavush applies to all liquids, not only vinegar.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Kavush is exactly the case where cold soaking can transfer taste.",
+        "D": "The siman discusses utensils becoming assur through soaking, not becoming kosher that way."
+      }
+    },
+    {
+      "id": "siman_105_introduction_and_seifim_1_7-part-1-q004",
+      "question": "What is the standard time for ordinary kavush according to Mechaber and Rama?",
+      "options": {
+        "A": "The time it takes to rinse the outside surface.",
+        "B": "The time it takes for a liquid to start boiling.",
+        "C": "Three full days from beginning to end.",
+        "D": "Twenty-four consecutive hours of soaking."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 105, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Although Rabbeinu Tam requires three days, the Rosh requires twenty-four hours, and Mechaber and Rama rule like the Rosh. Therefore, ordinary cold soaking becomes kavush after twenty-four consecutive hours.",
+        "A": "Rinsing helps when kavush has not occurred; it is not the kavush time.",
+        "B": "That shorter measure is discussed for tzir and sharp liquids, not ordinary kavush.",
+        "C": "Three days is Rabbeinu Tam's view, not the practical ruling here.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_105_introduction_and_seifim_1_7-part-1-q005",
+      "question": "How does tzir differ from ordinary liquids in the laws of kavush?",
+      "options": {
+        "A": "Tzir never transfers taste unless heated in a kli rishon.",
+        "B": "Tzir can create kavush after k'dei she'yartiach.",
+        "C": "Tzir permits the mixture because it is too salty to drink.",
+        "D": "Tzir requires three days before any transfer begins."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 105, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that tzir, and according to his wording vinegar as well, can create a kavush-like transfer after k'dei she'yartiach, a much shorter time than twenty-four hours. The reason is that tzir is sharply salty and has stronger power to draw out and transfer taste.",
+        "A": "Tzir is stricter than ordinary liquids, not weaker.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Its undrinkable saltiness makes it more powerful halachically, not automatically permitted.",
+        "D": "Three days is a rejected view for ordinary kavush and is not the tzir measure."
+      }
+    },
+    {
+      "id": "siman_105_introduction_and_seifim_1_7-part-1-q006",
+      "question": "How does Rama treat the part of a food that is above the liquid in a kavush case?",
+      "options": {
+        "A": "He forbids only the part actually under the liquid.",
+        "B": "He permits all of it when the top part stayed dry.",
+        "C": "He requires only rinsing above the liquid line.",
+        "D": "He first forbids all, then cites a leniency for the part above."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 105, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama writes that where kavush applies, even the part outside the liquid becomes assur because taste can spread upward as by cooking. He then cites a lenient opinion for the part above the liquid, and Shach and Taz understand that Rama leans to that leniency in at least some cases.",
+        "A": "Rama initially says even the above-liquid portion can become assur.",
+        "B": "Rama does not simply permit all of it without qualification.",
+        "C": "Rinsing is the result when there was no kavush, not Rama's rule for the above-liquid part.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_105_introduction_and_seifim_1_7-part-1-q007",
+      "question": "What is Rama's ruling about safek kavush?",
+      "options": {
+        "A": "It is assur, except that meat and milk has room for leniency.",
+        "B": "It is mutar because every item keeps its chezkas heter.",
+        "C": "It is assur only if the soaking was in a metal utensil.",
+        "D": "It is mutar only when the issur is certainly shamein."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 105, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama rules that safek kavush is assur. He makes an exception for meat and milk, because the Torah prohibition of basar b'chalav applies specifically through actual cooking, so a doubtful kavush case has a weaker basis for stringency.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Taz suggests a chezkas heter argument, but Shach rejects it and Rama is strict.",
+        "C": "The safek kavush ruling is not limited to metal utensils.",
+        "D": "A certainly fatty issur would usually strengthen, not weaken, the concern."
+      }
+    },
+    {
+      "id": "siman_105_introduction_and_seifim_1_7-part-1-q008",
+      "question": "How do Taz and Shach disagree about a utensil that held issur in kavush for twenty-four hours?",
+      "options": {
+        "A": "Taz says the utensil stays mutar, while Shach says it needs libbun.",
+        "B": "Taz says only k'dei klipah of the utensil is assur, while Shach says the issur enters the whole utensil.",
+        "C": "Taz says kavush applies only to wood, while Shach says it applies only to metal.",
+        "D": "Taz says the food becomes assur, while Shach says the utensil remains pareve."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 105, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Both Taz and Shach agree that a utensil can become assur through kavush, but they disagree how deeply. Taz understands that only k'dei klipah of the utensil is affected, so later food can be permitted with sixty against that layer. Shach maintains that the issur penetrates the entire utensil.",
+        "A": "Taz does not leave the utensil fully mutar, and Shach discusses absorption, not necessarily libbun here.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Neither opinion limits kavush to only wood or only metal.",
+        "D": "The disagreement is about the utensil's depth of absorption, not pareve status."
+      }
+    },
+    {
+      "id": "siman_105_introduction_and_seifim_1_7-part-1-q009",
+      "question": "What do Mechaber and Rama generally hold about taste transfer in a kli sheini?",
+      "options": {
+        "A": "A kli sheini always transfers like a kli rishon.",
+        "B": "A kli sheini transfers only if the utensil is ceramic.",
+        "C": "A kli sheini generally does not transfer taste b'dieved.",
+        "D": "A kli sheini is stricter than irui from a kli rishon."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 105, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber and Rama rule that a kli sheini generally does not transfer taste. L'chatchilah one should not place issur and heter together in a hot kli sheini, but if it happened b'dieved, the food is generally permitted and only hadachah is required.",
+        "A": "That is stricter than the basic ruling of Mechaber and Rama.",
+        "B": "Ceramic is discussed in later practical applications, not as the basic rule.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Irui from a kli rishon has its own power; a kli sheini is not generally stricter."
+      }
+    },
+    {
+      "id": "siman_105_introduction_and_seifim_1_7-part-1-q010",
+      "question": "In the common spoon case, what happens if a ben yomo milchig spoon is put into hot fleishig soup in a kli sheini?",
+      "options": {
+        "A": "The soup remains mutar, the cup needs hadachah, and the metal spoon should be kashered.",
+        "B": "The soup and cup are fully assur, and the spoon must be thrown away.",
+        "C": "The soup is permitted only if it has sixty times the spoon's full volume.",
+        "D": "The spoon remains milchig, but the soup becomes dairy."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 105, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "The source's practical case says that hot fleishig soup in a kli sheini does not become assur from a ben yomo milchig spoon, even without sixty. The cup needs only hadachah, while a metal spoon should be kashered because kashering is possible; ceramic or porcelain need not be kashered b'dieved.",
+        "A": "Correct option; see the main explanation.",
+        "B": "That treats the kli sheini like a full kli rishon, which is not the practical ruling.",
+        "C": "The source explicitly permits the soup even without sixty in this kli sheini case.",
+        "D": "The soup does not become dairy through this kli sheini contact."
+      }
+    },
+    {
+      "id": "siman_105_introduction_and_seifim_1_7-part-1-q011",
+      "question": "What is the core dispute about davar gush in this siman?",
+      "options": {
+        "A": "Whether a solid can ever be considered food for kashrus.",
+        "B": "Whether rice is always excluded from all taste-transfer laws.",
+        "C": "Whether every solid food is treated like a sharp food.",
+        "D": "Whether a hot solid keeps kli rishon power after being moved."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 105, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Davar gush means a hot solid food. The dispute is whether, because it retains heat internally, it keeps a kli rishon-like status even after being placed into a kli sheini or later vessel. Issur V'heter and Maharshal are stringent, while Rama rejects the category as a general rule.",
+        "A": "No one doubts that solid food is food for kashrus purposes.",
+        "B": "Rice is one example debated by Shach, not the core issue.",
+        "C": "Davar gush is about retained heat, not sharpness.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_105_introduction_and_seifim_1_7-part-1-q012",
+      "question": "How does Taz rule about davar gush with a knife or fork?",
+      "options": {
+        "A": "He always follows Rama and ignores davar gush completely.",
+        "B": "He is generally lenient, but strict when duchka d'sakina adds knife pressure.",
+        "C": "He forbids only rice because rice is pourable.",
+        "D": "He permits utensils because solids cannot affect metal."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 105, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Taz generally agrees with Rama that davar gush in a kli sheini is not automatically treated like a kli rishon. However, he agrees with Maharshal where duchka d'sakina is present, because the pressure of a knife, and similarly a fork inserted into hot davar gush, helps force taste transfer.",
+        "A": "Taz makes an important exception for knife pressure.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The rice question is associated with Shach's limitation, not Taz's main ruling.",
+        "D": "The whole concern is that the hot solid can affect the utensil through pressure."
+      }
+    },
+    {
+      "id": "siman_105_introduction_and_seifim_1_7-part-1-q013",
+      "question": "What is the basic rule of tata'ah gavar?",
+      "options": {
+        "A": "The top item always controls the temperature and transfer.",
+        "B": "The larger item always controls the temperature and transfer.",
+        "C": "A cold utensil always prevents every form of absorption.",
+        "D": "The bottom item overpowers the top item in hot-cold contact."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 105, Seif 3",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "The halachah follows Shmuel that tata'ah gavar, meaning the lower item overpowers. If cold food falls into hot food, the hot bottom heats the cold top and transfer occurs broadly. If hot food falls onto cold food, the cold bottom cools it and only a k'dei klipah is forbidden.",
+        "A": "That would be ila'ah gavar, the opinion not followed.",
+        "B": "Size is not the principle; the lower position is the principle.",
+        "C": "A cold bottom limits transfer, but does not always prevent even k'dei klipah.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_105_introduction_and_seifim_1_7-part-1-q014",
+      "question": "If hot issur falls onto cold heter, what is the usual result?",
+      "options": {
+        "A": "Only a k'dei klipah of the heter becomes assur.",
+        "B": "The whole heter becomes assur in every case.",
+        "C": "The heter remains fully permitted without rinsing.",
+        "D": "The issur becomes permitted through the cold heter."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 105, Seif 3",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Under tata'ah gavar, the cold lower item overpowers and cools the hot upper item. Therefore, the hot issur does not transfer throughout the heter; the heter needs only k'dei klipah removed at the point of contact, unless another factor such as fattiness changes the case.",
+        "A": "Correct option; see the main explanation.",
+        "B": "That would be the usual result when the bottom is hot, not cold.",
+        "C": "There is still a contact layer that becomes assur.",
+        "D": "Cold heter does not permit the issur itself."
+      }
+    },
+    {
+      "id": "siman_105_introduction_and_seifim_1_7-part-1-q015",
+      "question": "How does Rama apply tata'ah gavar when one item is already in a kli sheini?",
+      "options": {
+        "A": "He treats every kli sheini case exactly like a kli rishon.",
+        "B": "He says tata'ah gavar applies only to liquids, not foods.",
+        "C": "He limits the rule to heat of a kli rishon; in a kli sheini there is no issur at all.",
+        "D": "He applies tata'ah gavar only when the top item is the heter."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 105, Seif 3",
+        "pageNumbers": "Pages 4-5"
+      },
+      "explanations": {
+        "correct": "Rama writes that the tata'ah gavar rules in this seif apply to heat of a kli rishon. If the hot item is already in a kli sheini, the usual rule is that no issur is created at all, because kli sheini lacks the same power to transfer taste.",
+        "A": "Rama distinguishes kli sheini from kli rishon.",
+        "B": "Rama applies the rule to food and keilim, not only liquids.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The rule depends on top and bottom heat, not simply which one is heter."
+      }
+    },
+    {
+      "id": "siman_105_introduction_and_seifim_1_7-part-1-q016",
+      "question": "In side-by-side hot and cold meat/cheese contact, how do Shach and Taz qualify Rama's ruling?",
+      "options": {
+        "A": "They say only the cheese ever needs k'dei klipah.",
+        "B": "They say both sides need k'dei klipah, because each is issur to the other.",
+        "C": "They say both remain fully permitted without any removal.",
+        "D": "They say the entire pot joins only if there is rotev."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 105, Seif 3",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Rama says that when hot and cold items touch side by side, the heter needs k'dei klipah at the contact area. Shach and Taz add that with meat and cheese, each side is considered issur relative to the other, so both the meat and the cheese require k'dei klipah.",
+        "A": "The same logic applies to both meat and cheese.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Rama's ruling still requires a klipah at contact.",
+        "D": "This question is about side-by-side contact, not pot-wide rotev."
+      }
+    },
+    {
+      "id": "siman_105_introduction_and_seifim_1_7-part-1-q017",
+      "question": "What is the basic difference between bishul and tzliyah for taste transfer?",
+      "options": {
+        "A": "Bishul spreads taste through liquid, while tzliyah without liquid usually forbids only k'dei netilah.",
+        "B": "Tzliyah always permits all food, while bishul permits none.",
+        "C": "Bishul applies only to meat, while tzliyah applies only to cheese.",
+        "D": "Tzliyah needs twenty-four hours, while bishul needs only rinsing."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 105, Seif 4",
+        "pageNumbers": "Page 6"
+      },
+      "explanations": {
+        "correct": "The source explains that bishul uses liquid, and the liquid carries taste throughout the food. Tzliyah refers to heat without liquid, such as roasting or baking, and the basic Mechaber rule is that the issur transfers only k'dei netilah at the contact area.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Tzliyah can forbid part or all of the food depending on the case.",
+        "C": "Both systems can apply to many foods, not only meat or cheese.",
+        "D": "Twenty-four hours is the ordinary kavush measure, not tzliyah."
+      }
+    },
+    {
+      "id": "siman_105_introduction_and_seifim_1_7-part-1-q018",
+      "question": "What changes if a pot is covered or stirred after issur falls onto a piece above the liquid?",
+      "options": {
+        "A": "The issur becomes cold and no removal is needed.",
+        "B": "The case remains tzliyah even after stirring.",
+        "C": "The liquid or steam spreads the taste through the pot as bishul.",
+        "D": "The food is permitted because stirring creates bitul b'rov."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 105, Seif 4",
+        "pageNumbers": "Page 6"
+      },
+      "explanations": {
+        "correct": "When issur falls onto a piece outside the rotev, the contact can have the status of tzliyah. But if the pot is then covered or stirred, the steam or liquid spreads the issur taste throughout the piece and pot, making it a bishul case rather than a limited tzliyah case.",
+        "A": "Covering or stirring increases the spread; it does not cool the issur.",
+        "B": "The source says covering or stirring turns it into bishul.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Stirring does not automatically create bitul b'rov."
+      }
+    },
+    {
+      "id": "siman_105_introduction_and_seifim_1_7-part-1-q019",
+      "question": "How does Rama likely treat roasted gid hanasheh fat despite Mechaber's k'dei netilah language?",
+      "options": {
+        "A": "He permits the entire thigh because gid hanasheh has no taste.",
+        "B": "His minhag would asser the whole piece, since roasting is stronger than salting.",
+        "C": "He requires only rinsing because the gid itself is not fatty.",
+        "D": "He requires three days of waiting before ruling."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 105, Seif 4",
+        "pageNumbers": "Page 6"
+      },
+      "explanations": {
+        "correct": "Shach explains that Mechaber's example must involve the rabbinic fats of the gid, because the gid itself has no flavor. Although the basic halachah is k'dei netilah, Rama's custom by salting is to asser the whole piece, and since roasting is stronger than salting, Shach indicates Rama would apply that custom to roasting as well.",
+        "A": "The gid itself has no taste, but the fats of the gid do raise an issur concern.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Rama's minhag is stricter than mere rinsing.",
+        "D": "Waiting three days is unrelated to the roasted gid case."
+      }
+    },
+    {
+      "id": "siman_105_introduction_and_seifim_1_7-part-1-q020",
+      "question": "What is shamein m'fafea b'kulo?",
+      "options": {
+        "A": "A lean issur that can never travel beyond klipah.",
+        "B": "A utensil that absorbs through twenty-four-hour soaking.",
+        "C": "Fatty issur taste that can spread through the entire heter.",
+        "D": "A dry spice that cannot be batul b'shishim."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 105, Seif 5",
+        "pageNumbers": "Page 7"
+      },
+      "explanations": {
+        "correct": "The Gemara teaches that forbidden fat has a special ability to spread, or m'fafea, throughout the food. Therefore, even where ordinary hot contact would forbid only k'dei klipah or k'dei netilah, a fatty issur can forbid the whole heter unless there is sixty against it.",
+        "A": "That describes kachush, not shamein m'fafea b'kulo.",
+        "B": "That is kavush in a utensil, not the rule of fatty taste.",
+        "C": "Correct option; see the main explanation.",
+        "D": "That belongs to milsa d'avida l'ta'ama, not shamein."
+      }
+    },
+    {
+      "id": "siman_105_introduction_and_seifim_1_7-part-1-q021",
+      "question": "What does heter m'fateim l'issur mean?",
+      "options": {
+        "A": "Heter cancels issur whenever the heter is cooked first.",
+        "B": "Fatty heter can give fattiness to lean issur, enabling that issur to spread back.",
+        "C": "Lean heter prevents fatty issur from spreading beyond klipah.",
+        "D": "Heter becomes permitted again after the issur cools down."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 105, Seif 5",
+        "pageNumbers": "Page 7"
+      },
+      "explanations": {
+        "correct": "Heter m'fateim l'issur means that a fatty permitted item can 'fatten' a lean forbidden item. Once the issur is given that fatty quality, its forbidden taste is treated as able to spread throughout the heter and forbid it entirely.",
+        "A": "The rule is not a general cancellation of issur.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The rule is a stringency where the heter is fatty, not a leniency from lean heter.",
+        "D": "Cooling down does not undo the absorbed issur."
+      }
+    },
+    {
+      "id": "siman_105_introduction_and_seifim_1_7-part-1-q022",
+      "question": "Why does Rama usually avoid distinguishing between kachush and shamein?",
+      "options": {
+        "A": "Because every food is certainly pure fat.",
+        "B": "Because the distinction exists only by keilim, not foods.",
+        "C": "Because kachush always transfers more strongly than shamein.",
+        "D": "Because we are not expert enough to determine which foods are halachically fatty."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 105, Seif 5",
+        "pageNumbers": "Page 7"
+      },
+      "explanations": {
+        "correct": "Rama adopts the rule of ein anu b'ki'in, meaning that we do not reliably know how to classify foods as halachically lean or fatty. Therefore, for foods that could possibly have fattiness, the minhag is to require sixty as if the issur were shamein, while still removing k'dei netilah at the contact point.",
+        "A": "Rama is concerned about uncertainty, not claiming every item is literally fat.",
+        "B": "The distinction is stated specifically about foods in tzliyah and melichah.",
+        "C": "Shamein is the stronger transfer category, not kachush.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_105_introduction_and_seifim_1_7-part-1-q023",
+      "question": "When hot fatty issur falls onto cold heter, what does Mechaber rule?",
+      "options": {
+        "A": "The entire heter is assur because fatty taste always spreads.",
+        "B": "The heter is mutar without even klipah because the bottom is cold.",
+        "C": "The case is treated like kavush and needs twenty-four hours.",
+        "D": "Only k'dei klipah becomes assur because the cold bottom overpowers."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 105, Seif 6",
+        "pageNumbers": "Page 8"
+      },
+      "explanations": {
+        "correct": "Mechaber applies tata'ah gavar even to a fatty food in a tzliyah-type contact. If the hot issur falls onto cold heter, the cold lower item cools the upper one and only k'dei klipah becomes assur, despite the ordinary stringency of shamein.",
+        "A": "That is true when the lower item is hot, not when the lower item is cold.",
+        "B": "The cold bottom limits transfer but does not eliminate the contact layer.",
+        "C": "This is a hot-cold contact case, not a twenty-four-hour soaking case.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_105_introduction_and_seifim_1_7-part-1-q024",
+      "question": "What is issur balua?",
+      "options": {
+        "A": "Issur that is absorbed into an otherwise kosher piece.",
+        "B": "Issur that is inherently forbidden from the beginning.",
+        "C": "Issur that becomes permitted after Yom Tov.",
+        "D": "Issur that can be seen only with a microscope."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 105, Seif 7",
+        "pageNumbers": "Page 9"
+      },
+      "explanations": {
+        "correct": "Issur balua means a forbidden taste absorbed inside an otherwise permitted item, such as non-kosher taste inside a kosher piece of meat. It contrasts with issur machmas atzmo, an item intrinsically forbidden in its own right.",
+        "A": "Correct option; see the main explanation.",
+        "B": "That is issur machmas atzmo, not issur balua.",
+        "C": "Future permissibility is davar sheyesh lo matirin, not issur balua.",
+        "D": "Microscopic recognition is a different bitul question."
+      }
+    },
+    {
+      "id": "siman_105_introduction_and_seifim_1_7-part-1-q025",
+      "question": "What is the rule of ein habalua yotzeh m'chatichah l'chatichah b'lo rotev?",
+      "options": {
+        "A": "Absorbed taste always leaves food as soon as the food is hot.",
+        "B": "Absorbed taste can transfer only from utensil to utensil.",
+        "C": "Absorbed taste cannot move from one food piece to another without liquid.",
+        "D": "Absorbed taste becomes permitted after k'dei she'yartiach."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 105, Seif 7",
+        "pageNumbers": "Page 9"
+      },
+      "explanations": {
+        "correct": "Rashba's rule is that issur absorbed in one chatichah does not leave that piece and enter another chatichah merely through dry roasting contact. Without rotev, ordinary lean issur balua lacks the power to transfer from piece to piece.",
+        "A": "Heat alone is not enough according to this rule.",
+        "B": "The rule is about food pieces, not only utensils.",
+        "C": "Correct option; see the main explanation.",
+        "D": "K'dei she'yartiach belongs to tzir or sharp-liquid kavush, not this rule."
+      }
+    },
+    {
+      "id": "siman_105_introduction_and_seifim_1_7-part-1-q026",
+      "question": "What is the main exception to the rule that issur balua does not transfer between food pieces without liquid?",
+      "options": {
+        "A": "If the absorbed issur is sharp vinegar.",
+        "B": "If the absorbed issur is less than k'dei klipah.",
+        "C": "If the food pieces are both completely cold.",
+        "D": "If the absorbed issur is fatty and naturally spreads."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 105, Seif 7",
+        "pageNumbers": "Page 9"
+      },
+      "explanations": {
+        "correct": "Mechaber qualifies that the leniency applies when the absorbed issur is not m'fape'a. If the food absorbed a naturally spreading fatty issur, such as fat, that absorbed issur can leave one piece and forbid another even through dry hot contact or roasting.",
+        "A": "The stated exception is fatty absorbed issur, not vinegar.",
+        "B": "A smaller amount is not the defining exception in the source.",
+        "C": "Cold pieces would not create the hot transfer case being discussed.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_105_introduction_and_seifim_1_7-part-1-q027",
+      "question": "Why does Rama distinguish a utensil that absorbed issur from food that absorbed issur?",
+      "options": {
+        "A": "Food and utensils follow the same rule without any distinction.",
+        "B": "A utensil can never absorb issur unless the issur is fatty.",
+        "C": "Food always transfers absorbed issur more strongly than utensils.",
+        "D": "A utensil has no taste of its own, so absorbed issur can leave it more easily."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 105, Seif 7",
+        "pageNumbers": "Page 9"
+      },
+      "explanations": {
+        "correct": "Rama rules that a utensil which absorbed issur can forbid heter food that touches it even without liquid. Shach and Taz explain the reason: food has its own flavor to exude, which holds back lean absorbed issur, but a utensil has no independent taste, so the absorbed issur can emerge more readily.",
+        "A": "Rama explicitly distinguishes food from keilim.",
+        "B": "Rama says even non-fatty issur absorbed in a utensil can transfer to food.",
+        "C": "The source says the opposite distinction.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_105_introduction_and_seifim_1_7-part-1-q028",
+      "question": "How do Shach and Taz disagree about basar b'chalav as an intrinsic issur in this seif?",
+      "options": {
+        "A": "Shach says meat that absorbed milk is intrinsically assur; Taz limits the case to meat touching cheese.",
+        "B": "Shach says basar b'chalav never applies by roasting; Taz says it always applies.",
+        "C": "Shach says chicken and milk is biblical; Taz says it is always permitted.",
+        "D": "Shach says only milk can transfer; Taz says only meat can transfer."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 105, Seif 7",
+        "pageNumbers": "Page 9"
+      },
+      "explanations": {
+        "correct": "Shach reads Mechaber literally: when milk is absorbed into meat, the meat becomes an intrinsic issur of basar b'chalav and can asser another piece through roasting contact. Taz explains the case as meat touching cheese, but once milk is merely absorbed in meat, he treats the later transfer as issur balua rather than full issur machmas atzmo.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Both discuss how basar b'chalav can operate in dry contact, not whether it never exists.",
+        "C": "The chicken and milk example is a practical d'rabbanan application, not the dispute's core.",
+        "D": "The disagreement is not about only milk or only meat transferring."
+      }
+    }
+  ]
+}

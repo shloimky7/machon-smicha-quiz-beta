@@ -1,82 +1,431 @@
 {
-  "version": 1,
+  "version": 2,
+  "courses": [
+    {
+      "id": "basar-bchalav",
+      "title": "Basar B'Chalav"
+    },
+    {
+      "id": "melicha",
+      "title": "Melicha"
+    },
+    {
+      "id": "mechalei-akum",
+      "title": "Mechalei Akum"
+    },
+    {
+      "id": "taaruvos",
+      "title": "Taaruvos"
+    }
+  ],
   "quizzes": [
     {
       "id": "basar-bchalav-siman-87",
       "title": "Basar B'chalav - Siman 87",
-      "course": "Smicha - Basar B'chalav",
+      "courseId": "basar-bchalav",
+      "courseTitle": "Basar B'Chalav",
       "kind": "quiz",
       "dataUrl": "data/basar-bchalav-siman-87.json"
     },
     {
       "id": "basar-bchalav-siman-87-beta",
       "title": "Basar B'chalav - Siman 87 Beta",
-      "course": "Smicha - Basar B'chalav",
+      "courseId": "basar-bchalav",
+      "courseTitle": "Basar B'Chalav",
       "kind": "quiz",
       "dataUrl": "data/basar-bchalav-siman-87-beta.json"
     },
     {
       "id": "basar-bchalav-siman-88",
       "title": "Basar B'chalav - Siman 88",
-      "course": "Smicha - Basar B'chalav",
+      "courseId": "basar-bchalav",
+      "courseTitle": "Basar B'Chalav",
       "kind": "quiz",
       "dataUrl": "data/basar-bchalav-siman-88.json"
     },
     {
       "id": "basar-bchalav-siman-89",
       "title": "Basar B'chalav - Siman 89",
-      "course": "Smicha - Basar B'chalav",
+      "courseId": "basar-bchalav",
+      "courseTitle": "Basar B'Chalav",
       "kind": "quiz",
       "dataUrl": "data/basar-bchalav-siman-89.json"
     },
     {
-      "id": "basar-bchalav-siman-91",
-      "title": "Basar B'chalav - Siman 91",
-      "course": "Smicha - Basar B'chalav",
+      "id": "siman_91_seifim_1_4-part-1",
+      "title": "Siman 91 - Seifim 1-4",
+      "courseId": "basar-bchalav",
+      "courseTitle": "Basar B'Chalav",
       "kind": "quiz",
-      "dataUrl": "data/basar-bchalav-siman-91.json"
+      "dataUrl": "data/split/siman91/siman_91_seifim_1_4.json"
     },
     {
-      "id": "basar-bchalav-siman-92",
-      "title": "Basar B'chalav - Siman 92",
-      "course": "Smicha - Basar B'chalav",
+      "id": "siman_91_seifim_5_8-part-2",
+      "title": "Siman 91 - Seifim 5-8",
+      "courseId": "basar-bchalav",
+      "courseTitle": "Basar B'Chalav",
       "kind": "quiz",
-      "dataUrl": "data/basar-bchalav-siman-92.json"
+      "dataUrl": "data/split/siman91/siman_91_seifim_5_8.json"
+    },
+    {
+      "id": "siman_92_introduction_and_seifim_1_5-part-1",
+      "title": "Siman 92 - Introduction and Seifim 1-5",
+      "courseId": "basar-bchalav",
+      "courseTitle": "Basar B'Chalav",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman92/siman_92_introduction_and_seifim_1_5.json"
+    },
+    {
+      "id": "siman_92_seifim_6_9-part-2",
+      "title": "Siman 92 - Seifim 6-9",
+      "courseId": "basar-bchalav",
+      "courseTitle": "Basar B'Chalav",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman92/siman_92_seifim_6_9.json"
     },
     {
       "id": "basar-bchalav-siman-93",
       "title": "Basar B'chalav - Siman 93",
-      "course": "Smicha - Basar B'chalav",
+      "courseId": "basar-bchalav",
+      "courseTitle": "Basar B'Chalav",
       "kind": "quiz",
       "dataUrl": "data/basar-bchalav-siman-93.json"
     },
     {
-      "id": "basar-bchalav-siman-94",
-      "title": "Basar B'chalav - Siman 94",
-      "course": "Smicha - Basar B'chalav",
+      "id": "siman_94_seifim_1_5-part-1",
+      "title": "Siman 94 - Seifim 1-5",
+      "courseId": "basar-bchalav",
+      "courseTitle": "Basar B'Chalav",
       "kind": "quiz",
-      "dataUrl": "data/basar-bchalav-siman-94.json"
+      "dataUrl": "data/split/siman94/siman_94_seifim_1_5.json"
     },
     {
-      "id": "basar-bchalav-siman-95",
-      "title": "Basar B'chalav - Siman 95",
-      "course": "Smicha - Basar B'chalav",
+      "id": "siman_94_seifim_6_9-part-2",
+      "title": "Siman 94 - Seifim 6-9",
+      "courseId": "basar-bchalav",
+      "courseTitle": "Basar B'Chalav",
       "kind": "quiz",
-      "dataUrl": "data/basar-bchalav-siman-95.json"
+      "dataUrl": "data/split/siman94/siman_94_seifim_6_9.json"
     },
     {
-      "id": "basar-bchalav-siman-96",
-      "title": "Basar B'chalav - Siman 96",
-      "course": "Smicha - Basar B'chalav",
+      "id": "siman_95_introduction_and_seifim_1_4-part-1",
+      "title": "Siman 95 - Introduction and Seifim 1-4",
+      "courseId": "basar-bchalav",
+      "courseTitle": "Basar B'Chalav",
       "kind": "quiz",
-      "dataUrl": "data/basar-bchalav-siman-96.json"
+      "dataUrl": "data/split/siman95/siman_95_introduction_and_seifim_1_4.json"
     },
     {
-      "id": "basar-bchalav-siman-97",
-      "title": "Basar B'chalav - Siman 97",
-      "course": "Smicha - Basar B'chalav",
+      "id": "siman_95_seifim_5_7-part-2",
+      "title": "Siman 95 - Seifim 5-7",
+      "courseId": "basar-bchalav",
+      "courseTitle": "Basar B'Chalav",
       "kind": "quiz",
-      "dataUrl": "data/basar-bchalav-siman-97.json"
+      "dataUrl": "data/split/siman95/siman_95_seifim_5_7.json"
+    },
+    {
+      "id": "siman_96_seifim_1_3-part-1",
+      "title": "Siman 96 - Seifim 1-3",
+      "courseId": "basar-bchalav",
+      "courseTitle": "Basar B'Chalav",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman96/siman_96_seifim_1_3.json"
+    },
+    {
+      "id": "siman_96_seifim_4_5-part-2",
+      "title": "Siman 96 - Seifim 4-5",
+      "courseId": "basar-bchalav",
+      "courseTitle": "Basar B'Chalav",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman96/siman_96_seifim_4_5.json"
+    },
+    {
+      "id": "siman_97_introduction_and_seifim_1_2-part-1",
+      "title": "Siman 97 - Introduction and Seifim 1-2",
+      "courseId": "basar-bchalav",
+      "courseTitle": "Basar B'Chalav",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman97/siman_97_introduction_and_seifim_1_2.json"
+    },
+    {
+      "id": "siman_97_seif_3-part-2",
+      "title": "Siman 97 - Seif 3",
+      "courseId": "basar-bchalav",
+      "courseTitle": "Basar B'Chalav",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman97/siman_97_seif_3.json"
+    },
+    {
+      "id": "siman_69_introduction_and_seifim_1_11-part-1",
+      "title": "Siman 69 - Introduction and Seifim 1-11",
+      "courseId": "melicha",
+      "courseTitle": "Melicha",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman69/siman_69_introduction_and_seifim_1_11.json"
+    },
+    {
+      "id": "siman_69_seifim_12_21-part-2",
+      "title": "Siman 69 - Seifim 12-21",
+      "courseId": "melicha",
+      "courseTitle": "Melicha",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman69/siman_69_seifim_12_21.json"
+    },
+    {
+      "id": "siman_112_seifim_1_8-part-1",
+      "title": "Siman 112 - Seifim 1-8",
+      "courseId": "mechalei-akum",
+      "courseTitle": "Mechalei Akum",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman112/siman_112_seifim_1_8.json"
+    },
+    {
+      "id": "siman_112_seifim_9_16-part-2",
+      "title": "Siman 112 - Seifim 9-16",
+      "courseId": "mechalei-akum",
+      "courseTitle": "Mechalei Akum",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman112/siman_112_seifim_9_16.json"
+    },
+    {
+      "id": "siman_113_seifim_1_8-part-1",
+      "title": "Siman 113 - Seifim 1-8",
+      "courseId": "mechalei-akum",
+      "courseTitle": "Mechalei Akum",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman113/siman_113_seifim_1_8.json"
+    },
+    {
+      "id": "siman_113_seifim_9_10_11_12_13_14_16-part-2",
+      "title": "Siman 113 - Seifim 9, 10, 11, 12, 13, 14, 16",
+      "courseId": "mechalei-akum",
+      "courseTitle": "Mechalei Akum",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman113/siman_113_seifim_9_10_11_12_13_14_16.json"
+    },
+    {
+      "id": "siman_114_seifim_1_6-part-1",
+      "title": "Siman 114 - Seifim 1-6",
+      "courseId": "mechalei-akum",
+      "courseTitle": "Mechalei Akum",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman114/siman_114_seifim_1_6.json"
+    },
+    {
+      "id": "siman_114_seifim_7_12-part-2",
+      "title": "Siman 114 - Seifim 7-12",
+      "courseId": "mechalei-akum",
+      "courseTitle": "Mechalei Akum",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman114/siman_114_seifim_7_12.json"
+    },
+    {
+      "id": "siman_115_seif_3-part-2",
+      "title": "Siman 115 - Seif 3",
+      "courseId": "mechalei-akum",
+      "courseTitle": "Mechalei Akum",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman115/siman_115_seif_3.json"
+    },
+    {
+      "id": "siman_115_seifim_1_2-part-1",
+      "title": "Siman 115 - Seifim 1-2",
+      "courseId": "mechalei-akum",
+      "courseTitle": "Mechalei Akum",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman115/siman_115_seifim_1_2.json"
+    },
+    {
+      "id": "siman_98_introduction_and_seifim_1_5-part-1",
+      "title": "Siman 98 - Introduction and Seifim 1-5",
+      "courseId": "taaruvos",
+      "courseTitle": "Taaruvos",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman98/siman_98_introduction_and_seifim_1_5.json"
+    },
+    {
+      "id": "siman_98_seifim_6_9-part-2",
+      "title": "Siman 98 - Seifim 6-9",
+      "courseId": "taaruvos",
+      "courseTitle": "Taaruvos",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman98/siman_98_seifim_6_9.json"
+    },
+    {
+      "id": "siman_99_introduction_and_seifim_1_4-part-1",
+      "title": "Siman 99 - Introduction and Seifim 1-4",
+      "courseId": "taaruvos",
+      "courseTitle": "Taaruvos",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman99/siman_99_introduction_and_seifim_1_4.json"
+    },
+    {
+      "id": "siman_99_seifim_5_7-part-2",
+      "title": "Siman 99 - Seifim 5-7",
+      "courseId": "taaruvos",
+      "courseTitle": "Taaruvos",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman99/siman_99_seifim_5_7.json"
+    },
+    {
+      "id": "siman_100_introduction_and_seifim_1_2-part-1",
+      "title": "Siman 100 - Introduction and Seifim 1-2",
+      "courseId": "taaruvos",
+      "courseTitle": "Taaruvos",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman100/siman_100_introduction_and_seifim_1_2.json"
+    },
+    {
+      "id": "siman_100_seifim_3_4-part-2",
+      "title": "Siman 100 - Seifim 3-4",
+      "courseId": "taaruvos",
+      "courseTitle": "Taaruvos",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman100/siman_100_seifim_3_4.json"
+    },
+    {
+      "id": "siman_101_introduction_and_seifim_1_4-part-1",
+      "title": "Siman 101 - Introduction and Seifim 1-4",
+      "courseId": "taaruvos",
+      "courseTitle": "Taaruvos",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman101/siman_101_introduction_and_seifim_1_4.json"
+    },
+    {
+      "id": "siman_101_seifim_5_7-part-2",
+      "title": "Siman 101 - Seifim 5-7",
+      "courseId": "taaruvos",
+      "courseTitle": "Taaruvos",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman101/siman_101_seifim_5_7.json"
+    },
+    {
+      "id": "siman_102_seifim_1_2-part-1",
+      "title": "Siman 102 - Seifim 1-2",
+      "courseId": "taaruvos",
+      "courseTitle": "Taaruvos",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman102/siman_102_seifim_1_2.json"
+    },
+    {
+      "id": "siman_102_seifim_3_4-part-2",
+      "title": "Siman 102 - Seifim 3-4",
+      "courseId": "taaruvos",
+      "courseTitle": "Taaruvos",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman102/siman_102_seifim_3_4.json"
+    },
+    {
+      "id": "siman_103_introduction_and_seifim_1_4-part-1",
+      "title": "Siman 103 - Introduction and Seifim 1-4",
+      "courseId": "taaruvos",
+      "courseTitle": "Taaruvos",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman103/siman_103_introduction_and_seifim_1_4.json"
+    },
+    {
+      "id": "siman_103_seifim_5_7-part-2",
+      "title": "Siman 103 - Seifim 5-7",
+      "courseId": "taaruvos",
+      "courseTitle": "Taaruvos",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman103/siman_103_seifim_5_7.json"
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1",
+      "title": "Siman 104 - Introduction and Seifim 1-2",
+      "courseId": "taaruvos",
+      "courseTitle": "Taaruvos",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman104/siman_104_introduction_and_seifim_1_2.json"
+    },
+    {
+      "id": "siman_104_seif_3-part-2",
+      "title": "Siman 104 - Seif 3",
+      "courseId": "taaruvos",
+      "courseTitle": "Taaruvos",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman104/siman_104_seif_3.json"
+    },
+    {
+      "id": "siman_105_introduction_and_seifim_1_7-part-1",
+      "title": "Siman 105 - Introduction and Seifim 1-7",
+      "courseId": "taaruvos",
+      "courseTitle": "Taaruvos",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman105/siman_105_introduction_and_seifim_1_7.json"
+    },
+    {
+      "id": "siman_105_seifim_8_14-part-2",
+      "title": "Siman 105 - Seifim 8-14",
+      "courseId": "taaruvos",
+      "courseTitle": "Taaruvos",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman105/siman_105_seifim_8_14.json"
+    },
+    {
+      "id": "siman_106_introduction_and_seif_1-part-1",
+      "title": "Siman 106 - Introduction and Seif 1",
+      "courseId": "taaruvos",
+      "courseTitle": "Taaruvos",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman106/siman_106_introduction_and_seif_1.json"
+    },
+    {
+      "id": "siman_106_seif_2-part-2",
+      "title": "Siman 106 - Seif 2",
+      "courseId": "taaruvos",
+      "courseTitle": "Taaruvos",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman106/siman_106_seif_2.json"
+    },
+    {
+      "id": "siman_107_introduction_and_seif_1-part-1",
+      "title": "Siman 107 - Introduction and Seif 1",
+      "courseId": "taaruvos",
+      "courseTitle": "Taaruvos",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman107/siman_107_introduction_and_seif_1.json"
+    },
+    {
+      "id": "siman_107_seif_2-part-2",
+      "title": "Siman 107 - Seif 2",
+      "courseId": "taaruvos",
+      "courseTitle": "Taaruvos",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman107/siman_107_seif_2.json"
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1",
+      "title": "Siman 108 - Introduction and Seifim 1-4",
+      "courseId": "taaruvos",
+      "courseTitle": "Taaruvos",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman108/siman_108_introduction_and_seifim_1_4.json"
+    },
+    {
+      "id": "siman_108_seifim_5_7-part-2",
+      "title": "Siman 108 - Seifim 5-7",
+      "courseId": "taaruvos",
+      "courseTitle": "Taaruvos",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman108/siman_108_seifim_5_7.json"
+    },
+    {
+      "id": "siman_109_introduction_and_seif_1-part-1",
+      "title": "Siman 109 - Introduction and Seif 1",
+      "courseId": "taaruvos",
+      "courseTitle": "Taaruvos",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman109/siman_109_introduction_and_seif_1.json"
+    },
+    {
+      "id": "siman_109_seif_2-part-2",
+      "title": "Siman 109 - Seif 2",
+      "courseId": "taaruvos",
+      "courseTitle": "Taaruvos",
+      "kind": "quiz",
+      "dataUrl": "data/split/siman109/siman_109_seif_2.json"
     }
   ]
 }

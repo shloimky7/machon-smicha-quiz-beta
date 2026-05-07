@@ -1,0 +1,287 @@
+{
+  "id": "siman_105_seifim_8_14-part-2",
+  "title": "Siman 105 - Seifim 8-14",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 12,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 105",
+  "questions": [
+    {
+      "id": "siman_105_seifim_8_14-part-2-q001",
+      "question": "What does Mechaber say about a kidney roasted with its cheilev?",
+      "options": {
+        "A": "The whole kidney is permitted because cheilev never transfers.",
+        "B": "Only k'dei klipah is assur because the kidney membrane separates.",
+        "C": "The kidney requires sixty against the entire animal.",
+        "D": "The kidney is permitted only after being soaked for twenty-four hours."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 105, Seif 8",
+        "pageNumbers": "Page 10"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that when a kidney is roasted with its cheilev, the cheilev forbids only k'dei klipah around the kidney. The reason is that the kidney's membrane separates between the cheilev and the kidney and blocks broader transfer.",
+        "A": "Mechaber still requires removing a klipah.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Mechaber does not require sixty against the whole animal in this roasted case.",
+        "D": "Soaking is unrelated to permitting the roasted kidney."
+      }
+    },
+    {
+      "id": "siman_105_seifim_8_14-part-2-q002",
+      "question": "What is Rama's minhag about a kidney roasted with its cheilev?",
+      "options": {
+        "A": "The kidney is forbidden, and one should not deviate from the minhag.",
+        "B": "The kidney is permitted if its membrane is checked afterward.",
+        "C": "The kidney is permitted if only one side touched the cheilev.",
+        "D": "The kidney is forbidden only in a ceramic pot."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 105, Seif 8",
+        "pageNumbers": "Page 10"
+      },
+      "explanations": {
+        "correct": "Rama cites those who forbid the kidney and writes that this is the minhag and one should not change it. Shach and Taz explain that we do not rely on the membrane, either because the halachah may not follow that answer or because the membrane may tear.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Rama does not rely on checking the membrane afterward.",
+        "C": "Rama's minhag treats it like other cheilev roasted with meat.",
+        "D": "The case is roasting, not ceramic-pot absorption."
+      }
+    },
+    {
+      "id": "siman_105_seifim_8_14-part-2-q003",
+      "question": "Which level of salting does Mechaber treat as maliach k'roteach?",
+      "options": {
+        "A": "Only salting lightly enough to season food at the table.",
+        "B": "Only salting to the level of tanning hides.",
+        "C": "Melichah l'k'deirah and stronger salting levels.",
+        "D": "Only salt that was absorbed into blood."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 105, Seif 9",
+        "pageNumbers": "Page 11"
+      },
+      "explanations": {
+        "correct": "The source lists several degrees of salting. Mechaber rules like the opinions that melichah l'k'deirah, the amount used to draw blood from meat before cooking, and stronger salting levels are considered she'eino ne'echal machmas melicho and therefore have the status of maliach k'roteach.",
+        "A": "Light table seasoning is not the Mechaber's threshold.",
+        "B": "Tanning-level salting is stronger than necessary according to Mechaber.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Salt absorbed into blood is discussed later in Seif 14."
+      }
+    },
+    {
+      "id": "siman_105_seifim_8_14-part-2-q004",
+      "question": "What is Rama's practical custom for measuring melichah cases?",
+      "options": {
+        "A": "All melichah cases are permitted after hadachah only.",
+        "B": "All salted mixtures require three days before ruling.",
+        "C": "Each piece is always measured independently and never together.",
+        "D": "Because we are not expert in fatty and lean, melichah is measured by sixty like bishul."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 105, Seif 9",
+        "pageNumbers": "Page 11"
+      },
+      "explanations": {
+        "correct": "Rama rules that since we are not expert in distinguishing fatty from lean meat, the custom is to measure all melichah cases with sixty, like bishul. This creates a broad stringency, although it can also allow multiple pieces to combine for sixty in a way Mechaber would not always allow.",
+        "A": "Hadachah alone is not Rama's general melichah custom.",
+        "B": "Three days belongs to an opinion about kavush, not melichah.",
+        "C": "Mechaber often requires independent measurement; Rama's custom may combine the pieces.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_105_seifim_8_14-part-2-q005",
+      "question": "Why does Mechaber say several salted pieces do not combine to nullify cheilev touching them?",
+      "options": {
+        "A": "Because cheilev cannot spread from chatichah to chatichah without rotev.",
+        "B": "Because every salted piece is automatically chaha'l mid'oraisa.",
+        "C": "Because bitul never applies to cheilev in any situation.",
+        "D": "Because only a kli rishon can create sixty against cheilev."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 105, Seif 9",
+        "pageNumbers": "Page 11"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that each piece which touched the cheilev must independently have sixty, because cheilev does not spread equally from one chatichah to another without rotev. Therefore, the pieces do not combine into one shared measurement to nullify the cheilev.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Mechaber's reason is about lack of spread without liquid, not automatic chaha'l.",
+        "C": "Cheilev can be batul with the right shishim in some cases.",
+        "D": "The issue is salted dry pieces, not a kli rishon requirement."
+      }
+    },
+    {
+      "id": "siman_105_seifim_8_14-part-2-q006",
+      "question": "Which leniency results from Rama's broad stringency in melichah?",
+      "options": {
+        "A": "One never needs to remove even a klipah after salting.",
+        "B": "Lean issur is always ignored in melichah cases.",
+        "C": "All pieces together may combine to reach sixty against the issur.",
+        "D": "A piece with cheilev attached becomes fully permitted by itself."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 105, Seif 9",
+        "pageNumbers": "Page 11"
+      },
+      "explanations": {
+        "correct": "Rama's stringency treats melichah like bishul and requires sixty because we are not expert in kachush and shamein. The related leniency is that the whole mixture can combine to provide sixty against the issur, rather than demanding that each touched piece independently contain sixty as Mechaber often requires.",
+        "A": "Rama still requires a klipah at the point of contact in many cases.",
+        "B": "Lean issur is not ignored; the minhag is usually to measure against it.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The piece to which the issur is attached remains forbidden in Rama's ruling."
+      }
+    },
+    {
+      "id": "siman_105_seifim_8_14-part-2-q007",
+      "question": "According to Mechaber, what if salted issur touches unsalted heter?",
+      "options": {
+        "A": "The heter is permitted without any rinsing.",
+        "B": "The heter is affected, because the issur itself is salty.",
+        "C": "Both foods become fully permitted through the salt.",
+        "D": "Only the issur is affected because it is on top."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 105, Seif 10",
+        "pageNumbers": "Page 12"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that melichah forbids when both items are salted, and also when the issur is salted while the heter is unsalted. The salted issur has the power to exude forbidden taste into the heter, so the heter is affected at least to the required depth.",
+        "A": "Hadachah alone is Mechaber's rule when only the heter is salted and the issur is bland.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Salt does not turn issur into heter.",
+        "D": "This seif is about salted status, not only top-bottom position."
+      }
+    },
+    {
+      "id": "siman_105_seifim_8_14-part-2-q008",
+      "question": "What does Rama add when only the heter is salted and the issur is bland?",
+      "options": {
+        "A": "He permits it l'chatchilah even if they touch.",
+        "B": "He requires sixty only if both foods are liquids.",
+        "C": "He cites a stricter view if they touch, but allows leniency in loss.",
+        "D": "He says the issur becomes salty only after twenty-four hours."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 105, Seif 10",
+        "pageNumbers": "Page 12"
+      },
+      "explanations": {
+        "correct": "Mechaber rules leniently when the heter is salted and the issur is bland, requiring only hadachah. Rama cites authorities who are strict if the two foods touch, because the salted heter may cause transfer from the issur, but he allows leniency in a situation of loss.",
+        "A": "Rama records a stringent opinion when they touch.",
+        "B": "The seif discusses solid foods, and liquids are treated separately in practical applications.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The concern is immediate salty contact, not twenty-four-hour kavush."
+      }
+    },
+    {
+      "id": "siman_105_seifim_8_14-part-2-q009",
+      "question": "What is the Ashkenazi minhag about tata'ah gavar by melichah?",
+      "options": {
+        "A": "The top item always overpowers the bottom item.",
+        "B": "Only the lower item matters, exactly like fire-heated foods.",
+        "C": "There is no difference whether the salty item is above or below.",
+        "D": "Tata'ah gavar applies only if both pieces are completely cold."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 105, Seif 11",
+        "pageNumbers": "Page 13"
+      },
+      "explanations": {
+        "correct": "Mechaber follows Rashba and applies tata'ah gavar to melichah. Rama cites the opposing view, following Rosh and Ashkenazi Rishonim, that salting does not work like actual fire heat, so there is no distinction whether the salty issur is above or below; this is the minhag.",
+        "A": "Neither Mechaber nor Rama states a general ila'ah gavar rule for melichah.",
+        "B": "That is Mechaber's approach more than the Ashkenazi minhag.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The question is salted heat, not cold-contact only."
+      }
+    },
+    {
+      "id": "siman_105_seifim_8_14-part-2-q010",
+      "question": "What is the basic rule when kosher cheese was salted in non-kosher cheese presses?",
+      "options": {
+        "A": "The cheese is forbidden because salt always extracts from wood.",
+        "B": "The cheese is mutar b'dieved because melichah does not extract absorbed issur from a utensil.",
+        "C": "The cheese is permitted only if the press is metal and ben yomo.",
+        "D": "The cheese is forbidden unless it soaks there for twenty-four hours."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 105, Seif 12",
+        "pageNumbers": "Page 14"
+      },
+      "explanations": {
+        "correct": "Mechaber permits kosher cheese made in non-Jewish cheese presses even if salted there. Rama explains that the same applies to other issur utensils b'dieved, because melichah is not considered strong enough to extract absorbed taste from a keili.",
+        "A": "Tosfos says melichah does not apply to wood in this way.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The leniency is not limited to metal or ben yomo status.",
+        "D": "Twenty-four-hour soaking is a kavush issue, not this melichah ruling."
+      }
+    },
+    {
+      "id": "siman_105_seifim_8_14-part-2-q011",
+      "question": "What does Mechaber rule about salt or spices that were on a meat plate?",
+      "options": {
+        "A": "They may be placed into milk.",
+        "B": "They must be thrown away immediately.",
+        "C": "They become fleishig even if dry.",
+        "D": "They require hagalah before use."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 105, Seif 13",
+        "pageNumbers": "Page 15"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that salt or spices that were on a meat plate may be placed into milk. Rama extends the same rule to a clean issur utensil when the salt or spices are dry, because they do not absorb from the utensil merely by sitting there.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The source permits them in the basic case.",
+        "C": "Dry salt or spices do not absorb from the clean meat utensil.",
+        "D": "Salt and spices cannot undergo hagalah; the issue is whether they absorbed taste."
+      }
+    },
+    {
+      "id": "siman_105_seifim_8_14-part-2-q012",
+      "question": "Why is salt that absorbed blood batul with sixty against the salt, even if the salt still gives taste?",
+      "options": {
+        "A": "Because blood is always permitted once it touches salt.",
+        "B": "Because salt is never considered a flavor-giving ingredient.",
+        "C": "Because only the pot must be kashered and the food is ignored.",
+        "D": "Because the salt is not intrinsically assur; it is assur only through the blood it absorbed."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 105, Seif 14",
+        "pageNumbers": "Page 16"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that if salt absorbed blood from salting meat and then entered a pot, the food is permitted when there is sixty against the salt. Rama explains that even if the salt still gives flavor, it is not intrinsically assur; it is forbidden only because of the blood inside it, and the absorbed blood cannot forbid more than it could on its own.",
+        "A": "Blood does not become permitted merely because it touched salt.",
+        "B": "Salt is a classic strong flavoring item; the leniency is about absorbed issur.",
+        "C": "The seif directly addresses whether the food in the pot is permitted.",
+        "D": "Correct option; see the main explanation."
+      }
+    }
+  ]
+}

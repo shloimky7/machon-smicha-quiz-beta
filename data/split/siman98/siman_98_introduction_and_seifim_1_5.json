@@ -1,0 +1,678 @@
+{
+  "id": "siman_98_introduction_and_seifim_1_5-part-1",
+  "title": "Siman 98 - Introduction and Seifim 1-5",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 29,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 98",
+  "questions": [
+    {
+      "id": "siman_98_introduction_and_seifim_1_5-part-1-q001",
+      "question": "What are the three main topic areas of Siman 98?",
+      "options": {
+        "A": "Measuring ta'aruvos, issur keilim, and special bitul measurements.",
+        "B": "Melichah, hadachah acharonah, and salting in a kli menukav.",
+        "C": "Pas aku\"m, bishul aku\"m, and chalav aku\"m supervision.",
+        "D": "Shechitah, nikur, and roasting liver over an open flame."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 98, Introduction",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The introduction divides Siman 98 into three sections: Se'ifim 1-3 discuss measuring ta'aruvos min b'mino and min b'she'eino mino, Se'ifim 4-5 discuss heter cooked in an issur keili, and Se'ifim 6-9 address different measurements and exceptions to ordinary shishim.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Those topics belong mainly to Siman 69, not Siman 98.",
+        "C": "Those are other non-Jewish food decrees, not the structure of this siman.",
+        "D": "Those topics are not the source's stated outline for Siman 98."
+      }
+    },
+    {
+      "id": "siman_98_introduction_and_seifim_1_5-part-1-q002",
+      "question": "What are the two theoretical ways to determine if issur taste is batul in heter?",
+      "options": {
+        "A": "Ask a Jewish child, or wait until the mixture cools completely.",
+        "B": "Have a non-Jew taste it, or measure whether there is sixty times heter.",
+        "C": "Check whether the issur is visible, or remove it with cold water.",
+        "D": "Taste it with the tongue, or estimate if the pot is ben yomo."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 98, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source explains that there are two theoretical methods for determining whether the issur gives taste: a non-Jew can taste the mixture, or the heter can be measured to see whether it is sixty times the issur, at which point we assume the taste is nullified.",
+        "A": "A Jewish child is not the standard tasting method discussed here.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Visibility and removal matter in some cases, but do not establish whether taste is batul.",
+        "D": "A Jew tasting issur is problematic here, and ben yomo status is a separate keilim issue."
+      }
+    },
+    {
+      "id": "siman_98_introduction_and_seifim_1_5-part-1-q003",
+      "question": "How does Mechaber rule when a non-Jew is available to taste a min b'she'eino mino mixture?",
+      "options": {
+        "A": "One always ignores the non-Jew and measures only with shishim.",
+        "B": "One may rely on the non-Jew only if there is already sixty.",
+        "C": "The non-Jew should taste it, following Rambam's approach.",
+        "D": "The mixture is forbidden until the issur is visibly removed."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 98, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Mechaber follows Rambam that when a non-Jew is available in a min b'she'eino mino case, tasting is the required method. If no non-Jew is available, then the mixture is measured by shishim.",
+        "A": "That is Rama's practical minhag nowadays, not Mechaber's ruling.",
+        "B": "According to Mechaber's Rambam-based rule, tasting is used even before relying on shishim when a non-Jew is available.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Visible issur must be removed when recognizable, but that is not Mechaber's rule for measuring taste here."
+      }
+    },
+    {
+      "id": "siman_98_introduction_and_seifim_1_5-part-1-q004",
+      "question": "What condition does Mechaber require when relying on the non-Jew's tasting?",
+      "options": {
+        "A": "The non-Jew must be the owner of the mixture.",
+        "B": "The non-Jew must taste only after there is already sixty.",
+        "C": "The non-Jew must be paid so that he will answer carefully.",
+        "D": "The non-Jew must not know that halachah is relying on him."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 98, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Mechaber rules like the opinions that a non-Jew's taste assessment may be relied upon only when he does not know that the Jew is relying on him for halachah. This is the meisiach l'fi tumo style of reliability discussed in the source.",
+        "A": "Ownership of the mixture is irrelevant to his reliability.",
+        "B": "The point of tasting is to determine taste; it is not limited to cases where shishim is already known.",
+        "C": "Payment is not the condition Mechaber gives and could even affect reliability.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_98_introduction_and_seifim_1_5-part-1-q005",
+      "question": "What is Rama's practical minhag about relying on a non-Jew's taste assessment?",
+      "options": {
+        "A": "We do not rely on non-Jews nowadays and instead measure everything by shishim.",
+        "B": "We rely on any non-Jew even if he knows the halachic consequence.",
+        "C": "We rely only on a non-Jewish professional chef in every case.",
+        "D": "We rely only on a non-Jew when the issur is visible in the pot."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 98, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rama writes that the minhag nowadays is not to rely on non-Jews in these cases. Therefore, all mixtures are measured by whether there is sixty times the issur.",
+        "A": "Correct option; see the main explanation.",
+        "B": "That is closer to Rambam's broad trust of a non-Jew, not Rama's minhag.",
+        "C": "Rama does not preserve a professional-chef exception for practice.",
+        "D": "If the issur is visible, it must be removed; tasting is not the point."
+      }
+    },
+    {
+      "id": "siman_98_introduction_and_seifim_1_5-part-1-q006",
+      "question": "What is nosen ta'am lifgam?",
+      "options": {
+        "A": "A taste that improves the mixture only after it cools.",
+        "B": "A taste from issur that ruins the food rather than improving it.",
+        "C": "A taste that can be measured only through a professional cook.",
+        "D": "A taste that is always forbidden even after sixty times heter."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 98, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source defines nosen ta'am lifgam as issur taste that ruins the dish. Such a taste does not forbid the mixture, provided that it is not sofo l'hashbiach, meaning it will not later improve the dish.",
+        "A": "If the taste will later improve, Mechaber says the mixture remains forbidden.",
+        "B": "Correct option; see the main explanation.",
+        "C": "A chef may matter for tasting, but nosen ta'am lifgam is the character of the taste itself.",
+        "D": "Ruined taste is a leniency, not an automatic stringency beyond shishim."
+      }
+    },
+    {
+      "id": "siman_98_introduction_and_seifim_1_5-part-1-q007",
+      "question": "How is a min b'mino mixture measured when taste cannot be determined?",
+      "options": {
+        "A": "By assuming it is permitted through a simple majority.",
+        "B": "By asking a non-Jew to taste whether the issur is present.",
+        "C": "By removing one piece and treating it as kavua.",
+        "D": "By checking whether there is sixty times heter against the issur."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 98, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Mechaber says that when the mixture is min b'mino, taste cannot be determined because the issur and heter taste the same. Therefore the mixture is measured by shishim.",
+        "A": "For this practical ta'aruvos case, the source uses shishim rather than a simple majority.",
+        "B": "Tasting cannot clarify a min b'mino case because the tastes are alike.",
+        "C": "Kavua is not the measuring method in this seif.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_98_introduction_and_seifim_1_5-part-1-q008",
+      "question": "What does Taz say about licking meat to see whether it was salted?",
+      "options": {
+        "A": "A Jew may never taste any food where a halachic question exists.",
+        "B": "The meat must be cooked first and then tasted by a kohen.",
+        "C": "Only a non-Jew may taste even saltiness on a piece of meat.",
+        "D": "A Jew may lick a piece to check saltiness in that kind of case."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 98, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Taz disagrees with Derishah's broad inference and says that a Jew may lick a piece of meat to see whether it is salty. The problem in the ta'aruvos issur v'heter case is that tasting enough to determine issur flavor would involve the actual prohibited mixture.",
+        "A": "Taz explicitly permits licking to determine saltiness in the meat case.",
+        "B": "A kohen tasting is a separate example for terumah mixtures, not this meat-salt question.",
+        "C": "Taz does not require a non-Jew for checking ordinary saltiness.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_98_introduction_and_seifim_1_5-part-1-q009",
+      "question": "What is the general rule for a safeik d'oraisa?",
+      "options": {
+        "A": "We apply bitul b'rov only.",
+        "B": "We rule leniently.",
+        "C": "We follow the non-Jew's taste.",
+        "D": "We rule stringently."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 98, Seif 2",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source begins Seif 2 by stating the general rule: safeik d'oraisa lechumra. When there is a doubt about a Torah prohibition, the halachah is to be stringent.",
+        "A": "Bitul b'rov is not the rule for every Torah doubt.",
+        "B": "That is the general rule for safeik d'rabbanan, not safeik d'oraisa.",
+        "C": "Tasting is a separate way to determine taste, not the general rule of safeik d'oraisa.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_98_introduction_and_seifim_1_5-part-1-q010",
+      "question": "What is ta'am k'ikar?",
+      "options": {
+        "A": "Taste is ignored once the actual issur is removed.",
+        "B": "Taste is permitted when the food names are different.",
+        "C": "Taste is forbidden only if a non-Jew can identify it.",
+        "D": "Taste is treated like the actual forbidden food."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 98, Seif 2",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Ta'am k'ikar means that forbidden taste is treated like the forbidden food itself. Even if the actual issur was removed, if its taste remains in the mixture, the mixture can be forbidden.",
+        "A": "Ta'am k'ikar teaches the opposite: taste can remain forbidden after the actual piece is gone.",
+        "B": "Different names do not permit forbidden taste; min b'mino versus she'eino mino is a separate classification.",
+        "C": "A non-Jew may help determine whether taste is present, but the principle itself does not depend on him.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_98_introduction_and_seifim_1_5-part-1-q011",
+      "question": "How do Mechaber and Rama rule about ta'am k'ikar?",
+      "options": {
+        "A": "They rule like Rabbeinu Tam that it is d'oraisa.",
+        "B": "They rule like Rashi that it is always d'rabbanan.",
+        "C": "They rule that it applies only to yayin nesech.",
+        "D": "They rule that it applies only when no shishim exists."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 98, Seif 2",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source states that Mechaber and Rama rule like Rabbeinu Tam, who holds that ta'am k'ikar is a Torah-level principle. Therefore, a doubt involving taste in min b'she'eino mino is treated stringently.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Rashi and Rambam hold it is rabbinic, but Mechaber and Rama do not rule that way.",
+        "C": "Ta'am k'ikar is a general ta'aruvos principle, not limited to yayin nesech.",
+        "D": "Shishim is used to assume taste is gone; ta'am k'ikar explains why taste matters."
+      }
+    },
+    {
+      "id": "siman_98_introduction_and_seifim_1_5-part-1-q012",
+      "question": "According to Rama, how is min b'mino defined?",
+      "options": {
+        "A": "By whether the foods are cooked in the same pot.",
+        "B": "By whether a non-Jew says they taste identical.",
+        "C": "By whether the foods have the same halachic name.",
+        "D": "By whether one food is d'oraisa and the other is d'rabbanan."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 98, Seif 2",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rama defines min b'mino by name: if the foods have the same name, they are min b'mino; if not, they are min b'she'eino mino. The source later notes that Shach disagrees and generally follows taste.",
+        "A": "The cooking vessel does not define min b'mino.",
+        "B": "A non-Jew's taste may establish taste, but Rama's definition here is by name.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The Torah or rabbinic status of the issur does not determine whether the foods are the same min."
+      }
+    },
+    {
+      "id": "siman_98_introduction_and_seifim_1_5-part-1-q013",
+      "question": "How does Shach generally define min b'mino?",
+      "options": {
+        "A": "By taste, not by name.",
+        "B": "By name, not by taste.",
+        "C": "By whether the foods are both solid.",
+        "D": "By whether the issur is visible."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 98, Seif 2",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Shach disagrees with Rama's name-based definition for the main ta'aruvos discussion. He argues that because the issue is whether forbidden taste can be detected, min b'mino and min b'she'eino mino should generally be determined by taste.",
+        "A": "Correct option; see the main explanation.",
+        "B": "That is Rama's definition, not Shach's general position.",
+        "C": "Solid versus liquid can matter for other ta'aruvos rules, but not this definition.",
+        "D": "Visibility concerns removal of the issur, not whether two items are the same min."
+      }
+    },
+    {
+      "id": "siman_98_introduction_and_seifim_1_5-part-1-q014",
+      "question": "Why does Shach permit chicken that fell into milk when the mixture spilled before measuring shishim?",
+      "options": {
+        "A": "Because chicken and milk is always permitted after the milk spills out.",
+        "B": "Because chicken with milk is rabbinic, making the doubt a safeik d'rabbanan.",
+        "C": "Because ta'am k'ikar never applies to poultry or dairy mixtures.",
+        "D": "Because min b'mino is always batul b'rov before cooking."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 98, Seif 2",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Shach argues that since chicken with milk is only rabbinic, if the mixture spilled before it could be measured, the doubt whether shishim existed is a safeik d'rabbanan and leniency applies. Taz is stricter because Chachamim treated chicken with milk more severely.",
+        "A": "The spill creates a measuring doubt; it does not automatically permit every chicken-milk case.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Ta'am k'ikar can still matter; Shach's point is that the underlying issur is rabbinic.",
+        "D": "This is a cooked taste issue, not a simple dry min b'mino case."
+      }
+    },
+    {
+      "id": "siman_98_introduction_and_seifim_1_5-part-1-q015",
+      "question": "What is Mechaber's rule when issur falls into both mino and eino mino, and enough mino was certainly present to be mevatel b'rov?",
+      "options": {
+        "A": "The mixture is permitted only if the issur and heter have the same name.",
+        "B": "The entire ta'aruvos is forbidden because mino can never help with eino mino.",
+        "C": "Only the eino mino is permitted, while the mino remains forbidden.",
+        "D": "The entire ta'aruvos may be permitted even if the shishim question later becomes unknowable."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 98, Seif 2",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that if it is certain the heter mino was originally more than the issur mino, and then the mixture spilled so shishim cannot be measured, the ta'aruvos may be permitted. The source explains this through Rashba's approach that the mino first nullifies the issur b'rov, affecting the later taste question.",
+        "A": "Same name is Rama's min b'mino definition, not the condition of Mechaber's third case.",
+        "B": "Mechaber explicitly gives a path to leniency when the mino majority was certain.",
+        "C": "Shach suggests a way to limit Rashba's idea, but Mechaber's stated rule is broader.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_98_introduction_and_seifim_1_5-part-1-q016",
+      "question": "When does Mechaber apply the leniency for a safeik d'rabbanan in the previous seif?",
+      "options": {
+        "A": "Only when the mixture is fully intact and can be measured later.",
+        "B": "Only when the issur was removed before entering the pot.",
+        "C": "Only when a non-Jew tasted it directly and found no taste.",
+        "D": "Only when the mixture spilled and can no longer be measured."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 98, Seif 3",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber clarifies that the leniency applies where the mixture spilled and it is no longer possible to measure whether there was shishim. If the mixture is still intact, the person must measure properly rather than rely on a personal lack of expertise.",
+        "A": "If it is intact, the doubt can be resolved by measurement and is not treated as a true safeik.",
+        "B": "The case assumes there was a mixture question, not that the issur never entered.",
+        "C": "This seif is about measuring and spilled mixtures, not relying on taste.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_98_introduction_and_seifim_1_5-part-1-q017",
+      "question": "Why is personal inability to measure an intact mixture not treated as a normal safeik?",
+      "options": {
+        "A": "Because others could measure it, so the doubt comes from lack of expertise.",
+        "B": "Because every intact mixture is automatically forbidden d'oraisa.",
+        "C": "Because no rabbinic doubt can ever be treated leniently.",
+        "D": "Because min b'mino never requires measuring at all."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 98, Seif 3",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Shach explains that a true safeik is a doubt that cannot be clarified. When the mixture is intact and the only problem is that this person does not know how to measure, that is a lack of expertise, not a real safeik permitting leniency.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The issue is not that every intact mixture is Torah-forbidden.",
+        "C": "Safeik d'rabbanan can be lenient; the question is whether this case is a true safeik.",
+        "D": "Min b'mino can still require shishim in the practical halachah."
+      }
+    },
+    {
+      "id": "siman_98_introduction_and_seifim_1_5-part-1-q018",
+      "question": "How does Taz distinguish two kinds of lack of knowledge?",
+      "options": {
+        "A": "If a child does not know, it is a safeik; if an adult does not know, it is not.",
+        "B": "If the pot is metal, it is measurable; if cheres, it is unknowable.",
+        "C": "If the issur is d'oraisa, it is knowledge; if d'rabbanan, it is not.",
+        "D": "If no one can know, it is a safeik; if others could know, it is not a true safeik."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 98, Seif 3",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Taz explains that where no one in the world can know the answer, lack of knowledge is a real safeik. But where other experts could know and only this person does not know how to measure, it is not treated as a true safeik.",
+        "A": "The distinction is not based on the age of the person who does not know.",
+        "B": "Keili material is unrelated to Taz's distinction here.",
+        "C": "The d'oraisa or d'rabbanan status matters for how to rule after a safeik exists, not for this distinction.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_98_introduction_and_seifim_1_5-part-1-q019",
+      "question": "If a whole piece of issur was cooked with heter and then removed, how much must the heter have?",
+      "options": {
+        "A": "Sixty times the entire issur piece.",
+        "B": "Sixty times only the taste that certainly left the piece.",
+        "C": "A simple majority over the piece of issur.",
+        "D": "No shishim, because the issur was removed whole."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 98, Seif 4",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that even if the issur piece is recognizable, whole, and removed, the heter still needs sixty times the entire issur. Since we do not know how much taste left the issur, we assume the whole piece exuded.",
+        "A": "Correct option; see the main explanation.",
+        "B": "We cannot know exactly how much taste left, so the whole piece is measured.",
+        "C": "A simple majority is not enough for a cooked taste mixture.",
+        "D": "Removing the piece removes the substance, but its absorbed taste may remain."
+      }
+    },
+    {
+      "id": "siman_98_introduction_and_seifim_1_5-part-1-q020",
+      "question": "If heter is cooked in a ben yomo issur pot, how does Mechaber measure the required shishim?",
+      "options": {
+        "A": "Against only the food last cooked in the pot.",
+        "B": "Against only a k'dei klipah of the pot.",
+        "C": "Against the entire pot.",
+        "D": "Against the liquid inside the pot after cooking."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 98, Seif 4",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber rules stringently like Rashba that when heter is cooked in a ben yomo issur pot, the heter must be sixty times the entire pot. Since we do not know how much issur was absorbed and exuded, the pot is treated as if it is full of issur belios.",
+        "A": "The last food is not used as the measure once the absorption amount is unknown.",
+        "B": "K'dei klipah applies to absorption through melichah or irui in some cases, not cooking by fire.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The measure is the pot's volume, not the final liquid volume."
+      }
+    },
+    {
+      "id": "siman_98_introduction_and_seifim_1_5-part-1-q021",
+      "question": "How does Rama distinguish absorption through cooking from absorption through melichah?",
+      "options": {
+        "A": "Cooking spreads absorption through the whole keili, while melichah absorbs only k'dei klipah.",
+        "B": "Cooking absorbs only k'dei klipah, while melichah spreads through the whole keili.",
+        "C": "Both cooking and melichah always make the entire keili assur equally.",
+        "D": "Neither cooking nor melichah creates any belios in a keili."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 98, Seif 4",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama says the rule of measuring against the whole keili applies when the keili absorbed through heat of fire, because the absorption spreads throughout the keili. If the keili absorbed through melichah, only a k'dei klipah is absorbed, so only that layer is measured.",
+        "A": "Correct option; see the main explanation.",
+        "B": "This reverses Rama's distinction.",
+        "C": "Rama explicitly treats melichah as more limited than cooking.",
+        "D": "Both can create absorption; the question is how far it spreads."
+      }
+    },
+    {
+      "id": "siman_98_introduction_and_seifim_1_5-part-1-q022",
+      "question": "What is Rama's rule about recognizable issur after its taste is batul b'shishim?",
+      "options": {
+        "A": "It may remain in the mixture because its taste is already batul.",
+        "B": "It becomes heter and may be eaten with the rest of the food.",
+        "C": "It must be removed if it is recognizable or can be removed.",
+        "D": "It must be removed only if the issur is a davar charif."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 98, Seif 4",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama rules that any issur nullified by shishim must still be removed if it is recognizable. He gives the example of cheilev in a pot: even if its taste is batul, cold water should be added so the cheilev congeals and can be removed.",
+        "A": "Rama says bitul of taste does not allow eating the actual recognizable issur.",
+        "B": "The issur's taste is batul, but the identifiable issur itself does not become something to eat.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The rule applies to recognizable issur generally, not only sharp items."
+      }
+    },
+    {
+      "id": "siman_98_introduction_and_seifim_1_5-part-1-q023",
+      "question": "If an issur piece was batul in one pot, removed, and then fell into another pot, what does Rama require?",
+      "options": {
+        "A": "Only the first pot needed shishim; the second pot is automatically permitted.",
+        "B": "The second pot needs shishim only against the taste left in the first pot.",
+        "C": "The second pot must again have sixty times the whole issur piece.",
+        "D": "The second pot is forbidden forever because the piece can never be removed."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 98, Seif 4",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama rules that if an issur was nullified in one pot, then removed and fell into another pot, the second pot must also have sixty times the entire issur. This continues even if it falls into later pots, because the piece may still exude taste.",
+        "A": "The first bitul does not make the issur piece harmless for later pots.",
+        "B": "The second pot must measure against the issur piece itself, not against what stayed in the first pot.",
+        "C": "Correct option; see the main explanation.",
+        "D": "If the second pot has shishim and the issur is removed, it can be permitted."
+      }
+    },
+    {
+      "id": "siman_98_introduction_and_seifim_1_5-part-1-q024",
+      "question": "What does Shach say is the practical result of measuring against the entire pot?",
+      "options": {
+        "A": "Most heter cooked in an issur pot is permitted, because pots absorb very little.",
+        "B": "The pot is always permitted, because only the food needs shishim.",
+        "C": "The heter will generally be forbidden, because pots usually do not hold sixty times their own walls.",
+        "D": "Only earthenware pots are affected, but metal pots are measured by absorbed taste."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 98, Seif 4",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Shach notes that if the heter must be sixty times the entire pot, the practical result is usually that the heter becomes forbidden. Ordinary pots generally do not contain sixty times the volume of their walls.",
+        "A": "This is the opposite of Shach's practical observation.",
+        "B": "The question is whether the food has enough shishim; the pot may also need kashering.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Mechaber and Rama rule stringently for cheres, wood, and metal keilim alike."
+      }
+    },
+    {
+      "id": "siman_98_introduction_and_seifim_1_5-part-1-q025",
+      "question": "What is chatichah na'asis neveilah?",
+      "options": {
+        "A": "A permitted piece that absorbs issur can itself become treated as a forbidden piece.",
+        "B": "A forbidden piece becomes permitted once it is cooked with heter.",
+        "C": "A piece of meat becomes pareve when sixty times milk falls on it.",
+        "D": "A keili becomes new again after twenty-four hours pass."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 98, Seif 5",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Chana\"n means that when issur enters a piece and is not nullified within it, the whole piece may become treated as an issur entity. In basar b'chalav, the meat and milk combine into a new forbidden entity, so later mixtures must measure against the whole piece.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Chana\"n is a stringency, not a way for issur to become permitted.",
+        "C": "Meat and milk combine to become forbidden, not pareve.",
+        "D": "Ben yomo status and pagum taste are separate keili concepts."
+      }
+    },
+    {
+      "id": "siman_98_introduction_and_seifim_1_5-part-1-q026",
+      "question": "In which case do all opinions agree that chana\"n applies?",
+      "options": {
+        "A": "Only by issurim d'rabbanan.",
+        "B": "By basar b'chalav.",
+        "C": "Only by belios in metal keilim.",
+        "D": "Only by min b'mino dry mixtures."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 98, Seif 5",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "The source states that everyone agrees chana\"n applies by basar b'chalav, because the milk and meat combine to create a new entity of issur. The dispute is whether chana\"n also applies to other issurim.",
+        "A": "The agreement is not specifically by rabbinic prohibitions.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Belios in keilim are a separate machlokes.",
+        "D": "Dry min b'mino mixtures are not the core agreed case."
+      }
+    },
+    {
+      "id": "siman_98_introduction_and_seifim_1_5-part-1-q027",
+      "question": "How do Mechaber and Rama differ about chana\"n by other issurim?",
+      "options": {
+        "A": "Mechaber applies it to all issurim; Rama limits it to basar b'chalav.",
+        "B": "Both limit chana\"n to basar b'chalav in all circumstances.",
+        "C": "Mechaber limits it to basar b'chalav; Rama applies it to all issurim rabbinically.",
+        "D": "Both apply it only to earthenware keilim and not to food."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 98, Seif 5",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Tur and Mechaber hold that chana\"n applies only to basar b'chalav. Rama holds that it applies to all issurim as a rabbinic extension of the basar b'chalav model.",
+        "A": "This reverses the positions.",
+        "B": "Rama is broader than Mechaber and applies chana\"n to other issurim.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The primary discussion is about food mixtures; keilim are a later extension."
+      }
+    },
+    {
+      "id": "siman_98_introduction_and_seifim_1_5-part-1-q028",
+      "question": "If a new spoon absorbed one k'zayis of milk and was then used in a meat pot, what does Mechaber require?",
+      "options": {
+        "A": "Sixty times the whole spoon in every case.",
+        "B": "Sixty times the one k'zayis of milk it absorbed.",
+        "C": "A simple majority against the spoon.",
+        "D": "No bitul, because a new spoon cannot absorb."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 98, Seif 5",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that when the amount of issur absorbed is known, such as a new spoon that absorbed one k'zayis of milk, the meat pot needs only sixty times that known k'zayis of milk.",
+        "A": "Measuring against the whole spoon applies when the amount of absorption is unknown or when belios become chana\"n.",
+        "B": "Correct option; see the main explanation.",
+        "C": "A simple majority is not enough for this hot taste transfer.",
+        "D": "A new spoon can absorb; the point is that the absorbed amount is known."
+      }
+    },
+    {
+      "id": "siman_98_introduction_and_seifim_1_5-part-1-q029",
+      "question": "Why does an old ben yomo meat spoon that absorbed milk require shishim against the whole spoon according to the main opinion?",
+      "options": {
+        "A": "Because the spoon's metal body certainly becomes actual neveilah.",
+        "B": "Because the milk makes the unknown meat belios chana\"n.",
+        "C": "Because a ben yomo spoon always contains visible meat pieces.",
+        "D": "Because milk absorbed in a spoon is never batul in meat."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 98, Seif 5",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "The main opinion holds that belios can become chana\"n. Since the old ben yomo spoon may be full of meat belios, when it absorbs hot milk those belios become basar b'chalav issur. Because the amount of meat belios is unknown, the pot must measure against the whole spoon.",
+        "A": "Rama says we do not generally say the actual keili body becomes chana\"n, though he cites a chumra by cheres.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The issue is absorbed taste, not visible meat pieces.",
+        "D": "Milk can be batul with shishim; the problem is the unknown amount of chana\"n belios."
+      }
+    }
+  ]
+}

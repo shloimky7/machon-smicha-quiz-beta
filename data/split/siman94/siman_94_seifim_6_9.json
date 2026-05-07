@@ -1,0 +1,632 @@
+{
+  "id": "siman_94_seifim_6_9-part-2",
+  "title": "Siman 94 - Seifim 6-9",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 27,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 94",
+  "questions": [
+    {
+      "id": "siman_94_seifim_6_9-part-2-q001",
+      "question": "What does Mechaber require when meat-flavored vegetables are cooked in a ben yomo dairy pot?",
+      "options": {
+        "A": "Sixty against the entire vegetables.",
+        "B": "Sixty against only the absorbed meat bliyos.",
+        "C": "Only a simple majority against the vegetables.",
+        "D": "Only rinsing the vegetables after cooking."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 94, Seif 6",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that onions or vegetables that absorbed meat and are then cooked in a dairy pot require sixty only against the meat taste absorbed in them, if that amount is known. The vegetables themselves do not become chana'n because when they absorbed the meat taste, everything was still heter.",
+        "A": "The entire vegetables are not the measure in this basar b'chalav taste case.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Rov is not enough for cooked meat taste entering dairy.",
+        "D": "Rinsing cannot remove absorbed meat taste after cooking."
+      }
+    },
+    {
+      "id": "siman_94_seifim_6_9-part-2-q002",
+      "question": "Why do the vegetables not become chana'n when they absorb meat taste?",
+      "options": {
+        "A": "Because chana'n applies only to metal keilim.",
+        "B": "Because dairy pots never transfer taste to food.",
+        "C": "Because meat taste in vegetables is still heter before meeting milk.",
+        "D": "Because vegetables can never absorb any taste."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 94, Seif 6",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Rama explains that chana'n does not apply because the vegetables were still entirely permitted when they absorbed the meat taste. Since the absorbed taste was not issur at that stage, only the actual absorbed meat taste must be measured against later.",
+        "A": "Chana'n is a food-mixture rule, not only a metal-keili rule.",
+        "B": "A ben yomo dairy pot can transfer dairy taste through cooking.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Vegetables can absorb taste; that is the premise of the case."
+      }
+    },
+    {
+      "id": "siman_94_seifim_6_9-part-2-q003",
+      "question": "According to Taz, how much onion is measured if only part was cut with a meat knife?",
+      "options": {
+        "A": "The entire onion in every case.",
+        "B": "Only the k'dei n'tilah that absorbed meat taste.",
+        "C": "Only the peel on the opposite side.",
+        "D": "Only the knife handle's volume."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 94, Seif 6",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Taz clarifies that if an onion merely had part of it cut with a meat knife, the meat taste does not permeate the entire onion. It enters only k'dei n'tilah into the part that was cut, and therefore only that absorbed portion needs to be nullified later.",
+        "A": "Taz specifically avoids measuring the entire onion in this partial-cut case.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The opposite peel is not the absorbed area being discussed.",
+        "D": "The knife handle is irrelevant to the onion's absorbed taste."
+      }
+    },
+    {
+      "id": "siman_94_seifim_6_9-part-2-q004",
+      "question": "If the meat bliyos in the vegetables are batul, what is the vegetable's status according to Maharam M'Lublin as quoted by Shach?",
+      "options": {
+        "A": "The vegetable itself remains mutar.",
+        "B": "The vegetable remains assur forever.",
+        "C": "The vegetable is permitted only for benefit.",
+        "D": "The vegetable needs hag'alah before eating."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 94, Seif 6",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Shach quotes Maharam M'Lublin that if the pot has sixty against the absorbed meat taste, even the vegetable that absorbed the meat remains permitted. Since the absorbed meat was heter when it entered the vegetable, the vegetable did not become an issur piece requiring efshar l'sochto stringency.",
+        "A": "Correct option; see the main explanation.",
+        "B": "That would be the concern with absorbed issur, not absorbed heter meat taste.",
+        "C": "The vegetable is mutar to eat, not only for benefit.",
+        "D": "Hag'alah applies to keilim, not to making this vegetable edible."
+      }
+    },
+    {
+      "id": "siman_94_seifim_6_9-part-2-q005",
+      "question": "How would Rama treat a vegetable that absorbed real issur and then fell into heter?",
+      "options": {
+        "A": "Only the absorbed issur is measured.",
+        "B": "The entire vegetable becomes chana'n.",
+        "C": "The vegetable becomes permitted without bitul.",
+        "D": "The vegetable is treated as water."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 94, Seif 6",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Shach explains that Mechaber and Rama agree about meat taste in vegetables because it was heter when absorbed. But by real issur, Rama holds chana'n applies to other issurim, so the vegetable itself becomes chana'n and the later mixture needs sixty against the whole vegetable.",
+        "A": "That would fit Mechaber's approach to other issurim, not Rama's.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The absorbed issur requires bitul and may make the vegetable chana'n.",
+        "D": "Water is discussed separately for not restarting meat-and-milk clocks."
+      }
+    },
+    {
+      "id": "siman_94_seifim_6_9-part-2-q006",
+      "question": "Why does water cooked in a dairy pot not require later meat to have sixty against all the water?",
+      "options": {
+        "A": "Water cannot absorb anything in a pot.",
+        "B": "Water becomes chana'n only after cooling.",
+        "C": "The water absorbed only heter milk taste and does not become chana'n.",
+        "D": "The water kashered the pot completely in every case."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 94, Seif 6",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Rama explains that when water is cooked in a dairy pot, the water does not become chana'n because milk taste mixing with water is still entirely heter. Later meat needs sixty only against the milk bliyos, not against all the water, and Shach adds that regular issur would be different.",
+        "A": "Water can absorb taste; the point is that the absorbed taste was heter.",
+        "B": "Cooling is not the condition for chana'n here.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Cooking water does not automatically kasher the pot in every case."
+      }
+    },
+    {
+      "id": "siman_94_seifim_6_9-part-2-q007",
+      "question": "What is duchka d'sakina?",
+      "options": {
+        "A": "The cooling power of kli sheini walls.",
+        "B": "The sweetness of honey weakening meat taste.",
+        "C": "The pressure of a knife causing taste transfer.",
+        "D": "The heat of a pot lid above boiling water."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 94, Seif 7",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Duchka d'sakina means the pressure of a knife. The Gemara uses it to explain how a knife can cause taste transfer even where the food is cold, and it becomes central to the rules of cutting hot meat with a dairy knife.",
+        "A": "Kli sheini walls relate to the davar gush discussion, not duchka d'sakina itself.",
+        "B": "Honey weakening meat taste is part of Seif 9, not the knife-pressure rule.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Pot-lid heat belongs to other simanim and cases."
+      }
+    },
+    {
+      "id": "siman_94_seifim_6_9-part-2-q008",
+      "question": "How do Mechaber and Rama rule when hot meat is cut with a ben yomo dairy knife?",
+      "options": {
+        "A": "The entire meat is assur unless it has sixty against the knife part.",
+        "B": "Only hadachah is needed because the knife is dry.",
+        "C": "Only the knife becomes assur, but the meat is mutar.",
+        "D": "The meat is permitted if the knife was on bottom."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 94, Seif 7",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Mechaber rules like Rabbeinu Peretz and Tur that hot meat cut with a dairy knife becomes entirely forbidden unless the meat has sixty against the part of the knife that cut it. Rama limits the full stringency to meat that is hot from a kli rishon.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Duchka d'sakina and heat create more than a hadachah concern.",
+        "C": "The meat absorbs from the dairy knife and can become forbidden.",
+        "D": "Shach says tata'ah gavar does not control where duchka d'sakina applies."
+      }
+    },
+    {
+      "id": "siman_94_seifim_6_9-part-2-q009",
+      "question": "Does duchka d'sakina apply only to knives?",
+      "options": {
+        "A": "Yes, because only a knife can ever press into food.",
+        "B": "No, pressure from a fork or spoon-cutting can also count.",
+        "C": "Yes, unless the food is honey or water.",
+        "D": "No, but only if the utensil is wooden."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 94, Seif 7",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Darchei Teshuvah applies the same idea to a fork inserted with pressure, and Sefer Hakashrus adds that even using a spoon to cut food can fall under duchka d'sakina. The key feature is pressure forcing taste transfer, not the name of the utensil.",
+        "A": "The source explicitly extends the idea beyond knives.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Honey and water are unrelated to whether pressure can transfer taste.",
+        "D": "The extension is based on pressure, not specifically wooden utensils."
+      }
+    },
+    {
+      "id": "siman_94_seifim_6_9-part-2-q010",
+      "question": "Why can the whole piece of hot meat become assur when cut with a dairy knife?",
+      "options": {
+        "A": "Because the knife always melts into the meat.",
+        "B": "Because cold meat can never be cut with any knife.",
+        "C": "Because every dairy knife is certainly a davar charif.",
+        "D": "Because duchka, fatty bliyos, or fatty meat can spread taste."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 94, Seif 7",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Shach asks why the whole meat becomes assur when ordinary dry contact may only forbid k'dei n'tilah. He answers that duchka d'sakina can spread taste further, dairy knives are assumed to contain fatty dairy bliyos that spread, or Mechaber may be discussing fatty meat.",
+        "A": "The knife does not physically melt into the meat.",
+        "B": "Cold meat has different rules and may need rinsing or klipah depending on residue.",
+        "C": "The knife is not itself a davar charif; the issue is absorbed dairy taste and pressure.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_94_seifim_6_9-part-2-q011",
+      "question": "Does tata'ah gavar limit the knife case when hot meat is cut?",
+      "options": {
+        "A": "Yes, only if the knife is below the meat.",
+        "B": "Yes, only if the meat is above the knife.",
+        "C": "No, duchka d'sakina makes tata'ah irrelevant here.",
+        "D": "No, because tata'ah applies only to honey."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 94, Seif 7",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Shach says that Mechaber's knife rule applies even where the cold knife is below and the hot meat is above. Since duchka d'sakina causes the food being cut to absorb the knife's bliyos, the usual tata'ah gavar analysis does not control this case.",
+        "A": "Shach says the rule applies even if the knife is below.",
+        "B": "The meat's position above does not make tata'ah the controlling rule.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Tata'ah is a general hot/cold rule, not a honey rule."
+      }
+    },
+    {
+      "id": "siman_94_seifim_6_9-part-2-q012",
+      "question": "How much of the knife does Mechaber measure against in the hot-meat case?",
+      "options": {
+        "A": "The entire blade in every case.",
+        "B": "Only the part of the knife that touched the meat.",
+        "C": "Only the handle that remained outside.",
+        "D": "Only the visible residue on the knife."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 94, Seif 7",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Mechaber follows Mordechai that the meat must have sixty against the part of the knife that touched it. He does not require measuring against the whole blade on the basis of cham miktzoso cham kulo.",
+        "A": "Maharshal is stricter in uncertain cases, but Mechaber's stated measure is the part used.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The outside handle is not the relevant absorbing area.",
+        "D": "In the ben yomo case, the issue is absorbed bliyos, not only visible residue."
+      }
+    },
+    {
+      "id": "siman_94_seifim_6_9-part-2-q013",
+      "question": "When does Shach agree that the entire knife blade may need to be measured?",
+      "options": {
+        "A": "When one is unsure how much of the knife was used.",
+        "B": "Whenever the knife is made of metal.",
+        "C": "Only when the meat is cold and dry.",
+        "D": "Only when the knife was used for honey."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 94, Seif 7",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Shach says Mechaber and Rama do not follow Maharshal when a person is certain which part of the blade was used. But where one is unsure how much of the knife was used, they agree with the concern that the entire blade may need to be measured.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Mechaber and Rama do not measure the whole blade just because it is metal.",
+        "C": "Cold dry meat is not the case requiring whole-blade measurement.",
+        "D": "Honey is a later na't bar na't and pagum-taste case."
+      }
+    },
+    {
+      "id": "siman_94_seifim_6_9-part-2-q014",
+      "question": "If the dairy knife is eino ben yomo, why must some meat still be removed?",
+      "options": {
+        "A": "Because knives are assumed to have some dairy fat on them.",
+        "B": "Because pagum bliyos are always stronger than fresh taste.",
+        "C": "Because cold residue turns into steam inside the meat.",
+        "D": "Because eino ben yomo knives are always assur b'hana'ah."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 94, Seif 7",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Even where the knife is not ben yomo, Mechaber and Rama require removing a klipah from the meat because knives are assumed to have fatty residue on their surface. That surface fat is actual dairy substance, not merely pagum absorbed taste.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Pagum bliyos are weaker, not stronger; the issue is surface fat.",
+        "C": "Steam is not the mechanism in this knife case.",
+        "D": "The knife is not automatically assur b'hana'ah because it is eino ben yomo."
+      }
+    },
+    {
+      "id": "siman_94_seifim_6_9-part-2-q015",
+      "question": "How do Shach and Taz disagree about an eino ben yomo knife if the meat is not sixty against the residue?",
+      "options": {
+        "A": "Shach forbids the whole piece; Taz requires only hadachah.",
+        "B": "Both require only rinsing with cold water.",
+        "C": "Both permit the meat without any removal.",
+        "D": "Shach requires only klipah; Taz can forbid the whole piece."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 94, Seif 7",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Shach says the small amount of congealed fat on the knife can only enter k'dei klipah, even if not batul in sixty. Taz holds that if the meat is not sixty against the milk taste and residue together, the whole piece can become assur; Mechaber's klipah language applies only where sixty exists.",
+        "A": "This reverses their positions.",
+        "B": "Both require more than rinsing in this hot cutting case.",
+        "C": "Neither permits the meat without at least addressing the contact area.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_94_seifim_6_9-part-2-q016",
+      "question": "How does Rama treat hot meat in a kli sheini cut with a dairy knife?",
+      "options": {
+        "A": "The meat needs klipah and the knife needs n'itzah.",
+        "B": "The whole meat is always assur b'hana'ah.",
+        "C": "The meat is mutar and the knife needs no action.",
+        "D": "The meat needs sixty against the whole blade."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 94, Seif 7",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Rama limits Mechaber's full-stringency knife case to hot meat in a kli rishon. If the meat is hot in a kli sheini, the meat needs k'dei klipah removed, and the knife requires n'itzah b'karka kasheh, which is sticking it into hard ground.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Rama is more lenient in a kli sheini case.",
+        "C": "Rama still requires klipah and n'itzah.",
+        "D": "The whole-blade measurement is not Rama's kli sheini rule."
+      }
+    },
+    {
+      "id": "siman_94_seifim_6_9-part-2-q017",
+      "question": "How does Rama rule about davar gush in a kli sheini?",
+      "options": {
+        "A": "It is always a kli rishon as long as it is solid.",
+        "B": "It follows kli sheini rules and does not transfer fully.",
+        "C": "It becomes pareve because the walls cool it.",
+        "D": "It requires libun for the food itself."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 94, Seif 7",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Maharshal and Issur V'heter are strict that a hot davar gush retains kli rishon status because it has its own solid 'walls.' Rama does not accept that chumra and treats even davar gush in a kli sheini as a kli sheini, though Taz says to be stringent in cases of duchka d'sakina.",
+        "A": "That is Maharshal's stricter view, not Rama's ruling.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Rama's view is not that the food becomes pareve; it is about transfer strength.",
+        "D": "Libun is a kashering process for keilim, not food."
+      }
+    },
+    {
+      "id": "siman_94_seifim_6_9-part-2-q018",
+      "question": "When does Shach say a knife can need n'itzah even with cold food?",
+      "options": {
+        "A": "When the food is hard, such as hard cheese.",
+        "B": "When the food is soft and fully cold.",
+        "C": "When the knife was never used before.",
+        "D": "When the food is honey in a dairy plate."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 94, Seif 7",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Shach explains that for soft food, heat is needed to cause the knife to require n'itzah. But hard food, such as hard cheese, creates significant pressure and friction, so even when cold it can require n'itzah for the knife.",
+        "A": "Correct option; see the main explanation.",
+        "B": "For soft food, Shach requires heat.",
+        "C": "A never-used knife would not have the same absorbed taste issue.",
+        "D": "Honey in a plate is the na't bar na't case of Seif 9."
+      }
+    },
+    {
+      "id": "siman_94_seifim_6_9-part-2-q019",
+      "question": "What is the basic chiddush of Mechaber's p'nadash and cheese case?",
+      "options": {
+        "A": "The result can be limited to k'dei klipah.",
+        "B": "The entire oven must always be broken.",
+        "C": "The cheese always permits the meat pastry.",
+        "D": "The meat pastry becomes pareve after cooling."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 94, Seif 8",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Mechaber discusses a case where cheese contacts a meat pastry or a hot meat plate, and the issur is limited to k'dei klipah. The case is different from the knife case because there is no duchka d'sakina and no liquid medium causing deeper transfer.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Mechaber's din is about removing a klipah, not breaking an oven.",
+        "C": "The cheese does not permit the meat pastry; it creates a limited issur.",
+        "D": "Cooling does not make a meat pastry pareve."
+      }
+    },
+    {
+      "id": "siman_94_seifim_6_9-part-2-q020",
+      "question": "How does Shach understand the p'nadash case?",
+      "options": {
+        "A": "Cheese lands on the pastry, and cheese is very kachush.",
+        "B": "Cheese lands only in an empty oven with no food.",
+        "C": "Honey lands on a dairy plate from a meat pan.",
+        "D": "A knife cuts cold cheese with no pressure."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 94, Seif 8",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Shach understands the case as cheese landing on the p'nadash pastry itself. Ordinarily tzliyah could require k'dei n'tilah, but cheese is considered very kachush and does not spread deeply into the pastry, so the pastry needs only k'dei klipah. The cheese itself follows normal absorption rules.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Pri Megadim says that simple reading cannot be correct.",
+        "C": "That is the honey case of Seif 9.",
+        "D": "The knife and pressure case belongs to Seif 7."
+      }
+    },
+    {
+      "id": "siman_94_seifim_6_9-part-2-q021",
+      "question": "How does Taz understand Mechaber's p'nadash case?",
+      "options": {
+        "A": "Cheese landed on the meat tray, and a later pastry absorbed only klipah.",
+        "B": "Cheese landed in cold water, and the pot became new.",
+        "C": "Cheese cut with a dry knife requires only hadachah.",
+        "D": "Cheese fell into honey and became nosen ta'am l'fgam."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 94, Seif 8",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Taz reads the case as cheese falling onto the meat tray used for the p'nadash. The cheese and tray interact, and later another p'nadash placed on that tray absorbs only k'dei klipah, because the cheese bliyos in the tray are kachush and cannot spread through the whole pastry.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Cold water and new-pot status are not Taz's p'nadash explanation.",
+        "C": "Dry knife cases are not the subject of Seif 8.",
+        "D": "Honey and nosen ta'am l'fgam are discussed in Seif 9."
+      }
+    },
+    {
+      "id": "siman_94_seifim_6_9-part-2-q022",
+      "question": "Why does Beis Yosef distinguish the cheese-on-plate case from the knife case?",
+      "options": {
+        "A": "There is no duchka d'sakina and no liquid.",
+        "B": "The plate is always cold and unused.",
+        "C": "The cheese is always sharp like a davar charif.",
+        "D": "The knife case involves only pareve food."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 94, Seif 8",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Beis Yosef says a cheese pastry or cheese on a ben yomo meat plate differs from the knife case because there is no pressure of a knife and no liquid medium. Those two missing factors limit the transfer to k'dei klipah.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Shach clarifies the plate case is hot, not necessarily cold.",
+        "C": "The source treats cheese as kachush, not as a sharp davar charif.",
+        "D": "The knife case concerns meat cut with a dairy knife, not pareve food."
+      }
+    },
+    {
+      "id": "siman_94_seifim_6_9-part-2-q023",
+      "question": "How does Shach distinguish fully dry cheese from slightly moist food on a hot issur plate?",
+      "options": {
+        "A": "Dry absorbs klipah; slightly moist can absorb k'dei n'tilah.",
+        "B": "Dry absorbs fully; slightly moist absorbs nothing.",
+        "C": "Both always absorb the entire plate volume.",
+        "D": "Both are permitted because plates do not exude taste."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 94, Seif 8",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Shach resolves an apparent contradiction by distinguishing between fully dry food and slightly moist food. A fully dry item on the hot plate absorbs only k'dei klipah, while a slightly moist item can absorb more deeply, up to k'dei n'tilah.",
+        "A": "Correct option; see the main explanation.",
+        "B": "This reverses Shach's distinction.",
+        "C": "Neither case is measured against the entire plate volume.",
+        "D": "Bliyos in a hot plate can exude taste; the question is depth of absorption."
+      }
+    },
+    {
+      "id": "siman_94_seifim_6_9-part-2-q024",
+      "question": "What case does Mechaber discuss with honey in Seif 9?",
+      "options": {
+        "A": "Honey cooked in a meat pan and poured into a dairy plate.",
+        "B": "Honey mixed directly with meat and cheese in one pot.",
+        "C": "Honey used to kasher a dairy spoon in cold water.",
+        "D": "Honey placed under a pot lid to stop steam."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 94, Seif 9",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Mechaber discusses honey cooked in a ben yomo meat pan and then poured hot into a ben yomo dairy plate. He permits the honey because the meat taste reaches the dairy plate only through na't bar na't d'heteira.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The case is not direct cooking of meat, milk, and honey together.",
+        "C": "Honey is not being used as a kashering agent for a spoon.",
+        "D": "The lid and steam issue is from earlier simanim, not Seif 9."
+      }
+    },
+    {
+      "id": "siman_94_seifim_6_9-part-2-q025",
+      "question": "Why does Mechaber permit the honey cooked in a meat pan and poured into a dairy plate?",
+      "options": {
+        "A": "Because honey cannot absorb any taste.",
+        "B": "Because it is na't bar na't d'heteira.",
+        "C": "Because meat and milk are always pagum together.",
+        "D": "Because the dairy plate is certainly cold."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 94, Seif 9",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Mechaber's stated reason is na't bar na't d'heteira: the meat taste went from meat to pan, from pan to honey, and then the honey entered the dairy plate. Since the taste is secondary and still heter before meeting milk, he permits the honey.",
+        "A": "Honey can receive taste; the heter is based on the nature of the taste transfer.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Mechaber's reason is not that all meat-and-milk combinations are pagum.",
+        "D": "Shach says the case is an uninterrupted hot stream, so coldness is not the basis."
+      }
+    },
+    {
+      "id": "siman_94_seifim_6_9-part-2-q026",
+      "question": "How do Shach and Taz cite Mordechai's reason for permitting honey?",
+      "options": {
+        "A": "Meat taste in honey is nosen ta'am l'fgam.",
+        "B": "Honey makes every dairy plate pareve.",
+        "C": "Honey is never considered food in halachah.",
+        "D": "Meat taste in honey is always chana'n."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 94, Seif 9",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Shach and Taz cite Mordechai, who permits because meat taste in honey is nosen ta'am l'fgam. According to Mordechai, this reason is needed because he limits na't bar na't and does not apply it broadly to food that was roasted or cooked.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Honey does not automatically make the dairy plate pareve.",
+        "C": "Honey is treated as food; the issue is whether meat taste ruins it.",
+        "D": "Mordechai is giving a lenient pagum-taste reason, not chana'n."
+      }
+    },
+    {
+      "id": "siman_94_seifim_6_9-part-2-q027",
+      "question": "Why can Rama agree with Mechaber's leniency in the honey case according to Shach?",
+      "options": {
+        "A": "Because Rama always permits na't bar na't l'chatchilah.",
+        "B": "Because we combine Mordechai's pagum reason with na't bar na't.",
+        "C": "Because the plate is not ben yomo in Mechaber's case.",
+        "D": "Because honey is poured only in an interrupted stream."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 94, Seif 9",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Shach asks why Rama would not be strict about the dairy plate, given Rama's ruling elsewhere about hot water poured between meat and dairy pots. He answers that here we combine two leniencies: Mordechai's view that meat taste harms honey, and Mechaber's na't bar na't framework. Badei Hashulchan notes this suggests the heter is b'di'eved.",
+        "A": "Rama is not always lenient with na't bar na't l'chatchilah through cooking.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Mechaber's case explicitly has a ben yomo dairy plate.",
+        "D": "Shach says the case is an uninterrupted stream; otherwise the issue would be weaker."
+      }
+    }
+  ]
+}

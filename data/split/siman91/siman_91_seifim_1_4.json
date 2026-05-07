@@ -1,0 +1,379 @@
+{
+  "id": "siman_91_seifim_1_4-part-1",
+  "title": "Siman 91 - Seifim 1-4",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 16,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 91",
+  "questions": [
+    {
+      "id": "siman_91_seifim_1_4-part-1-q001",
+      "question": "What is the basic din when cold meat and cold cheese touch each other?",
+      "options": {
+        "A": "They are permitted after rinsing the contact area.",
+        "B": "They are forbidden unless there is sixty times.",
+        "C": "They are forbidden because taste transfers immediately.",
+        "D": "They are permitted only after removing a klipah."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 91, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that cold meat and cold cheese that touched remain permitted to be eaten separately. Since they are cold, there is no meaningful taste transfer. Still, the point of contact must be rinsed because actual residue may be present where they touched.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Sixty is not needed for ordinary cold contact in this seif.",
+        "C": "Cold foods touching do not transfer taste in the way hot or salty foods can.",
+        "D": "Klipah is required in stronger transfer cases, not for simple cold contact."
+      }
+    },
+    {
+      "id": "siman_91_seifim_1_4-part-1-q002",
+      "question": "May one wrap cold meat and cheese in one cloth if they are not touching?",
+      "options": {
+        "A": "No, because they might touch later in this case.",
+        "B": "Yes, because any later contact only needs rinsing.",
+        "C": "Only if both foods are already salted.",
+        "D": "Only if the cloth is marked for meat."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 91, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber permits wrapping meat and cheese in one cloth when they are not touching. Even if they later touch, cold contact does not forbid them; the practical remedy would be hadachah at the place of contact. Therefore, there is no concern that they might touch in the cloth.",
+        "A": "Mechaber explicitly permits wrapping them together when they are not touching.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Salting would create a more serious transfer issue, not the permission here.",
+        "D": "The din here is about cold foods in one cloth, not marked meat utensils."
+      }
+    },
+    {
+      "id": "siman_91_seifim_1_4-part-1-q003",
+      "question": "When cold meat and cheese touch, according to Bach and Shach, when is hadachah needed?",
+      "options": {
+        "A": "Only if both foods are cooked.",
+        "B": "Only if the cheese is hard.",
+        "C": "Only if one of the foods is wet.",
+        "D": "Only if both foods are fully dry."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 91, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Bach and Shach understand the need for washing as applying where one of the foods is wet, because residue can stick at the contact point. If both are completely dry, b'di'eved there is no residue concern in the same way and hadachah is not needed according to them.",
+        "A": "The distinction here is wet versus dry, not cooked versus uncooked.",
+        "B": "Hard cheese is not the factor discussed in this cold-contact ruling.",
+        "C": "Correct option; see the main explanation.",
+        "D": "If both are dry, Bach and Shach are more lenient, not stricter."
+      }
+    },
+    {
+      "id": "siman_91_seifim_1_4-part-1-q004",
+      "question": "What is the din if cold meat and cheese touched and were cooked without first being rinsed?",
+      "options": {
+        "A": "The food needs n'itzah b'karka.",
+        "B": "The food is forbidden b'hana'ah.",
+        "C": "The food is automatically forbidden.",
+        "D": "The food remains permitted b'di'eved."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 91, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Taz writes that if one failed to rinse the cold foods and then cooked them, or if the food cannot be rinsed, the food remains permitted b'di'eved. The hadachah requirement is real, but the failure to rinse does not automatically forbid the food after the fact.",
+        "A": "N'itzah applies to knives, not to cooked food that was not rinsed.",
+        "B": "This is not a d'oraisa cooked basar b'chalav mixture that becomes assur b'hana'ah.",
+        "C": "Taz is lenient b'di'eved in this exact type of case.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_91_seifim_1_4-part-1-q005",
+      "question": "Why does Mechaber forbid placing cold cooked heter food on a cold issur plate l'chatchilah?",
+      "options": {
+        "A": "Because one may eat the food without rinsing it.",
+        "B": "Because cold food always needs sixty.",
+        "C": "Because the plate must first be broken.",
+        "D": "Because the plate transfers taste even while cold."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 91, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber applies the cold-contact concern to keilim. If a food would need hadachah after touching the issur plate, and it is not the type of food people normally rinse before eating, it may not be placed there l'chatchilah. The concern is that one may forget and eat it without hadachah.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Cold contact does not automatically require sixty.",
+        "C": "Breaking applies to certain earthenware cases, not this cold-contact l'chatchilah rule.",
+        "D": "The issue is not cold taste transfer from the plate but residue and forgotten hadachah."
+      }
+    },
+    {
+      "id": "siman_91_seifim_1_4-part-1-q006",
+      "question": "Which food may be placed on a cold issur keili l'chatchilah according to Mechaber's exception?",
+      "options": {
+        "A": "Bread that will be served now.",
+        "B": "Raw meat normally rinsed before cooking.",
+        "C": "Cheese that will not be rinsed.",
+        "D": "Cooked meat ready to eat."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 91, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber's prohibition applies to foods that are not normally washed before eating. Raw meat is different because it is normally rinsed before cooking and eating. Since it will be rinsed anyway, there is no concern that the person will forget hadachah.",
+        "A": "Bread is not normally rinsed and is treated carefully in the next seif.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Cheese that will not be rinsed fits the concern, not the exception.",
+        "D": "Cooked ready-to-eat meat is not normally rinsed before eating."
+      }
+    },
+    {
+      "id": "siman_91_seifim_1_4-part-1-q007",
+      "question": "According to Rama in Seif 2, when may dry cold food be placed in an issur keili without hadachah?",
+      "options": {
+        "A": "When the food is wet but not sharp.",
+        "B": "When the food will be cooked with milk.",
+        "C": "When the keili absorbed only cold issur.",
+        "D": "When the keili absorbed hot issur today."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 91, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama qualifies Mechaber's din and permits placing a completely dry food into such a keili without hadachah when the keili only absorbed its issur through cold use. In this local ruling, Rama requires both positive features: the food is dry, and the keili's issur use was cold.",
+        "A": "Rama's permission here is specifically for a truly dry food.",
+        "B": "Cooking with milk is unrelated to the permission to place dry food in the keili.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Hot absorbed issur is outside Rama's permission here."
+      }
+    },
+    {
+      "id": "siman_91_seifim_1_4-part-1-q008",
+      "question": "How does Taz understand when a non-kosher keili may be used for kosher food?",
+      "options": {
+        "A": "It is never permitted even for temporary cold use.",
+        "B": "It is permitted only for sharp wet foods.",
+        "C": "Only when both the food is dry and the keili absorbed cold.",
+        "D": "One positive factor can be enough to permit the use."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 91, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Taz argues that Rama's wording should be read more leniently. In his view, either the food being dry or the keili having been used only for cold issur can be enough, depending on the case. His basic principle is that if the situation will not transmit issur taste, the use is permitted.",
+        "A": "Taz allows use in cases where there is no taste transfer concern.",
+        "B": "Sharp wet foods are more problematic, not the basis of Taz's permission.",
+        "C": "That describes Rama's wording as presented in this seif, not Taz's more lenient reading.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_91_seifim_1_4-part-1-q009",
+      "question": "According to Shach, what is the key condition for placing cold heter in an issur keili?",
+      "options": {
+        "A": "The keili must be clean.",
+        "B": "The keili must be used permanently.",
+        "C": "The heter must be very salty.",
+        "D": "The heter must be cooked first."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 91, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Shach holds that if an issur keili was rinsed well or wiped clean, cold heter may be placed on it regardless of how the keili absorbed issur. His major condition is cleanliness. He still gives important exceptions, such as hot food, wet sharp foods, and permanent use of the issur vessel.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Shach forbids keeping a non-kosher vessel permanently for cold kosher use.",
+        "C": "Very salty heter could create more transfer concerns, not the permission.",
+        "D": "Hot food is more problematic because it can draw out issur taste."
+      }
+    },
+    {
+      "id": "siman_91_seifim_1_4-part-1-q010",
+      "question": "Why must one be careful that meat or cheese not touch bread?",
+      "options": {
+        "A": "Because bread can never be rinsed in this case.",
+        "B": "Because one may later eat it with the opposite type.",
+        "C": "Because bread becomes assur b'hana'ah.",
+        "D": "Because bread is always a davar charif."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 91, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber says one should prevent meat from touching bread, because if it does, the bread may not be eaten with cheese, and the same applies in reverse. Shach explains that this continues the concern that one may forget to rinse the bread and later eat it with the opposite type.",
+        "A": "Bread may sometimes be washed or scraped, depending on the contact point.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The bread is not described as assur b'hana'ah.",
+        "D": "Bread is not treated here as a davar charif."
+      }
+    },
+    {
+      "id": "siman_91_seifim_1_4-part-1-q011",
+      "question": "If meat or cheese touches the soft part of bread, what does Pischei Teshuvah require?",
+      "options": {
+        "A": "Hadachah alone is enough.",
+        "B": "The whole loaf must be burned.",
+        "C": "Greidah at the point of contact.",
+        "D": "Six hours before eating the bread."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 91, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Pischei Teshuvah distinguishes between the crust and the soft part of the bread. If the contact is on the crust, washing the crust is enough. If the contact is on the soft part, one must do greidah, scraping away the point of contact.",
+        "A": "Hadachah alone is enough for the crust case, not the soft part.",
+        "B": "The source requires scraping, not burning the whole loaf.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Waiting six hours is not the remedy for bread touched by meat or cheese."
+      }
+    },
+    {
+      "id": "siman_91_seifim_1_4-part-1-q012",
+      "question": "What does tata'ah gavar mean in the hot and cold mixture cases?",
+      "options": {
+        "A": "The top item always determines the halachah.",
+        "B": "The larger item always determines the halachah.",
+        "C": "The salted item always becomes permitted.",
+        "D": "The bottom item determines the transfer effect."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 91, Seif 4",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Halachah follows Shmuel that tata'ah gavar, meaning the lower item overpowers the upper item. If the lower item is hot, it heats the upper one and causes transfer. If the lower item is cold, it cools the upper one, though a klipah may still be required.",
+        "A": "That is ila'ah gavar, Rav's view, which is not accepted here.",
+        "B": "The rule is based on top and bottom heat position, not size.",
+        "C": "This rule is about hot and cold placement, not the salted-item rule.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_91_seifim_1_4-part-1-q013",
+      "question": "What happens when cold meat falls into hot milk, or cold milk falls into hot meat?",
+      "options": {
+        "A": "Everything is forbidden.",
+        "B": "Only hadachah is required.",
+        "C": "Only the top item is permitted.",
+        "D": "Only the bottom item is permitted."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 91, Seif 4",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that when cold meat falls into hot milk, or cold milk falls into hot meat, everything is forbidden. The reason is tata'ah gavar: the hot lower item overpowers and heats the cold upper item, causing taste transfer through the mixture.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Hadachah is enough only where both foods are cold.",
+        "C": "The top item does not remain permitted when the hot lower item heats it.",
+        "D": "The hot lower item is the cause of the transfer, not something automatically permitted."
+      }
+    },
+    {
+      "id": "siman_91_seifim_1_4-part-1-q014",
+      "question": "What is required when hot milk falls onto cold meat?",
+      "options": {
+        "A": "The entire meat is forbidden.",
+        "B": "A klipah is removed from the meat.",
+        "C": "The milk needs n'itzah.",
+        "D": "Only the milk is forbidden."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 91, Seif 4",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "When hot milk falls onto cold meat, the cold lower meat cools the hot milk because tata'ah gavar. Still, the initial contact creates enough surface transfer that a k'dei klipah must be removed from the meat at the contact point. The rest of the meat remains permitted.",
+        "A": "The entire meat is not forbidden in this tata'ah gavar case.",
+        "B": "Correct option; see the main explanation.",
+        "C": "N'itzah applies to knives, not hot milk falling on meat.",
+        "D": "Mechaber says the milk remains permitted in the klipah case."
+      }
+    },
+    {
+      "id": "siman_91_seifim_1_4-part-1-q015",
+      "question": "If a klipah should have been removed from meat but it was cooked without removing it, what does Rama rule?",
+      "options": {
+        "A": "It becomes forbidden b'hana'ah.",
+        "B": "It must be salted again.",
+        "C": "It is permitted b'di'eved.",
+        "D": "It is always forbidden b'di'eved."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 91, Seif 4",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Rama writes that in a case where the meat required klipah and one cooked it without removing the klipah, the food is permitted b'di'eved. Shach later limits this leniency to a case where the klipah became unidentifiable; if the forbidden klipah is still recognizable, it must be removed or nullified.",
+        "A": "This surface-transfer case is not treated as assur b'hana'ah.",
+        "B": "Salting again is not the remedy for a cooked klipah case.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Rama's stated ruling is lenient b'di'eved, although Shach qualifies it."
+      }
+    },
+    {
+      "id": "siman_91_seifim_1_4-part-1-q016",
+      "question": "How does Shach qualify Rama's leniency about an unremoved klipah?",
+      "options": {
+        "A": "It applies only when the meat is fully dry.",
+        "B": "It applies only when the milk is on top in this case.",
+        "C": "It applies only when no cooking occurred.",
+        "D": "It applies only when the klipah became unidentifiable."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 91, Seif 4",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Shach asks from several places where a forbidden klipah must be batul in sixty if it was cooked in. He therefore explains that Rama's leniency applies where the klipah became mixed in and unidentifiable, similar to the liquid case where removal is impossible. If the klipah remains recognizable, it keeps its issur status.",
+        "A": "Dryness is not Shach's central limitation here.",
+        "B": "The top-bottom position is not Shach's qualification of Rama's b'di'eved leniency.",
+        "C": "Rama's case is specifically where the meat was cooked without removing the klipah.",
+        "D": "Correct option; see the main explanation."
+      }
+    }
+  ]
+}

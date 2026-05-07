@@ -1,0 +1,241 @@
+{
+  "id": "siman_100_seifim_3_4-part-2",
+  "title": "Siman 100 - Seifim 3-4",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 10,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 100",
+  "questions": [
+    {
+      "id": "siman_100_seifim_3_4-part-2-q001",
+      "question": "What does Mechaber rule when a beriah falls into a pot of soup and is lost?",
+      "options": {
+        "A": "The entire mixture is assur.",
+        "B": "The soup is permitted through majority.",
+        "C": "Only the first spoonful is assur.",
+        "D": "The soup is permitted after waiting overnight."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 100, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "In Seif 3, Mechaber rules that if a beriah falls into a pot of soup and is lost, the entire mixture is forbidden. Since the beriah is not batul and cannot be identified and removed, there is concern that one may eat it.",
+        "A": "Correct option; see the main explanation.",
+        "B": "A beriah is not nullified through ordinary majority.",
+        "C": "There is no rule that only the first spoonful is the problem.",
+        "D": "Waiting overnight does not remove the concern of eating the beriah."
+      }
+    },
+    {
+      "id": "siman_100_seifim_3_4-part-2-q002",
+      "question": "What if the soup can be thoroughly strained and the beriah would definitely be caught?",
+      "options": {
+        "A": "It remains forbidden because straining never helps a beriah.",
+        "B": "It is permitted if strained, because the issur can be removed or assumed dissolved.",
+        "C": "It is permitted only if one also adds sixty times more broth.",
+        "D": "It is forbidden unless the strainer belongs to a non-Jew."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 100, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Shach clarifies that if the soup can be strained thoroughly and the beriah is large enough that the strainer would definitely catch it, straining can permit the soup. If the beriah is not found despite such straining, one can assume it dissolved and no whole beriah remains.",
+        "A": "The source specifically allows straining when it can reliably remove the beriah.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The point is removing the whole beriah, not adding broth for bitul.",
+        "D": "Ownership of the strainer is irrelevant."
+      }
+    },
+    {
+      "id": "siman_100_seifim_3_4-part-2-q003",
+      "question": "Why is a thick mixture forbidden if a lost beriah cannot be found or strained out?",
+      "options": {
+        "A": "Because thick food is always considered davar charif.",
+        "B": "Because thick food never has shishim against an issur.",
+        "C": "Because a beriah gives pleasant taste only in thick food.",
+        "D": "Because one cannot assume the beriah dissolved; it may still be hidden in the mixture."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 100, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "When the mixture is too thick to strain properly, the source says one may not assume the beriah dissolved and became ordinary issur. Since the whole beriah may still be hidden in the food and could be eaten, the mixture remains forbidden.",
+        "A": "The problem is hidden beriah, not sharpness.",
+        "B": "Even a large amount of food does not help if the whole beriah may still be present.",
+        "C": "The issue is the beriah itself, not necessarily its taste.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_100_seifim_3_4-part-2-q004",
+      "question": "What is the rule for a spoonful taken from a pot where a beriah is still lost?",
+      "options": {
+        "A": "The spoonful is forbidden even if one sees no beriah in it.",
+        "B": "The spoonful is permitted only after shishim is added to the spoon.",
+        "C": "The spoonful must be returned to the pot before eating.",
+        "D": "If one can see the beriah is not in that spoonful, the spoonful may be eaten."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 100, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "The source says that if one takes a spoonful of stew or soup and can see that the beriah is not in that spoonful, one may eat that spoonful. The assumption is that the beriah remains somewhere else in the pot, so this visible spoonful does not contain the whole beriah.",
+        "A": "The source allows eating a spoonful that is visibly free of the beriah.",
+        "B": "The rule is based on seeing the beriah is absent, not adding shishim to the spoon.",
+        "C": "Returning it to the pot would not solve the beriah concern.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_100_seifim_3_4-part-2-q005",
+      "question": "What broader kashrus problem is discussed in Seif 4?",
+      "options": {
+        "A": "Infestation by insects, worms, or similar creatures that may be beriah.",
+        "B": "Absorbed taste in new metal utensils.",
+        "C": "The salting time required for meat.",
+        "D": "The status of wine handled by a non-Jew."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 100, Seif 4",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Seif 4 applies beriah principles to infestation, including insects, worms, and rodents. Whole insects or worms can have beriah status, so foods with a chazakah of infestation can become forbidden if the insects cannot be removed.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Keili absorption is not the seif's topic.",
+        "C": "Melichah is unrelated to the infestation discussion here.",
+        "D": "Yayin nesech is not the issue in this seif."
+      }
+    },
+    {
+      "id": "siman_100_seifim_3_4-part-2-q006",
+      "question": "How many worms establish a chazakah of infestation according to Mechaber and Taz?",
+      "options": {
+        "A": "One worm.",
+        "B": "Two worms.",
+        "C": "Three worms.",
+        "D": "Ten worms."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 100, Seif 4",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber rules like Rabbi Shimon that three instances create a chazakah. Taz disagrees with Bach's stringency of two worms and maintains that only three or more worms establish a chazakah that the vegetables are infested.",
+        "A": "One worm does not establish the chazakah described here.",
+        "B": "Bach follows the stricter two-worm view, but Taz and most contemporary poskim follow three.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The source does not require ten worms for chazakah."
+      }
+    },
+    {
+      "id": "siman_100_seifim_3_4-part-2-q007",
+      "question": "If three worms are found in cooked vegetables with meat and broth, what is Mechaber's rule?",
+      "options": {
+        "A": "Everything is permitted after waiting twenty-four hours.",
+        "B": "Only the broth is forbidden, but vegetables and meat are permitted.",
+        "C": "The vegetables are assur; the broth may be strained and the meat washed and checked.",
+        "D": "All the food is forbidden even if the meat can be washed and checked."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 100, Seif 4",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that three worms found in cooked vegetables create a chazakah that the vegetables are infested, and the vegetables are assur because they cannot be cleaned reliably. The cooking liquid may be strained and permitted, and the meat may be washed, checked, and then permitted.",
+        "A": "Waiting does not remove whole insects from cooked vegetables.",
+        "B": "The vegetables, not the broth alone, are the main forbidden item.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Mechaber permits the meat after washing and checking."
+      }
+    },
+    {
+      "id": "siman_100_seifim_3_4-part-2-q008",
+      "question": "When is there a Torah-level obligation to check food for insects?",
+      "options": {
+        "A": "When infestation is extremely uncommon.",
+        "B": "When infestation occurs in a small minority of cases.",
+        "C": "When the food is cooked in a metal pot.",
+        "D": "When there is a safek hashakul, meaning about equal odds of infestation."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 100, Seif 4",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "The source gives three levels. If infestation is extremely uncommon, there is no obligation to check. If it occurs in a minority of cases, the obligation is rabbinic. If there is a safek hashakul, meaning roughly equal doubt whether insects will be found, the obligation to check is mid'oraisa.",
+        "A": "Extremely uncommon infestation creates no checking obligation.",
+        "B": "A minority occurrence creates a rabbinic obligation, not Torah-level.",
+        "C": "The pot material does not define the checking obligation.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_100_seifim_3_4-part-2-q009",
+      "question": "Why may food cooked without checking sometimes be permitted when it can no longer be checked?",
+      "options": {
+        "A": "Because cooked insects always become kosher.",
+        "B": "Because any cooked vegetable has automatic bitul b'rov.",
+        "C": "Because there may be a sfek sfeika: maybe there were no bugs, and maybe they dissolved.",
+        "D": "Because the checking obligation disappears after cooking in every case."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 100, Seif 4",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "When the food had up to and including a safek hashakul of infestation and was cooked without checking, the source says there can be a sfek sfeika if checking is no longer possible: perhaps there were no bugs at all, and even if there were, perhaps they dissolved in the cooking process and are now batul. Psakim U'teshuvos adds that this does not help for a species definitely established as infested.",
+        "A": "Cooking does not make insects kosher.",
+        "B": "A whole insect can be a beriah and is not automatically batul b'rov.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The obligation to check does not simply disappear; the leniency depends on the double doubt."
+      }
+    },
+    {
+      "id": "siman_100_seifim_3_4-part-2-q010",
+      "question": "What is the general issue if three ants are found in honey or sugar?",
+      "options": {
+        "A": "Honey and sugar are always forbidden once any insect is found.",
+        "B": "The three-insect chazakah may not apply to foods not normally infested, though swarm cases are stricter.",
+        "C": "Honey and sugar automatically nullify insects because they are sweet.",
+        "D": "Three ants always permit the rest because they prove no more insects exist."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 100, Seif 4",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Many poskim write that the rule of three insects creating a chazakah applies to species that tend to be infested. Honey or sugar are not usually infested in that way, so finding three ants may not create the same chazakah. However, if insects tend to arrive as a swarm, many poskim are stringent, and Piskei Hora'ah recommends discarding or checking the whole container very well.",
+        "A": "The source presents room for leniency in foods not normally infested.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Sweetness does not nullify whole insects.",
+        "D": "Finding three ants can create more concern, not proof that no more exist."
+      }
+    }
+  ]
+}

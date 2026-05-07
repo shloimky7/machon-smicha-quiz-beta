@@ -1,0 +1,471 @@
+{
+  "id": "siman_99_introduction_and_seifim_1_4-part-1",
+  "title": "Siman 99 - Introduction and Seifim 1-4",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 20,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 99",
+  "questions": [
+    {
+      "id": "siman_99_introduction_and_seifim_1_4-part-1-q001",
+      "question": "What are the two main topic areas of Siman 99?",
+      "options": {
+        "A": "Which items count toward bitul, and the rules of not creating bitul l'chatchilah.",
+        "B": "The laws of salting meat, and the rules of rinsing before melichah.",
+        "C": "The status of pas aku\"m, and the rules of bishul aku\"m.",
+        "D": "How to kasher knives, and how to sharpen them after treif use."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 99, Introduction",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The introduction divides Siman 99 into two broad sections. Se'ifim 1-4 discuss what is counted as heter or issur when calculating shishim, including bones, absorbed taste, pot contents, and belios. Se'ifim 5-7 discuss the prohibition of intentionally nullifying issur, how that rule works for rabbinic prohibitions, chozer v'neiur, and certain keili cases.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Those are melichah topics, not the stated structure of this siman.",
+        "C": "Those belong to the laws of food decrees, not this siman on bitul calculations.",
+        "D": "Knife kashering is not the source's outline for Siman 99."
+      }
+    },
+    {
+      "id": "siman_99_introduction_and_seifim_1_4-part-1-q002",
+      "question": "What is the basic question about bones in a ta'aruvos calculation?",
+      "options": {
+        "A": "Whether bones are always treated like visible meat.",
+        "B": "Whether bones can join the heter side or count as issur for shishim.",
+        "C": "Whether bones require hag'alah before being eaten.",
+        "D": "Whether bones are considered davar sheyesh lo matirin."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 99, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Seif 1 opens the issue of whether bones are counted in the sixty-to-one calculation. Since bones may absorb taste and may or may not release meaningful issur taste, the poskim discuss whether issur bones count as issur, count toward heter, or are ignored, and whether heter bones may join the heter.",
+        "A": "The discussion distinguishes bones from meat rather than treating them as identical.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The question here is not kashering bones, but how they are counted in a mixture.",
+        "D": "Davar sheyesh lo matirin is a separate category of bitul, not the bone issue here."
+      }
+    },
+    {
+      "id": "siman_99_introduction_and_seifim_1_4-part-1-q003",
+      "question": "How does Rashba understand the role of issur bones in the bitul calculation?",
+      "options": {
+        "A": "Issur bones always count as full issur because they taste like meat.",
+        "B": "Issur bones are ignored and count toward neither side.",
+        "C": "Issur bones have no real taste and may count toward the heter side.",
+        "D": "Issur bones forbid the pot only if they contain visible marrow."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 99, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rashba holds that bones themselves do not have meaningful forbidden taste. Because of that, even bones that came from an issur animal can be counted together with the heter to help reach shishim. Mechaber rules in accordance with this basic approach.",
+        "A": "That is closer to Ramban's stricter understanding, not Rashba's position.",
+        "B": "Or Zarua treats issur bones more cautiously by not counting them toward heter, but Rashba is more lenient.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Marrow is treated separately as meat-like, but Rashba's bone rule is not limited to visible marrow."
+      }
+    },
+    {
+      "id": "siman_99_introduction_and_seifim_1_4-part-1-q004",
+      "question": "What is Rama's practical approach to counting issur bones?",
+      "options": {
+        "A": "He requires counting all bones as full issur even after shishim.",
+        "B": "He counts issur bones only when the pot is made from metal.",
+        "C": "He permits counting issur bones l'chatchilah in every case.",
+        "D": "He is stringent l'chatchilah not to count issur bones toward heter."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 99, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Although Rama fundamentally accepts that hard issur bones do not release significant issur taste, he writes that l'chatchilah one should be stringent and not use issur bones as part of the heter calculation. In practice, that means the heter should have shishim without relying on those issur bones when possible.",
+        "A": "Rama's stringency is about not relying on them l'chatchilah, not treating every bone as full meat issur.",
+        "B": "The material of the pot is not the factor in Rama's ruling about bones.",
+        "C": "Rama is specifically stricter than Mechaber about relying on issur bones l'chatchilah.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_99_introduction_and_seifim_1_4-part-1-q005",
+      "question": "How is bone marrow treated for these calculations?",
+      "options": {
+        "A": "It is treated like meat and counts as issur when it is from the issur side.",
+        "B": "It is treated like a dry shell that always joins the heter side.",
+        "C": "It is ignored because it is hidden inside the bone.",
+        "D": "It is counted only when the bone was cooked alone first."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 99, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The source explains that marrow is moist, edible, and flavorful, so it is not treated like hard bone. If the marrow is from the issur, it is counted as issur meat in the shishim calculation, because it can release forbidden taste into the mixture.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Hard bones may be discussed that way, but marrow is not like a dry shell.",
+        "C": "Being inside the bone does not remove marrow from the taste calculation.",
+        "D": "Marrow's meat-like status applies because of its own flavor, not only after a separate prior cooking."
+      }
+    },
+    {
+      "id": "siman_99_introduction_and_seifim_1_4-part-1-q006",
+      "question": "What does Taz say about the body of an ordinary pot in a bitul calculation?",
+      "options": {
+        "A": "It always counts as heter because it contains the food.",
+        "B": "It counts toward neither heter nor issur unless it had absorbed issur.",
+        "C": "It always counts as issur because pot walls absorb taste.",
+        "D": "It counts only when the pot is made of earthenware."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 99, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Taz explains that the pot itself is not food and is not counted on either side of the sixty-to-one ratio. However, if the pot had absorbed issur, then the absorbed issur can matter and may have to be measured against, because the pot can release forbidden taste into the current food.",
+        "A": "The pot body is not added to the heter just because it holds the food.",
+        "B": "Correct option; see the main explanation.",
+        "C": "A neutral pot body is not automatically treated as issur.",
+        "D": "The rule is about whether there are issur belios, not only the material of the keili."
+      }
+    },
+    {
+      "id": "siman_99_introduction_and_seifim_1_4-part-1-q007",
+      "question": "How does Shach distinguish hard bones from soft bones?",
+      "options": {
+        "A": "Hard bones count as issur, while soft bones always count as heter.",
+        "B": "Hard bones are ignored, while soft bones are counted only by weight.",
+        "C": "Hard bones can join heter, while soft or moist bones can count as issur.",
+        "D": "Hard and soft bones are both treated exactly like meat."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 99, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Shach explains that hard bones do not release significant food taste and can therefore be counted toward heter, while soft or moist bones are more meat-like and can release taste. If those soft bones come from the issur side, they are counted as issur rather than heter.",
+        "A": "This reverses Shach's distinction.",
+        "B": "Shach's point is about whether they release taste, not about weighing them differently.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Shach does not treat hard bones exactly like meat."
+      }
+    },
+    {
+      "id": "siman_99_introduction_and_seifim_1_4-part-1-q008",
+      "question": "Why do Shach and Taz reject the claim that bones attached to issur become chana\"n like a kli cheres?",
+      "options": {
+        "A": "Because chana\"n never applies to any solid food.",
+        "B": "Because kli cheres absorption applies only to milk and never to meat.",
+        "C": "Because all attached bones are automatically considered separate from the issur meat.",
+        "D": "Because bones can release what they absorbed, unlike a kli cheres that keeps belios trapped."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 99, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Bach compared attached bones to a kli cheres and argued that they should become chana\"n when they absorb issur. Shach and Taz answer that a kli cheres is different because its absorbed issur never fully comes out, so its walls remain problematic. Bones, by contrast, can exude what they absorb, so they are not treated like a kli cheres that became chana\"n.",
+        "A": "Chana\"n can apply to food; the question is whether the bone is treated like a kli cheres.",
+        "B": "Kli cheres absorption is not limited to milk cases.",
+        "C": "The question begins specifically because the bones are attached to the issur meat.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_99_introduction_and_seifim_1_4-part-1-q009",
+      "question": "If issur meat attached to a bone was first cooked alone and later cooked with heter, how is the bone treated?",
+      "options": {
+        "A": "The bone is permitted only after hag'alah.",
+        "B": "The bone always joins the heter side.",
+        "C": "The bone is ignored because it is no longer attached.",
+        "D": "The bone counts toward the issur side."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 99, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Seif 2 rules that when the issur meat and bone were first cooked alone, the bone is treated as having absorbed issur. Therefore, when that bone is later cooked with heter, it counts toward the issur side of the calculation rather than helping the heter.",
+        "A": "The seif discusses counting it in the mixture, not kashering the bone for future use.",
+        "B": "That would be the ordinary Rashba-style bone leniency, but the prior issur-only cooking changes the case.",
+        "C": "The bone matters because it may contain absorbed issur from the first cooking.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_99_introduction_and_seifim_1_4-part-1-q010",
+      "question": "Why is the whole bone sometimes treated as filled with issur after being cooked first with issur meat?",
+      "options": {
+        "A": "Because bones are always meat mid'oraisa.",
+        "B": "Because the pot wall forces taste into every bone.",
+        "C": "Because the original meat may have shrunk and its taste may have entered the bone.",
+        "D": "Because the bone becomes a davar sheyesh lo matirin."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 99, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "The concern is that the original issur meat may have been larger before cooking and then shrank. Since that lost volume may have entered the attached bone as absorbed issur, the poskim may treat the whole bone as containing issur when it is later cooked with heter.",
+        "A": "Bones are not simply treated as full meat mid'oraisa.",
+        "B": "The concern is absorbed issur from the meat, not a special force from the pot wall.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Davar sheyesh lo matirin is unrelated to this bone calculation."
+      }
+    },
+    {
+      "id": "siman_99_introduction_and_seifim_1_4-part-1-q011",
+      "question": "How does Bach limit the concern when the original meat size was known?",
+      "options": {
+        "A": "He says the bone is ignored because the meat was seen.",
+        "B": "He says only the known shrinkage is counted, unless other issurim cooked with it.",
+        "C": "He says the whole pot becomes heter once the meat shrinks.",
+        "D": "He says the bone must always be counted as sixty times the meat."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 99, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Bach explains that if the original size of the attached issur meat was seen, and it is known how much it shrank, only that known shrinkage is counted as absorbed issur in the bone. But if the bone was cooked together with other issurim, the whole bone may still count as issur because it may have absorbed from those other forbidden items.",
+        "A": "Seeing the original meat does not make the bone irrelevant; it only helps define the amount of concern.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Shrinkage is the reason for concern, not a reason for automatic heter.",
+        "D": "Bach narrows the concern when the amount is known; he does not create that measure."
+      }
+    },
+    {
+      "id": "siman_99_introduction_and_seifim_1_4-part-1-q012",
+      "question": "According to Mechaber, can a heter piece that absorbed issur join with other heter to nullify that issur by other prohibitions?",
+      "options": {
+        "A": "No, because chana\"n always applies to every issur.",
+        "B": "No, because absorbed issur can never be measured.",
+        "C": "Yes, because chana\"n is limited to basar b'chalav.",
+        "D": "Yes, because absorbed issur is always fully removed."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 99, Seif 3",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Mechaber holds that chana\"n applies only to basar b'chalav. Therefore, by other issurim, the heter portion of a piece that absorbed issur can still join with the rest of the heter in the pot to help reach shishim against the absorbed issur.",
+        "A": "That is Rama's broader custom, not Mechaber's rule.",
+        "B": "The seif assumes the absorbed issur can be measured for bitul purposes.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Mechaber's leniency does not depend on assuming the issur is fully removed from the piece."
+      }
+    },
+    {
+      "id": "siman_99_introduction_and_seifim_1_4-part-1-q013",
+      "question": "How does Rama rule about a heter piece that absorbed issur by other prohibitions?",
+      "options": {
+        "A": "The custom is not to count that piece toward heter, because chana\"n applies to all issurim.",
+        "B": "The piece always counts toward heter, because chana\"n applies only to milk.",
+        "C": "The piece is ignored completely and counted toward neither side.",
+        "D": "The piece becomes permitted once the pot has a simple majority."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 99, Seif 3",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Rama writes that the custom is to treat chana\"n as applying to all issurim. Therefore, once the heter piece absorbed issur in a way that made it forbidden, it is not counted as ordinary heter to nullify the issur in a later calculation.",
+        "A": "Correct option; see the main explanation.",
+        "B": "That follows Mechaber's narrower chana\"n rule, not Rama's minhag.",
+        "C": "Rama's concern is that the whole piece has become an issur entity.",
+        "D": "A simple majority is not enough for a taste mixture that requires shishim."
+      }
+    },
+    {
+      "id": "siman_99_introduction_and_seifim_1_4-part-1-q014",
+      "question": "According to Shach, what happens to the absorbed piece itself under Mechaber's rule?",
+      "options": {
+        "A": "It always becomes fully permitted once the pot has shishim.",
+        "B": "It remains forbidden because of efshar l'sochto assur.",
+        "C": "It becomes permitted only if it is smaller than a k'zayis.",
+        "D": "It is permitted only if a non-Jew says it has no taste."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 99, Seif 3",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Shach explains that even according to Mechaber, who lets the heter part of the piece join the pot for bitul, the piece itself remains forbidden. Since the issur became absorbed into that piece, and we cannot assume the issur fully exits, the rule of efshar l'sochto assur keeps that piece forbidden.",
+        "A": "Shach explicitly says the piece itself does not become permitted again.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The issue is absorbed issur remaining in the piece, not its k'zayis size.",
+        "D": "The seif is not built on a non-Jewish taste test."
+      }
+    },
+    {
+      "id": "siman_99_introduction_and_seifim_1_4-part-1-q015",
+      "question": "Which parts of the current pot contents are counted as heter for bitul?",
+      "options": {
+        "A": "Only the solid pieces, but never the broth.",
+        "B": "Only the broth, but not any residue or pieces.",
+        "C": "The pot walls and all earlier evaporated food.",
+        "D": "The broth, residue, and food pieces currently present."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 99, Seif 4",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Seif 4 states that when calculating the heter currently in the pot, one counts the actual food contents: the broth, the residue, and the food pieces. These are the present edible components that can combine to create shishim against the issur.",
+        "A": "The source explicitly includes the broth in the calculation.",
+        "B": "The source includes more than liquid; residue and pieces are counted too.",
+        "C": "Pot walls and evaporated material are not counted like present heter food.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_99_introduction_and_seifim_1_4-part-1-q016",
+      "question": "Why is absorbed heter in the pot walls not counted in a min b'she'eino mino case?",
+      "options": {
+        "A": "Because the whole pot is always treated as issur.",
+        "B": "Because the Torah-level taste concern requires definite shishim from present heter.",
+        "C": "Because min b'she'eino mino is always permitted through bitul b'rov.",
+        "D": "Because absorbed heter is counted only when a non-Jew tastes the food."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 99, Seif 4",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "In min b'she'eino mino, the concern of forbidden taste is treated as a Torah-level issue. Since absorbed heter inside the pot walls cannot be measured with certainty as present food, Mechaber does not allow it to be counted toward shishim in that case.",
+        "A": "The issue is not that the pot is always issur, but that the absorbed heter is uncertain.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Min b'she'eino mino is not permitted with a simple majority when taste may remain.",
+        "D": "The counting rule is based on certainty in the calculation, not tasting by a non-Jew."
+      }
+    },
+    {
+      "id": "siman_99_introduction_and_seifim_1_4-part-1-q017",
+      "question": "Why does Mechaber allow absorbed heter to be estimated in a min b'mino case?",
+      "options": {
+        "A": "Because min b'mino never has any halachic bitul requirement.",
+        "B": "Because pot walls always release all of their absorbed heter.",
+        "C": "Because shishim in min b'mino is rabbinic after Torah bitul b'rov applies.",
+        "D": "Because all absorbed taste becomes visible in the pot."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 99, Seif 4",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Mechaber follows Rashba that in min b'mino the Torah-level requirement is bitul b'rov, since the tastes are the same. The later practical requirement of shishim is rabbinic, so the halachah is more flexible and allows estimating the heter absorbed in the pot walls when the facts support such an estimate.",
+        "A": "Min b'mino still has a practical shishim requirement in this context.",
+        "B": "The leniency is based on estimation in a rabbinic calculation, not certainty that all belios exit.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Absorbed taste is not visible; that is exactly why this is an estimate."
+      }
+    },
+    {
+      "id": "siman_99_introduction_and_seifim_1_4-part-1-q018",
+      "question": "What happens to heter that evaporated or was lost through the cooking heat?",
+      "options": {
+        "A": "It is counted if it was present before the issur fell.",
+        "B": "It is counted only in min b'mino cases.",
+        "C": "It is counted only when the pot is still ben yomo.",
+        "D": "It is not counted toward the current bitul calculation."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 99, Seif 4",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "The source states that material lost through heat or evaporation does not count toward bitul. The shishim calculation is based on the heter that is halachically relevant to the present mixture, not food that has already disappeared.",
+        "A": "Prior presence is not enough if the material is no longer there.",
+        "B": "Even in min b'mino, evaporation must be subtracted.",
+        "C": "Ben yomo status is a keili issue and does not make evaporated food count.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_99_introduction_and_seifim_1_4-part-1-q019",
+      "question": "What is the practical approach of Shach and Taz toward estimating absorbed heter in pot walls?",
+      "options": {
+        "A": "They cite Maharshal that such estimates are practically unreliable and should usually be avoided.",
+        "B": "They require every person to estimate the pot walls before asking a rav.",
+        "C": "They say absorbed heter is always counted in every mixture.",
+        "D": "They say absorbed heter is never counted even in hefsed merubah."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 99, Seif 4",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Shach and Taz cite Maharshal's concern that estimating how much heter was absorbed in a pot is practically impossible. Therefore, the usual practical approach is to be strict and not rely on such estimates, though Pri Megadim allows reliance on Mechaber in a case of hefsed merubah or great need.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The source moves away from casual estimating; it does not require everyone to do it.",
+        "C": "That ignores the distinction between min b'mino, min b'she'eino mino, and practical reliability.",
+        "D": "Pri Megadim preserves a limited leniency in major-loss situations."
+      }
+    },
+    {
+      "id": "siman_99_introduction_and_seifim_1_4-part-1-q020",
+      "question": "What does Taz say about assuming the issur was originally larger and shrank into the pot?",
+      "options": {
+        "A": "We always assume issur shrank even without evidence.",
+        "B": "We assume shrinkage only if the issur was a davar charif.",
+        "C": "We do not assume that unless the shrinkage is actually known.",
+        "D": "We ignore shrinkage only when the mixture is min b'mino."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 99, Seif 4",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Taz says we do not invent a concern that the issur was originally larger and shrank into the pot unless that fact is known. The calculation is not made stricter based on an unsupported possibility of lost issur volume.",
+        "A": "Taz rejects making that assumption without actual knowledge.",
+        "B": "The rule here is not tied to sharp foods.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Taz's point is about evidence of shrinkage, not only the min b'mino category."
+      }
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "id": "siman_95_seifim_5_7-part-2",
+  "title": "Siman 95 - Seifim 5-7",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 10,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 95",
+  "questions": [
+    {
+      "id": "siman_95_seifim_5_7-part-2-q001",
+      "question": "What does the Gemara distinguish between placing kutach near salt and near vinegar?",
+      "options": {
+        "A": "Both are permitted only when mixed into meat first.",
+        "B": "Kutach near salt is forbidden; near vinegar is permitted.",
+        "C": "Kutach near vinegar is forbidden; near salt is permitted.",
+        "D": "Both are forbidden because liquids and solids are identical."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 95, Seif 5",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rav Nachman answers that placing kutach near salt is forbidden, but placing it near vinegar is permitted. The practical concern is that kutach could enter the pareve item and later be used with meat, and the siman explains why salt and vinegar differ.",
+        "A": "The case is about storage near kutach, not mixing into meat first.",
+        "B": "Correct option; see the main explanation.",
+        "C": "This reverses the Gemara's distinction.",
+        "D": "The Gemara does distinguish between them."
+      }
+    },
+    {
+      "id": "siman_95_seifim_5_7-part-2-q002",
+      "question": "According to Rashi and Tosfos, why is salt different from vinegar near kutach?",
+      "options": {
+        "A": "Kutach in salt may remain, while in vinegar it spreads and is batul.",
+        "B": "Kutach can never fall into vinegar because vinegar is covered.",
+        "C": "Salt absorbs only through fumes, while vinegar absorbs through steam.",
+        "D": "Salt is always dairy, while vinegar is always meat."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 95, Seif 5",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rashi and Tosfos understand the concern as actual kutach falling in. Salt is granulated, so thick kutach may not spread and become batul; it could later be placed on meat. Vinegar is liquid, so a small drop spreads through the vinegar and becomes batul.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The reason is not that kutach physically cannot fall into vinegar.",
+        "C": "That points toward Rambam's fumes explanation, not Rashi and Tosfos.",
+        "D": "Salt and vinegar are not inherently dairy or meat."
+      }
+    },
+    {
+      "id": "siman_95_seifim_5_7-part-2-q003",
+      "question": "When does Rama say the kutach-near-salt restriction applies?",
+      "options": {
+        "A": "Only when the vinegar is boiling.",
+        "B": "Only when the kutach was cooked first.",
+        "C": "Only when the keilim are uncovered.",
+        "D": "Only when the salt is already in meat."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 95, Seif 5",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama says the restriction applies specifically when the keilim are uncovered. That fits Rashi and Tosfos, because the concern is actual kutach falling into the salt; if the containers are covered, that physical concern is removed.",
+        "A": "Boiling vinegar is not the condition in Rama.",
+        "B": "Cooking the kutach is not the relevant condition.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The concern is before the salt is used with meat."
+      }
+    },
+    {
+      "id": "siman_95_seifim_5_7-part-2-q004",
+      "question": "How would Rambam's explanation differ from Rama's covered-container leniency?",
+      "options": {
+        "A": "Rambam would also require actual kutach to fall into the salt.",
+        "B": "Rambam would worry about fumes even with covered containers.",
+        "C": "Rambam would permit only salt and forbid vinegar nearby.",
+        "D": "Rambam would say vinegar absorbs more strongly than salt."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 95, Seif 5",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rambam understands the concern as salt drawing taste through kutach fumes, not actual kutach falling into the salt. Therefore, the source notes that according to Rambam's explanation, covered containers would still be a concern because fumes might transfer.",
+        "A": "That is Rashi and Tosfos, not Rambam.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Rambam still distinguishes salt from vinegar, but not in that way.",
+        "D": "Rambam says vinegar does not draw the kutach taste."
+      }
+    },
+    {
+      "id": "siman_95_seifim_5_7-part-2-q005",
+      "question": "What does Rama rule b'di'eved if kutach and salt were placed near each other uncovered?",
+      "options": {
+        "A": "The salt must be treated as actual cheese.",
+        "B": "The salt is forbidden until it is kashered.",
+        "C": "The salt may be used only with fish.",
+        "D": "The salt may still be used with meat."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 95, Seif 5",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama says that even if one transgressed and placed kutach and salt near each other uncovered, the salt may still be used with meat. We do not assume after the fact that kutach certainly fell into the salt.",
+        "A": "Rama does not treat the salt as actual cheese b'di'eved.",
+        "B": "Salt is not kashered like a utensil.",
+        "C": "Rama permits it with meat, not only fish.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_95_seifim_5_7-part-2-q006",
+      "question": "What is Mechaber's rule about placing containers of meat and milk near each other?",
+      "options": {
+        "A": "It is forbidden because meat and milk are less guarded than kutach.",
+        "B": "They may not be near each other even when sealed.",
+        "C": "It is permitted to place them near each other in a cupboard.",
+        "D": "They may be near each other only if mixed with salt."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 95, Seif 6",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that it is permitted to place a container of meat near a container of milk in a cupboard. Rama adds that some are careful l'chatchilah where there is no need, but Mechaber's basic ruling is permissive.",
+        "A": "The source says people are more careful with actual meat and milk.",
+        "B": "Mechaber permits the placement.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Salt has no role in permitting meat and milk containers near each other."
+      }
+    },
+    {
+      "id": "siman_95_seifim_5_7-part-2-q007",
+      "question": "Why is there less concern with meat and milk containers than with kutach and salt?",
+      "options": {
+        "A": "Milk containers are never used while they are still hot.",
+        "B": "Meat and milk are forbidden together, so people are careful.",
+        "C": "Meat and milk cannot spill when they are in containers.",
+        "D": "Kutach and salt are always forbidden together already."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 95, Seif 6",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Shach and Taz explain that people are careful with actual meat and milk because they know they are forbidden together. Kutach and salt are permitted near each other as foods, so people may be less careful, creating more concern that kutach will fall into salt unnoticed.",
+        "A": "The siman explicitly worries in some chumra cases about hot containers.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The concern is not impossible spilling; it is practical care.",
+        "D": "Kutach and salt themselves are not forbidden to be near each other as foods."
+      }
+    },
+    {
+      "id": "siman_95_seifim_5_7-part-2-q008",
+      "question": "When does Shach say Rama's chumra about nearby meat and milk containers applies?",
+      "options": {
+        "A": "Only when both containers are glass.",
+        "B": "Only when the foods are frozen solid.",
+        "C": "Only after the containers were kashered.",
+        "D": "Only when the containers are uncovered."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 95, Seif 6",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Shach clarifies that Rama's l'chatchilah chumra applies only when the meat and milk are uncovered. If the containers are covered, all opinions agree that there is no chumra to keep them apart.",
+        "A": "The material is not the condition here.",
+        "B": "The case is not defined by freezing.",
+        "C": "Kashering is unrelated to this storage chumra.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_95_seifim_5_7-part-2-q009",
+      "question": "What does Mechaber rule about salt kept in a clean meat bowl?",
+      "options": {
+        "A": "It may be placed into milk.",
+        "B": "It becomes forbidden like actual meat.",
+        "C": "It may be used only after hag'alah.",
+        "D": "It is forbidden unless mixed with vinegar."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 95, Seif 7",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that salt placed in a meat keili may be placed into milk. Shach explains that the salt does not draw taste out of a clean fleishig keili, so it does not become fleishig merely from being stored there.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The clean bowl does not make the salt actual meat.",
+        "C": "Salt is not kashered like a utensil.",
+        "D": "Vinegar is part of Seif 5, not this salt-bowl ruling."
+      }
+    },
+    {
+      "id": "siman_95_seifim_5_7-part-2-q010",
+      "question": "How do Taz and Shach differ about the chumra of separate salt dishes?",
+      "options": {
+        "A": "Taz rejects Rama's chumra, while Shach accepts it.",
+        "B": "Taz requires it only for vinegar, while Shach forbids vinegar.",
+        "C": "Taz permits dirty salt dishes, while Shach forbids clean ones.",
+        "D": "Both say separate salt dishes are forbidden to use."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 95, Seif 7",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama says one who is stringent about salt in a meat bowl being used with milk is blessed. Taz disagrees with that chumra and explains the separate-salt-dish minhag as a concern about dirty hands putting actual food into the salt, while Shach accepts Rama's l'chatchilah chumra.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The discussion is about salt dishes, not vinegar.",
+        "C": "Taz's point is actual food from dirty hands, not permitting dirty salt dishes.",
+        "D": "They discuss whether to be stringent, not forbidding separate dishes."
+      }
+    }
+  ]
+}

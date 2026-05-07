@@ -1,0 +1,770 @@
+{
+  "id": "siman_104_introduction_and_seifim_1_2-part-1",
+  "title": "Siman 104 - Introduction and Seifim 1-2",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 33,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 104",
+  "questions": [
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q001",
+      "question": "What is the main topic of Siman 104?",
+      "options": {
+        "A": "A mouse or similar repulsive creature that falls into kosher food or drink.",
+        "B": "A utensil that becomes ben yomo after cooking kosher meat.",
+        "C": "A piece fit to honor guests that gets mixed with other pieces.",
+        "D": "An item that will later become permitted after Yom Tov."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 104, Introduction",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Siman 104 continues the topic of nosen ta'am l'fgam from the previous siman and applies it to a mouse, sheretz, or similarly repulsive creature that falls into kosher food or drink. The siman focuses especially on whether the creature gives good or ruined taste, and whether kavush transfers taste in cold liquids.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Ben yomo keilim were central in Siman 103, not the main topic here.",
+        "C": "That is chaha\"l, discussed in Siman 101.",
+        "D": "That is davar sheyesh lo matirin, discussed in Siman 102."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q002",
+      "question": "Which Gemara case is the basis of this siman?",
+      "options": {
+        "A": "A gid hanasheh that liquefied inside soup.",
+        "B": "An achbara that fell into a vat of beer and Rav ruled stringently.",
+        "C": "A Yom Tov egg mixed with one thousand eggs.",
+        "D": "A feathered chicken mixed with kosher chickens."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 104, Introduction",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The source explains that the siman is based on the Gemara's case of an achbara, loosely translated as a mouse, that fell into a barrel or vat of beer. Rav ruled stringently, and the later discussion clarifies when the creature is assumed to give beneficial or ruined taste.",
+        "A": "That is a different issue from Siman 100.",
+        "B": "Correct option; see the main explanation.",
+        "C": "That is the classic davar sheyesh lo matirin case.",
+        "D": "That belongs to the laws of chaha\"l."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q003",
+      "question": "What is kavush k'mevushal?",
+      "options": {
+        "A": "The rule that sold-by-number items are not batul.",
+        "B": "The rule that all liquids are considered hot.",
+        "C": "The rule that soaking in liquid long enough is treated like cooking for taste transfer.",
+        "D": "The rule that disgusting foods may not be used for a mitzvah."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 104, Introduction",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Kavush k'mevushal means that if a solid sits in liquid for a sufficient period, halachah treats the soaking as if cooking occurred and taste transferred between the solid and liquid. The general time discussed in the source is twenty-four hours.",
+        "A": "That is davar sheb'minyan, not kavush.",
+        "B": "Kavush is not saying the liquid is literally hot.",
+        "C": "Correct option; see the main explanation.",
+        "D": "That is hakrivehu na l'pechasecha, not kavush."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q004",
+      "question": "What are the shmonah shratzim?",
+      "options": {
+        "A": "Eight kinds of liquids that become assur through kavush.",
+        "B": "Eight types of keilim that cannot be kashered.",
+        "C": "Eight kinds of kosher animals that require shechitah.",
+        "D": "Eight creeping creatures forbidden by the Torah even at an adashah amount."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 104, Seif 1",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "The Torah forbids eating the shmonah shratzim, eight creeping creatures. The source notes that one transgresses by eating even an amount the size of an adashah, a lentil. Achbar is one of these creatures, and the siman often uses achbar and sheretz broadly in related discussions.",
+        "A": "The shmonah shratzim are creatures, not liquids.",
+        "B": "They are not types of keilim.",
+        "C": "They are forbidden creatures, not kosher animals requiring shechitah.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q005",
+      "question": "What does oleh al shulchan melachim show in this siman?",
+      "options": {
+        "A": "That the food becomes davar sheyesh lo matirin.",
+        "B": "That the food is always permitted to non-Jews only.",
+        "C": "That the food is forbidden only if served hot.",
+        "D": "That the food is not considered pagum if dignitaries would eat it."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 104, Seif 1",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "The Gemara uses the fact that something is fit for a king's table to show that it is not pagum. Since kings and dignitaries would not eat repulsive food, if a type of creature is served to them, it is treated as meshubach rather than nosen ta'am l'fgam.",
+        "A": "Future permissibility is not the issue here.",
+        "B": "The criterion is about taste status, not permission for non-Jews.",
+        "C": "Heat is not the meaning of oleh al shulchan melachim.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q006",
+      "question": "How does the Gemara distinguish a wilderness mouse from a city mouse?",
+      "options": {
+        "A": "A city mouse is always kosher, while a wilderness mouse is not.",
+        "B": "A wilderness mouse is eaten by dignitaries, while a city mouse is disgusting.",
+        "C": "A city mouse gives taste only through heat, while a wilderness mouse never does.",
+        "D": "A wilderness mouse is batul b'rov, while a city mouse is never batul."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 104, Seif 1",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "The Gemara answers that some members of the achbara family, such as an achbara d'davra, a wilderness mouse, are fit for dignitaries and are therefore not pagum. Rav's case was an achbara d'masa, a city mouse, which is disgusting and raises the nosen ta'am l'fgam discussion.",
+        "A": "Both are forbidden creatures; the distinction is taste status.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The distinction is not heat versus no heat.",
+        "D": "The Gemara's distinction is not framed as rov versus never batul."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q007",
+      "question": "How does Mechaber treat a wilderness mouse that falls into liquid?",
+      "options": {
+        "A": "It is definitely nosen ta'am l'fgam in all liquids.",
+        "B": "It is ignored because no mouse can give taste.",
+        "C": "It is nosen ta'am l'shvach because it is oleh al shulchan melachim.",
+        "D": "It is permitted only if it was removed within one hour."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 104, Seif 1",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that an achbara d'davra is nosen ta'am l'shvach, because it is fit to be served at the table of kings. That shows it is not inherently repulsive or pagum, so ordinary bitul rules are needed when it transfers taste.",
+        "A": "Mechaber says the wilderness mouse is l'shvach, not l'fgam.",
+        "B": "The entire siman assumes a mouse can raise taste-transfer questions.",
+        "C": "Correct option; see the main explanation.",
+        "D": "One hour is not the standard measure in the siman."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q008",
+      "question": "What is Mechaber's doubt about a city mouse in beer or vinegar?",
+      "options": {
+        "A": "Whether it is a sheretz or a kosher animal.",
+        "B": "Whether kavush takes one night or three days.",
+        "C": "Whether beer and vinegar are considered solids.",
+        "D": "Whether it improves or ruins the taste of beer or vinegar."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 104, Seif 1",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that a city mouse is subject to doubt in beer or vinegar: perhaps it is nosen ta'am l'shvach in those liquids, and perhaps it is nosen ta'am l'fgam. Because of that safeik, the later rules depend on whether taste transfer has occurred through heat or twenty-four-hour soaking.",
+        "A": "It remains a forbidden sheretz; the doubt is about taste impact.",
+        "B": "The general kavush measure here is twenty-four hours.",
+        "C": "Beer and vinegar are liquids.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q009",
+      "question": "If a city mouse falls cold into beer or vinegar and is removed whole before twenty-four hours, what is the din?",
+      "options": {
+        "A": "The liquid is permitted only after being cooked.",
+        "B": "The liquid needs sixty against the mouse.",
+        "C": "The entire liquid is assur even if strained.",
+        "D": "The liquid is mutar."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 104, Seif 1",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that if a city mouse falls into cold beer or vinegar and is removed whole before it remains there twenty-four hours, the liquid is mutar. Taste transfer has not occurred through heat or kavush, and the actual mouse has been removed whole.",
+        "A": "Cooking is not needed to permit it; cooking could create a taste problem.",
+        "B": "Shishim is required once taste transfer occurs through heat or twenty-four-hour soaking.",
+        "C": "That is too strict when the mouse was removed whole before kavush.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q010",
+      "question": "When does Mechaber require sixty against the mouse in beer or vinegar?",
+      "options": {
+        "A": "Only if the mouse was never a sheretz.",
+        "B": "Only if the mouse was still alive when it fell in.",
+        "C": "Only if the liquid was honey or oil.",
+        "D": "If the liquid was hot, or if the mouse soaked cold for twenty-four hours."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 104, Seif 1",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber requires sixty against the mouse when taste transfer has occurred, either because the liquid was hot or because the mouse remained in cold beer or vinegar for twenty-four hours, making it kavush k'mevushal. If the mouse can be removed or strained out, sixty can permit the liquid.",
+        "A": "The case is specifically about a forbidden mouse or sheretz.",
+        "B": "Living-animal taste is a separate debate later in the seif.",
+        "C": "Honey and oil are discussed separately in Seif 2.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q011",
+      "question": "What if the mouse disintegrated completely into liquid with no solid substance remaining?",
+      "options": {
+        "A": "It is never permitted because a mouse is always a beriah.",
+        "B": "It is permitted without any bitul because all substance disappeared.",
+        "C": "It can be permitted if there is sixty against the mouse's original volume.",
+        "D": "It is permitted only if another mouse is removed from the mixture."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 104, Seif 1",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber includes the case where the mouse dissolved completely and no solid substance remains. Since there is no solid sheretz left to remove, the issue is its taste or dissolved substance, and the mixture can be permitted when the heter has sixty times the mouse's original volume.",
+        "A": "Once it is dissolved, it is no longer a whole beriah.",
+        "B": "Mechaber still requires sixty against the mouse.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Removing another mouse has no relevance."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q012",
+      "question": "What if the mouse is cut into tiny solid pieces that cannot be strained out of thick food?",
+      "options": {
+        "A": "The entire mixture is assur because one may eat actual sheretz without noticing.",
+        "B": "It is permitted with a simple majority because the pieces are small.",
+        "C": "It is permitted because the mouse lost beriah status.",
+        "D": "Only the first spoonful is forbidden."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 104, Seif 1",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that when the mouse remains as small solid pieces that cannot be strained out, such as when the liquid mixed into thick food, the whole mixture is assur. The concern is not merely taste; one may encounter actual solid issur and eat it without realizing.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Recognizable solid issur that cannot be removed is not permitted by simple rov.",
+        "C": "Even if it is no longer a beriah, its actual solid issur substance remains.",
+        "D": "The concern applies to the whole mixture, not only one spoonful."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q013",
+      "question": "How does Rama limit Mechaber's strict rule about tiny solid pieces that cannot be removed?",
+      "options": {
+        "A": "He applies it only to cheese made by non-Jews.",
+        "B": "He says it applies only when the mixture is hot.",
+        "C": "He says it applies only to a sheretz, not to other issurim.",
+        "D": "He says it applies only if the mouse was whole."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 104, Seif 1",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Rama qualifies that the special concern for tiny pieces that cannot be removed applies specifically to sheretz. By other issurim, according to Rama, if there is enough heter for bitul, the small unlocatable pieces can be batul, similar to ordinary dry mixtures.",
+        "A": "Non-Jewish cheese is unrelated to this seif.",
+        "B": "The concern can arise in thick mixtures after kavush as well.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The case is specifically where the mouse is cut into pieces."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q014",
+      "question": "Why does Rama treat sheretz pieces more strictly than other issurim?",
+      "options": {
+        "A": "Because the Torah forbids even an adashah of sheretz, making tiny pieces significant.",
+        "B": "Because sheretz is always a davar sheyesh lo matirin.",
+        "C": "Because sheretz taste is always l'shvach in every liquid.",
+        "D": "Because every sheretz is sold by number."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 104, Seif 1",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "In Darkei Moshe, Rama explains that the Torah treats shmonah shratzim stringently by forbidding even an adashah-sized amount. Therefore, small solid sheretz pieces remain significant in a way that tiny pieces of other issurim may not. Shach agrees with Rama's distinction.",
+        "A": "Correct option; see the main explanation.",
+        "B": "A sheretz will not later become permitted.",
+        "C": "The siman discusses whether a sheretz is l'shvach or l'fgam in different liquids.",
+        "D": "Sold-by-number is davar sheb'minyan, not Rama's reason."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q015",
+      "question": "How do Taz and Psakim U'teshuvos rule about recognizable issur that cannot be removed?",
+      "options": {
+        "A": "They agree with Rama that only sheretz is a problem.",
+        "B": "They rule leniently whenever there is sixty.",
+        "C": "They are stringent like Mechaber that recognizable issur is not batul even if impossible to remove.",
+        "D": "They permit it if the issur can be found only by touch."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 104, Seif 1",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Taz agrees with Mechaber and does not distinguish between sheretz and other issurim. Psakim U'teshuvos writes that most poskim rule stringently like Mechaber and Taz, establishing the general principle that nikkar issur does not become batul even if it is practically impossible to remove from the mixture.",
+        "A": "That is Rama and Shach's lenient distinction, not Taz's position.",
+        "B": "Sixty does not help for recognizable issur that must be removed.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Psakim U'teshuvos treats even difficult recognition as nikkar in some cases."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q016",
+      "question": "According to Psakim U'teshuvos, which recognition level is not considered nikkar ha'issur?",
+      "options": {
+        "A": "Issur that most people can see easily.",
+        "B": "Issur that can be recognized only by experts, laboratory testing, or a microscope.",
+        "C": "Issur that can be found by careful sifting for a long time.",
+        "D": "Issur that most people can feel by touch."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 104, Seif 1",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Psakim U'teshuvos lists levels of nikkar ha'issur. Easily visible or touch-detectable issur is nikkar, and even issur recognizable with difficulty can be nikkar. But if it can be recognized only by experts or extreme methods such as laboratory testing or a microscope, it is not considered nikkar and can be batul.",
+        "A": "Easily visible issur is considered nikkar.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Recognition with difficulty can still be considered nikkar.",
+        "D": "Something most people can feel is nikkar."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q017",
+      "question": "How does Psakim U'teshuvos generally rule about issur recognizable only by taste?",
+      "options": {
+        "A": "He follows the majority lenient view because it is not nikkar in its present state.",
+        "B": "He forbids it because every taste can be checked by a non-Jew.",
+        "C": "He permits it only if the issur is a sheretz.",
+        "D": "He says taste recognition is always worse than sight recognition."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 104, Seif 1",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Psakim U'teshuvos records a machlokes where some forbid because a non-Jew could theoretically taste and identify the issur. However, he follows the majority of poskim who are lenient, since the issur is not currently recognizable by sight or touch and only might become recognizable through tasting.",
+        "A": "Correct option; see the main explanation.",
+        "B": "That is the stricter minority view he cites, not the practical conclusion.",
+        "C": "The discussion is a general nikkar ha'issur question.",
+        "D": "The issue is whether taste makes it presently recognizable, not a ranking of senses."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q018",
+      "question": "What is bal tishaktzu in this siman's practical discussion?",
+      "options": {
+        "A": "A prohibition against engaging in repulsive eating behavior.",
+        "B": "A rule that every sheretz is batul with sixty.",
+        "C": "A mitzvah to eat food once it is technically permitted.",
+        "D": "A rule that kavush never applies to living animals."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 104, Seif 1",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Psakim U'teshuvos notes that even if a mixture is technically permitted, if it is subjectively disgusting to a person, he may not eat it because of bal tishaktzu. Halachic permissibility of the mixture does not remove the separate concern of repulsive behavior.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Bal tishaktzu is not a bitul measurement.",
+        "C": "There is no mitzvah here to eat repulsive food.",
+        "D": "Living animals and taste transfer are a separate discussion."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q019",
+      "question": "According to most poskim cited by Psakim U'teshuvos, does a living animal exude taste into a mixture?",
+      "options": {
+        "A": "Yes, every living animal always exudes ever min hachai taste.",
+        "B": "Yes, but only into beer and vinegar.",
+        "C": "No, being alive prevents passive exuding of taste.",
+        "D": "No, unless the animal is a bird."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 104, Seif 1",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Pischei Teshuvah cites Chasam Sofer as saying a living creature can exude taste, but Psakim U'teshuvos says the overwhelming majority of poskim disagree. They maintain that a living animal does not passively exude taste, and he supports this from the fact that otherwise a finger placed in hot food would create an ever min hachai concern.",
+        "A": "That is Chasam Sofer's stricter view, not the majority cited.",
+        "B": "The majority position is not limited to beer and vinegar.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Birds are part of the example, but not an exception to the majority rule."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q020",
+      "question": "How does Psakim U'teshuvos apply the doubt about animal taste beyond mice?",
+      "options": {
+        "A": "He applies the doubt to cats and other non-sheretz mammals in liquids.",
+        "B": "He limits it to wilderness mice only.",
+        "C": "He applies it only to insects smaller than an adashah.",
+        "D": "He says all mammals certainly ruin every liquid."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 104, Seif 1",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "After noting Shach's disagreement with Mechaber's wilderness/city mouse distinction, Psakim U'teshuvos writes that the doubt whether an animal is nosen ta'am l'shvach in a liquid should be applied to cats and other non-sheretz mammals as well.",
+        "A": "Correct option; see the main explanation.",
+        "B": "He extends the doubt beyond mice.",
+        "C": "The discussion is about mammals and taste in liquid, not tiny insects.",
+        "D": "He frames it as a doubt, not certainty that all mammals are pogem."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q021",
+      "question": "How does Mechaber rule when a sheretz falls into wine, oil, or other liquids?",
+      "options": {
+        "A": "It is forbidden because wine and oil can never be pagum.",
+        "B": "It certainly improves their flavor, so sixty is always needed.",
+        "C": "It is permitted only if the sheretz stayed for twenty-four hours.",
+        "D": "It certainly ruins their flavor, so no sixty is needed for its taste."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 104, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that when a sheretz falls into wine, oil, or other liquids, it is certainly pogem them, so the liquid does not need sixty against the taste the sheretz exudes. This is different from the special doubt Mechaber has by beer and vinegar.",
+        "A": "Mechaber treats these liquids as certainly ruined by the sheretz.",
+        "B": "Mechaber says the opposite for wine, oil, and other liquids.",
+        "C": "Twenty-four hours creates kavush; it is not a requirement for permitting.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q022",
+      "question": "Why does Rambam say a mouse certainly ruins wine or oil?",
+      "options": {
+        "A": "Because wine and oil cannot absorb taste.",
+        "B": "Because all liquids become permitted after one night.",
+        "C": "Because a mouse is always smaller than an adashah.",
+        "D": "Because these beverages have a low threshold for becoming spoiled."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 104, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Rambam explains that beverages like wine and oil are easily spoiled, so a disgusting thing entering them ruins their taste. That is why Mechaber treats a sheretz in those liquids as certainly nosen ta'am l'fgam.",
+        "A": "Liquids can receive taste; the point is that the taste ruins them.",
+        "B": "One night is not the rule for these liquids.",
+        "C": "The adashah measure is about eating sheretz substance, not ruining wine or oil.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q023",
+      "question": "What does Maharshal infer from Mechaber's certainty about wine and oil?",
+      "options": {
+        "A": "A mouse is also certainly pogem beer and vinegar.",
+        "B": "A mouse is never pogem any liquid.",
+        "C": "Other beverages may not share wine and oil's low spoilage threshold.",
+        "D": "Wine and oil require shishim even when the mouse is pagum."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 104, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Maharshal infers that Mechaber's certainty may be limited to wine and oil, which spoil easily. Other beverages may not be ruined so readily by a mouse. Maharshal adds, however, that all agree a mouse ruins honey.",
+        "A": "Beer and vinegar are the earlier doubtful case, not certainly pagum.",
+        "B": "Maharshal does not deny that a mouse can be pogem some liquids.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Mechaber's point is that shishim is not needed for pagum taste."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q024",
+      "question": "What is the basic halachic difference between liquid fat and solid fat for kavush?",
+      "options": {
+        "A": "Kavush applies to liquid fat, but not while the fat is solid.",
+        "B": "Kavush applies only to solid fat, not to liquid fat.",
+        "C": "Kavush applies to neither liquid nor solid fat.",
+        "D": "Kavush applies only if the fat is in a metal pot."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 104, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "The source explains that fat can exist as liquid or solid. When it is liquid, the laws of kavush k'mevushal can apply, because a solid can soak in liquid. When the fat is solid, kavush does not apply in the same way.",
+        "A": "Correct option; see the main explanation.",
+        "B": "This reverses the rule.",
+        "C": "Liquid fat can create a kavush concern.",
+        "D": "The pot material is not the deciding factor."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q025",
+      "question": "Why is Rama stringent if hot fat was poured daily and the mouse may have been present then?",
+      "options": {
+        "A": "Because any fat with a mouse may not be owned.",
+        "B": "Because solid fat is always treated as cooked.",
+        "C": "Because a mouse in fat is always davar sheyesh lo matirin.",
+        "D": "Because hot fat poured onto the mouse can make the fat assur and spread the issur."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 104, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Rama rules stringently where hot fat may have been poured onto the mouse. Shach explains that the fat poured onto the mouse becomes assur and then mixes into the rest. Even if the mouse was on the side, pouring hot fat can liquefy the surrounding fat and allow the mouse to soak and forbid the mixture.",
+        "A": "Ownership is not the issue in Rama's ruling.",
+        "B": "Rama's concern is hot/liquid fat and possible pouring, not solid fat always being cooked.",
+        "C": "The mouse will not later become permitted.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q026",
+      "question": "Why can the entire pot of fat be assur even if the fat is sixty times the mouse?",
+      "options": {
+        "A": "Because sheretz is always a beriah even after liquefying.",
+        "B": "Because whatever hot fat contacts the mouse becomes assur and then mixes through the pot.",
+        "C": "Because fat can never be mevatel any issur.",
+        "D": "Because sixty helps only for beer and vinegar."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 104, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Shach explains Rama's stringency: the hot fat poured onto the mouse becomes assur, and that assur fat then mixes with the rest of the pot. The concern is not only the mouse's original volume, but the spread of fat that contacted it while hot or liquid.",
+        "A": "The issue here is the spread of forbidden fat, not beriah after liquefying.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Fat can sometimes be subject to bitul; the case has a special contact concern.",
+        "D": "Sixty is a general bitul measure, but Rama's fat case has added spread concerns."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q027",
+      "question": "When does Rama allow removing only k'dei netilah from the fat?",
+      "options": {
+        "A": "When hot fat was certainly poured onto the mouse.",
+        "B": "When the mouse is dissolved throughout liquid fat.",
+        "C": "When no hot fat was poured on it, or it is known the mouse was not there then, and the fat is now solid.",
+        "D": "When the mouse was present for exactly twenty-four hours."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 104, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Rama's leniency applies where one did not pour hot fat onto the mouse, or knows it was not present during pouring, and the fat comes before us hard with the mouse on top. Then one removes k'dei netilah and does not assume a broader issur, relying on the double doubt about when it fell and whether the fat hardened before kavush.",
+        "A": "That is the case where Rama is stringent.",
+        "B": "If the fat is liquid, Shach and Taz are stringent because of safek kavush.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Twenty-four-hour soaking would create the kavush concern."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q028",
+      "question": "What sfek sfeika supports Rama's leniency when the mouse is found on hard fat?",
+      "options": {
+        "A": "Maybe the mouse was kosher, and maybe the fat was treif.",
+        "B": "Maybe it fell when the fat was hard, and maybe it hardened before the kavush time.",
+        "C": "Maybe the mouse was a city mouse, and maybe beer improves it.",
+        "D": "Maybe the pot was metal, and maybe metal does not absorb."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 104, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Rama explains the leniency through two doubts. Perhaps the mouse fell in when the fat was already hard, in which case there was no kavush. Even if it fell while the fat was soft, perhaps the fat hardened before the time needed for kavush elapsed.",
+        "A": "The mouse is an issur; the doubts concern the fat's physical state and timing.",
+        "B": "Correct option; see the main explanation.",
+        "C": "That is unrelated to the fat case.",
+        "D": "The pot material is not the sfek sfeika."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q029",
+      "question": "How does Shach limit Rama's lenient ruling about hard fat?",
+      "options": {
+        "A": "It applies only if the fat is solid when brought to the posek.",
+        "B": "It applies even if the fat is liquid when brought to the posek.",
+        "C": "It applies only if the mouse is a wilderness mouse.",
+        "D": "It applies only when the mouse is smaller than an adashah."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 104, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Shach limits the leniency to a case where the fat is congealed when presented for a ruling. If it is liquid then, there is a real safek that the mouse was kavush in it, and safek kavush is forbidden. Taz agrees with this limitation.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Shach is stringent when the fat is liquid before the posek.",
+        "C": "The distinction is the fat's state, not wilderness versus city mouse.",
+        "D": "The adashah measure is not Shach's limitation here."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q030",
+      "question": "What does Rama say about using disgusting fat for synagogue lamps?",
+      "options": {
+        "A": "It is always the preferred mitzvah oil.",
+        "B": "It is forbidden because of hakrivehu na l'pechasecha, unless relying on leniency in great loss.",
+        "C": "It is permitted if it has any amount of kosher fat mixed in.",
+        "D": "It is forbidden only if the fat is liquid."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 104, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Rama says that if the fat is disgusting to eat, it should not be used for lighting in shul because of hakrivehu na l'pechasecha, the idea that one should not offer something repulsive in service of Hashem. In a case of hefsed merubah, Rama allows relying on lenient opinions.",
+        "A": "Rama treats disgusting fat as inappropriate for mitzvah use.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Any amount of kosher fat is not Rama's standard.",
+        "D": "The issue is disgustingness, not only liquid state."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q031",
+      "question": "How does Shach define the concern of disgusting fat for mitzvah use?",
+      "options": {
+        "A": "It is disgusting only if it is forbidden to eat.",
+        "B": "It is disgusting only if the mouse is still visible.",
+        "C": "It can be forbidden for holy use if subjectively disgusting, even with one thousand times heter.",
+        "D": "It is disgusting only if it was in beer or vinegar first."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 104, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Taz understands disgusting fat as fat that is assur to eat, but Shach disagrees and broadens the concern. For Shach, if the fat is subjectively disgusting to the person, it may be inappropriate for holy use even if it contains far more than sixty, or even a thousand times, against the mouse.",
+        "A": "That is Taz's narrower approach, not Shach's.",
+        "B": "The concern can exist even after the mouse is removed.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Beer and vinegar are unrelated to this mitzvah-use issue."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q032",
+      "question": "What does Rama's hefsed gadol leniency allow according to Taz?",
+      "options": {
+        "A": "To assume a mouse is pogem any liquid other than beer or vinegar.",
+        "B": "To ignore all kavush concerns in every liquid.",
+        "C": "To permit beer and vinegar even after twenty-four hours.",
+        "D": "To use disgusting fat for every mitzvah l'chatchilah."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 104, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Taz clarifies that Rama's concluding hefsed gadol leniency refers back to the lenient opinion at the start of Rama's comments. In great loss, one may rely on the view that if a mouse falls into liquids other than beer or vinegar, it is pogem them and does not forbid the liquid.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The leniency is not a blanket dismissal of kavush.",
+        "C": "Beer and vinegar are the main doubtful strict liquids.",
+        "D": "Rama's mitzvah-use leniency is limited and not l'chatchilah for every case."
+      }
+    },
+    {
+      "id": "siman_104_introduction_and_seifim_1_2-part-1-q033",
+      "question": "When does Shach permit fat that was liquid or was known to remain liquid for twenty-four hours?",
+      "options": {
+        "A": "Only if the fat is used for synagogue lamps.",
+        "B": "Only if it is known the mouse was a wilderness mouse.",
+        "C": "If the fat has sixty times the mouse's volume.",
+        "D": "If the fat is poured daily into a metal pot."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 104, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Shach is stringent when the fat is liquid before the posek or when it is known that it stayed liquid for twenty-four hours, because of safek or actual kavush. However, he permits in both cases if the fat contains sixty times the mouse's volume, since shishim can nullify the taste concern once the solid mouse is removed.",
+        "A": "Synagogue lamps relate to hakrivehu na l'pechasecha, not permitting the fat as food.",
+        "B": "The wilderness mouse distinction is not Shach's condition here.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Daily pouring is the case that creates Rama's stricter concern."
+      }
+    }
+  ]
+}

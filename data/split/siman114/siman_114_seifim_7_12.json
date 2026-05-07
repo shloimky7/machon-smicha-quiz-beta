@@ -1,0 +1,517 @@
+{
+  "id": "siman_114_seifim_7_12-part-2",
+  "title": "Siman 114 - Seifim 7-12",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 22,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 114",
+  "questions": [
+    {
+      "id": "siman_114_seifim_7_12-part-2-q001",
+      "question": "Why are oil and honey cooked by a non-Jew not forbidden as bishul aku\"m?",
+      "options": {
+        "A": "Because they are never bought from non-Jews in ordinary commerce.",
+        "B": "Because they are eaten raw and are not improved by the usual non-kosher pot taste.",
+        "C": "Because they are always processed in utensils owned by Jews.",
+        "D": "Because all liquids are excluded from bishul aku\"m by definition."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 114, Seif 7",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Mechaber permits oil and honey of non-Jews. Taz and Shach explain that they do not have a bishul aku\"m issue because they are edible raw, and they also are not forbidden because of pot absorption because ordinary non-kosher meat taste is not considered beneficial to oil or honey.",
+        "A": "The siman is specifically discussing buying these items from non-Jews.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The heter is not based on Jewish-owned utensils.",
+        "D": "Liquids are not automatically excluded; water and other beverages require their own analysis."
+      }
+    },
+    {
+      "id": "siman_114_seifim_7_12-part-2-q002",
+      "question": "What does Shach say about hot water cooked by a non-Jew?",
+      "options": {
+        "A": "It is permitted because water is drinkable raw and stam kelim are not ben yomo.",
+        "B": "It is forbidden because water improves whenever it is heated.",
+        "C": "It is permitted only if the water was mixed with honey first.",
+        "D": "It is forbidden because water is always oleh al shulchan melachim."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 114, Seif 7",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Shach applies similar reasoning to hot water. There is no bishul aku\"m problem because water is drinkable without cooking, and there is usually no pot concern because stam kelim are assumed not ben yomo.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The source permits hot water generally; the issue is only if the pot is known ben yomo and the taste improves the water.",
+        "C": "Honey is discussed separately and is not required to permit the water.",
+        "D": "Even if water is served, its drinkable-raw status removes bishul aku\"m."
+      }
+    },
+    {
+      "id": "siman_114_seifim_7_12-part-2-q003",
+      "question": "When can hot water from a non-Jew's vessel become forbidden?",
+      "options": {
+        "A": "Whenever the vessel was made of metal rather than earthenware.",
+        "B": "Whenever the water was heated but not boiled fully.",
+        "C": "If the vessel is known to be ben yomo, because meat taste can improve water.",
+        "D": "If the water was poured into a cup owned by the non-Jew."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 114, Seif 7",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "The source notes that the second reason for leniency with oil and honey does not apply to water, because meat taste can improve water. Therefore, if it is known that the non-Jew's vessel was ben yomo, the water is forbidden because the absorbed taste is beneficial.",
+        "A": "The issue is whether the vessel is ben yomo and gives beneficial taste, not its material alone.",
+        "B": "The source does not condition the rule on fully boiling the water.",
+        "C": "Correct option; see the main explanation.",
+        "D": "A serving cup is not the concern described here."
+      }
+    },
+    {
+      "id": "siman_114_seifim_7_12-part-2-q004",
+      "question": "When are soaked caperberries, leeks, and grasshoppers of non-Jews permitted according to Mechaber?",
+      "options": {
+        "A": "Only when the non-Jew says no wine was added to them.",
+        "B": "When the Jew sees them removed from storage, not from a store-prepared mixture.",
+        "C": "Only when they were soaked in wine for less than twenty-four hours.",
+        "D": "When they are cut with a non-Jew's knife before soaking."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 114, Seif 8",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Mechaber permits these soaked items when the Jew sees them being taken out of the storage place. If they are not seen coming from storage, there is a concern that wine may have been sprinkled on them.",
+        "A": "The source relies on seeing their source, not merely the non-Jew's statement.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The seif is not giving a less-than-twenty-four-hour wine-soaking heter.",
+        "D": "Cutting with a non-Jew's knife creates a separate concern for sharp items."
+      }
+    },
+    {
+      "id": "siman_114_seifim_7_12-part-2-q005",
+      "question": "What concern applies to soaked olives cut with a non-Jew's knife?",
+      "options": {
+        "A": "The knife may make them bishul aku\"m because cutting is like cooking.",
+        "B": "The knife may make them yayin stam because olives become alcoholic.",
+        "C": "The sharp olives may absorb non-kosher taste from the knife.",
+        "D": "The olives become forbidden because all soaked foods require Jewish supervision."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 114, Seif 8",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Rama explains that olives can become sharp after soaking, and sharp foods draw out absorbed taste from the knife. Therefore, olives cut with a non-Jew's knife can absorb non-kosher taste and become forbidden.",
+        "A": "Cutting is not treated as cooking for bishul aku\"m here.",
+        "B": "The knife issue is absorbed non-kosher taste, not olives becoming wine.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Mechaber permits certain soaked foods when the relevant concerns are absent."
+      }
+    },
+    {
+      "id": "siman_114_seifim_7_12-part-2-q006",
+      "question": "Why are soaked olives in a non-Jew's vessel more lenient than olives cut with his knife?",
+      "options": {
+        "A": "Because soaking never extracts taste from any vessel.",
+        "B": "Because olives lose all sharpness as soon as they touch water.",
+        "C": "Because a vessel is always assumed to be kosher unless used that day.",
+        "D": "Because the soaking water can cancel their sharpness if there is more water than olives."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 114, Seif 8",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Rama distinguishes between the knife and the soaking vessel. The sharpness concern can remain with a knife cut, but the soaking water can cancel the olives' sharpness when there is more water than olives. If there is not more water, the sharpness remains a problem.",
+        "A": "Sharp foods can extract taste; the point is that the water can weaken the sharpness.",
+        "B": "The source says the water cancels sharpness only when there is more water than olives.",
+        "C": "Even an eino ben yomo can be a problem with sharp foods because sharpness refreshes ruined taste.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_114_seifim_7_12-part-2-q007",
+      "question": "According to Shach, when do olives become sharp for this halachah?",
+      "options": {
+        "A": "Only after they are soaked; if cut before soaking, they are not yet considered sharp.",
+        "B": "Immediately when picked from the tree, before any soaking or cutting.",
+        "C": "Only after wine is definitely sprinkled on them by the seller.",
+        "D": "Only after they are cooked by a non-Jew in a ben yomo pot."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 114, Seif 8",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Shach explains that olives cut before soaking are not yet considered sharp, so the knife does not create the same concern. Only after soaking do they become sharp; at that stage, cutting or insufficient water in the vessel can create an absorbed-taste problem.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Shach specifically ties the sharpness to after soaking, not picking.",
+        "C": "The sharpness rule is separate from the concern that wine may be sprinkled on soaked foods.",
+        "D": "The seif is about soaking and knife taste, not cooking in a pot."
+      }
+    },
+    {
+      "id": "siman_114_seifim_7_12-part-2-q008",
+      "question": "What does Mechaber rule about very wet grapes of non-Jews?",
+      "options": {
+        "A": "They are forbidden because the moisture is certainly wine.",
+        "B": "They are permitted even if they are wet enough to drip.",
+        "C": "They are permitted only if the Jew dries them first.",
+        "D": "They are forbidden unless bought directly from a Jewish store."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 114, Seif 9",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Mechaber permits grapes of non-Jews even when they are very wet and dripping. Although one might worry the moisture is wine, Mechaber does not treat that as enough reason to forbid the grapes.",
+        "A": "Mechaber explicitly permits despite the grapes being very wet.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Drying is not required in the seif.",
+        "D": "The permission is not limited to Jewish-store purchases."
+      }
+    },
+    {
+      "id": "siman_114_seifim_7_12-part-2-q009",
+      "question": "Why is fish brine with a kulchis fish permitted?",
+      "options": {
+        "A": "Because kulchis proves the brine came from kosher fish.",
+        "B": "Because fish brine can never absorb non-kosher taste.",
+        "C": "Because brine is always nullified by the fish pieces.",
+        "D": "Because kulchis is a spice that removes wine taste."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 114, Seif 9",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "The concern with fish brine is that it may have come from non-kosher fish. The presence of a kulchis fish is a sign that the brine is from kosher fish, so the brine is permitted.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The issue is origin from kosher or non-kosher fish, not a rule that brine cannot absorb.",
+        "C": "The source uses kulchis as an identifying sign, not bitul by fish pieces.",
+        "D": "Kulchis is a fish in this context, not a spice that removes wine taste."
+      }
+    },
+    {
+      "id": "siman_114_seifim_7_12-part-2-q010",
+      "question": "What is chiltis as described in the source?",
+      "options": {
+        "A": "A type of small fish used to identify kosher brine.",
+        "B": "A form of beer made from dates and figs.",
+        "C": "A kind of wine sediment used to speed fermentation.",
+        "D": "An extremely strong spice, possibly asafoetida according to Aruch."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 114, Seif 9",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "The source explains that chiltis is an extremely strong spice. Aruch identifies it as asafoetida, a plant gum or latex from a plant related to fennel and carrots, though others identify it differently.",
+        "A": "That describes kulchis, not chiltis.",
+        "B": "Chiltis is not a beer.",
+        "C": "Wine sediment is the issue in beer and mead, not the identity of chiltis.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_114_seifim_7_12-part-2-q011",
+      "question": "Why is cut chiltis bought from non-Jews forbidden?",
+      "options": {
+        "A": "Because chiltis is never edible unless cooked by a Jew.",
+        "B": "Because it is usually soaked in beer before sale.",
+        "C": "Because residue or absorbed taste from the non-Jew's knife can be drawn out by its sharpness.",
+        "D": "Because chiltis is always mixed with kosher fish that have no scales yet."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 114, Seif 10",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Cut chiltis is forbidden because the knife commonly has residue, and even if it is clean and not ben yomo, chiltis is very sharp. Its sharpness can refresh stale absorbed taste and make it nosen taam lishvach.",
+        "A": "The issue is knife taste and sharpness, not bishul aku\"m.",
+        "B": "The source does not say beer soaking is the reason cut chiltis is forbidden.",
+        "C": "Correct option; see the main explanation.",
+        "D": "That describes the concern with chilik or mixed small fish, not cut chiltis."
+      }
+    },
+    {
+      "id": "siman_114_seifim_7_12-part-2-q012",
+      "question": "Why are minced fish and chilik bought from non-Jews forbidden?",
+      "options": {
+        "A": "Because they are always sprinkled with wine by the seller.",
+        "B": "Because non-kosher fish can be mixed in and cannot be distinguished.",
+        "C": "Because all fish cooked by a non-Jew is bishul aku\"m.",
+        "D": "Because minced fish absorbs taste from every storage barrel."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 114, Seif 10",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Mechaber forbids minced fish and chilik because non-kosher fish can be mixed together with the kosher fish, and the pieces are not distinguishable. With chilik, the kosher fish may not yet have grown scales, so they cannot be identified.",
+        "A": "Wine concern applies to some soaked foods, but the fish issue here is non-kosher fish mixed in.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The seif is about buying fish mixtures, not a blanket rule that all fish cooked by non-Jews is forbidden.",
+        "D": "Storage-barrel absorption is not the stated reason."
+      }
+    },
+    {
+      "id": "siman_114_seifim_7_12-part-2-q013",
+      "question": "What is the rule for soaked foods when people sometimes put wine into them?",
+      "options": {
+        "A": "They are forbidden to eat, but benefit is permitted unless everyone definitely adds wine.",
+        "B": "They are permitted to eat, but one may not sell them to anyone else.",
+        "C": "They are forbidden even for benefit, even when only some people add wine.",
+        "D": "They are permitted only if the wine is more expensive than the food."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 114, Seif 10",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Mechaber says that when soaked foods are of a type where wine is sometimes added, they are forbidden to eat, but benefit remains permitted. If it is known that everyone adds wine, then they are forbidden even for benefit, at least l'chatchilah.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The source forbids eating in this case, not merely resale.",
+        "C": "Benefit is permitted unless the stronger condition of everyone adding wine is known.",
+        "D": "Wine price is relevant in other scenarios, but this rule is about common practice of adding wine."
+      }
+    },
+    {
+      "id": "siman_114_seifim_7_12-part-2-q014",
+      "question": "How does Rama allow selling an item that is forbidden for benefit because of mixed wine?",
+      "options": {
+        "A": "By selling it only to a Jew who knows the halachah.",
+        "B": "By selling it after adding enough water to nullify the wine.",
+        "C": "By first removing each visible piece that touched wine.",
+        "D": "By deducting the estimated value of the wine from the sale price."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 114, Seif 10",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Rama rules that even where the food is forbidden for benefit because of wine, one may sell the item while excluding the value of the yayin nesech. Practically, one estimates the value of the wine normally added and sells only the remainder's value.",
+        "A": "The buyer's knowledge is not the mechanism Rama gives.",
+        "B": "Rama's solution here is not dilution but excluding the wine's value from the benefit.",
+        "C": "The issue is mixed-in wine value, not visible pieces touching wine.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_114_seifim_7_12-part-2-q015",
+      "question": "If it is known that one unidentified non-Jew in town does not mix wine into a product, what does Rama allow?",
+      "options": {
+        "A": "Buying from all of them, as long as it is not known that this seller definitely mixed wine.",
+        "B": "Buying only from the one seller whose identity is publicly known.",
+        "C": "Buying from none of them, because the minority is always ignored.",
+        "D": "Buying only outside the city, but not from the local sellers."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 114, Seif 10",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Rama permits buying from all of them in this case because we can combine possibilities: perhaps this seller is the one who does not mix, and even among the others it is only a practice, not a certainty, that wine was mixed.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The case is specifically that the non-mixing seller is unidentified.",
+        "C": "Rama is lenient in this rabbinic concern because of the combined doubts.",
+        "D": "Rama permits buying even from the home or store in this first case, as long as definite mixing is not known."
+      }
+    },
+    {
+      "id": "siman_114_seifim_7_12-part-2-q016",
+      "question": "When some sellers definitely mix wine and some definitely do not, how does Rama apply rov and kavua?",
+      "options": {
+        "A": "One may buy in their homes if most sellers do not mix, but not from a separated item.",
+        "B": "One may buy only if every seller in the city is personally checked first.",
+        "C": "One may follow the majority for an item separated from the group, but not buy in their fixed stores.",
+        "D": "One may ignore the majority because every rabbinic doubt is automatically permitted."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 114, Seif 10",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Rama rules that if some definitely mix and some definitely do not, we follow the majority for an item that separated from the group, because kol d'parish mei'ruba parish. But buying in the sellers' fixed homes or stores is kavua, which is treated like half and half, so the majority cannot be used there.",
+        "A": "This reverses the rule; fixed stores are the kavua problem.",
+        "B": "Rama gives a rov/kavua framework rather than requiring every seller be checked.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Rama is lenient within rules of rov and safek d'rabbanan, not by ignoring all structure."
+      }
+    },
+    {
+      "id": "siman_114_seifim_7_12-part-2-q017",
+      "question": "When does the concern about chilik not apply according to the source?",
+      "options": {
+        "A": "When the small fish already have scales and can be identified as kosher.",
+        "B": "When the fish are minced more finely than usual.",
+        "C": "When the seller stores them together with grapes.",
+        "D": "When the fish are soaked in water for less than a day."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 114, Seif 10",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "The source explains that the concern with chilik is when kosher and non-kosher small fish cannot be distinguished, such as before the kosher fish have grown scales. If the small fish have scales and can be identified as kosher, that specific concern does not apply.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Finer mincing would make identification harder, not easier.",
+        "C": "Grapes are a separate case and do not solve the fish-identification problem.",
+        "D": "The issue is recognizing kosher fish, not soaking duration."
+      }
+    },
+    {
+      "id": "siman_114_seifim_7_12-part-2-q018",
+      "question": "B'dieved, what does the source say about benefit from yayin stam mixtures in a loss situation?",
+      "options": {
+        "A": "Benefit is forbidden even in a major loss because yayin stam is always like yayin nesech.",
+        "B": "Benefit is permitted only if the food is first sold to a non-Jewish merchant.",
+        "C": "Benefit is permitted only when the mixture contains no more than one-sixth wine.",
+        "D": "In a case of loss, yayin stam is essentially permitted for benefit."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 114, Seif 10",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "The source explains that although l'chatchilah one is machmir with benefit from yayin stam, it is essentially permitted for benefit. Therefore, in a situation of hefsed, benefit is always permitted, even though Mechaber's language discusses a stricter l'chatchilah posture.",
+        "A": "The source distinguishes yayin stam from actual yayin nesech and is lenient for benefit in loss.",
+        "B": "Selling may be used with deduction of wine value, but the broader b'dieved point is that benefit is permitted in hefsed.",
+        "C": "The source's hefsed discussion is not framed around a one-sixth measurement.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_114_seifim_7_12-part-2-q019",
+      "question": "When are fish fats of non-Jews forbidden because of possible wine?",
+      "options": {
+        "A": "Whenever fish fats are produced in a city that also makes wine.",
+        "B": "When the local practice is to add wine and wine is cheaper than the fish fats.",
+        "C": "Whenever fish fats are delivered by a non-Jewish messenger.",
+        "D": "When fish fats are stored in a vessel that once held kosher brine."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 114, Seif 11",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that fish fats are forbidden in a place where people normally add wine, assuming wine is cheaper than the fish fats. If wine is more expensive, or in a place where wine is not normally added, the concern does not apply.",
+        "A": "The concern depends on local practice and economic reason, not merely wine production in the city.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Mechaber permits sending and depositing fish fats with non-Jews where there is no practice of adding wine.",
+        "D": "Kosher brine storage is not the problem in this seif."
+      }
+    },
+    {
+      "id": "siman_114_seifim_7_12-part-2-q020",
+      "question": "In a place where wine is not normally added to fish fats, what does Mechaber permit?",
+      "options": {
+        "A": "Only looking at the fish fats, but not buying them.",
+        "B": "Buying them, but not depositing them with a non-Jew.",
+        "C": "Only sending them with a Jew, but not with a non-Jew.",
+        "D": "Buying them, depositing them with non-Jews, and sending them through non-Jews."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 114, Seif 11",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Mechaber permits fish fats in a place where people do not normally add wine. He also allows depositing them with non-Jews for safeguarding and sending them through non-Jews, because the particular wine-mixture concern is absent.",
+        "A": "Mechaber permits buying them, not merely inspecting them.",
+        "B": "He explicitly permits depositing them with non-Jews in this case.",
+        "C": "He explicitly permits sending them through non-Jews when the concern is absent.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_114_seifim_7_12-part-2-q021",
+      "question": "Why was Rashba careful not to eat saffron of non-Jews in his area?",
+      "options": {
+        "A": "Because saffron is always cut with a non-Jew's knife.",
+        "B": "Because in his area they sprinkled much wine on it and mixed in dried meat strands.",
+        "C": "Because saffron is a drink that creates closeness like beer.",
+        "D": "Because saffron is never edible raw and is always bishul aku\"m."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 114, Seif 12",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Mechaber cites Rashba's practice because Rashba knew the facts in his region: people would sprinkle a lot of wine on saffron and also mix dry strands of meat into it. Those local facts created a real kashrus concern.",
+        "A": "The source's saffron concern is wine and dried meat, not knife sharpness.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Saffron is not treated as beer in this seif.",
+        "D": "The concern is adulteration with wine and meat, not cooking by a non-Jew."
+      }
+    },
+    {
+      "id": "siman_114_seifim_7_12-part-2-q022",
+      "question": "What is the practical halachah for saffron outside Rashba's specific situation?",
+      "options": {
+        "A": "It is forbidden everywhere because Rashba's concern became a universal gezeirah.",
+        "B": "It is permitted only if bought from the one seller known not to add wine.",
+        "C": "It is permitted only after deducting the value of wine from the sale price.",
+        "D": "One may generally buy it, assuming there is at least one seller who does not adulterate it."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 114, Seif 12",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "The source explains that Mechaber quotes Rashba because his concern depended on known local facts. For others, we do not assume every seller adulterates saffron; we may assume there is at least one who does not, and therefore one may buy from any non-Jew unless definite local facts create a concern.",
+        "A": "The concern did not become a universal gezeirah; it depended on Rashba's country.",
+        "B": "The practical rule is more lenient: we may assume perhaps this seller is the one who does not adulterate.",
+        "C": "Deducting wine value belongs to the benefit-from-wine-mixture case, not the ordinary saffron ruling.",
+        "D": "Correct option; see the main explanation."
+      }
+    }
+  ]
+}

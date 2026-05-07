@@ -1,0 +1,402 @@
+{
+  "id": "siman_112_seifim_9_16-part-2",
+  "title": "Siman 112 - Seifim 9-16",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 17,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 112",
+  "questions": [
+    {
+      "id": "siman_112_seifim_9_16-part-2-q001",
+      "question": "What is the dispute between Rambam and Rosh about a Jew's involvement in baking?",
+      "options": {
+        "A": "Rambam requires the Jew to own the dough, while Rosh requires only oven ownership.",
+        "B": "Rambam permits only pas palter, while Rosh permits even pas balei batim.",
+        "C": "Rambam requires the Jew to put every loaf into the oven, while Rosh requires only a twig.",
+        "D": "Rambam accepts even minor involvement as a heker, while Rosh requires one of the main baking acts."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 112, Seif 9",
+        "pageNumbers": "Page 8"
+      },
+      "explanations": {
+        "correct": "Rambam holds that even minor participation, such as throwing a small piece of wood into the oven, makes the bread permitted because it creates a heker. Rosh requires one of the main baking acts: igniting the fire, placing the bread in the oven, or stoking the coals.",
+        "A": "The dispute concerns the type of baking involvement, not ownership.",
+        "B": "The dispute is not about palter versus balei batim.",
+        "C": "This reverses the positions; Rambam is the more lenient view regarding minor involvement.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_112_seifim_9_16-part-2-q002",
+      "question": "How do Mechaber and Rama rule regarding minor Jewish involvement such as throwing in a twig?",
+      "options": {
+        "A": "They rule like Rambam that even a small act can make the bread permitted.",
+        "B": "They rule like Rosh that only placing the bread in the oven helps.",
+        "C": "They rule that a twig helps only for pas palter but not pas balei batim.",
+        "D": "They rule that a twig helps only if the Jew also owns the oven."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 112, Seif 9",
+        "pageNumbers": "Page 8"
+      },
+      "explanations": {
+        "correct": "Mechaber and Rama rule like Rambam. A Jew can permit the bread through several forms of involvement, including lighting the oven, baking in an oven lit by a non-Jew, stoking the fire, or even throwing one piece of wood into the oven.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Rosh is stricter, but Mechaber and Rama do not rule like him here.",
+        "C": "The seif describes the act of Jewish involvement as enough to permit the bread generally.",
+        "D": "The source does not require the Jew to own the oven."
+      }
+    },
+    {
+      "id": "siman_112_seifim_9_16-part-2-q003",
+      "question": "What is the modern equivalent of igniting or stoking the fire in this context?",
+      "options": {
+        "A": "Opening the oven door before the bread is removed.",
+        "B": "Turning on the oven or raising the oven temperature.",
+        "C": "Checking the ingredients before the baking begins.",
+        "D": "Putting a hechsher label on the package after baking."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 112, Seif 9",
+        "pageNumbers": "Page 8"
+      },
+      "explanations": {
+        "correct": "The practical halacha section states that turning on the oven is equivalent to igniting the fire, and raising the oven temperature is equivalent to stoking the coals. These are meaningful acts of participation in the baking process.",
+        "A": "Merely opening the door is not identified as the modern equivalent of lighting or stoking.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Ingredient checking is important for kashrus but is not the baking involvement discussed here.",
+        "D": "A label after baking is not participation in the baking process."
+      }
+    },
+    {
+      "id": "siman_112_seifim_9_16-part-2-q004",
+      "question": "How do Mechaber and Rama differ about relying on an earlier kashering of the oven?",
+      "options": {
+        "A": "Mechaber allows many days, while Rama limits it to one day.",
+        "B": "Mechaber and Rama both require a new twig for every single baking.",
+        "C": "Mechaber allows a third baking that day after two kashered bakings; Rama allows many bakings if the oven was not cold for 24 hours.",
+        "D": "Mechaber allows only pas yisroel, while Rama allows even bishul aku\"m."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 112, Seif 10",
+        "pageNumbers": "Page 9"
+      },
+      "explanations": {
+        "correct": "Mechaber discusses a case where the oven was kashered by Jewish participation for the first two bakings in one day, and the third baking is permitted even without a new act. Rama extends this further: if the oven was kashered once and was not left extinguished for a full 24 hours, later bakings over multiple days may rely on the first act.",
+        "A": "This reverses the positions; Rama is the broader leniency.",
+        "B": "Both opinions allow some reliance on earlier Jewish participation.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The seif is about pas and oven participation, not a general permission for bishul aku\"m."
+      }
+    },
+    {
+      "id": "siman_112_seifim_9_16-part-2-q005",
+      "question": "Why does the Rama's 24-hour oven leniency generally not apply to modern ovens?",
+      "options": {
+        "A": "Modern ovens are always owned by Jews.",
+        "B": "Modern ovens bake too quickly for pas yisroel rules.",
+        "C": "Modern ovens are usually electric rather than wood-fired.",
+        "D": "Modern ovens do not retain heat like old stone or earthenware ovens."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 112, Seif 10",
+        "pageNumbers": "Page 9"
+      },
+      "explanations": {
+        "correct": "The practical section explains that Rama's leniency depends on ovens that retain heat for a long time, such as stone or earthenware ovens. Modern ovens lose heat relatively quickly after being turned off, so the continuing-heat assumption generally does not apply.",
+        "A": "Ownership is not the reason this leniency fails in modern ovens.",
+        "B": "The source does not base the rule on baking speed.",
+        "C": "Electricity may matter for how one participates, but the stated limitation is heat retention.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_112_seifim_9_16-part-2-q006",
+      "question": "What is the status of bread owned by a Jew and baked by a non-Jew without Jewish involvement?",
+      "options": {
+        "A": "It is forbidden as bishul aku\"m, even though ordinary bread has pas leniencies.",
+        "B": "It is always permitted because the dough belongs to a Jew.",
+        "C": "It is permitted only if a non-Jewish palter baked it for sale.",
+        "D": "It is treated like pas balei batim and becomes permitted if later sold by a palter."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 112, Seif 11",
+        "pageNumbers": "Page 10"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that bread belonging to a Jew that was baked by a non-Jew without chittui or a twig from a Jew is forbidden. The source explains that this case is treated as bishul aku\"m because it is not too difficult for the Jewish owner to arrange Jewish involvement.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Jewish ownership does not permit it; it can make the lack of Jewish baking involvement more problematic.",
+        "C": "A palter does not solve the bishul aku\"m issue when the dough belongs to a Jew.",
+        "D": "This case is not fixed by later sale through a palter."
+      }
+    },
+    {
+      "id": "siman_112_seifim_9_16-part-2-q007",
+      "question": "Why may forbidden bread not be sold whole to a non-Jew, and when may it be sold?",
+      "options": {
+        "A": "It may never be sold, even if it is completely destroyed first.",
+        "B": "It may not be sold whole lest the non-Jew resell it to a Jew; if broken into pieces, it may be sold.",
+        "C": "It may be sold whole only if the non-Jew promises to eat it himself.",
+        "D": "It may be sold only when there is no Jewish baker in the area."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 112, Seif 11",
+        "pageNumbers": "Page 10"
+      },
+      "explanations": {
+        "correct": "Mechaber forbids selling such bread whole to a non-Jew because the non-Jew may resell it to a Jew. If the bread is split into pieces, the concern is reduced, and selling it to the non-Jew is permitted.",
+        "A": "Mechaber permits selling it after it is broken into pieces.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The source does not rely on the non-Jew's promise.",
+        "D": "The rule is about preventing resale of forbidden bread to Jews, not about availability of Jewish bakers."
+      }
+    },
+    {
+      "id": "siman_112_seifim_9_16-part-2-q008",
+      "question": "Why is there a minhag not to buy pieces of bread from a non-Jew?",
+      "options": {
+        "A": "Bread pieces are always more likely to contain non-kosher ingredients.",
+        "B": "Pieces of bread cannot become pas yisroel through Jewish involvement.",
+        "C": "They may be forbidden bread that a Jew broke and sold to the non-Jew.",
+        "D": "Bread pieces are always considered less than a kezayis."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 112, Seif 11",
+        "pageNumbers": "Page 10"
+      },
+      "explanations": {
+        "correct": "Rama notes that because a Jew may sell forbidden bread to a non-Jew after breaking it into pieces, the minhag developed not to buy bread pieces from a non-Jew. We are concerned that the pieces may come from forbidden bread sold to him by a Jew.",
+        "A": "The concern here is resale of forbidden bread, not ingredient suspicion.",
+        "B": "The source is not discussing how to make the pieces pas yisroel.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The concern has nothing to do with the size of each piece for kezayis purposes."
+      }
+    },
+    {
+      "id": "siman_112_seifim_9_16-part-2-q009",
+      "question": "Until when can Jewish involvement still fix bread that a non-Jew baked?",
+      "options": {
+        "A": "Only before the dough is placed into the oven.",
+        "B": "Only before the surface begins to crust.",
+        "C": "Never after the non-Jew has already started baking it.",
+        "D": "As long as the bread still needs the oven and improves through further baking; some allow returning it if that improves it."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 112, Seif 12",
+        "pageNumbers": "Page 11"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that even after the surface has crusted, Jewish stoking can still help as long as the bread still needs the oven and continues to improve through baking. He also cites a more lenient view that even if the bread was removed, it can be fixed by returning it to the oven through a Jew if the added baking improves it.",
+        "A": "Mechaber allows Jewish involvement even after the bread is already in the oven.",
+        "B": "Mechaber explicitly says it can help even after the surface crusted.",
+        "C": "The whole seif discusses cases where later Jewish involvement can still help.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_112_seifim_9_16-part-2-q010",
+      "question": "Which practical example is permitted because the final baking stage is completed by a Jew?",
+      "options": {
+        "A": "Par-boiled bagels bought before final baking and then baked at home.",
+        "B": "Fully baked pas aku\"m that is lightly toasted before eating.",
+        "C": "Pas aku\"m crushed into crumbs and used for breaded chicken.",
+        "D": "Fully baked bread that is reheated only to make it warm."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 112, Seif 12",
+        "pageNumbers": "Page 11"
+      },
+      "explanations": {
+        "correct": "The source says par-boiled bagels may be bought and completed at home because the product still needs the final baking stage. By contrast, simply toasting bread that is already fully edible does not usually make it permitted, and fully baked pas aku\"m remains forbidden even if later changed into crumbs.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Most opinions do not treat ordinary toasting as the type of improvement that fixes pas aku\"m.",
+        "C": "Once fully baked pas aku\"m is forbidden, crushing it into crumbs does not remove the status.",
+        "D": "Warming fully baked bread does not complete the baking in the relevant sense."
+      }
+    },
+    {
+      "id": "siman_112_seifim_9_16-part-2-q011",
+      "question": "In Mechaber's case, why may a host who avoids pas aku\"m make hamotzi on the guest's better pas aku\"m?",
+      "options": {
+        "A": "Because pas aku\"m is always preferred for hamotzi if it is fresher.",
+        "B": "Because ignoring the guest's superior bread may offend the guest.",
+        "C": "Because the host's pas yisroel becomes batul to the guest's bread.",
+        "D": "Because the guest's bread becomes pas yisroel when placed on the host's table."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 112, Seif 13",
+        "pageNumbers": "Page 12"
+      },
+      "explanations": {
+        "correct": "Shach and Taz explain that the heter is because of the guest. Since hamotzi should be made on the better bread, the guest may be offended if the host ignores the better loaf that the guest brought. Therefore, in that meal setting, the host may make the bracha on the pas aku\"m and eat from it.",
+        "A": "The permission is not because pas aku\"m is generally preferred; it is because of concern for the guest.",
+        "B": "Correct option; see the main explanation.",
+        "C": "There is no bitul of one loaf to the other in this case.",
+        "D": "Putting the bread on the host's table does not make it pas yisroel."
+      }
+    },
+    {
+      "id": "siman_112_seifim_9_16-part-2-q012",
+      "question": "Why is the rule different when one is eating alone with both pas yisroel and better pas aku\"m on the table?",
+      "options": {
+        "A": "When alone, the better bread is no longer considered better for hamotzi.",
+        "B": "When alone, pas aku\"m becomes forbidden d'oraisa.",
+        "C": "When alone there is no concern of offending a guest, so he should remove the pas aku\"m and use pas yisroel.",
+        "D": "When alone, one may eat pas aku\"m only if two other people are present."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 112, Seif 13",
+        "pageNumbers": "Page 12"
+      },
+      "explanations": {
+        "correct": "The source contrasts the host-guest case with eating alone. When eating alone, there is no concern of embarrassing or offending a guest. Therefore, if he usually avoids pas aku\"m, he should remove the pas aku\"m from the table and make hamotzi on pas yisroel, even if the pas aku\"m is better quality.",
+        "A": "The bread can still be better quality; the missing factor is concern for the guest.",
+        "B": "Pas aku\"m remains a rabbinic issue; eating alone does not change it to d'oraisa.",
+        "C": "Correct option; see the main explanation.",
+        "D": "This confuses the later eivah discussion in Seif 15 with the hamotzi case here."
+      }
+    },
+    {
+      "id": "siman_112_seifim_9_16-part-2-q013",
+      "question": "When can pas aku\"m become batul in a mixture?",
+      "options": {
+        "A": "Only when there is sixty times against the pas aku\"m.",
+        "B": "Only when the pas aku\"m is a liquid taste and not actual crumbs.",
+        "C": "Only when the bread was first baked by a commercial palter.",
+        "D": "When it is mixed into other food and is not recognizable, it is batul b'roiv."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 112, Seif 14",
+        "pageNumbers": "Page 13"
+      },
+      "explanations": {
+        "correct": "Rama rules that pas aku\"m mixed into other food is batul b'roiv, whether the mixture is wet or dry. However, one may not intentionally mix it in order to eat it, and if the pas aku\"m remains recognizable it must be removed or the food remains problematic.",
+        "A": "The source states b'roiv, not sixty.",
+        "B": "Rama applies the rule to wet and dry mixtures, not only taste.",
+        "C": "The rule is about pas aku\"m in a mixture, not only bread from a palter.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_112_seifim_9_16-part-2-q014",
+      "question": "What does Shach add about pas aku\"m that would otherwise be considered a davar chashuv?",
+      "options": {
+        "A": "Even if it is important, we are lenient and allow bitul for pas aku\"m.",
+        "B": "It can never be batul because all important items remain significant.",
+        "C": "It is batul only if it was first broken into exactly two pieces.",
+        "D": "It is batul only in kutach but not in other foods."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 112, Seif 14",
+        "pageNumbers": "Page 13"
+      },
+      "explanations": {
+        "correct": "Shach adds that even if the pas aku\"m is a davar chashuv, which normally would not be batul, we are lenient for pas aku\"m. This follows the broader leniency of Rama that pas aku\"m can be batul b'roiv when mixed and unrecognizable.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Shach specifically says we are lenient here despite the usual rule for important items.",
+        "C": "Breaking into pieces is relevant to selling forbidden bread, not to this bitul rule.",
+        "D": "Rama extends the rule beyond kutach to other mixtures."
+      }
+    },
+    {
+      "id": "siman_112_seifim_9_16-part-2-q015",
+      "question": "May someone who avoids pas aku\"m eat from a plate together with someone who eats pas aku\"m?",
+      "options": {
+        "A": "No, because any taste of pas aku\"m makes the pas yisroel forbidden.",
+        "B": "Yes, because Mechaber rules that the taste of pas aku\"m is not a concern in this setting.",
+        "C": "Only if the pas aku\"m is owned by a Jewish baker.",
+        "D": "Only if the pas aku\"m crumbs are visible and can be removed."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 112, Seif 15",
+        "pageNumbers": "Page 14"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that one who avoids pas aku\"m may eat from a bowl or plate together with someone who is not careful about it. Even though some taste of the pas aku\"m mixes with his pas yisroel, he does not need to be concerned.",
+        "A": "Mechaber explicitly permits the shared plate despite possible taste transfer.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Ownership by a Jewish baker is not part of this rule.",
+        "D": "The permission is about taste mixing; visible crumbs would raise a separate recognizability issue."
+      }
+    },
+    {
+      "id": "siman_112_seifim_9_16-part-2-q016",
+      "question": "When does Rama's eivah leniency allow a person who avoids pas aku\"m to eat it with others?",
+      "options": {
+        "A": "Whenever even one other person at the table eats pas aku\"m.",
+        "B": "Whenever the pas aku\"m is better quality than the pas yisroel.",
+        "C": "When eating with a group that eats pas aku\"m, so refusing bread would cause friction; Shach limits this to a majority situation.",
+        "D": "Whenever the same logic would permit other foods such as non-Jewish butter."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 112, Seif 15",
+        "pageNumbers": "Page 14"
+      },
+      "explanations": {
+        "correct": "Rama permits one who avoids pas aku\"m to eat it with others who are lenient because bread is central to the meal and refusal may cause friction. Shach limits this to a case where there are two or more others who eat pas aku\"m, so there is a majority custom at the table.",
+        "A": "Shach says one-on-one is not enough, because each person can follow his own custom.",
+        "B": "Better quality is a different discussion and is not Rama's eivah rule.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Rama says this leniency is specific to pas aku\"m and cannot be extended to other issurim."
+      }
+    },
+    {
+      "id": "siman_112_seifim_9_16-part-2-q017",
+      "question": "According to the opinion quoted by Mechaber and explained by Chachmas Adam, how far must one go for pas yisroel?",
+      "options": {
+        "A": "At home or traveling, one must go four mil in any direction.",
+        "B": "At home one never needs to travel, and while traveling one must wait a full day.",
+        "C": "At home one must go four mil, and while traveling only one mil forward.",
+        "D": "At home up to one mil; while traveling, up to four mil ahead or one mil out of the way."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 112, Seif 16",
+        "pageNumbers": "Page 15"
+      },
+      "explanations": {
+        "correct": "Mechaber cites an opinion that one who avoids pas aku\"m and is on the road should wait for pas yisroel if it is within four mil. Chachmas Adam explains the practical application: at home, one must travel up to one mil; when traveling, one must go up to four mil in the direction of travel or one mil out of the way.",
+        "A": "The four mil requirement applies while traveling in the direction one is already going, not every case.",
+        "B": "Chachmas Adam does require effort at home, up to one mil.",
+        "C": "This reverses the home and travel measurements.",
+        "D": "Correct option; see the main explanation."
+      }
+    }
+  ]
+}

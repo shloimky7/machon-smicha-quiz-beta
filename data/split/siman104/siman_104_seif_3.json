@@ -1,0 +1,172 @@
+{
+  "id": "siman_104_seif_3-part-2",
+  "title": "Siman 104 - Seif 3",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 7,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 104",
+  "questions": [
+    {
+      "id": "siman_104_seif_3-part-2-q001",
+      "question": "What types of creatures does Mechaber discuss in Seif 3?",
+      "options": {
+        "A": "Pieces of meat fit to honor guests.",
+        "B": "Animals that are oleh al shulchan melachim.",
+        "C": "Kosher birds that swim in a cold tavshil.",
+        "D": "Creatures that people find viscerally disgusting, such as ants, flies, and mosquitoes."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 104, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber discusses disgusting things that people instinctively avoid eating, such as ants, flies, and mosquitoes. Because they are naturally repulsive, their liquefied presence can be treated as nosen ta'am l'fgam under the conditions of the seif.",
+        "A": "Chaha\"l is not the subject of Seif 3.",
+        "B": "Oleh al shulchan melachim points away from p'gam.",
+        "C": "That was part of the living-animal taste discussion.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_104_seif_3-part-2-q002",
+      "question": "When does Mechaber permit a mixture containing liquefied disgusting creatures?",
+      "options": {
+        "A": "Only when the heter is sixty times the creature.",
+        "B": "When the heter is the majority.",
+        "C": "Only when the creature remains whole.",
+        "D": "Only when the food is beer or vinegar."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 104, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that if disgusting creatures such as ants, flies, or mosquitoes liquefy into a food, the mixture is permitted when the heter is the majority. Since the creatures are intrinsically disgusting, their taste is pagum, and majority heter is enough in this case.",
+        "A": "Mechaber's stated measure here is rov heter, not shishim.",
+        "B": "Correct option; see the main explanation.",
+        "C": "If the creature remains whole, beriah may prevent bitul.",
+        "D": "Rama is stricter in vinegar and beer; Mechaber's leniency is broader."
+      }
+    },
+    {
+      "id": "siman_104_seif_3-part-2-q003",
+      "question": "What must one do if the liquefied insect mixture can be checked or strained?",
+      "options": {
+        "A": "One must wait twenty-four hours.",
+        "B": "One may not strain it because that ruins bitul.",
+        "C": "One must add another majority of heter.",
+        "D": "One must check and strain it."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 104, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Even though Mechaber gives a leniency for liquefied disgusting creatures when heter is the majority, he adds that whenever possible one must check and strain the food. Actual removable issur should be removed rather than left in the mixture.",
+        "A": "Waiting is not the required step here.",
+        "B": "Straining is required when possible; it does not ruin bitul.",
+        "C": "The source does not require adding more heter if rov already exists.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_104_seif_3-part-2-q004",
+      "question": "What if the fly or insect remains whole in the mixture?",
+      "options": {
+        "A": "It is always permitted because it is disgusting.",
+        "B": "It may still be forbidden because of beriah.",
+        "C": "It is permitted if the food is thick.",
+        "D": "It becomes davar sheyesh lo matirin."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 104, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber's leniency applies where the disgusting creature is crushed or liquefied. If the insect remains whole, it may retain beriah status, and a beriah is not batul in the ordinary way even if it is disgusting.",
+        "A": "Disgusting taste does not automatically permit a whole beriah.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Thickness does not remove beriah status.",
+        "D": "A whole insect will not later become permitted."
+      }
+    },
+    {
+      "id": "siman_104_seif_3-part-2-q005",
+      "question": "What distinction does Beis Yosef make between nifgam b'etzem and nifgam al yedei hata'aruvos?",
+      "options": {
+        "A": "Nifgam b'etzem may be permitted with rov, while nifgam through mixture needs shishim.",
+        "B": "Nifgam b'etzem always needs shishim, while mixture p'gam needs only rov.",
+        "C": "Both always need only one extra piece of heter.",
+        "D": "Neither can ever be permitted once the issur liquefies."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 104, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Beis Yosef distinguishes an intrinsically disgusting item from something that is only ruined because of this mixture. Nifgam b'etzem can be permitted even with a k'zayis b'kdei achilas pras when there is rov heter, but something only nifgam al yedei hata'aruvos is more limited and may require shishim.",
+        "A": "Correct option; see the main explanation.",
+        "B": "This reverses Beis Yosef's distinction.",
+        "C": "The source distinguishes rov from shishim, not one extra piece.",
+        "D": "Mechaber permits liquefied disgusting items in the proper conditions."
+      }
+    },
+    {
+      "id": "siman_104_seif_3-part-2-q006",
+      "question": "What does Rama add about disgusting creatures in vinegar and beer?",
+      "options": {
+        "A": "They are certainly pogem vinegar and beer.",
+        "B": "They require concern like a mouse in vinegar and beer.",
+        "C": "They are permitted without checking or straining.",
+        "D": "They are forbidden only if they remain for one hour."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 104, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Rama adds that in vinegar and beer one should be concerned about disgusting creatures just as with a mouse. Those liquids are the special area of doubt in the siman, so Rama does not allow the same simple leniency there without concern.",
+        "A": "Rama is stricter in vinegar and beer.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Mechaber requires checking and straining when possible.",
+        "D": "One hour is not the measure discussed."
+      }
+    },
+    {
+      "id": "siman_104_seif_3-part-2-q007",
+      "question": "How do Taz, Shach, and the prevailing custom line up on Mechaber's Seif 3 leniency?",
+      "options": {
+        "A": "Taz rejects it, Shach accepts it always, and the custom rejects both.",
+        "B": "Taz follows Mechaber, Shach is stringent except hefsed merubah, and common practice follows Mechaber/Rama.",
+        "C": "Both Taz and Shach reject Mechaber, and no one relies on the leniency.",
+        "D": "Both Taz and Shach accept it only for beer and vinegar."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 104, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Taz writes that although Maharshal and Bach disagree with Mechaber's leniency, he follows Mechaber and notes Rama strongly supports it. Shach is stricter and says to follow Maharshal and Bach except in hefsed merubah. Practically, Psakim U'teshuvos writes that the prevailing custom follows Mechaber and Rama, though one may be stringent like Shach.",
+        "A": "This reverses Taz and Shach.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Taz and Rama support the leniency, and the custom generally follows it.",
+        "D": "Beer and vinegar are where Rama raises concern, not the main lenient case."
+      }
+    }
+  ]
+}

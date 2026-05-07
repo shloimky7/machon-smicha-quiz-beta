@@ -1,0 +1,448 @@
+{
+  "id": "siman_102_seifim_1_2-part-1",
+  "title": "Siman 102 - Seifim 1-2",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 19,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 102",
+  "questions": [
+    {
+      "id": "siman_102_seifim_1_2-part-1-q001",
+      "question": "What is a davar sheyesh lo matirin?",
+      "options": {
+        "A": "An item that is forbidden now but will later have a way to become permitted.",
+        "B": "An item that is always forbidden and can never become permitted.",
+        "C": "An item that is permitted now but will become forbidden later.",
+        "D": "An item that is sold by number and not by weight."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 102, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "A davar sheyesh lo matirin is an item currently assur that has a path to become mutar later. Mid'oraisa it would be batul like other issurim, but Chachamim decreed that, in the relevant cases, one should wait and eat it when it becomes permitted rather than rely on bitul.",
+        "A": "Correct option; see the main explanation.",
+        "B": "If it can never become permitted, it lacks the defining feature of this category.",
+        "C": "The category concerns current issur that later becomes mutar, not the reverse.",
+        "D": "That describes davar sheb'minyan, a separate non-bitul category."
+      }
+    },
+    {
+      "id": "siman_102_seifim_1_2-part-1-q002",
+      "question": "What is the Gemara's classic example of davar sheyesh lo matirin?",
+      "options": {
+        "A": "A piece of neveilah mixed into kosher meat.",
+        "B": "An egg laid on Yom Tov that will be permitted the next day.",
+        "C": "Cheese made by a non-Jew and served at a meal.",
+        "D": "A worm found in vegetables after cooking."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 102, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The Gemara discusses an egg laid on Yom Tov, which may not be eaten that day but becomes permitted the next day. Because the egg will become mutar after Yom Tov, it is a davar sheyesh lo matirin and is not batul even in a very large mixture.",
+        "A": "Neveilah is ordinary issur and does not automatically become permitted later.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Non-Jewish cheese is not the Gemara's source case for this rule.",
+        "D": "A worm is a beriah issue, not the source case for davar sheyesh lo matirin."
+      }
+    },
+    {
+      "id": "siman_102_seifim_1_2-part-1-q003",
+      "question": "How does Rashi explain why davar sheyesh lo matirin is not batul?",
+      "options": {
+        "A": "Since it is a beriah, its whole form can never disappear.",
+        "B": "Since it is sold by number, it is always treated as important.",
+        "C": "Since it gives strong taste, sixty can never remove its flavor.",
+        "D": "Since it will be permitted later, one should wait rather than rely on bitul."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 102, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rashi gives the practical explanation: because the item will become permitted later, Chachamim said not to rely on bitul now. The person should wait and eat the item when it is fully permitted rather than eat it through nullification.",
+        "A": "Beriah is a separate category discussed in Siman 100.",
+        "B": "That is davar sheb'minyan, not Rashi's reason here.",
+        "C": "Davar sheyesh lo matirin is not based on strong taste.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_102_seifim_1_2-part-1-q004",
+      "question": "How does Ran explain davar sheyesh lo matirin through min b'mino?",
+      "options": {
+        "A": "It is treated as min b'she'eino mino because the issur is temporary.",
+        "B": "It is never batul because every min b'mino case is Torah-forbidden.",
+        "C": "It is a true min b'mino when the items share both physical type and halachic status.",
+        "D": "It is batul because Chachamim reject all min b'mino stringencies."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 102, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Ran explains that Chachamim agree a true min b'mino is not batul when the items share physical properties and halachic status. In a davar sheyesh lo matirin case, the item is inherently headed toward heter, so in a same-type mixture it can be viewed as sharing the heter's halachic status, creating a true min b'mino that is not batul.",
+        "A": "Ran uses min b'mino to explain the stringency, not min b'she'eino mino.",
+        "B": "The halachah generally follows Chachamim that ordinary min b'mino can be batul.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Ran's point is that Chachamim still recognize a stricter true min b'mino case."
+      }
+    },
+    {
+      "id": "siman_102_seifim_1_2-part-1-q005",
+      "question": "How does Mechaber rule if an egg laid on Yom Tov mixes with other eggs of the same type?",
+      "options": {
+        "A": "It is batul only if the egg is broken before mixing.",
+        "B": "It is batul with sixty because eggs have weak taste.",
+        "C": "It is not batul whether whole or beaten, even in one thousand.",
+        "D": "It is batul only if a non-Jew cannot identify it."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 102, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that an egg laid on Yom Tov is not batul when mixed with other eggs, whether it is whole or beaten. Since it will become permitted the next day, it is a davar sheyesh lo matirin and remains assur even in a mixture of one thousand.",
+        "A": "Mechaber explicitly includes even a beaten egg in the stringency.",
+        "B": "This rule is not based on taste strength or shishim.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Identification by a non-Jew is not the deciding factor."
+      }
+    },
+    {
+      "id": "siman_102_seifim_1_2-part-1-q006",
+      "question": "What if there is a doubt whether the egg was laid on Yom Tov?",
+      "options": {
+        "A": "The mixture is permitted only after adding sixty eggs.",
+        "B": "The egg is permitted because all rabbinic doubts are lenient.",
+        "C": "Only the egg itself is assur, but the mixture is permitted.",
+        "D": "All the eggs are still assur when it mixes with others."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 102, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber rules strictly even where there is a safeik whether the egg was laid on Yom Tov. When that doubtful egg mixes with others, all the eggs are assur because davar sheyesh lo matirin has a special stringency: since the food will later be permitted, one waits rather than relying on the usual safeik leniency.",
+        "A": "For min b'mino davar sheyesh lo matirin, even a large amount does not help.",
+        "B": "This is one of the special rabbinic cases where the source treats safeik strictly.",
+        "C": "Once it mixes, Mechaber forbids the whole mixture.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_102_seifim_1_2-part-1-q007",
+      "question": "What if a davar sheyesh lo matirin mixes with eino mino?",
+      "options": {
+        "A": "It is never batul, even by one thousand.",
+        "B": "It becomes batul only after the issur is removed whole.",
+        "C": "It becomes batul with sixty.",
+        "D": "It becomes forbidden only if it is sold by number."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 102, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber qualifies the stringency and rules that davar sheyesh lo matirin applies only in min b'mino. When the item mixes with eino mino, the mixture follows ordinary taste rules and the issur is batul with shishim.",
+        "A": "That is true only in the relevant min b'mino setting.",
+        "B": "The rule here is shishim, not removal of a whole item.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Davar sheb'minyan is a separate issue from this eino mino rule."
+      }
+    },
+    {
+      "id": "siman_102_seifim_1_2-part-1-q008",
+      "question": "When does Rama say a Yom Tov egg is not batul even in a food that seems like eino mino?",
+      "options": {
+        "A": "When the egg fell into the pot after it was removed from heat.",
+        "B": "When the egg is smaller than every other ingredient.",
+        "C": "When the egg was sold together with the chicken.",
+        "D": "When the egg is used to whiten or improve the dish as an ingredient."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 102, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama rules that if the egg is used to whiten a food or to fix/improve the dish, such as stuffing a chicken, it is not batul. Shach and Taz explain that ingredients meant to make one dish can be treated as min b'mino for davar sheyesh lo matirin, because the egg is functioning as part of the dish rather than as a foreign item.",
+        "A": "The heat status is not Rama's example or reason here.",
+        "B": "Size is not Rama's reason; function in the dish is.",
+        "C": "How it was sold does not determine this ingredient rule.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_102_seifim_1_2-part-1-q009",
+      "question": "Why does Taz say Mechaber mentions both a whole egg and a beaten egg?",
+      "options": {
+        "A": "To teach that only whole eggs have davar sheyesh lo matirin.",
+        "B": "To show that a beaten egg becomes a beriah once mixed.",
+        "C": "To show that davar sheyesh lo matirin is stricter than davar sheb'minyan in safeik cases.",
+        "D": "To teach that davar sheb'minyan applies only to liquids."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 102, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "A whole egg might already not be batul as a davar sheb'minyan, since eggs are sold by unit. Taz explains that Mechaber still teaches davar sheyesh lo matirin because it has an added stringency: even a safeik case remains assur, whereas a doubtful davar sheb'minyan that is only rabbinic may be treated leniently.",
+        "A": "Mechaber includes a beaten egg too, so the rule is not limited to whole eggs.",
+        "B": "A beaten egg has lost whole form and is not a beriah.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Davar sheb'minyan concerns counted items, not only liquids."
+      }
+    },
+    {
+      "id": "siman_102_seifim_1_2-part-1-q010",
+      "question": "What is safeik echad b'guf and safeik echad b'ta'aruvos?",
+      "options": {
+        "A": "Two doubts about whether the same item has enough taste.",
+        "B": "One doubt about the item's own status and one doubt about which item in the mixture is the issur.",
+        "C": "One doubt about whether the mixture is hot and one doubt about whether it is cold.",
+        "D": "Two doubts about whether the item was sold by number or by weight."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 102, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The source gives the case of an egg that may have come from a treifah bird and then mixed with other eggs. One doubt is about the egg itself: perhaps it was never from a treifah. The second doubt is about the mixture: perhaps the egg selected is not the issur egg at all.",
+        "A": "The two doubts are not both about taste.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Heat and cold are not the two doubts in this discussion.",
+        "D": "Davar sheb'minyan is unrelated to this sfek sfeika category."
+      }
+    },
+    {
+      "id": "siman_102_seifim_1_2-part-1-q011",
+      "question": "How does Shach answer Bach's challenge to Mechaber's strict Yom Tov egg ruling?",
+      "options": {
+        "A": "He says every sfek sfeika works by davar sheyesh lo matirin.",
+        "B": "He says the egg is really a Torah prohibition, so safeik is strict.",
+        "C": "He says davar sheyesh lo matirin remains strict here because the mixture will be fully permitted later.",
+        "D": "He says Mechaber was discussing only an egg from a definite treifah bird."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 102, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Bach argues that the case should be permitted through sfek sfeika. Shach answers that davar sheyesh lo matirin follows a stricter logic: since the mixture will later be fully permitted, one should wait rather than eat it now through a doubtful leniency. He proves this from poskim who generally accept this kind of sfek sfeika but are still strict here.",
+        "A": "Shach is explaining why this sfek sfeika does not help in Mechaber's case.",
+        "B": "The Yom Tov egg is rabbinic, which is part of Bach's challenge.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Mechaber's case includes a doubt whether the egg was laid on Yom Tov."
+      }
+    },
+    {
+      "id": "siman_102_seifim_1_2-part-1-q012",
+      "question": "When does Shach allow a sfek sfeika even by davar sheyesh lo matirin?",
+      "options": {
+        "A": "When the egg is whole but not when it is beaten.",
+        "B": "When one of the doubts is whether the item is sold by number.",
+        "C": "When the mixture is certainly min b'mino and will be permitted tomorrow.",
+        "D": "When it is a strong sfek sfeika accepted by all opinions even for d'oraisa."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 102, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Shach concludes that a strong sfek sfeika, one accepted by all opinions even in Torah matters, can work even by davar sheyesh lo matirin. In such a case, the very application of the davar sheyesh lo matirin status is doubtful, so it cannot justify an extreme stringency.",
+        "A": "Whole versus beaten egg is not Shach's dividing line here.",
+        "B": "Davar sheb'minyan is not the kind of strong sfek sfeika Shach means.",
+        "C": "That describes the classic strict case, not the exception.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_102_seifim_1_2-part-1-q013",
+      "question": "What does Taz say about a doubtful davar sheyesh lo matirin that mixes twice?",
+      "options": {
+        "A": "Even the second mixture remains forbidden forever.",
+        "B": "The second mixture is forbidden only if the egg is beaten.",
+        "C": "Mechaber agrees the second mixture is permitted.",
+        "D": "The second mixture needs kashering before use."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 102, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Taz notes that if an egg that is only a safeik davar sheyesh lo matirin mixes with others, and then one of those eggs mixes into another group, Mechaber agrees that the second mixture is permitted. The added distance from the original doubt weakens the special stringency.",
+        "A": "Taz specifically reports a leniency for the second mixture.",
+        "B": "Taz's point is about the second mixture, not the egg's whole or beaten status.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Kashering applies to keilim, not this egg mixture."
+      }
+    },
+    {
+      "id": "siman_102_seifim_1_2-part-1-q014",
+      "question": "How does Shach define min b'mino for davar sheyesh lo matirin?",
+      "options": {
+        "A": "By the food names, not by taste.",
+        "B": "By the cooking pot used for both foods.",
+        "C": "By whether the issur is Torah-level.",
+        "D": "By whether the foods are sold by number."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 102, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Shach says that in this context min b'mino is judged by the names of the foods rather than their flavors. The issue is not taste transfer, but whether the davar sheyesh lo matirin is mixed with its own type for the special non-bitul rule.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The pot used does not define min b'mino.",
+        "C": "The Torah or rabbinic level of the issur does not define the min.",
+        "D": "Sold-by-number is davar sheb'minyan, not min b'mino."
+      }
+    },
+    {
+      "id": "siman_102_seifim_1_2-part-1-q015",
+      "question": "Why can an ingredient be considered min b'mino with the dish for davar sheyesh lo matirin?",
+      "options": {
+        "A": "Because every ingredient is sold by number.",
+        "B": "Because taste is always ignored in all ta'aruvos rules.",
+        "C": "Because ingredients meant to create one dish can be treated as one combined min.",
+        "D": "Because min b'mino applies only to liquids."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 102, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Shach and Taz explain Rama's ingredient examples by saying that ingredients that give flavor or function to each other and are meant to form one dish can be considered min b'mino for davar sheyesh lo matirin. Dough, for example, needs its ingredients as part of one food identity.",
+        "A": "The rule is about ingredient function, not sales by number.",
+        "B": "Taste is not always ignored; here the focus is dish identity.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Min b'mino is not limited to liquids."
+      }
+    },
+    {
+      "id": "siman_102_seifim_1_2-part-1-q016",
+      "question": "Why does Taz say Rama's stuffed-chicken example must involve egg substance?",
+      "options": {
+        "A": "Because stuffing is always considered min b'she'eino mino.",
+        "B": "Because a chicken can never absorb egg flavor.",
+        "C": "Because a whole egg is always a beriah.",
+        "D": "Because Seif 4 says davar sheyesh lo matirin does not apply to flavor alone."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 102, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Taz notes that Rama later rules davar sheyesh lo matirin applies only where there is actual issur substance, not merely flavor. Therefore, the stuffed chicken example must be precise: the egg is physically present as stuffing and is not merely flavor absorbed into the chicken.",
+        "A": "Rama uses stuffing as an example where the egg is significant in the dish.",
+        "B": "The issue is not whether chicken can absorb flavor.",
+        "C": "A whole egg is not treated as beriah in this discussion.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_102_seifim_1_2-part-1-q017",
+      "question": "When does the rule of davar sheyesh lo matirin apply according to Seif 2?",
+      "options": {
+        "A": "Whenever the item is currently forbidden because of absorbed taste.",
+        "B": "Whenever there is any remote chance the item may later be permitted.",
+        "C": "Only when the item is sold by number and mixed whole.",
+        "D": "Only when the item will certainly become mutar or one can make it mutar without loss."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 102, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Seif 2 limits davar sheyesh lo matirin to cases where the heter will definitely arrive, such as after Yom Tov, or where the person can bring about the heter without financial loss, such as annulling a neder. If the heter is uncertain and not in one's control, the special rule does not apply.",
+        "A": "Absorbed taste is discussed later and is not the defining condition here.",
+        "B": "A remote possibility is not enough for this status.",
+        "C": "That is davar sheb'minyan, not Seif 2's condition.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_102_seifim_1_2-part-1-q018",
+      "question": "Why is an egg from a safeik treifah bird not a davar sheyesh lo matirin?",
+      "options": {
+        "A": "Because eggs can never be davar sheyesh lo matirin.",
+        "B": "Because a treifah bird's eggs are always permitted after twelve months.",
+        "C": "Because the future heter is not definite and is not in the person's control.",
+        "D": "Because the egg is considered min b'she'eino mino with other eggs."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 102, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The egg may later be shown to be permitted if the bird proves it can live, but that outcome is not certain and the person cannot take a concrete action to make it happen. Therefore, Mechaber rules it is not considered a davar sheyesh lo matirin.",
+        "A": "The Yom Tov egg is the classic davar sheyesh lo matirin example.",
+        "B": "The bird may turn out to be a treifah; the future heter is uncertain.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Eggs mixed with eggs are the same min by name."
+      }
+    },
+    {
+      "id": "siman_102_seifim_1_2-part-1-q019",
+      "question": "How does Shach view Mechaber's Seif 2 limitation?",
+      "options": {
+        "A": "He says it is a disputed minority view and not accepted.",
+        "B": "He says no one seems to argue with Rashba's limitation.",
+        "C": "He says it applies only to keilim and not to food.",
+        "D": "He says it applies only when the issur is d'oraisa."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 102, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber introduces the rule with 'some authorities say,' but Shach comments that this wording is unnecessary because, although the rule is cited from Rashba, no one appears to disagree. The limitation is accepted: the future heter must be definite or in one's control without loss.",
+        "A": "Shach says the opposite; he treats it as accepted.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The seif gives a food example, an egg from a safeik treifah bird.",
+        "D": "The limitation is not restricted to Torah prohibitions."
+      }
+    }
+  ]
+}

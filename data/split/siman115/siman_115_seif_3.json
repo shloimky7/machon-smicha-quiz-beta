@@ -1,0 +1,126 @@
+{
+  "id": "siman_115_seif_3-part-2",
+  "title": "Siman 115 - Seif 3",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 5,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 115",
+  "questions": [
+    {
+      "id": "siman_115_seif_3-part-2-q001",
+      "question": "Why does butter of non-Jews seem more lenient than milk or cheese?",
+      "options": {
+        "A": "Butter is always sold with a sign showing where it came from.",
+        "B": "Butter is always cooked by a Jew before it reaches the buyer.",
+        "C": "Butter is never made in vessels used for other foods.",
+        "D": "Non-kosher milk does not become butter, and butter is made by churning rather than starter."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 115, Seif 3",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The source explains that butter lacks the main problems of milk and cheese. A non-Jew has no reason to add non-kosher milk because it will not become butter, and butter is made by churning, not by adding starter such as the concern in cheese.",
+        "A": "A sign of origin is relevant only for butter brought from a permitted place to a forbidden place.",
+        "B": "The source later discusses cooking butter, but that is not why butter seems more lenient from the outset.",
+        "C": "Some places did have concerns about non-kosher vessels used for butter.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_115_seif_3-part-2-q002",
+      "question": "What are the three main opinions about chem'as aku\"m?",
+      "options": {
+        "A": "Rashi permits, Rabbeinu Tam forbids, and Shach requires a Jew to add starter.",
+        "B": "Rabbeinu Peretz permits, Geonim forbid like cheese, and Rambam permits after cooking.",
+        "C": "Rama forbids always, Mechaber permits always, and Taz requires a child to supervise.",
+        "D": "Pri Chadash permits, Chasam Sofer forbids, and Rav Moshe permits only chalav stam."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 115, Seif 3",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The source gives three opinions. Rabbeinu Peretz permits butter because the usual concerns do not apply. The Geonim forbid it like cheese. Rambam is concerned for non-kosher milk, but allows the butter after cooking removes the milk droplets.",
+        "A": "Those names and rules belong to other discussions and do not summarize chem'as aku\"m.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Mechaber and Rama do not split that way, and child supervision is about milk.",
+        "D": "Those opinions are about chalav aku\"m and chalav stam, not the three butter opinions."
+      }
+    },
+    {
+      "id": "siman_115_seif_3-part-2-q003",
+      "question": "How does Mechaber rule in a place with no established custom about chem'as aku\"m?",
+      "options": {
+        "A": "It is always forbidden, even if cooked until all milk droplets disappear.",
+        "B": "It is always permitted raw, because non-kosher milk cannot become butter.",
+        "C": "If it is cooked until the milk droplets disappear, it is permitted.",
+        "D": "It is permitted only if a Jew supervised the churning from the start."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 115, Seif 3",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber says not to object to places that are lenient, and not to change a place where most people are strict. In a place with no established custom, he follows Rambam: if the butter is cooked until the milk droplets disappear, it is permitted.",
+        "A": "Mechaber permits after cooking in a place with no custom.",
+        "B": "Mechaber does not simply permit raw butter in a place with no custom.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Supervising the churning is not Mechaber's rule for a no-custom place."
+      }
+    },
+    {
+      "id": "siman_115_seif_3-part-2-q004",
+      "question": "Why does Shach allow cooking butter l'chatchilah even though one may not intentionally nullify issur?",
+      "options": {
+        "A": "Because the issur is only a safek, and the goal is to remove whey rather than nullify issur.",
+        "B": "Because butter is a solid, and intentional nullification applies only to liquids.",
+        "C": "Because all rabbinic prohibitions may be nullified intentionally l'chatchilah.",
+        "D": "Because the non-Jew performs the cooking, so the Jew is not responsible."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 115, Seif 3",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Shach quotes Toras Chatas, who gives two answers. First, this is only a possible prohibition, so the usual rule against intentional nullification is less direct. Second, the purpose of cooking is to remove the whey or milk droplets, even kosher ones, not to nullify forbidden milk.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The solid/liquid distinction is not the answer given.",
+        "C": "One may not generally nullify rabbinic prohibitions intentionally l'chatchilah.",
+        "D": "Rama permits even l'chatchilah cooking, and Shach explains why the act itself is not prohibited."
+      }
+    },
+    {
+      "id": "siman_115_seif_3-part-2-q005",
+      "question": "What is the practical halachah about butter nowadays?",
+      "options": {
+        "A": "It never needs certification because the old butter concerns no longer exist.",
+        "B": "It needs kosher certification because additives and added milk can create other issues.",
+        "C": "It is permitted only if brought from a place where butter is forbidden.",
+        "D": "It is forbidden everywhere because all butter follows the Geonim."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 115, Seif 3",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The source concludes that nowadays butter may contain additives such as flavorings, preservatives, or added milk. Therefore, aside from the old chem'as aku\"m discussion, there can be other kashrus issues, and butter requires reliable kosher certification.",
+        "A": "The source specifically says modern additives create a need for certification.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Origin from a permitted place may matter for old minhag cases, but it is not the modern practical rule.",
+        "D": "The source does not say all communities follow the Geonim; it ends with the need for certification because of practical ingredients."
+      }
+    }
+  ]
+}

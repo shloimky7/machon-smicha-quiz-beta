@@ -1,0 +1,425 @@
+{
+  "id": "siman_107_seif_2-part-2",
+  "title": "Siman 107 - Seif 2",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 18,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 107",
+  "questions": [
+    {
+      "id": "siman_107_seif_2-part-2-q001",
+      "question": "What does Mechaber rule about a fly found in a cooked dish?",
+      "options": {
+        "A": "The spoon and pot always become assur.",
+        "B": "The whole dish is assur unless there is one hundred times the fly.",
+        "C": "The dish is permitted only if the fly stayed whole.",
+        "D": "The fly is thrown out and the dish is mutar."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 107, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that a fly or similar disgusting thing found in a cooked dish should be thrown out, and the dish remains permitted. The reason is that the exuded taste of such disgusting items is pagum and does not forbid the food.",
+        "A": "Mechaber and Rama do not forbid the spoon or pot from a fly's pagum taste.",
+        "B": "Mechaber does not require one hundred times the fly.",
+        "C": "The ruling is based on pagum taste, not only wholeness.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_107_seif_2-part-2-q002",
+      "question": "What kind of item is Mechaber discussing in Seif 2?",
+      "options": {
+        "A": "A food that is served at royal tables.",
+        "B": "A disgusting thing that people are repulsed by.",
+        "C": "A utensil that absorbed milk and meat.",
+        "D": "A dry piece fit to honor guests."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 107, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber describes a fly or similar disgusting thing, meaning something that a person's soul recoils from eating. Because these items are inherently repulsive, their taste is treated as pagum in the cooked dish.",
+        "A": "Being fit for royal tables would point away from p'gam.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The seif discusses disgusting creatures in food, not a utensil case.",
+        "D": "Chaha'l is not the category in Seif 2."
+      }
+    },
+    {
+      "id": "siman_107_seif_2-part-2-q003",
+      "question": "What minhag does Rama report about flies and similar disgusting things?",
+      "options": {
+        "A": "The widespread minhag is to forbid every such dish.",
+        "B": "The widespread minhag is to follow the lenient view.",
+        "C": "The minhag is to require sixty against the whole pot.",
+        "D": "The minhag is to wait twenty-four hours before eating."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 107, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama writes that the widespread minhag is to be lenient, even though some authorities are strict. He says the words of the lenient authorities are primary and that one should not change the minhag.",
+        "A": "Rama says the widespread minhag is lenient, not strict.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Rama does not make sixty against the whole pot the minhag here.",
+        "D": "Waiting twenty-four hours is not the minhag in this seif."
+      }
+    },
+    {
+      "id": "siman_107_seif_2-part-2-q004",
+      "question": "Why does the fly not forbid the dish according to Mechaber and Rama?",
+      "options": {
+        "A": "It becomes kosher through cooking.",
+        "B": "It is always smaller than a k'zayis.",
+        "C": "It is batul only because it remains alive.",
+        "D": "Its exuded taste is pagum."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 107, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber and Rama permit the dish because disgusting creatures such as flies give a ruined taste. Nosen ta'am l'fgam does not forbid the cooked dish, so the fly is removed and the food remains permitted.",
+        "A": "Cooking does not make a forbidden creature kosher.",
+        "B": "The ruling is about ruined taste, not the size of a k'zayis.",
+        "C": "The fly is found in a cooked dish, not treated as alive.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_107_seif_2-part-2-q005",
+      "question": "How does Shach rule about a fly's effect on the pot and spoon?",
+      "options": {
+        "A": "He forbids only if the fly is found in fish.",
+        "B": "He is lenient because every fly is batul b'rov.",
+        "C": "He permits the spoon but forbids the pot.",
+        "D": "He is strict because many poskim forbid the fly's taste."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 107, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Shach maintains that since many poskim are strict about a fly's taste, both the spoon and pot become assur. However, he rules leniently in a case of hefsed merubah or sha'as hadchak, which shows his basic concern but also his practical exception.",
+        "A": "His concern is not limited to fish.",
+        "B": "Shach's concern is not resolved by a general rov statement.",
+        "C": "The source says Shach is strict about both spoon and pot.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_107_seif_2-part-2-q006",
+      "question": "When does Shach allow leniency regarding a fly's effect on utensils?",
+      "options": {
+        "A": "Only when the fly was first dried in the sun.",
+        "B": "Only when the utensil is made of metal.",
+        "C": "In hefsed merubah or sha'as hadchak.",
+        "D": "Whenever the pot contains any amount of liquid."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 107, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Although Shach is basically strict because many poskim forbid the fly's taste, the source says he rules leniently in hefsed merubah or sha'as hadchak. These situations allow reliance on the lenient approach that the fly is nosen ta'am l'fgam.",
+        "A": "Drying in the sun is not mentioned as a condition.",
+        "B": "The leniency is not limited to metal utensils.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The presence of liquid alone is not Shach's condition."
+      }
+    },
+    {
+      "id": "siman_107_seif_2-part-2-q007",
+      "question": "What does Shach say about animals that fall into vinegar or beer?",
+      "options": {
+        "A": "They are forbidden only if the pot lacks rov.",
+        "B": "They are always nosen ta'am l'fgam like a fly.",
+        "C": "They are permitted if removed with a spoon.",
+        "D": "They are assumed to be nosen ta'am l'shvach."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 107, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Shach concludes that vinegar and beer are more stringent. In those liquids, any animal that falls in is assumed to be nosen ta'am l'shvach, so the usual leniency for disgusting items as pagum cannot simply be applied.",
+        "A": "The issue is taste improvement and shishim, not merely rov.",
+        "B": "Shach specifically treats vinegar and beer more strictly.",
+        "C": "Removal with a spoon does not solve a l'shvach taste concern.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_107_seif_2-part-2-q008",
+      "question": "What does Rama say if someone used a spoon to remove non-kosher fish from a pot?",
+      "options": {
+        "A": "The spoon may be returned to the pot immediately.",
+        "B": "The spoon may not be put back into the pot.",
+        "C": "The spoon is permitted because fish are always pagum.",
+        "D": "The spoon needs only rinsing before returning."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 107, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama rules that if a spoon removed a non-kosher fish, or another issur that is not pagum, the spoon may not be returned to the pot. The spoon may have absorbed issur taste from what it removed.",
+        "A": "Rama explicitly forbids returning the spoon.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Non-kosher fish is treated as not pogem in this ruling.",
+        "D": "Rinsing alone does not address absorbed hot taste."
+      }
+    },
+    {
+      "id": "siman_107_seif_2-part-2-q009",
+      "question": "If that spoon was put back into the pot, what does Rama require?",
+      "options": {
+        "A": "Only rinsing of the spoon and pot.",
+        "B": "Sixty against the whole spoon in every case.",
+        "C": "Only a majority against the issur.",
+        "D": "Sixty against the issur, not against the whole spoon."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 107, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama rules that if the spoon was returned to the pot, the pot needs sixty against the issur that was on the spoon, but not against the entire spoon. This assumes the spoon is new or does not contain previous belios that would create a broader calculation.",
+        "A": "Rinsing is not enough once the hot spoon was returned.",
+        "B": "That is Shach's stricter position in some cases, not Rama's basic ruling.",
+        "C": "Rama requires shishim, not just rov.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_107_seif_2-part-2-q010",
+      "question": "What if some heter food was on the spoon together with the issur and the spoon was returned?",
+      "options": {
+        "A": "The pot needs sixty against only the spoon handle.",
+        "B": "The pot needs only rov because the heter food protects the spoon.",
+        "C": "The pot is permitted because heter food cannot become assur on a spoon.",
+        "D": "The pot needs sixty against the issur and the heter food that became chana'n."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 107, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama says that if a little heter food was on the spoon together with the issur and the spoon was returned to the pot, the pot needs sixty against the issur plus that food. The reason is that the heter food in the spoon became chana'n while together with the issur.",
+        "A": "The handle is not the measurement discussed.",
+        "B": "Rama requires sixty against the enlarged forbidden amount.",
+        "C": "Rama says the heter food can become chana'n on the spoon.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_107_seif_2-part-2-q011",
+      "question": "Why does Rama not require sixty against the whole spoon in his basic case?",
+      "options": {
+        "A": "Because only ceramic spoons require any bitul calculation.",
+        "B": "Because a spoon cannot absorb from issur removed from a pot.",
+        "C": "Because wooden and metal spoons are always kosher after use.",
+        "D": "Because the spoon is treated as new or pareve and has no prior belios to become chana'n."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 107, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Shach explains Rama as speaking about a new or pareve wooden or metal spoon, which has no previous belios that could become chana'n. Therefore, Rama measures against the issur removed with the spoon, not against the spoon's full volume.",
+        "A": "Rama's basic case is not limited to ceramic spoons.",
+        "B": "Rama's concern assumes the spoon can absorb from the issur.",
+        "C": "Wooden and metal spoons can absorb; the point is the lack of prior belios.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_107_seif_2-part-2-q012",
+      "question": "When would Rama require sixty against the spoon's full volume according to Shach's explanation?",
+      "options": {
+        "A": "Only if the spoon touched a fly.",
+        "B": "If the spoon is old, or even a new cheres spoon according to Rama.",
+        "C": "Only if the spoon was used after twenty-four hours.",
+        "D": "If the spoon removed only liquid and no solid food."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 107, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Shach explains that Rama's lenient measurement applies to a new or pareve wooden or metal spoon. If the spoon is old and has prior belios, or even if it is a new cheres spoon according to Rama, then the pot must have sixty against the spoon's volume.",
+        "A": "A fly is pagum according to Mechaber and Rama; this question is about non-pagum issur.",
+        "B": "Correct option; see the main explanation.",
+        "C": "After twenty-four hours would generally weaken the fresh-taste concern.",
+        "D": "The stated condition is the spoon's prior absorption status, not liquid versus solid removal."
+      }
+    },
+    {
+      "id": "siman_107_seif_2-part-2-q013",
+      "question": "How does Shach argue with Rama about returning the spoon to the pot?",
+      "options": {
+        "A": "He requires sixty against the entire spoon because we do not know how much it absorbed.",
+        "B": "He permits the spoon because lo machzakinan issura applies.",
+        "C": "He requires only rov against the issur because the spoon is secondary.",
+        "D": "He forbids only the spoon but always permits the pot."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 107, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Shach argues that the pot should need sixty against the spoon's entire volume, based on lo yadinan kama bala: we do not know how much issur or chana'n was absorbed into the spoon. Since the amount is unknown, Shach requires measuring against the whole spoon.",
+        "A": "Correct option; see the main explanation.",
+        "B": "That is a different leniency used in Seif 1, not Shach's spoon ruling.",
+        "C": "Shach is stricter than Rama and requires shishim against more, not less.",
+        "D": "Shach is concerned the spoon can forbid the pot."
+      }
+    },
+    {
+      "id": "siman_107_seif_2-part-2-q014",
+      "question": "What practical method does Psakim U'teshuvos suggest for removing issur from a pot?",
+      "options": {
+        "A": "Use a toothpick or disposable utensil and throw it away.",
+        "B": "Use the regular cooking spoon and return it at once.",
+        "C": "Tilt the pot until the issur touches the wall.",
+        "D": "Add cold water before removing the issur."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 107, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Psakim U'teshuvos recommends removing the issur with a toothpick or other disposable utensil that can then be thrown out. This avoids creating a kashrus issue for a regular kosher utensil.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Returning the regular spoon is exactly the concern Rama discusses.",
+        "C": "He also warns to avoid letting the issur touch the pot walls.",
+        "D": "Cold water is not the suggested method in this practical note."
+      }
+    },
+    {
+      "id": "siman_107_seif_2-part-2-q015",
+      "question": "What extra care does Psakim U'teshuvos mention when removing issur?",
+      "options": {
+        "A": "Make sure the issur does not touch the pot's walls.",
+        "B": "Make sure the issur remains under the liquid for twenty-four hours.",
+        "C": "Make sure the spoon is made specifically of cheres.",
+        "D": "Make sure the pot is drained before removal."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 107, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "In addition to using a disposable utensil, Psakim U'teshuvos says to make sure that the issur does not touch the pot's walls while being removed. This prevents the issur from directly affecting the kosher pot.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Keeping it there longer would increase, not reduce, the concern.",
+        "C": "A cheres spoon can create more problems, not fewer.",
+        "D": "Draining first is one of the concerns in Seif 1."
+      }
+    },
+    {
+      "id": "siman_107_seif_2-part-2-q016",
+      "question": "What if a fly is removed with a spoon according to Mechaber and Rama?",
+      "options": {
+        "A": "The spoon is not forbidden because the fly is nosen ta'am l'fgam.",
+        "B": "The spoon requires sixty against its full volume.",
+        "C": "The pot becomes assur unless it contains rov.",
+        "D": "The fly becomes permitted through the spoon."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 107, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber and Rama hold that a fly is nosen ta'am l'fgam, so it cannot forbid a pot or spoon used to remove it, even if the pot or spoon does not contain sixty times the fly. Shach is stricter but allows leniency under pressure or great loss.",
+        "A": "Correct option; see the main explanation.",
+        "B": "That is not Mechaber and Rama's ruling for a pagum fly.",
+        "C": "Their ruling does not require rov for the pot.",
+        "D": "The fly itself remains forbidden and is discarded."
+      }
+    },
+    {
+      "id": "siman_107_seif_2-part-2-q017",
+      "question": "When Rama requires sixty against both issur and some heter on the spoon, what principle explains the added heter amount?",
+      "options": {
+        "A": "Nosen ta'am l'fgam.",
+        "B": "Kavush k'mevushal.",
+        "C": "Chatichah na'aseis neveilah.",
+        "D": "Davar sheyesh lo matirin."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 107, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama says that if some heter food was on the spoon with the issur, that heter food became neveilah, meaning chana'n. Therefore, the pot must have sixty not only against the original issur but also against the heter food that became forbidden with it.",
+        "A": "The case is an issur that is not pogem.",
+        "B": "This is hot spoon contact, not twenty-four-hour soaking.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The heter food is not something that will later become permitted."
+      }
+    },
+    {
+      "id": "siman_107_seif_2-part-2-q018",
+      "question": "What is the basic difference between removing a fly and removing non-kosher fish with a spoon?",
+      "options": {
+        "A": "A fly is treated as pagum, while non-kosher fish is not.",
+        "B": "A fly is always larger than a fish.",
+        "C": "Fish are removed only from cold pots.",
+        "D": "A fly requires sixty-one, while fish require sixty."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 107, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The source distinguishes a fly and similar disgusting items from non-kosher fish or other non-pagum issur. A fly's taste is treated as nosen ta'am l'fgam by Mechaber and Rama, so it does not forbid the spoon or pot, while non-kosher fish removed with a spoon creates a real issur-transfer concern.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Size is not the distinction.",
+        "C": "The spoon case concerns a hot pot.",
+        "D": "Sixty-one is mentioned for eggs earlier, not as the fly-versus-fish distinction."
+      }
+    }
+  ]
+}

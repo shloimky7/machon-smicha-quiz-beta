@@ -1,0 +1,701 @@
+{
+  "id": "siman_100_introduction_and_seifim_1_2-part-1",
+  "title": "Siman 100 - Introduction and Seifim 1-2",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 30,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 100",
+  "questions": [
+    {
+      "id": "siman_100_introduction_and_seifim_1_2-part-1-q001",
+      "question": "What is the main topic of Siman 100?",
+      "options": {
+        "A": "The rule that a beriah is not batul even in a very large mixture.",
+        "B": "The rule that every issur becomes batul once there is simple majority.",
+        "C": "The rule that all absorbed taste in keilim is always permitted.",
+        "D": "The rule that chametz on Pesach is batul through shishim."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 100, Introduction",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The siman is about beriah, a whole creature or comparable complete entity that Chazal treated as significant. Because of that significance, a beriah is not nullified even in a mixture that contains far more than sixty or even a thousand times its volume, as long as it retains beriah status.",
+        "A": "Correct option; see the main explanation.",
+        "B": "A beriah is specifically an exception to ordinary bitul by majority.",
+        "C": "Keili absorption is not the focus of this siman.",
+        "D": "Chametz on Pesach is a separate exceptional bitul topic."
+      }
+    },
+    {
+      "id": "siman_100_introduction_and_seifim_1_2-part-1-q002",
+      "question": "What do Simanim 100-102 discuss after the basic rules of bitul in Simanim 98-99?",
+      "options": {
+        "A": "Only cases where issur taste is always permitted.",
+        "B": "Stringent exceptions that are not batul even in large mixtures.",
+        "C": "Only mixtures that require a non-Jewish taste test.",
+        "D": "Lenient cases where shishim is never necessary."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 100, Introduction",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "After Simanim 98-99 explain the core rules of ta'aruvos and bitul, Simanim 100-102 move to special exceptions. These are cases where an item is halachically significant and therefore is not batul even when ordinary issur would have been nullified by majority or shishim.",
+        "A": "These simanim are stringent exceptions, not blanket leniencies.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Taste testing is not the organizing topic of Simanim 100-102.",
+        "D": "The simanim explain cases where ordinary bitul may fail, not where it is unnecessary."
+      }
+    },
+    {
+      "id": "siman_100_introduction_and_seifim_1_2-part-1-q003",
+      "question": "How are Simanim 100, 101, and 102 divided by topic?",
+      "options": {
+        "A": "Siman 100 is melichah, Siman 101 is hag'alah, and Siman 102 is tevillas keilim.",
+        "B": "Siman 100 is chametz, Siman 101 is yayin nesech, and Siman 102 is basar b'chalav.",
+        "C": "Siman 100 is beriah, Siman 101 is chatichah har'uyah l'hischabed, and Siman 102 is davar sheyesh lo matirin.",
+        "D": "Siman 100 is min b'mino, Siman 101 is min b'she'eino mino, and Siman 102 is nosen ta'am lifgam."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 100, Introduction",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The introduction says that Siman 100 discusses beriah, Siman 101 discusses chatichah har'uyah l'hischabed, and Siman 102 discusses davar sheyesh lo matirin. These are all exceptions to ordinary bitul, but each has its own reason and rules.",
+        "A": "Those topics belong to other areas of Yoreh Deah, not this three-siman structure.",
+        "B": "Those are important issurim, but not the stated division here.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Those are general ta'aruvos categories, not the special significant-item topics."
+      }
+    },
+    {
+      "id": "siman_100_introduction_and_seifim_1_2-part-1-q004",
+      "question": "Why did Chachamim treat a beriah as a significant item?",
+      "options": {
+        "A": "Because every whole creature has a pleasant taste.",
+        "B": "Because every creature is larger than a k'zayis.",
+        "C": "Because it can always be removed from any mixture.",
+        "D": "Because the Torah gives importance to eating a whole forbidden creature."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 100, Introduction",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source explains that one who eats a whole forbidden creature, such as an ant, can transgress a complete Torah prohibition even though it is smaller than the normal shiur for punishment. Since the Torah gives special importance to the whole creature, Chachamim treated beriah as a davar chashuv that is not batul.",
+        "A": "A beriah may even be disgusting; taste is not the source of its significance.",
+        "B": "The point is that even a tiny whole creature can be significant.",
+        "C": "The rule applies even when the beriah is lost and cannot be removed.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_100_introduction_and_seifim_1_2-part-1-q005",
+      "question": "What happens to beriah status once the creature is no longer in its original whole form?",
+      "options": {
+        "A": "It loses beriah status and is treated like ordinary issur.",
+        "B": "It becomes more significant and is never batul under any rule.",
+        "C": "It becomes permitted without needing any bitul.",
+        "D": "It becomes a davar sheyesh lo matirin."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 100, Introduction",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The stringency of beriah depends on the item matching the Torah's description of eating a whole creature or complete entity. Once it is crushed, missing a limb, or no longer in its original complete form, it loses beriah status and is treated under ordinary issur and bitul rules.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The source says the opposite: loss of whole form removes the beriah status.",
+        "C": "Losing beriah status does not automatically permit the issur; it may still need bitul.",
+        "D": "Davar sheyesh lo matirin is a different special category."
+      }
+    },
+    {
+      "id": "siman_100_introduction_and_seifim_1_2-part-1-q006",
+      "question": "What is the halachic level of the rule that a beriah is not batul?",
+      "options": {
+        "A": "It is a rabbinic rule based on the significance of a whole creature.",
+        "B": "It is a custom that applies only after cooking.",
+        "C": "It is a Torah rule that applies only to insects.",
+        "D": "It is a rule that applies only when a non-Jew can taste it."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 100, Introduction",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The Rishonim understand that the rule that a beriah is not batul is mid'rabbanan. Chachamim made this decree because the Torah assigns importance to a whole forbidden creature by making one liable for eating it even when it is very small.",
+        "A": "Correct option; see the main explanation.",
+        "B": "It is a formal din of Chazal, not merely a custom after cooking.",
+        "C": "The source says the non-bitul rule itself is rabbinic, though its basis is Torah significance.",
+        "D": "The beriah rule is not dependent on a taste test."
+      }
+    },
+    {
+      "id": "siman_100_introduction_and_seifim_1_2-part-1-q007",
+      "question": "What is the first condition for an item to have beriah status?",
+      "options": {
+        "A": "It must have been alive or part of a living creature.",
+        "B": "It must have been cooked in a pot with broth.",
+        "C": "It must have a naturally pleasant taste.",
+        "D": "It must be larger than a k'zayis."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 100, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber's first condition is that the item must be a brias neshama, something that had life or was part of a living creature. This includes examples such as an ant, a non-kosher bird, gid hanasheh, and eiver min hachai, while excluding forbidden plant items such as a wheat kernel.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Cooking is not one of the defining conditions for beriah.",
+        "C": "A beriah can be disgusting and still retain beriah status.",
+        "D": "A beriah may be smaller than a k'zayis and still be significant."
+      }
+    },
+    {
+      "id": "siman_100_introduction_and_seifim_1_2-part-1-q008",
+      "question": "Which type of item is excluded because it never had life?",
+      "options": {
+        "A": "A whole non-kosher bird.",
+        "B": "A complete ant.",
+        "C": "A complete gid hanasheh.",
+        "D": "A forbidden wheat kernel."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 100, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber excludes an issur wheat kernel because it was not a living creature and was not part of one. Even if it is complete and forbidden, it lacks the first condition of beriah, namely that the item must have had life.",
+        "A": "A non-kosher bird did have life and can be a beriah if the other conditions are met.",
+        "B": "An ant is the classic example of a beriah.",
+        "C": "Gid hanasheh is treated as part of a living animal for this requirement.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_100_introduction_and_seifim_1_2-part-1-q009",
+      "question": "What does assur mitchilas briyaso mean for beriah status?",
+      "options": {
+        "A": "The item must be forbidden only after it is cooked.",
+        "B": "The item must be inherently forbidden from the beginning of its creation.",
+        "C": "The item must become forbidden only after shechitah is invalid.",
+        "D": "The item must be forbidden only because it absorbed taste."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 100, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "A beriah must be assur mitchilas briyaso, meaning that its forbidden status existed from the beginning of its creation or halachic identity. This excludes an animal that began kosher and only later became assur, such as neveilah or treifah.",
+        "A": "That would be later prohibition, not from the beginning.",
+        "B": "Correct option; see the main explanation.",
+        "C": "A neveilah is specifically excluded because it became assur later.",
+        "D": "Absorbed taste is not the kind of inherent issur needed for beriah status."
+      }
+    },
+    {
+      "id": "siman_100_introduction_and_seifim_1_2-part-1-q010",
+      "question": "Why is cheilev not considered a beriah even though it is always forbidden?",
+      "options": {
+        "A": "Because cheilev is always permitted if cooked with meat.",
+        "B": "Because cheilev was never part of a living animal.",
+        "C": "Because cheilev keeps its name even after being cut.",
+        "D": "Because cheilev has no taste in a mixture."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 100, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rosh explains that a beriah must be an entity that loses its original name when cut. A bird's leg, for example, is no longer called a bird once severed. Cheilev, however, is called cheilev whether whole or cut, so it lacks this condition and is not treated as a beriah.",
+        "A": "Cheilev remains a serious issur and is not permitted merely through cooking.",
+        "B": "Cheilev was part of an animal, but it fails the name-change condition.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Cheilev can certainly give forbidden taste; that is not why it is excluded."
+      }
+    },
+    {
+      "id": "siman_100_introduction_and_seifim_1_2-part-1-q011",
+      "question": "What happens if an animal is crushed but no limb is missing?",
+      "options": {
+        "A": "It is still a beriah because all limbs remain present.",
+        "B": "It loses beriah status because it no longer has its complete form.",
+        "C": "It becomes a chatichah har'uyah l'hischabed.",
+        "D": "It becomes permitted because it is no longer recognizable."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 100, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber's fourth condition is that the beriah must be complete. The source explains that a crushed animal has lost its form and therefore is not considered complete, even if no limb is actually missing. It may still be issur, but not with the special beriah status.",
+        "A": "Completeness requires retaining form, not merely possessing all parts.",
+        "B": "Correct option; see the main explanation.",
+        "C": "A crushed creature does not thereby become a serving-worthy piece.",
+        "D": "Loss of beriah status does not automatically permit the forbidden item."
+      }
+    },
+    {
+      "id": "siman_100_introduction_and_seifim_1_2-part-1-q012",
+      "question": "Which of the following is one of Mechaber's examples of a beriah?",
+      "options": {
+        "A": "A complete ant.",
+        "B": "A cut piece of cheilev.",
+        "C": "A forbidden wheat kernel.",
+        "D": "A kosher bird that became neveilah."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 100, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber lists examples such as an ant, a non-kosher bird, gid hanasheh, eiver min hachai, and an egg with a chick inside. A complete ant is the classic example because it is a whole living creature that was inherently forbidden.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Cheilev is not a beriah because it remains called cheilev even when cut.",
+        "C": "A wheat kernel lacks the condition of being something that had life.",
+        "D": "A kosher bird that became neveilah is excluded because it was not assur from the beginning."
+      }
+    },
+    {
+      "id": "siman_100_introduction_and_seifim_1_2-part-1-q013",
+      "question": "How does Taz rule in a doubt whether a non-kosher food is a beriah?",
+      "options": {
+        "A": "One must be strict because every doubt in beriah is Torah-level.",
+        "B": "One must ask a non-Jew to taste the mixture.",
+        "C": "One must wait until the food becomes nosen ta'am lifgam.",
+        "D": "One may be lenient because the non-bitul rule of beriah is rabbinic."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 100, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Taz notes that the rule that a beriah is not batul is mid'rabbanan. Therefore, when the doubt is whether this item qualifies as a beriah at all, the doubt is a safeik d'rabbanan and one may be lenient not to give it beriah status.",
+        "A": "The source distinguishes this from a Torah-level doubt about whether a known beriah is forbidden.",
+        "B": "Taste testing does not answer whether the object has beriah status.",
+        "C": "Waiting for pagum taste is not Taz's rule for a safeik beriah.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_100_introduction_and_seifim_1_2-part-1-q014",
+      "question": "What if the item is certainly a beriah, but there is a doubt whether it is forbidden mid'oraisa?",
+      "options": {
+        "A": "It is automatically permitted because beriah is always rabbinic.",
+        "B": "It is treated stringently because the doubt concerns a Torah prohibition.",
+        "C": "It is permitted if there are three other pieces in the mixture.",
+        "D": "It is ignored unless it gives pleasant taste to the food."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 100, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The source distinguishes between a doubt about beriah status and a doubt about the item's Torah prohibition. If the object is certainly a beriah and the question is whether it is assur mid'oraisa, the principle of safeik d'oraisa l'chumra applies, so one must be stringent.",
+        "A": "The non-bitul rule is rabbinic, but the underlying issur may be Torah-level.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Three pieces do not solve a known beriah concern.",
+        "D": "The beriah itself is significant even apart from taste."
+      }
+    },
+    {
+      "id": "siman_100_introduction_and_seifim_1_2-part-1-q015",
+      "question": "How does Shach treat an egg with a blood spot regarding beriah status?",
+      "options": {
+        "A": "He treats it exactly like an egg with a chick.",
+        "B": "He says it is a beriah only if it is larger than a k'zayis.",
+        "C": "He says it is not a beriah because it lacks the living-creature condition.",
+        "D": "He says it is a beriah only when cooked together with meat."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 100, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber lists an egg with a chick as a beriah, but Beis Yosef left the blood-spot case unresolved. Shach asserts that an egg with a blood spot is not a beriah because it does not meet the first condition of being a living creature, and he infers this from Mechaber not listing it.",
+        "A": "Shach distinguishes it from an egg with a chick.",
+        "B": "Size is not Shach's reason for excluding it.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Cooking with meat does not create beriah status."
+      }
+    },
+    {
+      "id": "siman_100_introduction_and_seifim_1_2-part-1-q016",
+      "question": "How does Taz qualify Rama's measure for a complete gid hanasheh?",
+      "options": {
+        "A": "The four-finger measure applies to every animal equally.",
+        "B": "The gid hanasheh is never a beriah in any animal.",
+        "C": "The measure is always one fingerbreadth regardless of size.",
+        "D": "The size varies; four fingers fits a large ox, while a large sheep is about two fingers."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 100, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama states that the primary gid hanasheh that can be a beriah is four fingerbreadths wide. Taz explains that this measure is for a large animal such as a large ox, but the actual size varies by animal; in a large sheep, the relevant gid may be only about two fingerbreadths.",
+        "A": "Taz specifically says the measure is not identical for every animal.",
+        "B": "Rama says a complete gid can be considered a beriah.",
+        "C": "Taz does not reduce every animal's gid to one fingerbreadth.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_100_introduction_and_seifim_1_2-part-1-q017",
+      "question": "If a beriah was cooked with heter and cannot be identified, what happens to the solid pieces?",
+      "options": {
+        "A": "All the solid pieces are assur.",
+        "B": "All the solid pieces are permitted through majority.",
+        "C": "Only the smallest solid piece is assur.",
+        "D": "Only the broth is assur, but the pieces are mutar."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 100, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that when a beriah is cooked with heter and becomes unidentifiable among the solid pieces, all the solid pieces are forbidden. Since the beriah itself is not batul, any piece that might be the beriah remains a problem.",
+        "A": "Correct option; see the main explanation.",
+        "B": "A beriah is specifically not batul through ordinary majority.",
+        "C": "There is no basis to isolate only the smallest piece as the beriah.",
+        "D": "Mechaber forbids the solid pieces; the broth is judged separately by taste."
+      }
+    },
+    {
+      "id": "siman_100_introduction_and_seifim_1_2-part-1-q018",
+      "question": "How is the broth judged when an unidentifiable beriah was cooked with heter?",
+      "options": {
+        "A": "The broth is always forbidden because a beriah is never batul.",
+        "B": "The broth is always permitted because liquids cannot receive beriah status.",
+        "C": "The broth depends on whether the beriah gave forbidden taste into it.",
+        "D": "The broth is permitted only after three days have passed."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 100, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber distinguishes the beriah itself from its taste. When the beriah is lost among solid pieces, the solid pieces are assur because one might eat the beriah. The broth, however, is forbidden only if the beriah gave forbidden taste into it; if there is no forbidden taste, the broth can be permitted.",
+        "A": "The beriah itself is not batul, but its exuded taste is judged by ordinary taste rules.",
+        "B": "The broth can be forbidden if it received forbidden taste.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Waiting three days is unrelated to this broth rule."
+      }
+    },
+    {
+      "id": "siman_100_introduction_and_seifim_1_2-part-1-q019",
+      "question": "If the beriah is identifiable after cooking, what must be done?",
+      "options": {
+        "A": "It must be left in the pot until it dissolves.",
+        "B": "It must be removed, and the rest needs shishim against it.",
+        "C": "It must be sold to a non-Jew with all the heter.",
+        "D": "It must be counted as heter because it is recognizable."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 100, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "When the beriah is identifiable, Mechaber rules that it must be discarded. The remaining pieces and broth are permitted only if together they have sixty times the beriah, because its taste may have entered the rest of the food.",
+        "A": "One must remove the identifiable beriah, not wait for it to dissolve.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The source gives a path to permit the rest through removal and shishim.",
+        "D": "Recognizability makes removal possible; it does not turn issur into heter."
+      }
+    },
+    {
+      "id": "siman_100_introduction_and_seifim_1_2-part-1-q020",
+      "question": "Why is gid hanasheh different from other beriah cases regarding taste?",
+      "options": {
+        "A": "Because gid hanasheh is permitted after cooking.",
+        "B": "Because gid hanasheh is not an issur from the Torah.",
+        "C": "Because nerves and sinews have no forbidden taste to transfer.",
+        "D": "Because gid hanasheh is always larger than shishim."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 100, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber writes that gid hanasheh is an exception because giddin do not give taste. Therefore, the gid itself must be removed if identifiable, but its flavor does not prohibit the rest of the food. The fat around the gid is different and can require shishim because it does give taste.",
+        "A": "The gid itself remains forbidden and must not be eaten.",
+        "B": "Gid hanasheh is a Torah prohibition.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Its size is not the reason; its lack of taste is."
+      }
+    },
+    {
+      "id": "siman_100_introduction_and_seifim_1_2-part-1-q021",
+      "question": "If a thigh was cooked with its gid hanasheh and the gid is identifiable, what does Mechaber require?",
+      "options": {
+        "A": "The gid is discarded, and the rest needs shishim against the gid's fat.",
+        "B": "The entire thigh is always forbidden even with shishim.",
+        "C": "The gid may remain because it has no taste.",
+        "D": "The pot is permitted only through a simple majority."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 100, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that if the gid hanasheh can be identified, it is removed. The rest of the dish is permitted if there is shishim against the fat of the gid, since the gid itself does not transfer taste but its fat does.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Mechaber gives a lenient path when the gid is removed and there is shishim against the fat.",
+        "C": "Even though the gid has no taste, it is still forbidden and must be removed.",
+        "D": "The fat that gives taste requires shishim, not a simple majority."
+      }
+    },
+    {
+      "id": "siman_100_introduction_and_seifim_1_2-part-1-q022",
+      "question": "What does Mechaber require if the gid hanasheh liquefies into the mixture?",
+      "options": {
+        "A": "No bitul is needed because the gid has no taste.",
+        "B": "Only bitul b'rov is needed in every case.",
+        "C": "The mixture is forbidden even with shishim.",
+        "D": "The mixture needs shishim against the gid."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 100, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that if the gid liquefies and is no longer recognizable, the mixture needs sixty times the gid. Although the gid does not transfer normal taste, the gid substance itself is now present in the mixture and must be nullified.",
+        "A": "Mechaber still requires bitul because the gid itself dissolved into the food.",
+        "B": "Rashba's lenient view is cited by Taz for doubt, but it is not Mechaber's rule.",
+        "C": "Mechaber permits the mixture if it has shishim against the dissolved gid.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_100_introduction_and_seifim_1_2-part-1-q023",
+      "question": "How does a disgusting beriah differ from ordinary nosen ta'am lifgam?",
+      "options": {
+        "A": "It becomes permitted because all bad taste is ignored.",
+        "B": "It is forbidden as a whole beriah even if its taste is disgusting.",
+        "C": "It forbids other foods even when it gives only ruined taste.",
+        "D": "It is treated as cheilev because both are always forbidden."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 100, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Ordinarily, ruined taste does not prohibit a mixture. But the source explains that a disgusting whole beriah, such as an ant or fly, remains forbidden as a beriah and one transgresses by eating it while it is whole. Its significance as a whole creature remains even though its taste is unpleasant.",
+        "A": "The whole beriah itself remains forbidden despite the bad taste.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Shach says its exuded taste forbids other foods only if the taste is beneficial.",
+        "D": "Cheilev is specifically excluded from beriah status for a different reason."
+      }
+    },
+    {
+      "id": "siman_100_introduction_and_seifim_1_2-part-1-q024",
+      "question": "According to Shach, what if a disgusting beriah is removed from a mixture and gave only ruined taste?",
+      "options": {
+        "A": "The mixture is forbidden unless there is shishim against the beriah.",
+        "B": "The mixture is forbidden because a beriah is never batul.",
+        "C": "The mixture is permitted only if the beriah was a gid hanasheh.",
+        "D": "The mixture is permitted even without shishim against that taste."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 100, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Shach distinguishes between eating the beriah itself and the taste it exudes. The whole beriah remains forbidden, but if it gives only disgusting, ruined taste into the mixture and is then removed, that taste does not prohibit the food. Therefore the mixture can be permitted even without shishim against the beriah's volume.",
+        "A": "Shach says shishim is unnecessary when the only transferred taste is ruined.",
+        "B": "The beriah itself is not batul, but it has been removed from the mixture.",
+        "C": "Shach's point applies to disgusting berios generally, not only gid hanasheh.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_100_introduction_and_seifim_1_2-part-1-q025",
+      "question": "How does Aruch Hashulchan explain a beriah that disintegrated?",
+      "options": {
+        "A": "It stays a beriah because every piece came from a whole creature.",
+        "B": "It becomes a davar sheyesh lo matirin after losing its form.",
+        "C": "It becomes permitted because disintegration removes all issur.",
+        "D": "It loses davar chashuv status and then follows nosen ta'am lifgam rules."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 100, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Aruch Hashulchan explains that the Torah-level significance of the disgusting beriah exists only while it is whole and retains davar chashuv status. Once it disintegrates, it no longer has beriah status; at that point, if its taste is ruined, it is judged under ordinary nosen ta'am lifgam principles.",
+        "A": "The source says disintegration removes the whole-beriah status.",
+        "B": "Losing form does not create davar sheyesh lo matirin.",
+        "C": "It may still be issur substance, but it no longer has the special beriah status.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_100_introduction_and_seifim_1_2-part-1-q026",
+      "question": "What does Rama say about a whole rabbit that was originally tasty and later spoiled?",
+      "options": {
+        "A": "It is treated as if it had been nosen ta'am l'shvach, since it began as tasty food.",
+        "B": "It loses all issur because its taste later became ruined.",
+        "C": "It is treated like gid hanasheh because both are flavorless.",
+        "D": "It is batul b'rov because no spoiled food can be a beriah."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 100, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Rama clarifies that if the beriah began as a tasty food and only later became disgusting, such as a whole cooked rabbit that spoiled, it is treated as nosen ta'am l'shvach for this discussion. Its original edible, pleasant status prevents treating it like a naturally disgusting beriah that only gives ruined taste.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Spoiling later does not automatically erase the issur concern.",
+        "C": "A rabbit is not like gid hanasheh, which has no taste because it is a sinew.",
+        "D": "The source does not say every spoiled whole animal loses beriah status."
+      }
+    },
+    {
+      "id": "siman_100_introduction_and_seifim_1_2-part-1-q027",
+      "question": "What must be done with broth that is permitted while solid pieces may still contain issur?",
+      "options": {
+        "A": "It may be eaten with all the pieces still inside.",
+        "B": "It must be frozen until the pieces separate.",
+        "C": "It must be strained to remove potentially forbidden pieces.",
+        "D": "It must be mixed with new heter to create shishim."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 100, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Shach writes that in any case where the broth itself is mutar but there may still be solid pieces of issur present, the broth must be strained. The goal is to remove all potentially forbidden pieces before the broth is consumed.",
+        "A": "Leaving the pieces inside risks eating the beriah or other issur piece.",
+        "B": "Freezing is not the required method in the source.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The issue is removing possible pieces, not adding heter to nullify them."
+      }
+    },
+    {
+      "id": "siman_100_introduction_and_seifim_1_2-part-1-q028",
+      "question": "How would Rama's issur davuk rule affect a thigh cooked with the fat of the gid hanasheh attached?",
+      "options": {
+        "A": "Rama would require only bitul b'rov against the gid itself.",
+        "B": "Rama would require shishim against the fat and the entire attached thigh.",
+        "C": "Rama would permit the thigh because gid hanasheh has no taste.",
+        "D": "Rama would ignore the fat because only the nerve is forbidden."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 100, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber requires shishim only against the actual issur, here the fat of the gid. Shach and Taz note that Rama's earlier rule of issur davuk is stricter: when issur is attached to heter, the mixture needs shishim against the issur and the entire attached heter piece. Applied here, Rama would require shishim against the gid's fat and the whole thigh.",
+        "A": "Issur davuk is a stringency, not a reduction to bitul b'rov.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The gid itself lacks taste, but its fat can forbid and creates the issur davuk issue.",
+        "D": "Mechaber and Rama both recognize the fat around the gid as able to forbid."
+      }
+    },
+    {
+      "id": "siman_100_introduction_and_seifim_1_2-part-1-q029",
+      "question": "Why might Rama not comment explicitly on Mechaber's thigh-and-gid case?",
+      "options": {
+        "A": "Because Rama agrees that issur davuk never applies to gid hanasheh.",
+        "B": "Because Rama holds gid hanasheh is not forbidden nowadays.",
+        "C": "Because he relies on the earlier issur davuk principle, or the case can be read as separated before cooking.",
+        "D": "Because he rules that every thigh is forbidden without any bitul calculation."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 100, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Shach suggests that Rama may not comment because he already taught the principle of issur davuk earlier and expects it to be applied here. Another possible, though difficult, answer is to read Mechaber's case as one where the gid was removed from the thigh before both were cooked in the same pot.",
+        "A": "Shach and Taz specifically apply Rama's issur davuk principle to this case.",
+        "B": "Rama certainly treats gid hanasheh as a current prohibition.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Rama's issue is the measure for shishim, not forbidding every case absolutely."
+      }
+    },
+    {
+      "id": "siman_100_introduction_and_seifim_1_2-part-1-q030",
+      "question": "How does Taz use Rashba's view about a liquefied gid hanasheh?",
+      "options": {
+        "A": "He rejects Mechaber entirely and rules that shishim is never needed.",
+        "B": "He permits relying on Rashba in a doubt whether there is shishim.",
+        "C": "He applies Rashba only when the gid is still whole and visible.",
+        "D": "He says Rashba requires shishim against the entire thigh."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 100, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Rashba holds that once the gid disintegrates, it is no longer a beriah and still has no taste, so bitul b'rov should be enough. Taz says one should generally not deviate from Mechaber's shishim requirement, but in a doubtful case about whether there is shishim, one may rely on Rashba's leniency.",
+        "A": "Taz does not completely reject Mechaber's ruling.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Rashba's point is specifically about a disintegrated gid, not a visible whole gid.",
+        "D": "That is an issur davuk issue, not Rashba's liquefied-gid leniency."
+      }
+    }
+  ]
+}

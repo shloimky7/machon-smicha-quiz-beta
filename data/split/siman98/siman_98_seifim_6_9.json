@@ -1,0 +1,264 @@
+{
+  "id": "siman_98_seifim_6_9-part-2",
+  "title": "Siman 98 - Seifim 6-9",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 11,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 98",
+  "questions": [
+    {
+      "id": "siman_98_seifim_6_9-part-2-q001",
+      "question": "If a half-k'zayis of issur falls into heter, how much heter is needed?",
+      "options": {
+        "A": "Thirty half-k'zaysim.",
+        "B": "Sixty half-k'zaysim.",
+        "C": "A simple majority over the issur.",
+        "D": "Sixty full k'zaysim in every case."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 98, Seif 6",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that even a half-k'zayis of issur needs sixty times its own volume, meaning sixty half-k'zaysim of heter. The shiur of shishim is not reduced because the issur is less than the punishment-sized amount.",
+        "A": "Rav Ashi rejected the idea of reducing the shiur to thirty half-k'zaysim.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Bitul b'rov is not enough for this taste mixture.",
+        "D": "It needs sixty times its volume, which here is sixty half-k'zaysim, not necessarily sixty full k'zaysim."
+      }
+    },
+    {
+      "id": "siman_98_seifim_6_9-part-2-q002",
+      "question": "How many heter eggs are required to nullify the flavor of an issur egg with a chick according to Mechaber?",
+      "options": {
+        "A": "One hundred eggs.",
+        "B": "Sixty exactly.",
+        "C": "A simple majority of eggs.",
+        "D": "Sixty-one."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 98, Seif 7",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that an egg containing a chick, or an egg with a blood drop, cooked with other eggs requires sixty-one heter eggs to nullify its exuded flavor. Eggs are an exception to the ordinary sixty measurement.",
+        "A": "The required number is sixty-one, not one hundred.",
+        "B": "The seif specifically requires sixty-one for this egg case.",
+        "C": "A simple majority does not nullify the flavor exuded in cooking.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_98_seifim_6_9-part-2-q003",
+      "question": "Why does Shach distinguish between an egg with a chick and an egg with a blood drop?",
+      "options": {
+        "A": "An egg with a blood drop is always a beriah, but an egg with a chick is not.",
+        "B": "An egg with a chick is a beriah and is never batul; an egg with blood is not a beriah.",
+        "C": "Both are always batul b'rov because neither gives taste.",
+        "D": "Both are forbidden only because of maris ayin in all generations."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 98, Seif 7",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Shach explains that the egg with a chick has the status of beriah and is therefore never batul if the egg itself cannot be located. An egg with a drop of blood is not a beriah, so the egg itself can be batul b'rov in a dry min b'mino mixture.",
+        "A": "This reverses Shach's distinction.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The flavor still needs the special sixty-one measure; the question is the egg itself.",
+        "D": "Contemporary blood spots may have a maris ayin discussion, but that does not define the classic cases equally."
+      }
+    },
+    {
+      "id": "siman_98_seifim_6_9-part-2-q004",
+      "question": "How much heter is needed to nullify a k'chal?",
+      "options": {
+        "A": "Sixty-one times its volume.",
+        "B": "Sixty times the milk ducts alone.",
+        "C": "Fifty-nine times its volume.",
+        "D": "A simple majority over the k'chal."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 98, Seif 8",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that a k'chal is batul with fifty-nine times its volume. Since the udder itself is meat, it joins as one of the sixty units needed to nullify the milk absorbed within it.",
+        "A": "Sixty-one is the special egg case, not k'chal.",
+        "B": "Because the amount of milk is unknown, the whole udder is measured, though the udder itself joins the heter.",
+        "C": "Correct option; see the main explanation.",
+        "D": "A simple majority is not enough for the milk taste concern."
+      }
+    },
+    {
+      "id": "siman_98_seifim_6_9-part-2-q005",
+      "question": "Why can a k'chal be nullified with fifty-nine rather than sixty?",
+      "options": {
+        "A": "Because milk inside the udder is completely permitted and needs no bitul.",
+        "B": "Because the udder's own meat counts as one unit toward the sixty.",
+        "C": "Because k'chal is an issur d'rabbanan and all rabbinic issurim need only fifty-nine.",
+        "D": "Because an udder is a beriah and therefore does not give taste."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 98, Seif 8",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "The source explains that the udder is itself a piece of meat with milk absorbed inside. When it falls into a meat pot, the udder's meat component joins the other heter meat as one of the sixty units against the milk, so only fifty-nine additional units are needed.",
+        "A": "Chazal required concern for the milk in the udder because of maris ayin.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Rama and Shach say rabbinic issurim generally still require sixty.",
+        "D": "A beriah is not the reason for k'chal's fifty-nine measurement."
+      }
+    },
+    {
+      "id": "siman_98_seifim_6_9-part-2-q006",
+      "question": "Which issurim does Rama list as exceptions to ordinary bitul b'shishim?",
+      "options": {
+        "A": "Chalav aku\"m and pas aku\"m.",
+        "B": "Three-day-old meat and unsalted meat.",
+        "C": "Chametz on Pesach and yayin nesech.",
+        "D": "Eggs with blood and kosher brine."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 98, Seif 8",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Rama says that all issurim relevant nowadays are batul by sixty, except for chametz on Pesach and yayin nesech, as explained in their own halachos. He then adds the separate rule of items made to give taste.",
+        "A": "These are rabbinic food decrees but are not Rama's listed exceptions here.",
+        "B": "Those are melichah-related cases, not Rama's general exception list.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Eggs have a special sixty-one case, but this is not Rama's listed pair of exceptions."
+      }
+    },
+    {
+      "id": "siman_98_seifim_6_9-part-2-q007",
+      "question": "What is a milsa d'avidi l'ta'ama?",
+      "options": {
+        "A": "A pot that absorbed issur through cooking by fire.",
+        "B": "A mixture whose issur and heter have the same name.",
+        "C": "A food item that is intrinsically forbidden but gives no taste.",
+        "D": "An ingredient made to give strong flavor to the dish."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 98, Seif 8",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Rama explains that salt and spices that are made to give taste, if intrinsically forbidden, are not batul by sixty as long as their flavor is discernible. This category is called milsa d'avidi l'ta'ama.",
+        "A": "That is a keili absorption case, not a flavoring ingredient.",
+        "B": "That relates to min b'mino, not avidi l'ta'ama.",
+        "C": "Avidi l'ta'ama is specifically about a strong flavor-giver.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_98_seifim_6_9-part-2-q008",
+      "question": "When does Rama's milsa d'avidi l'ta'ama rule not apply?",
+      "options": {
+        "A": "When the flavoring is inherently permitted and only became forbidden through absorbed issur.",
+        "B": "When the flavoring is sharp enough to be tasted after sixty.",
+        "C": "When the flavoring is an issur d'rabbanan.",
+        "D": "When the flavoring is mixed into a food of a different name."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 98, Seif 8",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Rama limits the rule to something inherently forbidden. If an inherently permitted item, such as salt, absorbed blood and became forbidden only because of that absorption, it does not make other foods forbidden more than the original blood could; if the blood itself is batul, the salt can be batul too.",
+        "A": "Correct option; see the main explanation.",
+        "B": "A sharp forbidden flavoring that remains tasted is exactly the case where the rule applies.",
+        "C": "Shach and Taz say the rule applies even to rabbinic prohibitions.",
+        "D": "Different name is not the exemption; the key is whether the item is inherently assur."
+      }
+    },
+    {
+      "id": "siman_98_seifim_6_9-part-2-q009",
+      "question": "What does Mechaber rule when one k'zayis of blood and one k'zayis of cheilev fall into fifty-nine k'zaysim of heter?",
+      "options": {
+        "A": "Both issurim combine to forbid the entire pot.",
+        "B": "Each issur joins the heter to nullify the other issur.",
+        "C": "Only the blood is batul, but the cheilev remains forbidden.",
+        "D": "The pot is permitted only if both issurim have the same taste."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 98, Seif 9",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that when two different issurim with different tastes fall into fifty-nine k'zaysim of heter, each issur joins with the heter to reach sixty against the other. Their different tastes weaken each other like heter does.",
+        "A": "Mechaber's case is a leniency, not an automatic prohibition.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Both issurim can be nullified through the same logic.",
+        "D": "The rule works when the issurim have different tastes; same taste is an exception."
+      }
+    },
+    {
+      "id": "siman_98_seifim_6_9-part-2-q010",
+      "question": "Why is Mechaber's rule about two issurim joining difficult according to Rama's chana\"n rule?",
+      "options": {
+        "A": "Because Rama holds shishim never helps for two issurim.",
+        "B": "Because Rama holds min b'mino is always determined by taste.",
+        "C": "Because once the first issur falls in, the mixture may become chana\"n before the second falls in.",
+        "D": "Because Rama holds blood and cheilev always have the same taste."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 98, Seif 9",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Shach and Taz note that Mechaber's rule fits his view that chana\"n is limited to basar b'chalav. According to Rama, who applies chana\"n to all issurim, once the first issur falls into the pot it can make the whole mixture chana\"n, so the later second issur cannot simply join the heter to nullify it.",
+        "A": "Rama still uses shishim broadly; the problem here is chana\"n.",
+        "B": "The difficulty is not the definition of min b'mino.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The case assumes the two issurim have different tastes."
+      }
+    },
+    {
+      "id": "siman_98_seifim_6_9-part-2-q011",
+      "question": "What if the two pots in Mechaber's second case are mixed intentionally to nullify the issurim?",
+      "options": {
+        "A": "The mixture remains forbidden.",
+        "B": "The mixture is permitted because each issur weakens the other.",
+        "C": "Only a non-Jew may taste it to decide.",
+        "D": "Only the larger original pot is permitted."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 98, Seif 9",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "The source notes that Mechaber's second case is where the two pots were mixed inadvertently. If they were combined intentionally in order to nullify the issurim, the mixture remains forbidden because one may not deliberately create bitul.",
+        "A": "Correct option; see the main explanation.",
+        "B": "That is the result only when the mixture happens unintentionally under the proper conditions.",
+        "C": "The issue here is deliberate bitul, not how to taste the mixture.",
+        "D": "The source treats the intentionally mixed result as forbidden, not split by pot size."
+      }
+    }
+  ]
+}

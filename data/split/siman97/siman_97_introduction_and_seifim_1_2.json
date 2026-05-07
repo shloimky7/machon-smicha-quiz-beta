@@ -1,0 +1,632 @@
+{
+  "id": "siman_97_introduction_and_seifim_1_2-part-1",
+  "title": "Siman 97 - Introduction and Seifim 1-2",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 27,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 97",
+  "questions": [
+    {
+      "id": "siman_97_introduction_and_seifim_1_2-part-1-q001",
+      "question": "What is the main gezeirah discussed in Siman 97?",
+      "options": {
+        "A": "Not baking ordinary bread mixed with milk or meat.",
+        "B": "Not eating any bread during a dairy meal.",
+        "C": "Not kashering ovens with fire inside.",
+        "D": "Not baking fish in a large open oven."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 97, Introduction",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Siman 97 discusses a harchakah of Chazal: bread is normally eaten with both meat and dairy, so Chazal forbade making ordinary bread with milk or meat substance. The concern is that someone may later eat it with the opposite type.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Bread may be eaten during dairy meals when it is pareve.",
+        "C": "Kashering ovens appears later as a related oven issue, not the main gezeirah.",
+        "D": "Fish in an oven is discussed in Seif 3, not as the main gezeirah."
+      }
+    },
+    {
+      "id": "siman_97_introduction_and_seifim_1_2-part-1-q002",
+      "question": "Why did Chazal forbid kneading dough with milk?",
+      "options": {
+        "A": "Because milk ruins the dough's texture.",
+        "B": "Because one may come to eat the bread with meat.",
+        "C": "Because dairy bread must always be pas akum.",
+        "D": "Because milk cannot become batul in flour."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 97, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rashi explains the Gemara's rule: bread kneaded with milk is forbidden because a person may later eat it with meat. Bread is a staple used with many meals, so Chazal were concerned about mistakes.",
+        "A": "The issue is not the quality of the dough.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Pas akum is a separate topic and not the reason here.",
+        "D": "The issur is a gezeirah, not a technical bitul rule."
+      }
+    },
+    {
+      "id": "siman_97_introduction_and_seifim_1_2-part-1-q003",
+      "question": "If someone kneaded ordinary dough with milk, what is the din of the bread?",
+      "options": {
+        "A": "It needs only a dairy label nearby.",
+        "B": "It is forbidden only after one day.",
+        "C": "It is forbidden even to eat by itself.",
+        "D": "It is permitted if eaten before meat."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 97, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that if one kneaded dough with milk, all the bread made from that dough is forbidden, even to eat by itself. Since the bread was made in a prohibited ordinary form, Chazal forbade the bread rather than relying on the person to remember.",
+        "A": "A label nearby is not the heker Mechaber gives.",
+        "B": "The issur applies immediately after it was made.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Eating it before meat does not remove the gezeirah on the bread."
+      }
+    },
+    {
+      "id": "siman_97_introduction_and_seifim_1_2-part-1-q004",
+      "question": "What are Mechaber's two ways to permit dairy bread?",
+      "options": {
+        "A": "Bake it overnight or wrap it in paper.",
+        "B": "Use only goat milk or write on the bag.",
+        "C": "Serve it cold or put it near cheese.",
+        "D": "Make a small amount or change the bread's shape."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 97, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Mechaber gives two exceptions: the bread may be made in a small amount, enough for one sitting, or its shape may be changed so it is recognizable as special dairy bread. Either method prevents the normal concern of confusing it with pareve bread.",
+        "A": "Neither overnight baking nor wrapping is Mechaber's listed heter.",
+        "B": "The type of milk and writing on a bag are not Mechaber's two cases.",
+        "C": "Cold serving and proximity to cheese do not create the required heker.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_97_introduction_and_seifim_1_2-part-1-q005",
+      "question": "How do Rashi and Rif/Rambam explain k'ein tura?",
+      "options": {
+        "A": "Rashi says small; Rif and Rambam say unusual shape.",
+        "B": "Rashi says dairy; Rif and Rambam say meat.",
+        "C": "Rashi says oven; Rif and Rambam say pot.",
+        "D": "Rashi says forbidden; Rif and Rambam say burned."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 97, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The Rishonim dispute the Gemara's phrase k'ein tura. Rashi understands it as an ox's eye, meaning a small loaf, while Rif and Rambam explain that the bread must have an unusual shape that shows it is dairy.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The dispute is not whether the bread is dairy or meat.",
+        "C": "The phrase is about how to make the bread recognizable or small, not oven versus pot.",
+        "D": "Neither opinion explains k'ein tura as burning the bread."
+      }
+    },
+    {
+      "id": "siman_97_introduction_and_seifim_1_2-part-1-q006",
+      "question": "Why does Hagahos Sha'arei Dura accept both explanations of k'ein tura?",
+      "options": {
+        "A": "Both apply only to fish baked with meat.",
+        "B": "Both create a practical safeguard from mistakes.",
+        "C": "Both require the bread to be fully pareve.",
+        "D": "Both depend on kashering the oven first."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 97, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Hagahos Sha'arei Dura says both explanations are legitimate because both accomplish the purpose of the gezeirah. A small amount is eaten quickly, and an unusual shape makes the bread recognizable, so people will not mistakenly eat it with the opposite type.",
+        "A": "Fish baked with meat is a different Seif 3 case.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The point is how dairy or meat bread may be permitted, not making it pareve.",
+        "D": "Oven kashering is a later topic, not the explanation of k'ein tura."
+      }
+    },
+    {
+      "id": "siman_97_introduction_and_seifim_1_2-part-1-q007",
+      "question": "According to Mechaber, how small is the permitted small amount?",
+      "options": {
+        "A": "Enough for a whole community meal.",
+        "B": "Enough to fill a large oven.",
+        "C": "Enough to eat in one sitting.",
+        "D": "Enough to eat during one week."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 97, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Mechaber defines the small exception as an amount that can be eaten b'vas achas, in one sitting. Since it will be consumed right away, there is less concern that it will later be confused with ordinary pareve bread.",
+        "A": "A community-size amount would recreate the concern.",
+        "B": "Filling a large oven is unrelated to the small-loaf heter.",
+        "C": "Correct option; see the main explanation.",
+        "D": "A week supply is too large for Mechaber's exception."
+      }
+    },
+    {
+      "id": "siman_97_introduction_and_seifim_1_2-part-1-q008",
+      "question": "How does Rama understand the small-amount allowance?",
+      "options": {
+        "A": "As enough for one full month.",
+        "B": "As any bread used for a seudas mitzvah.",
+        "C": "As bread baked only in a covered pot.",
+        "D": "As enough normally eaten in one day."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 97, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The later explanation in the source says Mechaber understands the small amount as one meal, while Rama understands it as enough that would normally be eaten in one day. Both are limiting the quantity so the bread will not remain around and be confused later.",
+        "A": "One month is far beyond Rama's allowance.",
+        "B": "A seudas mitzvah is not the definition Rama gives.",
+        "C": "A covered pot is not the small-amount rule.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_97_introduction_and_seifim_1_2-part-1-q009",
+      "question": "What kind of heker can permit dairy or meat bread?",
+      "options": {
+        "A": "A changed shape or clear marking on the bread itself.",
+        "B": "A note kept in the kitchen drawer in this case.",
+        "C": "A verbal reminder said before baking.",
+        "D": "A different oven temperature than usual."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 97, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source says changing the bread's shape works, and the poskim add that if it is clear to an onlooker that the bread contains milk or meat, it is permitted. Writing 'milchig' or 'fleishig' on the bread or pastry itself can serve as such a heker.",
+        "A": "Correct option; see the main explanation.",
+        "B": "A private note in a drawer does not make the bread recognizable.",
+        "C": "A verbal reminder does not remain with the bread.",
+        "D": "Temperature does not show the eater what status the bread has."
+      }
+    },
+    {
+      "id": "siman_97_introduction_and_seifim_1_2-part-1-q010",
+      "question": "Why is milchig bread forbidden even when eaten alone?",
+      "options": {
+        "A": "Because milk always forbids flour mid'oraisa.",
+        "B": "Because ordinary bread is expected to be pareve.",
+        "C": "Because milk bread tastes like meat bread.",
+        "D": "Because bread may never be eaten alone."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 97, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Taz and Shach explain that the concern is the normal status of bread. Since bread is usually pareve and eaten with both meat and dairy, Chazal were concerned that a person would forget the bread is milchig and eat it with meat.",
+        "A": "The rule is rabbinic distancing, not milk forbidding flour mid'oraisa.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The issue is not that dairy bread resembles meat bread.",
+        "D": "Bread may be eaten alone in ordinary cases."
+      }
+    },
+    {
+      "id": "siman_97_introduction_and_seifim_1_2-part-1-q011",
+      "question": "How does Taz extend this bread concern to spice crushers?",
+      "options": {
+        "A": "A meat grinder is always kashered by crushing one spice.",
+        "B": "Spice crushers are stricter than bread only on Shavuos in this case.",
+        "C": "A dual-use pareve crusher made fleishig may become unusable for both types.",
+        "D": "Any dairy bread may be fixed by grinding spices into it."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 97, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Taz reasons that a pareve spice crusher normally used for both milk and meat spices resembles ordinary bread. If sharp spices with meat make it fleishig, people may forget and use it for dairy spices, so Taz infers it should become forbidden for both types.",
+        "A": "A spice does not kasher the grinder in this discussion.",
+        "B": "The crusher issue is not limited to Shavuos.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Grinding spices into bread is not Taz's solution."
+      }
+    },
+    {
+      "id": "siman_97_introduction_and_seifim_1_2-part-1-q012",
+      "question": "How does Aruch HaShulchan respond to Taz's grinder extension?",
+      "options": {
+        "A": "He extends it to every utensil in the kitchen.",
+        "B": "He says bread is never part of the gezeirah.",
+        "C": "He permits only dairy grinders, not meat grinders.",
+        "D": "He limits the gezeirah to bread."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 97, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Aruch HaShulchan rejects Taz's extension based on Rambam and Maharshal, who indicate that the gezeirah was specifically on bread. Bread is made in quantity and eaten with all foods, so the concern is not automatically extended to all pareve foods or utensils.",
+        "A": "He does not broaden the gezeirah to every utensil.",
+        "B": "He accepts that bread is the core case.",
+        "C": "His point is about limiting the gezeirah, not distinguishing dairy grinders from meat grinders.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_97_introduction_and_seifim_1_2-part-1-q013",
+      "question": "Why is dairy bread for Shavuos permitted according to Rama?",
+      "options": {
+        "A": "It is a small amount and has a different form.",
+        "B": "It is always eaten only after meat meals.",
+        "C": "It is baked in a non-Jewish oven.",
+        "D": "It is forbidden but tolerated as a minhag."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 97, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rama says the minhag is to knead bread with milk for Shavuos because these breads are considered a small amount and their shape differs from ordinary bread. These features function as the permitted k'ein tura safeguards.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Eating after meat would make the concern worse, not better.",
+        "C": "The oven's ownership is not the reason for the Shavuos minhag.",
+        "D": "Rama presents it as permitted, not as a forbidden tolerated practice."
+      }
+    },
+    {
+      "id": "siman_97_introduction_and_seifim_1_2-part-1-q014",
+      "question": "Why are pladan and pashtida permitted to bake?",
+      "options": {
+        "A": "They are baked only after the oven turns white.",
+        "B": "They are clearly recognizable dairy or meat baked goods.",
+        "C": "They contain no real cheese or meat inside.",
+        "D": "They are always smaller than one kezayis."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 97, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rama says pladan, such as cheese danishes, and pashtida, such as meat pie, are certainly permitted because they are recognizable as dairy or meat baked goods. Their identity itself prevents confusing them with ordinary pareve bread.",
+        "A": "Libun of the oven is not the reason they may be baked.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Their point is that they do contain recognizable dairy or meat filling.",
+        "D": "Their permissibility is not based on being less than a kezayis."
+      }
+    },
+    {
+      "id": "siman_97_introduction_and_seifim_1_2-part-1-q015",
+      "question": "Why should ordinary bread not be baked together with pladan or pashtida?",
+      "options": {
+        "A": "Pashtida makes the oven too cold for bread.",
+        "B": "Pladan removes the bread's heker.",
+        "C": "Cheese or meat fat may drip onto the bread.",
+        "D": "Bread cannot be baked near any pastry."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 97, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rama says not to bake regular bread with pladan or pashtida in one oven because cheese or meat fat may drip onto the bread. If it drips under the bread, the bread has the same din as bread kneaded with milk or meat.",
+        "A": "Temperature is not the concern Rama gives.",
+        "B": "The issue is dripping substance, not removing a heker.",
+        "C": "Correct option; see the main explanation.",
+        "D": "There is no general rule against bread near pastry."
+      }
+    },
+    {
+      "id": "siman_97_introduction_and_seifim_1_2-part-1-q016",
+      "question": "Where is the pladan or pashtida placed according to the minhag Rama records?",
+      "options": {
+        "A": "In the deepest part of the oven.",
+        "B": "Under the ordinary bread in this case.",
+        "C": "Directly on top of the bread.",
+        "D": "At the oven opening, exposed to outside air."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 97, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rama records the minhag to place the pladan or pashtida at the mouth of the oven, open to the outside air. Even when it is in a pan, the minhag is to be stringent l'chatchilah and not place it inside with the bread.",
+        "A": "Rama records avoiding the inside of the oven l'chatchilah.",
+        "B": "Placing it under bread increases the dripping concern.",
+        "C": "Putting it on top of bread would directly create the problem.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_97_introduction_and_seifim_1_2-part-1-q017",
+      "question": "According to Shach, when may leniency apply if bread and pladan were baked together?",
+      "options": {
+        "A": "When there is no strong reason to assume oil dripped.",
+        "B": "Only when oil is clearly seen dripping out.",
+        "C": "Only if the oven floor is sharply angled.",
+        "D": "Only if the bread was already kneaded with milk."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 97, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Shach says l'chatchilah one should not bake them together, but if they were baked together and there is no strong reason to assume oil dripped, leniency may be applied. The bread is not automatically considered dairy or meat in that b'di'eved situation.",
+        "A": "Correct option; see the main explanation.",
+        "B": "If oil is seen dripping, Shach and Taz are stringent.",
+        "C": "An angled oven can make the concern stronger, not more lenient.",
+        "D": "Bread already kneaded with milk would already have its own problem."
+      }
+    },
+    {
+      "id": "siman_97_introduction_and_seifim_1_2-part-1-q018",
+      "question": "What if oil is seen dripping from the pladan or pashtida?",
+      "options": {
+        "A": "The bread becomes forbidden only after one day.",
+        "B": "The bread is treated as milchig or fleishig.",
+        "C": "The bread remains pareve unless touched directly.",
+        "D": "The oven becomes pareve from the dripping."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 97, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Shach and Taz write that if one sees oil drip out of the pladan or pashtida, even without seeing it reach the bread, the bread is considered milchig or fleishig. The observed dripping removes one of the doubts that allowed leniency.",
+        "A": "The status is not delayed until a day passes.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The straightforward Shach/Taz approach is stricter even without seeing direct contact.",
+        "D": "Dripping dairy or meat fat does not make the oven pareve."
+      }
+    },
+    {
+      "id": "siman_97_introduction_and_seifim_1_2-part-1-q019",
+      "question": "What is the sfek sfeika when no oil is seen dripping?",
+      "options": {
+        "A": "Maybe the oven is cold, and maybe bread is meat.",
+        "B": "Maybe milk is pareve, and maybe fat is water in this case.",
+        "C": "Maybe nothing dripped, and maybe oven-wall bliyos do not spread.",
+        "D": "Maybe the bread is fish, and maybe fish is dairy."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 97, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Shach explains the double doubt: perhaps no oil or fat dripped from the pladan or pashtida at all; and even if it did drip onto the oven floor, perhaps bliyos do not spread through the oven wall to the place where the bread sits.",
+        "A": "The case assumes hot baking; the doubts are not about coldness.",
+        "B": "Milk and fat are not being redefined as pareve or water.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Fish is unrelated to the pladan/pashtida sfek sfeika."
+      }
+    },
+    {
+      "id": "siman_97_introduction_and_seifim_1_2-part-1-q020",
+      "question": "When is Shach stricter because the sfek sfeika is missing?",
+      "options": {
+        "A": "When the oven is wide, flat, and no drip is seen.",
+        "B": "When the pladan is outside the oven opening.",
+        "C": "When the bread has a clear dairy shape.",
+        "D": "When an angled oven would carry drips to the bread."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 97, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Shach says if the oven is angled with pladan above and bread below, there is only one doubt: whether oil dripped. If it did drip, it would certainly reach the bread. Without the double doubt, the din is stricter.",
+        "A": "That is the case where leniency may apply after the fact.",
+        "B": "Rama's minhag is to place it at the opening, not the strict missing-safek case.",
+        "C": "A clear dairy shape is a different heker issue.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_97_introduction_and_seifim_1_2-part-1-q021",
+      "question": "How do many Acharonim read Rama's phrase that fat dripped 'under it'?",
+      "options": {
+        "A": "It forbids only if the fat dripped directly under the bread.",
+        "B": "It forbids even when no fat left the pastry in this case.",
+        "C": "It means the fat evaporated into the air only.",
+        "D": "It means the bread was baked under a pot lid."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 97, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "While Taz and Shach seem to worry even about fat dripping onto the oven floor, many Acharonim understand Rama to mean that the pastry forbids the bread only if the fat dripped directly under or onto the bread. They reason that oven-wall transfer alone would be na't bar na't d'heteira.",
+        "A": "Correct option; see the main explanation.",
+        "B": "If no fat left the pastry, the direct-drip concern is absent.",
+        "C": "The phrase is about liquid fat, not just aroma.",
+        "D": "A pot lid is not the phrase's meaning here."
+      }
+    },
+    {
+      "id": "siman_97_introduction_and_seifim_1_2-part-1-q022",
+      "question": "What does Taz rule about a hot pot placed where a pladan had baked on the oven floor?",
+      "options": {
+        "A": "The oven becomes forbidden forever.",
+        "B": "The pot does not absorb dairy from that spot.",
+        "C": "The pot becomes dairy immediately.",
+        "D": "The food must be thrown out in every case."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 97, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Taz tells a case where a pladan baked on the oven floor and a hot pot was later placed on that spot. He ruled that the pot did not absorb dairy taste, comparing it to two hot pots touching without liquid between them, where taste is not transferred.",
+        "A": "The oven is not declared forever forbidden from that story.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Taz ruled leniently in the story.",
+        "D": "He did not require throwing out the food in every case."
+      }
+    },
+    {
+      "id": "siman_97_introduction_and_seifim_1_2-part-1-q023",
+      "question": "What if an oven was greased with meat fats?",
+      "options": {
+        "A": "Bread may be baked there only with dairy cheese in this case.",
+        "B": "Bread may be baked there if the fire heats outside only.",
+        "C": "Bread may not be baked there until the oven is heated white inside.",
+        "D": "Bread may be baked there after wiping once with a cloth."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 97, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that an oven greased with meat fat may not be used for bread until it is heated from the inside to the point that it becomes white. That is an effective kashering through intense internal heat.",
+        "A": "Adding dairy would create a worse concern.",
+        "B": "Mechaber says heating from outside is not enough for the buchya case.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Taz explains wiping cannot fully remove the grease."
+      }
+    },
+    {
+      "id": "siman_97_introduction_and_seifim_1_2-part-1-q024",
+      "question": "Why can't one simply wipe out the greased oven?",
+      "options": {
+        "A": "Wiping makes the oven dairy instead of meat.",
+        "B": "Wiping works only after baking fish in this case.",
+        "C": "Wiping is forbidden because cloth is muktzeh.",
+        "D": "It is physically impossible to clean all the grease off."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 97, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Taz explains that wiping is not enough because the grease cannot be completely removed from the oven. Since remaining meat fat can affect bread baked directly on the oven surface, Mechaber requires internal heating until libun.",
+        "A": "Wiping does not turn a meat oven into a dairy oven.",
+        "B": "Fish is not relevant to cleaning the grease.",
+        "C": "Muktzeh has no role in this Yoreh Deah ruling.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_97_introduction_and_seifim_1_2-part-1-q025",
+      "question": "What is a buchya according to Taz?",
+      "options": {
+        "A": "A pot-lid-shaped baking utensil heated from underneath.",
+        "B": "A large open oven holding twelve isaronim.",
+        "C": "A dairy pastry with a covered hole in this case.",
+        "D": "A spice crusher used for sharp spices."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 97, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Taz explains that a buchya is shaped like a pot lid. Food is placed inside it to bake, while the fire is underneath, which is why Mechaber stresses that heating from outside does not permit it.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The twelve-isaron oven is discussed in Seif 3.",
+        "C": "A pastry with a hole is pashtida, not buchya.",
+        "D": "A spice crusher belongs to the Seif 1/Taz comparison."
+      }
+    },
+    {
+      "id": "siman_97_introduction_and_seifim_1_2-part-1-q026",
+      "question": "How is the greased-oven din limited in contemporary ovens?",
+      "options": {
+        "A": "It applies only to ovens owned by non-Jews.",
+        "B": "It mainly applies when food cooks directly on the oven floor.",
+        "C": "It applies equally to all clean pans in every oven.",
+        "D": "It means bread can never be baked in modern ovens."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 97, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The source says this din applies where food cooks directly on the oven floor. In many contemporary ovens, food is cooked on pans or trays, so bread may be baked in a clean ben yomo meat or dairy oven without first kashering the oven itself.",
+        "A": "Ownership by non-Jews is not the limiting factor.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The source is careful about ben yomo meat or dairy pans themselves.",
+        "D": "Modern ovens are not banned from bread baking."
+      }
+    },
+    {
+      "id": "siman_97_introduction_and_seifim_1_2-part-1-q027",
+      "question": "What caution does the source give about baking bread on a ben yomo meat or dairy pan?",
+      "options": {
+        "A": "Use only a dirty pan so the bread has a heker in this case.",
+        "B": "Bake directly on it only when the pan is dairy for this ruling.",
+        "C": "Do not bake directly on it, but baking paper on a clean pan may be used.",
+        "D": "Always bake directly on it to create nat bar nat."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 97, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The source says one should not bake bread directly on a clean ben yomo milchig or fleishig pan. However, one may place baking paper on the clean pan and bake the bread on the paper.",
+        "A": "A dirty pan would be worse, not a heker.",
+        "B": "There is no special permission for dairy pans over meat pans.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The source does not encourage direct baking on a ben yomo pan."
+      }
+    }
+  ]
+}

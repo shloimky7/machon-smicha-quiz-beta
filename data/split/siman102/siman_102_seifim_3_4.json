@@ -1,0 +1,494 @@
+{
+  "id": "siman_102_seifim_3_4-part-2",
+  "title": "Siman 102 - Seifim 3-4",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 21,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 102",
+  "questions": [
+    {
+      "id": "siman_102_seifim_3_4-part-2-q001",
+      "question": "How does Mechaber rule when one issur-absorbed keili mixes with other keilim?",
+      "options": {
+        "A": "The keili is batul only if it was used for cold food.",
+        "B": "All keilim must be kashered because the issur can be removed.",
+        "C": "The mixture is forbidden even if there are one thousand keilim.",
+        "D": "The keili is batul b'rov and is not treated as davar sheyesh lo matirin."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 102, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that a keili which absorbed issur and became mixed among other keilim is batul b'rov. Even though kashering could make the forbidden keili permitted, it is not judged as a davar sheyesh lo matirin.",
+        "A": "The seif discusses a keili that became assur through absorption, not a cold-use distinction.",
+        "B": "That is a later practical stringency of some poskim, not Mechaber's basic ruling.",
+        "C": "Mechaber specifically permits bitul b'rov for the keili mixture.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_102_seifim_3_4-part-2-q002",
+      "question": "What reason does Rama give for not treating the keili as davar sheyesh lo matirin?",
+      "options": {
+        "A": "Kashering a keili is forbidden l'chatchilah.",
+        "B": "A keili can never absorb forbidden taste.",
+        "C": "A keili is always considered min b'she'eino mino.",
+        "D": "Kashering the keili costs money."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 102, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Rama explains that because one must spend money to kasher the keili, Chachamim did not impose the davar sheyesh lo matirin stringency. The item is not considered easily and costlessly permitted later.",
+        "A": "Kashering is not forbidden; the issue is cost.",
+        "B": "The case assumes the keili did absorb issur.",
+        "C": "The keili mixture is treated as min b'mino yavesh b'yavesh.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_102_seifim_3_4-part-2-q003",
+      "question": "How does Taz answer the ein ha'neesar argument about keilim?",
+      "options": {
+        "A": "He says ein ha'neesar proves keilim can never be kashered.",
+        "B": "He says davar sheyesh lo matirin is stricter and would apply if not for the cost.",
+        "C": "He says keilim are always davar sheb'minyan instead.",
+        "D": "He says absorbed issur always disappears after mixing."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 102, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Taz asks why the keili should ever be davar sheyesh lo matirin if the absorbed issur itself was not. He answers that Chachamim made davar sheyesh lo matirin stricter than ordinary bitul principles, so ein ha'neesar would not prevent applying it; the real reason for leniency is that kashering costs money.",
+        "A": "Ein ha'neesar does not mean keilim cannot be kashered.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Taz's point is about davar sheyesh lo matirin, not davar sheb'minyan.",
+        "D": "Absorbed issur is not assumed to disappear merely through mixing."
+      }
+    },
+    {
+      "id": "siman_102_seifim_3_4-part-2-q004",
+      "question": "What reason does Maharshal give for keilim not being davar sheyesh lo matirin?",
+      "options": {
+        "A": "The absorbed issur is visible on the outside.",
+        "B": "The keili is always physically smaller than the other keilim.",
+        "C": "The keili becomes permitted only for non-Jews.",
+        "D": "The heter comes only through action, not automatically."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 102, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Maharshal adds that kashering is not automatic; one must take action to make the keili permitted. He therefore argues it is not considered davar sheyesh lo matirin. Shach questions this from neder, where annulment also requires action, and leaves the question unanswered.",
+        "A": "The issur in a keili is absorbed, not visible outside.",
+        "B": "Size is not Maharshal's reason.",
+        "C": "Kashering would permit it for Jews, not only non-Jews.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_102_seifim_3_4-part-2-q005",
+      "question": "Which similar case does Taz suggest Rama includes with costly kashering?",
+      "options": {
+        "A": "A Yom Tov egg mixed with other whole eggs.",
+        "B": "Unsalted meat mixed with salted meat where re-salting everything would cost effort or money.",
+        "C": "A neder item mixed with unrelated heter foods.",
+        "D": "Grape juice leaking into wine on Shabbos."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 102, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Taz suggests Rama's 'similar situations' includes unsalted meat mixed with salted pieces. Although one could make the whole mixture certainly permitted by salting all the meat, doing so involves cost or effort, so it is not treated as davar sheyesh lo matirin.",
+        "A": "The Yom Tov egg is the classic strict case, not the costly-action exception.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Neder is treated as davar sheyesh lo matirin because annulment is expected.",
+        "D": "Grape juice is later discussed as not visible before mixing."
+      }
+    },
+    {
+      "id": "siman_102_seifim_3_4-part-2-q006",
+      "question": "Why does a keili mixture need only rov according to Mechaber?",
+      "options": {
+        "A": "Because keilim never give taste after one use.",
+        "B": "Because it is a min b'mino yavesh b'yavesh mixture.",
+        "C": "Because all keilim become einam bnei yoman immediately.",
+        "D": "Because the absorbed issur becomes visible through rov."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 102, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "The source explains that a mixture of one forbidden keili among other keilim is treated like min b'mino yavesh b'yavesh. In that kind of dry same-type mixture, rov is enough for bitul according to Mechaber's basic ruling.",
+        "A": "The keili may still contain absorbed taste; the bitul category is the reason.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Keilim become einam bnei yoman after twenty-four hours, not immediately.",
+        "D": "Rov does not make the absorbed issur visible."
+      }
+    },
+    {
+      "id": "siman_102_seifim_3_4-part-2-q007",
+      "question": "What use limitation applies after keilim are batul b'rov?",
+      "options": {
+        "A": "One may not mix foods cooked in all the keilim and eat the combined food.",
+        "B": "One may use only the smallest keili and must discard the rest.",
+        "C": "One may use the keilim only for cold water forever.",
+        "D": "One may not use any keili until the next Yom Tov."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 102, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Like other yavesh b'yavesh min b'mino mixtures, one person may not consume the entire mixture at once. Applied to keilim, that means one may not cook in all the keilim, combine those foods, and eat the combined mixture, because that would be like consuming the whole original mixture.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The rule is not to isolate the smallest keili.",
+        "C": "Mechaber's basic ruling permits use, with the all-at-once limitation.",
+        "D": "Yom Tov is unrelated to the keili limitation."
+      }
+    },
+    {
+      "id": "siman_102_seifim_3_4-part-2-q008",
+      "question": "Why does Taz advise kashering all the keilim if one plans to keep them all?",
+      "options": {
+        "A": "Because the bitul b'rov never worked at all.",
+        "B": "Because one may eventually mix foods cooked in all of them together.",
+        "C": "Because each keili becomes davar sheyesh lo matirin after use.",
+        "D": "Because one must always kasher any keili sold by number."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 102, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Taz says that although the keilim are technically permitted through bitul, keeping all of them creates a practical concern. At some point foods cooked in all the keilim may be combined, which would recreate the problem of eating the whole yavesh b'yavesh mixture. Therefore, if one is keeping them all, he should kasher them.",
+        "A": "Taz accepts the technical bitul, but is concerned about future use.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The concern is the all-at-once use problem, not each keili becoming davar sheyesh lo matirin.",
+        "D": "Sold-by-number is not the basis for this advice."
+      }
+    },
+    {
+      "id": "siman_102_seifim_3_4-part-2-q009",
+      "question": "Why does Ra'ah argue that the keili should not become batul?",
+      "options": {
+        "A": "Because absorbed issur becomes stronger after twenty-four hours.",
+        "B": "Because a keili is always considered a beriah.",
+        "C": "Because keilim are always min b'she'eino mino with one another.",
+        "D": "Because kashering can reveal or extract the issur, making it like identifiable issur."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 102, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Ra'ah argues that although the keili is not davar sheyesh lo matirin, another principle prevents bitul. If an issur becomes identifiable after bitul, it loses its bitul and must be removed. Since kashering can extract the issur from the keili, he treats the issur as identifiable even now.",
+        "A": "After twenty-four hours, taste becomes pagum, not stronger.",
+        "B": "A keili is not a beriah.",
+        "C": "The keili mixture is same-type dry mixture, not min b'she'eino mino.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_102_seifim_3_4-part-2-q010",
+      "question": "How does Shach rule when kashering the mixed keilim does not involve hefsed merubah?",
+      "options": {
+        "A": "One should use all of them at once to test the bitul.",
+        "B": "One may never kasher them because bitul already worked.",
+        "C": "One should kasher them to account for Maharil's opinion.",
+        "D": "One should sell every keili to a non-Jew."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 102, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Shach quotes opinions such as Maharil who are stricter, partly because kashering is not considered a major expense. Therefore, where there is no hefsed merubah involved in kashering, Shach rules that one should kasher the keilim to account for that view.",
+        "A": "Using all at once is specifically the concern to avoid.",
+        "B": "Bitul does not forbid kashering; Shach recommends it when not costly.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Sale to a non-Jew is not Shach's practical ruling here."
+      }
+    },
+    {
+      "id": "siman_102_seifim_3_4-part-2-q011",
+      "question": "What additional waiting stringency does Shach add for mixed keilim?",
+      "options": {
+        "A": "Wait until the next Yom Tov before using them.",
+        "B": "Wait twenty-four hours so the keilim become einam bnei yoman.",
+        "C": "Wait until the issur becomes visible in one keili.",
+        "D": "Wait until the food cooked in them is fully cold."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 102, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Shach says that even where there is room not to kasher because of loss, one should still wait twenty-four hours from the cooking before using any keili. After that, the keilim are einam bnei yoman, their taste is nosen ta'am lifgam, and the issur level is reduced.",
+        "A": "The wait is twenty-four hours, not until Yom Tov.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The issur does not need to become visible.",
+        "D": "Cooling the food is not the same as the keili becoming eino ben yomo."
+      }
+    },
+    {
+      "id": "siman_102_seifim_3_4-part-2-q012",
+      "question": "What broader principle does Shach derive from the twenty-four-hour wait?",
+      "options": {
+        "A": "Davar sheyesh lo matirin can apply even when the item will only move to a lower level of issur.",
+        "B": "Davar sheyesh lo matirin never applies to rabbinic issurim.",
+        "C": "Davar sheyesh lo matirin applies only to food and never to keilim.",
+        "D": "Davar sheyesh lo matirin requires the item to become permitted immediately."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 102, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Shach explains that the logic of waiting is not limited to an item that becomes fully mutar. It can apply even when the item will move from a stronger level of issur to a weaker one, such as from ben yomo absorbed taste to eino ben yomo nosen ta'am lifgam.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The Yom Tov egg is itself a rabbinic issur and is davar sheyesh lo matirin.",
+        "C": "Shach is discussing how the principle interacts with keilim.",
+        "D": "The principle often involves waiting until a later time."
+      }
+    },
+    {
+      "id": "siman_102_seifim_3_4-part-2-q013",
+      "question": "What final stringency does Shach accept about removing one keili?",
+      "options": {
+        "A": "One should remove one keili even though his initial reasons argued against requiring it.",
+        "B": "One must remove every keili except the smallest one.",
+        "C": "One should remove one keili only if it is visibly treif.",
+        "D": "One may not remove a keili because that would undo the bitul."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 102, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Shach initially gives reasons not to require removing one keili, since Maharam's practice of giving one piece to a non-Jew was not generally required and is more relevant to food mixtures. Nevertheless, he concludes that one should follow the stringency because there is no real loss, since one keili is problematic either way.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The stringency is to remove one keili, not nearly all of them.",
+        "C": "The case assumes the assur keili is not identifiable.",
+        "D": "Removing one keili is the stringency Shach ultimately accepts."
+      }
+    },
+    {
+      "id": "siman_102_seifim_3_4-part-2-q014",
+      "question": "When does Mechaber say davar sheyesh lo matirin does not apply because of spoilage?",
+      "options": {
+        "A": "When the food will be ruined by the time it becomes permitted.",
+        "B": "When the food is sold in a sealed container.",
+        "C": "When the food is mixed with its own type.",
+        "D": "When the food contains more heter than issur."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 102, Seif 4",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Mechaber cites the view that davar sheyesh lo matirin does not apply where waiting for the future heter would ruin the food. In such a case, the instruction to wait loses its force because the item will no longer be usable when the heter arrives.",
+        "A": "Correct option; see the main explanation.",
+        "B": "A sealed container is not the stated condition.",
+        "C": "Min b'mino is normally the setting for the stringency, not a spoilage exception.",
+        "D": "The amount of heter does not define this exception."
+      }
+    },
+    {
+      "id": "siman_102_seifim_3_4-part-2-q015",
+      "question": "According to Rama, when does davar sheyesh lo matirin apply to the issur in a mixture?",
+      "options": {
+        "A": "Only when the actual issur is present or some issur substance remains.",
+        "B": "Only when the issur gives flavor but no substance remains.",
+        "C": "Only when the issur was never visible before mixing.",
+        "D": "Only when the issur is absorbed in a keili."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 102, Seif 4",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Rama rules that davar sheyesh lo matirin applies specifically where the issur is b'ein or where some substance of the issur remains in the mixture. If only the taste of the issur is present, Rama says that taste is batul and does not receive the special non-bitul status.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Rama says flavor alone is batul.",
+        "C": "Rama says issur not recognizable before mixing is batul.",
+        "D": "Rama is generally lenient regarding absorbed issur in this context."
+      }
+    },
+    {
+      "id": "siman_102_seifim_3_4-part-2-q016",
+      "question": "How do Shach and Taz differ from Rama about issur flavor and belios?",
+      "options": {
+        "A": "They agree that flavor is batul but say belios are never batul.",
+        "B": "They rule that davar sheyesh lo matirin applies even to absorbed issur or flavor.",
+        "C": "They say only visible issur is forbidden, even before bitul.",
+        "D": "They say davar sheyesh lo matirin applies only to chametz."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 102, Seif 4",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Rama rules that flavor alone and absorbed issur do not create davar sheyesh lo matirin. Shach and Taz challenge Rama and ultimately disagree, maintaining that davar sheyesh lo matirin can apply even to absorbed issur and to cases where the potential heter would come through bitul.",
+        "A": "They are stricter than Rama on both flavor and absorbed issur.",
+        "B": "Correct option; see the main explanation.",
+        "C": "They do not permit all non-visible issur as a general rule.",
+        "D": "Their disagreement is not limited to chametz."
+      }
+    },
+    {
+      "id": "siman_102_seifim_3_4-part-2-q017",
+      "question": "Why is juice that drips from grapes into wine on Shabbos sometimes batul despite later becoming mutar?",
+      "options": {
+        "A": "Because the juice was never recognizable as issur before it mixed into the wine.",
+        "B": "Because grape juice is always min b'she'eino mino with wine.",
+        "C": "Because juice that leaks on Shabbos is permitted immediately.",
+        "D": "Because wine always nullifies all issur by simple majority."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 102, Seif 4",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Rama rules that davar sheyesh lo matirin applies only where the issur was recognizable before becoming mixed. When grapes are already in a barrel of wine and juice leaks out on Shabbos, the juice becomes issur only at the moment it is already mixed, so it was never an independent visible issur. It may therefore be batul with shishim.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Grape juice and wine are closely related; that is not the reason for leniency.",
+        "C": "Juice that drips on Shabbos is generally assur until after Shabbos.",
+        "D": "The source requires shishim against the leaked juice."
+      }
+    },
+    {
+      "id": "siman_102_seifim_3_4-part-2-q018",
+      "question": "Why is a neder item considered davar sheyesh lo matirin for the person who made the vow?",
+      "options": {
+        "A": "Because he can have the neder annulled.",
+        "B": "Because all vows expire after twenty-four hours.",
+        "C": "Because vows apply only to other people.",
+        "D": "Because neder items are always min b'she'eino mino."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 102, Seif 4",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Rama rules that if someone vows not to eat a certain item and that item mixes with heter, it is considered davar sheyesh lo matirin for him because he can ask to have the neder annulled. Taz adds that this is meaningful because there is a mitzvah to annul the neder, so it is reasonable to expect he may do so.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Nedarim do not automatically expire after twenty-four hours.",
+        "C": "The neder specifically applies to the person who made it.",
+        "D": "The min category is not why neder creates davar sheyesh lo matirin."
+      }
+    },
+    {
+      "id": "siman_102_seifim_3_4-part-2-q019",
+      "question": "How do Shach and Taz understand Rama's view of chametz on Pesach?",
+      "options": {
+        "A": "Rama holds it is not davar sheyesh lo matirin because it will become assur again next Pesach.",
+        "B": "Rama holds it is always davar sheyesh lo matirin even in eino mino.",
+        "C": "Rama holds it is davar sheyesh lo matirin only if cooked on Shabbos.",
+        "D": "Rama holds chametz is batul because it is never an issur substance."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 102, Seif 4",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Rama cites a dispute about chametz on Pesach. It will become permitted after Pesach, but it will later become forbidden again the next Pesach. Shach and Taz understand Rama's own position as holding that such an item is not considered davar sheyesh lo matirin, though Maharshal disagrees.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Rama is understood by Shach and Taz as not treating it as davar sheyesh lo matirin.",
+        "C": "Shabbos cooking is a separate case later in the seif.",
+        "D": "Chametz is certainly issur substance on Pesach; the issue is future re-prohibition."
+      }
+    },
+    {
+      "id": "siman_102_seifim_3_4-part-2-q020",
+      "question": "Why does Issur V'heter reject treating unresolved teiku items as davar sheyesh lo matirin until Eliyahu comes?",
+      "options": {
+        "A": "Because Eliyahu can never resolve halachic questions.",
+        "B": "Because if Eliyahu permits it, it is clarified retroactively that it was never really assur.",
+        "C": "Because every teiku is automatically permitted now.",
+        "D": "Because the food will certainly become spoiled before Eliyahu comes."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 102, Seif 4",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Issur V'heter explains that davar sheyesh lo matirin applies to an item that is truly assur now and later becomes mutar. In a teiku case, if Eliyahu later permits the item, that reveals retroactively that it was never really assur. That is different from an egg that is genuinely assur now and becomes permitted later.",
+        "A": "The discussion assumes Eliyahu will resolve unresolved questions.",
+        "B": "Correct option; see the main explanation.",
+        "C": "A teiku does not make the item automatically permitted now.",
+        "D": "Rama notes spoilage is not a sufficient reason here because Eliyahu can come at any time."
+      }
+    },
+    {
+      "id": "siman_102_seifim_3_4-part-2-q021",
+      "question": "When can food cooked intentionally on Shabbos be treated as davar sheyesh lo matirin?",
+      "options": {
+        "A": "Never, because it remains forbidden forever for the person who cooked it.",
+        "B": "Only after Shabbos, because then others may eat it.",
+        "C": "If it mixes on Shabbos, since it will become permitted for others after Shabbos.",
+        "D": "Only if the cook immediately annuls a neder."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 102, Seif 4",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Rama says davar sheyesh lo matirin applies only if the item will become permitted for the person to whom it is now forbidden. Shach explains through Magen Avraham that if food cooked on Shabbos mixes after Shabbos, it is not davar sheyesh lo matirin because it is already permitted to others and forever forbidden to the cook. But if it mixes on Shabbos, it is davar sheyesh lo matirin for others, and that status applies in the mixture.",
+        "A": "That is true for the cook personally after intentional cooking, but not the whole analysis.",
+        "B": "After Shabbos it is already permitted to others, so the special status no longer applies in that way.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Neder annulment is a separate davar sheyesh lo matirin case."
+      }
+    }
+  ]
+}

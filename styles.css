@@ -92,7 +92,7 @@ p {
 
 h1 {
   margin-bottom: 0;
-  font-size: 30px;
+  font-size: 28px;
   line-height: 1.1;
 }
 
@@ -195,6 +195,122 @@ main {
   display: grid;
   gap: 12px;
   margin-top: 24px;
+}
+
+.course-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.course-card {
+  display: grid;
+  gap: 6px;
+  min-height: 92px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 18px;
+  background: #fff;
+  color: var(--ink);
+  text-align: left;
+}
+
+.course-card span {
+  font-size: 22px;
+  font-weight: 900;
+  line-height: 1.2;
+}
+
+.course-card small {
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.course-card:hover,
+.course-card.is-active {
+  border-color: var(--accent);
+  background: var(--blue-soft);
+}
+
+.course-quiz-panel {
+  margin-top: 18px;
+  border-top: 1px solid var(--line);
+  padding-top: 22px;
+}
+
+.course-panel-top {
+  display: flex;
+  justify-content: space-between;
+  gap: 18px;
+  align-items: flex-start;
+}
+
+#selectedCourseTitle {
+  margin-bottom: 4px;
+}
+
+#selectedCourseMeta {
+  margin-bottom: 0;
+  color: var(--muted);
+  font-size: 14px;
+  font-weight: 800;
+}
+
+.review-mode {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+  border: 0;
+  margin: 20px 0 0;
+  padding: 0;
+}
+
+.review-mode legend {
+  grid-column: 1 / -1;
+  margin-bottom: 8px;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 900;
+}
+
+.mode-choice {
+  display: grid;
+  grid-template-columns: 28px 1fr;
+  gap: 10px;
+  align-items: start;
+  min-height: 72px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 13px;
+  background: #fff;
+}
+
+.mode-choice:has(input:checked) {
+  border-color: var(--accent);
+  background: var(--blue-soft);
+}
+
+.mode-choice input {
+  width: 18px;
+  height: 18px;
+  margin: 3px 0 0;
+  accent-color: var(--accent);
+}
+
+.mode-choice strong,
+.mode-choice small {
+  display: block;
+}
+
+.mode-choice strong {
+  margin-bottom: 3px;
+}
+
+.mode-choice small {
+  color: var(--muted);
+  line-height: 1.35;
 }
 
 .quiz-choice {
@@ -602,8 +718,14 @@ main {
 
   .quiz-summary,
   .answer-grid,
-  .quiz-choice {
+  .quiz-choice,
+  .course-list,
+  .review-mode {
     grid-template-columns: 1fr;
+  }
+
+  .course-panel-top {
+    display: grid;
   }
 
   .progress-box {

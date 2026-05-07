@@ -15,7 +15,7 @@
           </div>
           <div>
             <p class="eyebrow">Machon Smicha</p>
-            <h1>Quiz Beta</h1>
+            <h1>Machon Smicha Smicha Quizzes - Beta</h1>
           </div>
         </div>
         <div class="topbar-actions">
@@ -29,11 +29,42 @@
           <div class="panel-heading">
             <div>
               <p class="eyebrow">Question Bank</p>
-              <h2>Choose Quiz</h2>
+              <h2>Machon Smicha Smicha Quizzes - Beta</h2>
             </div>
           </div>
 
-          <div class="quiz-list" id="quizList"></div>
+          <div class="course-list" id="courseList"></div>
+
+          <section class="course-quiz-panel hidden" id="courseQuizPanel">
+            <div class="course-panel-top">
+              <div>
+                <p class="eyebrow">Choose Quiz</p>
+                <h3 id="selectedCourseTitle">Course</h3>
+                <p id="selectedCourseMeta"></p>
+              </div>
+              <button class="secondary-action" id="backToCoursesButton" type="button">Back to Courses</button>
+            </div>
+
+            <fieldset class="review-mode">
+              <legend>Answer Review</legend>
+              <label class="mode-choice">
+                <input type="radio" name="reviewMode" value="immediate" checked />
+                <span>
+                  <strong>After each question</strong>
+                  <small>Check each answer before moving on.</small>
+                </span>
+              </label>
+              <label class="mode-choice">
+                <input type="radio" name="reviewMode" value="end" />
+                <span>
+                  <strong>At the end</strong>
+                  <small>Finish the quiz first, then review everything.</small>
+                </span>
+              </label>
+            </fieldset>
+
+            <div class="quiz-list" id="quizList"></div>
+          </section>
         </section>
 
         <section class="panel quiz-panel hidden" id="quizPanel">

@@ -1,0 +1,333 @@
+{
+  "id": "siman_113_seifim_9_10_11_12_13_14_16-part-2",
+  "title": "Siman 113 - Seifim 9, 10, 11, 12, 13, 14, 16",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 14,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 113",
+  "questions": [
+    {
+      "id": "siman_113_seifim_9_10_11_12_13_14_16-part-2-q001",
+      "question": "According to Mechaber, if a non-Jew cooked food to Ma'achal Ben Derusai and a Jew completed it, what is the basic din?",
+      "options": {
+        "A": "It is permitted in every case because the Jew completed the cooking.",
+        "B": "It is forbidden, except in cases such as erev Shabbos, erev Yom Tov, or great loss.",
+        "C": "It is permitted only if the food is fruit or cold cereal.",
+        "D": "It is forbidden d'oraisa because the non-Jew began the cooking."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 113, Seif 9",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that once the non-Jew cooked the food to Ma'achal Ben Derusai, the Jew's later completion generally does not fix it. He allows exceptions for erev Shabbos, erev Yom Tov, or hefsed merubah.",
+        "A": "That is closer to Rama's lenient view, not Mechaber's basic ruling.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The seif is about foods subject to bishul aku\"m, not foods already excluded for other reasons.",
+        "D": "Bishul aku\"m is rabbinic, not d'oraisa."
+      }
+    },
+    {
+      "id": "siman_113_seifim_9_10_11_12_13_14_16-part-2-q002",
+      "question": "How does Rama rule when a Jew finishes food after a non-Jew cooked it to Ma'achal Ben Derusai?",
+      "options": {
+        "A": "He permits in all cases, and says that is the minhag.",
+        "B": "He forbids in all cases, even when there is great loss.",
+        "C": "He permits only if the food was removed from the fire first.",
+        "D": "He forbids unless the non-Jew cooked without intention."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 113, Seif 9",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Rama cites those who permit the food in all cases when the Jew completes the cooking after the non-Jew brought it to Ma'achal Ben Derusai, and he says this is the accepted minhag. Taz explains that we treat Ma'achal Ben Derusai as cooked only when that creates a leniency, not a stringency.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Rama is explicitly lenient here.",
+        "C": "Removal from the fire is not the condition for Rama's permission.",
+        "D": "This case is about later Jewish completion, not lack of cooking intent."
+      }
+    },
+    {
+      "id": "siman_113_seifim_9_10_11_12_13_14_16-part-2-q003",
+      "question": "How do we practically use the dispute about whether Ma'achal Ben Derusai is one-third or one-half cooked?",
+      "options": {
+        "A": "We always use one-third cooked, whether it is lenient or strict.",
+        "B": "We always use one-half cooked, whether it is lenient or strict.",
+        "C": "We follow whichever definition creates the more lenient result in the case.",
+        "D": "We ignore both definitions and require full cooking in all cases."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 113, Seif 9",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "The source explains that practically we follow the definition that creates the lenient result. In Seif 8, where Jewish cooking to that point prevents later prohibition, one-third cooked is enough. In Seif 9, where non-Jewish cooking to that point could make the food forbidden, we use one-half cooked before treating it as too far cooked.",
+        "A": "One-third is used when it is lenient, but not always.",
+        "B": "One-half is used when it is lenient, but not always.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The siman relies on Ma'achal Ben Derusai as a real halachic threshold."
+      }
+    },
+    {
+      "id": "siman_113_seifim_9_10_11_12_13_14_16-part-2-q004",
+      "question": "Once food is fully cooked by a non-Jew, can a Jew's later action fix it according to Rama?",
+      "options": {
+        "A": "Yes, even if the later action only warms it slightly.",
+        "B": "No, Rama agrees that fully cooked food can no longer be fixed.",
+        "C": "Yes, but only if the Jew owns the pot and the ingredients.",
+        "D": "No, unless the food was cooked in a microwave."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 113, Seif 9",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Although Rama is lenient after Ma'achal Ben Derusai, the source says he agrees that once the food is fully cooked, it cannot be fixed by later Jewish participation. Poskim discuss whether continued improvement while still on the fire changes the definition of fully cooked, but truly finished food is unfixable.",
+        "A": "Mere later warming is not enough once the food is fully cooked.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Ownership does not fix completed bishul aku\"m.",
+        "D": "Microwave cooking is treated as a cooking method that can create bishul aku\"m, not as a way to fix completed food."
+      }
+    },
+    {
+      "id": "siman_113_seifim_9_10_11_12_13_14_16-part-2-q005",
+      "question": "What is the case of smoldering coals in Seif 10?",
+      "options": {
+        "A": "A Jew placed food on coals that could not cook it to Ma'achal Ben Derusai, and a non-Jew then strengthened the cooking.",
+        "B": "A non-Jew placed food on a strong fire, and a Jew later lowered the flame.",
+        "C": "A Jew fully cooked the food, and a non-Jew reheated it after the meal.",
+        "D": "A non-Jew cooked fruit that was already edible raw before cooking."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 113, Seif 10",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Mechaber discusses a Jew placing food on weak, smoldering coals that would not cook it even to Ma'achal Ben Derusai. If a non-Jew then adjusts the food or coals so that it cooks, Mechaber rules the food is forbidden.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The case is weak heat strengthened by the non-Jew, not strong heat lowered by a Jew.",
+        "C": "That is the reheating discussion from Seif 8, not the smoldering-coals case.",
+        "D": "Edible-raw fruit belongs to the basic exemptions, not this case of ineffective heat."
+      }
+    },
+    {
+      "id": "siman_113_seifim_9_10_11_12_13_14_16-part-2-q006",
+      "question": "What are the two possibilities Shach gives for how Rama would view the smoldering-coals case?",
+      "options": {
+        "A": "Rama certainly forbids, or Rama permits only if the food is fruit.",
+        "B": "Rama certainly permits, or Rama forbids only if the pot is earthenware.",
+        "C": "Rama may permit because even minor Jewish action helps, or he may agree it fails if the Jew's action could not cook at all.",
+        "D": "Rama may require bitul b'shishim, or he may require bitul b'roiv."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 113, Seif 10",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Shach first suggests that Rama would be lenient because he treats even minor Jewish participation as effective. He then suggests that perhaps even Rama would agree here that the Jew's placement is not enough, since placing food on heat that cannot cook it may be too insignificant.",
+        "A": "Shach does not make the distinction depend on fruit.",
+        "B": "Earthenware is a later keilim issue and is not the smoldering-coals analysis.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Bitul measurements are not the issue in Seif 10."
+      }
+    },
+    {
+      "id": "siman_113_seifim_9_10_11_12_13_14_16-part-2-q007",
+      "question": "If a Jew left food on the fire with a non-Jew watching it and is unsure whether the non-Jew removed and replaced it, what is the din?",
+      "options": {
+        "A": "It is forbidden because every doubt in bishul aku\"m is treated strictly.",
+        "B": "It is permitted because safek d'rabbanan is treated leniently.",
+        "C": "It is permitted only if the food is less than one-third cooked.",
+        "D": "It is forbidden unless the non-Jew admits exactly what happened."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 113, Seif 11",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Mechaber permits the food in this doubtful case, and Rama explains the reason: bishul aku\"m is rabbinic, so safek d'rabbanan l'kula. We may be lenient when it is uncertain whether the non-Jew did an action that would forbid the food.",
+        "A": "Rama states the opposite: doubts in this rabbinic area are generally treated leniently.",
+        "B": "Correct option; see the main explanation.",
+        "C": "If it was definitely less than Ma'achal Ben Derusai and the non-Jew replaced it, that would be a problem; here the point is uncertainty.",
+        "D": "The seif permits without requiring the non-Jew's admission."
+      }
+    },
+    {
+      "id": "siman_113_seifim_9_10_11_12_13_14_16-part-2-q008",
+      "question": "What additional concern can apply when a non-Jew is left alone with food?",
+      "options": {
+        "A": "The non-Jew may switch the kosher food with non-kosher food.",
+        "B": "The food automatically becomes pas aku\"m even if it is not bread.",
+        "C": "The food becomes forbidden because the Jew stopped looking at it.",
+        "D": "The pot must be discarded even if the food was never cooked."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 113, Seif 11",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Shach notes that beyond the bishul aku\"m doubt, there may be a separate kashrus concern of leaving a non-Jew alone with food, because he might switch the kosher food for non-kosher food. The seif's leniency applies only where that separate concern is otherwise addressed.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Pas aku\"m applies to bread, not every food left with a non-Jew.",
+        "C": "The issue is not the Jew's absence by itself; it is possible switching or possible forbidden cooking actions.",
+        "D": "The keilim issue applies after actual bishul aku\"m, not to every case of food being watched."
+      }
+    },
+    {
+      "id": "siman_113_seifim_9_10_11_12_13_14_16-part-2-q009",
+      "question": "Why may small salted fish roasted afterward by a non-Jew be permitted?",
+      "options": {
+        "A": "Because salting made them edible before the roasting.",
+        "B": "Because fish can never be oleh al shulchan melachim.",
+        "C": "Because roasting is not included in bishul aku\"m.",
+        "D": "Because fish cooked by a non-Jew is permitted if it is small."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 113, Seif 12",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Mechaber says small fish that were salted are like partially cooked and edible. If a non-Jew roasts them afterward, they are permitted because they were already edible before the non-Jew's cooking act.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The source discusses opinions that some fish can be oleh al shulchan melachim.",
+        "C": "Roasting by fire is included in bishul aku\"m when the other conditions apply.",
+        "D": "Smallness alone is not the simple reason given; the salting and edible status matter."
+      }
+    },
+    {
+      "id": "siman_113_seifim_9_10_11_12_13_14_16-part-2-q010",
+      "question": "How does Rama treat food that is edible raw only in pressing circumstances?",
+      "options": {
+        "A": "It is treated like fully edible raw food and is always permitted.",
+        "B": "It is treated like large salted fish, with a stricter bishul aku\"m concern.",
+        "C": "It is treated like pas palter and is permitted if bought commercially.",
+        "D": "It is treated like water and is permitted because only flavor remains."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 113, Seif 12",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Rama rules that anything edible raw only al yedei hadchak has the same din as large salted fish. Such limited edibility does not automatically remove the bishul aku\"m concern, and Mechaber presents a stricter view with only some authorities permitting.",
+        "A": "Rama does not treat pressing-circumstance edibility like normal raw edibility.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Pas palter is a bread concept and does not govern these cooked foods.",
+        "D": "The tea and coffee reasoning is unrelated to foods edible only under pressure."
+      }
+    },
+    {
+      "id": "siman_113_seifim_9_10_11_12_13_14_16-part-2-q011",
+      "question": "Which preparation methods are generally not included in bishul aku\"m because they are not cooking with fire?",
+      "options": {
+        "A": "Cooking, baking, roasting, and frying.",
+        "B": "Microwaving, boiling, roasting, and frying.",
+        "C": "Steaming, frying, boiling, and baking.",
+        "D": "Salting, smoking, pickling, soaking, and sun drying."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 113, Seif 13",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that salting and smoking are not treated as cooking for the decree of bishul aku\"m, and Rama adds pickling or soaking. The practical section adds sun drying as outside the decree because bishul aku\"m applies to cooking through fire, while ordinary cooking, baking, roasting, and frying are included.",
+        "A": "These are the ordinary fire-based methods that are included in the decree.",
+        "B": "Microwave cooking is treated in the practical section as forbidden, and the other listed methods are standard cooking methods.",
+        "C": "Steaming has a dispute, and frying, boiling, and baking are included in ordinary cooking.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_113_seifim_9_10_11_12_13_14_16-part-2-q012",
+      "question": "What does Mechaber rule about an egg cooked by a non-Jew?",
+      "options": {
+        "A": "It is permitted because some people swallow raw eggs.",
+        "B": "It is forbidden only if mixed with meat or fish.",
+        "C": "It is permitted only if the shell stays on during cooking.",
+        "D": "It is forbidden even though an egg can technically be swallowed raw."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 113, Seif 14",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that an egg cooked by a non-Jew is forbidden, even though it can be swallowed raw. Taz explains that raw egg consumption is extremely uncommon, so eggs are not treated as normally edible raw for this decree.",
+        "A": "Mechaber explicitly rejects relying on the fact that an egg can technically be swallowed raw.",
+        "B": "The egg is subject to bishul aku\"m on its own when cooked by a non-Jew.",
+        "C": "The shell is not the deciding factor in the seif.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_113_seifim_9_10_11_12_13_14_16-part-2-q013",
+      "question": "What is the basic halachah for keilim used by a non-Jew to cook bishul aku\"m?",
+      "options": {
+        "A": "They never need kashering because bishul aku\"m is only rabbinic.",
+        "B": "They need kashering according to the primary halachah.",
+        "C": "They must always be thrown out, even if made of metal.",
+        "D": "They are permitted only if the food was cooked for a sick person."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 113, Seif 16",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Mechaber cites two opinions, but poskim understand the practical halachah like the first opinion: vessels used for bishul aku\"m require kashering. Because the prohibition is rabbinic, there are special leniencies, such as hag'alah three times for earthenware.",
+        "A": "The rabbinic nature creates leniencies, but it does not remove the need for kashering according to the primary ruling.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Even earthenware has a special leniency of hag'alah three times in this context.",
+        "D": "Food for a sick person is a separate case; it does not define the general keilim rule."
+      }
+    },
+    {
+      "id": "siman_113_seifim_9_10_11_12_13_14_16-part-2-q014",
+      "question": "According to Shach, when can bishul aku\"m become batul in other food?",
+      "options": {
+        "A": "Only when there is sixty times against it, like all other forbidden foods.",
+        "B": "Only if the food was first cooked for a sick person on Shabbos.",
+        "C": "When it is mixed in and unrecognizable, and there is a majority of permitted food.",
+        "D": "Whenever the permitted food tastes stronger than the forbidden food."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 113, Seif 16",
+        "pageNumbers": "N/A - source DOCX has no fixed page breaks"
+      },
+      "explanations": {
+        "correct": "Shach rules leniently that bishul aku\"m can become batul b'roiv because the prohibition is rabbinic. However, this works only if the forbidden item is mixed in and not recognizable; if a piece can be recognized or tasted as its own item, that piece must be removed.",
+        "A": "Other poskim require sixty, but Shach's lenient ruling uses a majority.",
+        "B": "The sick-person case is separate from the general bitul rule.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Stronger taste is not the measure Shach gives; the key is majority and lack of recognizability."
+      }
+    }
+  ]
+}

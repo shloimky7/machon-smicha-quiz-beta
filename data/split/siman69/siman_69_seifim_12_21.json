@@ -1,0 +1,402 @@
+{
+  "id": "siman_69_seifim_12_21-part-2",
+  "title": "Siman 69 - Seifim 12-21",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 17,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 69",
+  "questions": [
+    {
+      "id": "siman_69_seifim_12_21-part-2-q001",
+      "question": "What happens to unsalted meat after three full days?",
+      "options": {
+        "A": "Its blood softens, so melichah works better than before.",
+        "B": "Its blood dries inside and no longer comes out through melichah.",
+        "C": "It becomes fully permitted without any salting or roasting.",
+        "D": "It must be cooked immediately to prevent further blood movement."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 69, Seif 12",
+        "pageNumbers": "Page 13"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that meat left three full days without salting has blood dried inside it, and that blood will no longer come out through melichah. Such meat may be roasted, but it may not be eaten cooked through normal salting.",
+        "A": "The blood hardens rather than softens.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The meat is not automatically permitted; ordinary melichah no longer works.",
+        "D": "Cooking is specifically restricted; roasting is the remaining option."
+      }
+    },
+    {
+      "id": "siman_69_seifim_12_21-part-2-q002",
+      "question": "What is the dispute if three-day-old unsalted meat is salted together with fresh unsalted meat?",
+      "options": {
+        "A": "Taz forbids because it may absorb blood; Shach is lenient because it still exudes enough.",
+        "B": "Taz permits because roasting will help; Shach forbids because all blood is dam b'ein.",
+        "C": "Both Taz and Shach agree it is forbidden even for roasting.",
+        "D": "Both Taz and Shach agree it is permitted only if cooked with sixty."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 69, Seif 12",
+        "pageNumbers": "Page 13"
+      },
+      "explanations": {
+        "correct": "Taz says the three-day-old piece becomes forbidden because it is not exuding its own blood and may absorb blood from the other pieces. Shach rejects this, saying the three-day rule is a chumra and that even older meat exudes some blood when salted, enough to prevent absorption.",
+        "A": "Correct option; see the main explanation.",
+        "B": "This reverses the positions and introduces roasting as the main point, which is not the dispute here.",
+        "C": "Shach is lenient, so they do not both forbid.",
+        "D": "The dispute concerns absorption during salting, not a cooked pot requiring sixty."
+      }
+    },
+    {
+      "id": "siman_69_seifim_12_21-part-2-q003",
+      "question": "How can the three-day count for unsalted meat be restarted?",
+      "options": {
+        "A": "By sprinkling dry salt on it for a few minutes.",
+        "B": "By leaving it uncovered in a cold place.",
+        "C": "By cutting it into smaller pieces before the third day.",
+        "D": "By soaking it in water within the original three days."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 69, Seif 13",
+        "pageNumbers": "Page 14"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that if the meat is soaked in water within the three-day period, the count begins again, allowing another three days minus the time of soaking. Taz and Shach say l'chatchilah soaking is required, while b'dieved even a light rinsing can help if nikur was done.",
+        "A": "Dry salt is melichah, not the soaking that restarts the count.",
+        "B": "Cold storage alone is not the method stated in this seif.",
+        "C": "Cutting the meat does not restart the three-day count.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_69_seifim_12_21-part-2-q004",
+      "question": "If a three-day-old unsalted piece becomes mixed with other pieces, what does Mechaber rule?",
+      "options": {
+        "A": "It is never batul because it is fit to honor a guest.",
+        "B": "It is batul b'rov, even if it is a chatichah har'uyah l'hischabed.",
+        "C": "It is permitted only if all the pieces are roasted together.",
+        "D": "It is forbidden unless each piece is salted for three hours."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 69, Seif 14",
+        "pageNumbers": "Page 15"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that a piece of meat that waited three days without salting and became mixed with other pieces is batul b'rov, even if it is a chatichah har'uyah l'hischabed. The reason is that the actual issur is blood, and blood is not an important piece of meat.",
+        "A": "Mechaber explicitly permits bitul despite chatichah har'uyah l'hischabed.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The source permits cooking all the pieces, though Shach discusses how they may be cooked safely.",
+        "D": "Extra-long salting does not solve three-day-old unsalted meat."
+      }
+    },
+    {
+      "id": "siman_69_seifim_12_21-part-2-q005",
+      "question": "What is kavush k'mevushal?",
+      "options": {
+        "A": "A rule that salt cooks meat immediately on contact.",
+        "B": "A rule that roasting is always stronger than cooking.",
+        "C": "A rule that blood never transfers through cold liquid.",
+        "D": "A rule that soaking for long enough is treated like cooking."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 69, Seif 15",
+        "pageNumbers": "Page 16"
+      },
+      "explanations": {
+        "correct": "Seif 15 introduces kavush harei hu k'mevushal: if solid food soaks in liquid long enough, generally 24 hours, flavor transfers as if it had been cooked. Therefore bloody meat sitting in liquid can become forbidden through cold soaking.",
+        "A": "Salt can create a hot-like effect in some tzir cases, but kavush is about soaking over time.",
+        "B": "The seif discusses soaking, not a general rule that roasting is stronger.",
+        "C": "Kavush teaches that cold liquid can transfer taste after enough time.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_69_seifim_12_21-part-2-q006",
+      "question": "How do Mechaber and Rama differ about unsalted bloody meat soaked in water for 24 hours?",
+      "options": {
+        "A": "Mechaber allows roasting afterward; Rama's custom forbids even roasting.",
+        "B": "Mechaber forbids even if there is sixty; Rama permits without sixty.",
+        "C": "Mechaber permits cooking immediately; Rama requires only hadachah acharonah.",
+        "D": "Mechaber requires three washings; Rama requires only one washing."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 69, Seif 15",
+        "pageNumbers": "Page 16"
+      },
+      "explanations": {
+        "correct": "Mechaber cites the view that bloody meat soaked for 24 hours may still be eaten roasted, unless the water had sixty against it and then it can be salted and cooked. Rama records the custom to be stricter and forbid even roasting.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Rama is not more lenient here; he records the stricter custom.",
+        "C": "Mechaber does not permit immediate cooking after soaking in blood.",
+        "D": "This seif is about kavush, not the number of hadachah acharonah washings."
+      }
+    },
+    {
+      "id": "siman_69_seifim_12_21-part-2-q007",
+      "question": "What is a kli menukav for melichah?",
+      "options": {
+        "A": "A vessel with holes, or another surface where tzir drains away quickly.",
+        "B": "A sealed vessel that keeps the blood near the meat.",
+        "C": "A vessel used only after hadachah acharonah is completed.",
+        "D": "A hot vessel that cooks the meat while the salt works."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 69, Seif 16",
+        "pageNumbers": "Page 16"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that meat may be salted only in a kli menukav, on straw or twigs, or on an inclined surface where liquid drains off immediately. The purpose is that tzir should not pool around the meat.",
+        "A": "Correct option; see the main explanation.",
+        "B": "A sealed vessel is a kli she'eino menukav and creates serious problems.",
+        "C": "The kli menukav is needed during melichah, not only afterward.",
+        "D": "The vessel is not meant to cook the meat; it is meant to allow drainage."
+      }
+    },
+    {
+      "id": "siman_69_seifim_12_21-part-2-q008",
+      "question": "Why should a kli menukav not be placed directly on the ground l'chatchilah?",
+      "options": {
+        "A": "Because the ground may cool the meat and stop melichah.",
+        "B": "Because the ground may block the holes and prevent drainage.",
+        "C": "Because the ground absorbs the salt and makes the meat tasteless.",
+        "D": "Because meat may never touch any vessel placed on the ground."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 69, Seif 16",
+        "pageNumbers": "Page 16"
+      },
+      "explanations": {
+        "correct": "Rama says that even with a kli menukav, one should make sure the holes remain open. If the vessel is placed directly on the ground, the holes may be blocked and it becomes like a kli she'eino menukav because the blood cannot drain.",
+        "A": "The issue is blocked drainage, not cooling the meat.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The concern is tzir pooling, not loss of salt flavor.",
+        "D": "There is no general rule that any vessel on the ground is invalid; the issue is the drainage holes."
+      }
+    },
+    {
+      "id": "siman_69_seifim_12_21-part-2-q009",
+      "question": "Why may a punctured kli she'eino menukav that absorbed blood be reused for salting meat?",
+      "options": {
+        "A": "Because the absorbed blood becomes kosher after 24 hours.",
+        "B": "Because the new meat will have sixty against the vessel.",
+        "C": "Because melichah does not draw absorbed taste out of keilim.",
+        "D": "Because a vessel used for salting never absorbs tzir."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 69, Seif 16",
+        "pageNumbers": "Page 16"
+      },
+      "explanations": {
+        "correct": "Rama permits reusing such a vessel for salting after making holes, and Shach and Taz explain that melichah does not have the power to extract absorbed taste from a keili. Therefore the absorbed blood in the vessel does not enter the meat through salting.",
+        "A": "The rule is not that absorbed blood becomes kosher; the issue is whether melichah extracts it.",
+        "B": "The heter is not framed around sixty against the vessel.",
+        "C": "Correct option; see the main explanation.",
+        "D": "A kli she'eino menukav used for salting can absorb bloody tzir; that is why it becomes problematic for hot foods."
+      }
+    },
+    {
+      "id": "siman_69_seifim_12_21-part-2-q010",
+      "question": "How does Rama rule about putting hot food into a kli menukav used for salting?",
+      "options": {
+        "A": "It is permitted l'chatchilah because blood never absorbs into a kli menukav.",
+        "B": "It is forbidden even b'dieved, and the food must be discarded.",
+        "C": "It is permitted only if the vessel is earthenware.",
+        "D": "It should be avoided l'chatchilah, but b'dieved the food is permitted."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 69, Seif 17",
+        "pageNumbers": "Page 17"
+      },
+      "explanations": {
+        "correct": "Mechaber cites both lenient and strict opinions about a kli menukav used for salting. Rama rules that one should be careful l'chatchilah not to put hot food in it, but if it was done b'dieved, the food is permitted.",
+        "A": "Rama is not fully lenient l'chatchilah; he says to be careful.",
+        "B": "Rama permits b'dieved.",
+        "C": "Earthenware is the case where later poskim are more strict, not more lenient.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_69_seifim_12_21-part-2-q011",
+      "question": "According to Mechaber, how much meat becomes forbidden if it was salted in a kli she'eino menukav and sat in tzir?",
+      "options": {
+        "A": "Only the part sitting in the tzir is forbidden; the part above needs only klipah.",
+        "B": "The whole piece is forbidden even if no tzir is visible.",
+        "C": "Only a klipah of the entire piece is forbidden.",
+        "D": "None of the meat is forbidden if it can still be roasted."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 69, Seif 18",
+        "pageNumbers": "Page 18"
+      },
+      "explanations": {
+        "correct": "Mechaber rules like Rosh and Rashba that the part of the meat actually sitting in the tzir becomes forbidden, even for roasting. The part above the tzir is forbidden only k'dei klipah, even if it is fatty.",
+        "A": "Correct option; see the main explanation.",
+        "B": "That is closer to Rama's stricter ruling, not Mechaber's.",
+        "C": "Mechaber forbids all meat sitting in the tzir, not just a klipah there.",
+        "D": "Mechaber says the meat in the tzir is forbidden even for roasting."
+      }
+    },
+    {
+      "id": "siman_69_seifim_12_21-part-2-q012",
+      "question": "How does Rama rule when meat is salted in a kli she'eino menukav until tzir appears?",
+      "options": {
+        "A": "Only the tzir is forbidden, while all the meat may be roasted.",
+        "B": "The entire lower piece touching the tzir is forbidden, even the part above the tzir.",
+        "C": "All pieces in the vessel are forbidden, even those piled above the lower piece.",
+        "D": "The meat is permitted if it was salted only like melichah l'tzali."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 69, Seif 18",
+        "pageNumbers": "Page 18"
+      },
+      "explanations": {
+        "correct": "Rama rules like the stricter opinion that the whole piece lying at the bottom and touching the tzir becomes forbidden, including the part above the tzir. However, the pieces above that lower piece remain permitted.",
+        "A": "Rama forbids the meat piece, not only the liquid.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Rama limits the prohibition to the lower piece touching the tzir, not every upper piece.",
+        "D": "Rama says the stringency applies even if it was salted only a little, like for roasting."
+      }
+    },
+    {
+      "id": "siman_69_seifim_12_21-part-2-q013",
+      "question": "What is chalitah?",
+      "options": {
+        "A": "Quick boiling after salting to freeze the remaining blood in place.",
+        "B": "Soaking meat before salting for half an hour.",
+        "C": "Shaking salt off before hadachah acharonah.",
+        "D": "Salting meat in a kli menukav for one hour."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 69, Seif 19",
+        "pageNumbers": "Page 19"
+      },
+      "explanations": {
+        "correct": "The source explains that Rambam requires chalitah, quick boiling after salting, because he holds melichah removes only surface blood and boiling freezes the remaining internal blood so it will not move during cooking.",
+        "A": "Correct option; see the main explanation.",
+        "B": "That is hadachah rishonah according to Rama, not chalitah.",
+        "C": "That is niputz before hadachah acharonah.",
+        "D": "That is ordinary melichah, not chalitah."
+      }
+    },
+    {
+      "id": "siman_69_seifim_12_21-part-2-q014",
+      "question": "How does Mechaber rule if salted meat completed shiur melichah and was then placed unwashed into a kli she'eino menukav filled with tzir?",
+      "options": {
+        "A": "It is permitted b'dieved, though one should be concerned l'chatchilah.",
+        "B": "It is forbidden entirely even if there is sixty against the tzir.",
+        "C": "Only the vessel is forbidden, but the meat must be cooked immediately.",
+        "D": "It is permitted only if the meat is first salted again."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 69, Seif 20",
+        "pageNumbers": "Page 20"
+      },
+      "explanations": {
+        "correct": "Mechaber records the lenient view that meat remains permitted if, after shiur melichah, it was placed unwashed into a kli she'eino menukav that filled with tzir. He also cites a stringent view and says to be concerned l'chatchilah, but b'dieved he is lenient.",
+        "A": "Correct option; see the main explanation.",
+        "B": "That is more stringent than Mechaber's practical b'dieved ruling.",
+        "C": "Mechaber is discussing the meat itself, not only the vessel.",
+        "D": "Re-salting is not Mechaber's solution in this case."
+      }
+    },
+    {
+      "id": "siman_69_seifim_12_21-part-2-q015",
+      "question": "What is Rama's custom in the ma'aseh de'Rashi case of meat in tzir after shiur melichah?",
+      "options": {
+        "A": "The meat is fully permitted because salt loses all strength after shiur melichah.",
+        "B": "The entire piece is forbidden because tzir after melichah is certainly hot.",
+        "C": "A k'dei klipah of the part sitting in the tzir is forbidden.",
+        "D": "The meat is permitted only if roasted without any washing."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 69, Seif 20",
+        "pageNumbers": "Page 20"
+      },
+      "explanations": {
+        "correct": "Rama compromises between the views. He rules that even b'dieved one must remove k'dei klipah, but only from the part of the meat lying in the tzir; the part above the tzir remains permitted.",
+        "A": "Rama does not fully accept Rashi's leniency for practice.",
+        "B": "Rama does not forbid the entire piece in this case, only k'dei klipah of the part in tzir.",
+        "C": "Correct option; see the main explanation.",
+        "D": "This case is not solved merely by roasting without washing."
+      }
+    },
+    {
+      "id": "siman_69_seifim_12_21-part-2-q016",
+      "question": "According to Rama, may one cut salted meat with a knife before hadachah acharonah?",
+      "options": {
+        "A": "No, and b'dieved the knife always requires hagalah.",
+        "B": "Yes, the main issue is only washing the knife afterward or cleaning off dried tzir.",
+        "C": "Yes, but only after the meat is roasted over an open flame.",
+        "D": "No, because melichah always extracts taste from keilim."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 69, Seif 20",
+        "pageNumbers": "Page 20"
+      },
+      "explanations": {
+        "correct": "Rama rules that the halachah follows those who permit cutting after shiur melichah because ein melichah l'keilim. The knife should be washed afterward, or if the tzir dried on it, cleaned by ne'itzah in hard ground. Even before shiur melichah, the knife itself is not the main issue; the concern is dam b'ein on the meat.",
+        "A": "Mechaber mentions hagalah according to the stricter view, but Rama rules the knife itself does not become assur through melichah.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Roasting is not required before using the knife in Rama's ruling.",
+        "D": "Rama relies on the principle that melichah does not extract taste from keilim."
+      }
+    },
+    {
+      "id": "siman_69_seifim_12_21-part-2-q017",
+      "question": "What should be done where no salt is available for melichah?",
+      "options": {
+        "A": "The meat should be soaked for three days and then cooked.",
+        "B": "The meat should be cooked immediately without any preparation.",
+        "C": "The meat should be eaten raw after visible blood is removed.",
+        "D": "The meat should be roasted until its blood flows out, and then it may be cooked."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 69, Seif 21",
+        "pageNumbers": "Page 21"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that if no salt is available, the meat should be roasted until all its blood flows out, and afterward it may be cooked. Taz adds that because there are different views of how much roasting is needed, the minhag is to roast until the surface hardens.",
+        "A": "Soaking for three days would not replace melichah and can create serious blood concerns.",
+        "B": "Cooking unsalted meat is forbidden unless proper conditions of bitul exist after the fact.",
+        "C": "Raw meat may be permitted in a separate case, but this seif gives roasting as the way to prepare it for cooking.",
+        "D": "Correct option; see the main explanation."
+      }
+    }
+  ]
+}

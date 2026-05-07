@@ -1,0 +1,540 @@
+{
+  "id": "siman_69_introduction_and_seifim_1_11-part-1",
+  "title": "Siman 69 - Introduction and Seifim 1-11",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 23,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 69",
+  "questions": [
+    {
+      "id": "siman_69_introduction_and_seifim_1_11-part-1-q001",
+      "question": "What is the purpose of melichah?",
+      "options": {
+        "A": "To draw forbidden blood out of meat before the meat is cooked.",
+        "B": "To add flavor to meat so it may be eaten with bread.",
+        "C": "To remove forbidden fats that remain after shechitah.",
+        "D": "To make the meat into a preserved food for travel."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 69, Introduction",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The introduction explains that Hilchos Melichah deals with salting meat in order to extract the blood before cooking. Cooking would cause blood inside the meat to move and become forbidden, so melichah removes that blood first.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Salt may affect flavor, but the halachic purpose here is removing blood.",
+        "C": "Forbidden fats are handled through nikur and related halachos, not the basic purpose of melichah.",
+        "D": "Preserving meat is a separate level of salting, not the standard melichah l'kedeirah process."
+      }
+    },
+    {
+      "id": "siman_69_introduction_and_seifim_1_11-part-1-q002",
+      "question": "Which blood is called dam hanefesh?",
+      "options": {
+        "A": "Blood that remains inside the meat and never moves.",
+        "B": "Blood that gushes out as the animal is slaughtered.",
+        "C": "Blood that leaves meat through ordinary salting.",
+        "D": "Blood absorbed into salt after hadachah acharonah."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 69, Introduction",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Dam hanefesh is the life-blood that gushes out during shechitah, because the animal loses its life as that blood pours out. The introduction contrasts this with other categories such as dam eivarim, dam b'ein, and dam shelo piresh.",
+        "A": "Blood that never moves is dam shelo piresh, not dam hanefesh.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Blood drawn out by salting is dam pleitah.",
+        "D": "Blood in the salt after melichah is not the definition of dam hanefesh."
+      }
+    },
+    {
+      "id": "siman_69_introduction_and_seifim_1_11-part-1-q003",
+      "question": "Why may raw unsalted meat be eaten if no visible blood remains on it?",
+      "options": {
+        "A": "Because raw meat is never subject to the Torah prohibition of blood.",
+        "B": "Because raw blood is automatically batul inside the meat.",
+        "C": "Because blood that never moved is dam shelo piresh and is permitted.",
+        "D": "Because eating raw meat is treated like roasting for melichah purposes."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 69, Introduction",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The introduction explains that dam shelo piresh, blood that stayed in place inside the meat and never moved, is considered part of the meat and may be eaten. Therefore, raw unsalted meat may be eaten if all visible surface blood is removed.",
+        "A": "Some blood is prohibited even before cooking; the leniency is specifically dam shelo piresh.",
+        "B": "The source does not rely on bitul; it says this blood is permitted because it never moved.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Raw eating is not treated like roasting; the point is that no cooking or salting caused blood to move."
+      }
+    },
+    {
+      "id": "siman_69_introduction_and_seifim_1_11-part-1-q004",
+      "question": "What does aidi d'torid l'miflat lo bala mean?",
+      "options": {
+        "A": "A piece absorbs whatever blood is on its surface while salting.",
+        "B": "A piece expels only blood that was visible before salting.",
+        "C": "Blood in salt is considered fully cooked by the salt.",
+        "D": "While a piece is busy exuding, it does not absorb."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 69, Introduction",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The introduction states the principle aidi d'torid l'miflat lo bala: while meat is actively exuding blood, it does not absorb blood from outside. This explains why pieces may be salted together without concern that one piece absorbs the other's blood, though the rule does not apply to dam b'ein.",
+        "A": "The principle says the opposite: while exuding, it does not absorb.",
+        "B": "Melichah is meant to draw out internal blood, not only visible surface blood.",
+        "C": "The rule is about expelling versus absorbing, not whether salt cooks blood.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_69_introduction_and_seifim_1_11-part-1-q005",
+      "question": "What is hadachah rishonah?",
+      "options": {
+        "A": "The washing of meat before salting it.",
+        "B": "The washing of meat after salting it.",
+        "C": "The salting of meat for a full hour.",
+        "D": "The roasting of meat when salt is unavailable."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 69, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Seif 1 teaches that meat must be washed before salting, and this first washing is called hadachah rishonah. The source discusses several reasons for it, including removing surface blood and helping the salt draw out the blood properly.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Washing after salting is hadachah acharonah.",
+        "C": "Salting for an hour is the minhag for shiur melichah, not hadachah rishonah.",
+        "D": "Roasting is an alternative way to remove blood when salting cannot be done."
+      }
+    },
+    {
+      "id": "siman_69_introduction_and_seifim_1_11-part-1-q006",
+      "question": "What does Rama say l'chatchilah about how to perform hadachah rishonah?",
+      "options": {
+        "A": "The meat should be rinsed briefly and salted while fully dry.",
+        "B": "The meat should be soaked for about half an hour and rinsed well in that water.",
+        "C": "The meat should be washed only after salt has already been applied.",
+        "D": "The meat should be placed in fruit juice instead of water."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 69, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama rules that l'chatchilah one should soak the meat for about half an hour and rinse it well in the soaking water. This reflects his concern for opinions that the meat must be softened before salt can draw out the blood.",
+        "A": "Taz and Shach say the meat should not be fully dry, because the salt then will not stick well.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Hadachah rishonah is specifically before salting.",
+        "D": "Fruit juice is discussed for hadachah acharonah, not Rama's l'chatchilah hadachah rishonah."
+      }
+    },
+    {
+      "id": "siman_69_introduction_and_seifim_1_11-part-1-q007",
+      "question": "If meat is cut after hadachah rishonah, what does Mechaber require?",
+      "options": {
+        "A": "The meat must be roasted and may no longer be salted.",
+        "B": "Only the outside surface needs salt, not the new cut surface.",
+        "C": "The meat must be washed again before salting.",
+        "D": "The meat is permitted without any further hadachah."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 69, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that if meat is washed and then cut into pieces, the newly exposed surfaces require another hadachah. Rama adds that if this is not done, it is considered as if the meat was not washed at all.",
+        "A": "Cutting after hadachah does not make the meat unfit for ordinary salting if it is washed again.",
+        "B": "The concern is precisely the newly exposed cut surface.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Mechaber explicitly requires another washing."
+      }
+    },
+    {
+      "id": "siman_69_introduction_and_seifim_1_11-part-1-q008",
+      "question": "According to Mechaber, what should be done if meat was salted before hadachah rishonah?",
+      "options": {
+        "A": "It may be eaten only after roasting without any washing.",
+        "B": "It must be thrown away in all cases.",
+        "C": "It may be cooked immediately if there is no visible blood.",
+        "D": "It should be rinsed and salted again."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 69, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber follows the view that the first washing is needed for the salt to work properly. If the meat was salted without hadachah rishonah, he rules that it should be washed and salted again.",
+        "A": "Roasting is not Mechaber's stated fix in this seif.",
+        "B": "Mechaber does not forbid it completely; he allows redoing the process.",
+        "C": "Mechaber requires washing and salting again, not immediate cooking.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_69_introduction_and_seifim_1_11-part-1-q009",
+      "question": "How does Rama rule when meat was salted without hadachah rishonah?",
+      "options": {
+        "A": "He always follows Mechaber and permits salting again.",
+        "B": "He generally forbids it, but permits re-salting in a case of great loss.",
+        "C": "He permits it only if it was salted with very coarse salt.",
+        "D": "He forbids only the other pieces salted together with it."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 69, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Rama follows the strict view l'chatchilah: meat salted without hadachah rishonah is forbidden even if only lightly salted and even if it did not remain for shiur melichah. However, in a case of hefsed merubah, he permits washing and salting again.",
+        "A": "Rama records the custom to be strict, unlike Mechaber's basic ruling.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The issue is lack of hadachah, not which salt size was used.",
+        "D": "Rama says the unwashed piece is forbidden, while the other properly washed pieces remain permitted."
+      }
+    },
+    {
+      "id": "siman_69_introduction_and_seifim_1_11-part-1-q010",
+      "question": "What type of salt should be used for melichah l'chatchilah?",
+      "options": {
+        "A": "Salt as fine as flour, so it covers every surface.",
+        "B": "Very coarse salt, so it does not dissolve quickly.",
+        "C": "Medium salt that will remain on the meat and draw blood.",
+        "D": "Only salt already used once for another piece."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 69, Seif 3",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Mechaber rules not to use salt as fine as flour because it gets absorbed and will not draw out blood properly, and not to use very coarse salt because it falls off. The proper salt is the middle type that stays on and draws blood.",
+        "A": "Mechaber specifically says not to use flour-fine salt l'chatchilah.",
+        "B": "Very coarse salt is also rejected because it falls off the meat.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Used salt may not be used again for melichah."
+      }
+    },
+    {
+      "id": "siman_69_introduction_and_seifim_1_11-part-1-q011",
+      "question": "How much salt must be placed on the meat for melichah?",
+      "options": {
+        "A": "Enough that the meat is no longer fit to eat with that amount of salt.",
+        "B": "Only a light sprinkle, like salt added at the table.",
+        "C": "Enough salt to fully preserve it for a long journey.",
+        "D": "Enough salt to make the meat look completely white."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 69, Seif 4",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that the meat must be salted until it is not fit to eat with that much salt. He also says one does not need to add more than that amount.",
+        "A": "Correct option; see the main explanation.",
+        "B": "A light table-sprinkle is not enough for melichah l'kedeirah.",
+        "C": "Salting for preservation is a stronger category and is not required for ordinary melichah.",
+        "D": "The source gives an eating-quality measure, not a visual whiteness requirement."
+      }
+    },
+    {
+      "id": "siman_69_introduction_and_seifim_1_11-part-1-q012",
+      "question": "If meat was salted on only one side and has not yet been cooked, what does Rama say to do within 12 hours?",
+      "options": {
+        "A": "Cook it immediately because one-sided salting works b'dieved.",
+        "B": "Discard it because one-sided salting is always invalid.",
+        "C": "Salt the second side and then cook it afterward.",
+        "D": "Soak it for 24 hours and restart the three-day count."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 69, Seif 4",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Rama is strict about one-sided salting, but if the meat has not yet been cooked and it is still within 12 hours of salting, the unsalted side should be salted. The reason is that the meat is still exuding tzir, so absorbed blood can still be expelled.",
+        "A": "Rama says not to cook it as is when it has not yet been cooked.",
+        "B": "Rama gives a repair option within 12 hours.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Restarting the three-day count is a separate law for unsalted meat."
+      }
+    },
+    {
+      "id": "siman_69_introduction_and_seifim_1_11-part-1-q013",
+      "question": "Why does Rama generally allow salting the second side only within 12 hours?",
+      "options": {
+        "A": "Because after 12 hours the meat becomes like three-day-old meat.",
+        "B": "Because after 12 hours the meat is fully cooked by the salt.",
+        "C": "Because after 12 hours the salt loses all ability to draw blood from any side.",
+        "D": "Because after 12 hours the meat no longer exudes tzir to expel newly absorbed blood."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 69, Seif 4",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "The source explains that within 12 hours the meat still exudes tzir, so if blood moves from the newly salted side to the already salted side, it can leave with the tzir. After 12 hours, the earlier salted side is no longer exuding and cannot expel what it absorbs from elsewhere.",
+        "A": "Three-day-old meat is a separate issue of blood hardening after three full days.",
+        "B": "Salt does not literally cook the meat into cooked meat after 12 hours.",
+        "C": "The issue is not that salt cannot draw blood from the newly salted side, but that the other side cannot expel what it absorbs.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_69_introduction_and_seifim_1_11-part-1-q014",
+      "question": "If a piece is cut after it already completed shiur melichah, must the cut surface be salted again?",
+      "options": {
+        "A": "Yes, every new cut always needs a full new melichah.",
+        "B": "No, but only if it will be eaten raw.",
+        "C": "Yes, but only if the meat is thick.",
+        "D": "No, once shiur melichah passed, the cut place does not need new salting."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 69, Seif 5",
+        "pageNumbers": "Page 6"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that after a piece has been salted, if it is cut, the cut place does not need to be salted again. Shach and Taz explain this applies when the meat already sat for shiur melichah, because the blood has already been drawn out.",
+        "A": "Mechaber explicitly says a new salting is not required after shiur melichah.",
+        "B": "The rule is about preparing the meat for cooking after melichah, not only raw eating.",
+        "C": "Taz says shiur melichah draws blood even from a thick piece.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_69_introduction_and_seifim_1_11-part-1-q015",
+      "question": "What is Mechaber's minimum shiur melichah?",
+      "options": {
+        "A": "One full hour in all circumstances.",
+        "B": "Three days from the time of shechitah.",
+        "C": "Kedei hiluch mil, about 18 minutes.",
+        "D": "The time needed for water to begin boiling."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 69, Seif 6",
+        "pageNumbers": "Page 7"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that the minimum time meat must remain in salt is kedei hiluch mil, which he identifies as approximately one-third of an hour, meaning 18 minutes.",
+        "A": "Rama says the custom is one hour, but Mechaber's minimum is shorter.",
+        "B": "Three days is the limit before unsalted blood hardens, not shiur melichah.",
+        "C": "Correct option; see the main explanation.",
+        "D": "That time appears in the kli she'eino menukav discussion, not Mechaber's shiur melichah."
+      }
+    },
+    {
+      "id": "siman_69_introduction_and_seifim_1_11-part-1-q016",
+      "question": "What must be done before placing salted meat into a bowl for hadachah acharonah?",
+      "options": {
+        "A": "The meat should be cooked first to weaken the salt.",
+        "B": "The bowl must be heated until yad soledes bo.",
+        "C": "The meat should be left in salt for another hour.",
+        "D": "The salt should be shaken off or lightly rinsed off."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 69, Seif 7",
+        "pageNumbers": "Page 8"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that before placing the meat into the vessel for hadachah acharonah, one should either shake off the salt or lightly rinse it. This prevents the salty blood from being pushed back into the meat in the washing vessel.",
+        "A": "Hadachah acharonah must be done before cooking.",
+        "B": "Heating the bowl is not part of hadachah acharonah and would create new concerns.",
+        "C": "The issue is removing the salt before washing, not adding more salting time.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_69_introduction_and_seifim_1_11-part-1-q017",
+      "question": "How does Rama describe the l'chatchilah practice for hadachah acharonah?",
+      "options": {
+        "A": "One washing is enough, as long as it is done in running water.",
+        "B": "Only fruit juice may be used, because water strengthens the salt.",
+        "C": "The custom is to wash three times, with the first washing using much water.",
+        "D": "Hadachah acharonah is unnecessary if the meat dried after salting."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 69, Seif 7",
+        "pageNumbers": "Page 8"
+      },
+      "explanations": {
+        "correct": "Rama records the custom to wash three times after melichah. He also says that l'chatchilah one should use a lot of water in the first hadachah acharonah to weaken the power of the salt in the tzir.",
+        "A": "B'dieved one washing may help in some cases, but Rama's l'chatchilah custom is three.",
+        "B": "Rama permits fruit juice for hadachah acharonah, but does not require it instead of water.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Even dry meat should l'chatchilah receive hadachah acharonah before cooking or hot washing."
+      }
+    },
+    {
+      "id": "siman_69_introduction_and_seifim_1_11-part-1-q018",
+      "question": "Why can meat remain permitted if salt was not shaken off before hadachah acharonah but the bowl already had water in it?",
+      "options": {
+        "A": "Because hadachah acharonah never requires removing salt first.",
+        "B": "Because the water weakens the power of the salt and tzir.",
+        "C": "Because salt after shiur melichah is always considered cold.",
+        "D": "Because blood after melichah is automatically batul b'rov."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 69, Seif 8",
+        "pageNumbers": "Page 9"
+      },
+      "explanations": {
+        "correct": "Mechaber says the meat is not forbidden if it was placed into a vessel that already contained water, even though the salt was not shaken or rinsed off. The water weakens the salt's power, so it will not drive blood back into the meat.",
+        "A": "L'chatchilah one should remove the salt first; this is a b'dieved-type leniency.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The siman still treats salty tzir as a concern in many cases.",
+        "D": "The reason here is weakening the salt, not bitul b'rov."
+      }
+    },
+    {
+      "id": "siman_69_introduction_and_seifim_1_11-part-1-q019",
+      "question": "If salted meat was cooked without any hadachah acharonah, what does Mechaber require?",
+      "options": {
+        "A": "The pot must have sixty times against the salt on the meat.",
+        "B": "The meat must be roasted after it is removed from the pot.",
+        "C": "The pot must have a majority against the blood alone.",
+        "D": "The meat is always permitted because salting was already done."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 69, Seif 9",
+        "pageNumbers": "Page 10"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that if meat was salted and then cooked without hadachah acharonah, the pot requires sixty times against the salt. Since the blood in the salt cannot be measured, the salt becomes the basis for the required bitul.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Roasting afterward does not fix meat already cooked with salty blood.",
+        "C": "Because the amount of blood is unknown, the halachah requires sixty against the salt.",
+        "D": "Hadachah acharonah is still required before cooking; omitting it creates a bitul question."
+      }
+    },
+    {
+      "id": "siman_69_introduction_and_seifim_1_11-part-1-q020",
+      "question": "Why does Rama permit dry salted meat b'dieved even if cooked without hadachah acharonah?",
+      "options": {
+        "A": "Because dry meat is no longer considered meat for melichah.",
+        "B": "Because dry meat always contains sixty against the whole piece.",
+        "C": "Because most of the bloody salt is assumed to have fallen off when it dried.",
+        "D": "Because hadachah acharonah is only a minhag for wet meat."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 69, Seif 9",
+        "pageNumbers": "Page 10"
+      },
+      "explanations": {
+        "correct": "Rama says dry meat cooked without hadachah acharonah is permitted b'dieved because after drying, most of the bloody salt is assumed to have fallen off. Therefore the meat is presumed to have sixty against the remaining salt.",
+        "A": "The meat remains meat; the leniency is about the remaining salt.",
+        "B": "The issue is sixty against the salt, not against the whole piece.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Hadachah acharonah is required even for dry meat l'chatchilah."
+      }
+    },
+    {
+      "id": "siman_69_introduction_and_seifim_1_11-part-1-q021",
+      "question": "When can a non-Jewish worker be relied on about hadachah acharonah according to Rama?",
+      "options": {
+        "A": "Only if he is paid extra for washing the meat.",
+        "B": "If he speaks innocently that he washed it, or a Jew was going in and out.",
+        "C": "Only if he does not know that Jews require hadachah acharonah.",
+        "D": "If he cooked the meat in a kli sheini rather than a kli rishon."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 69, Seif 10",
+        "pageNumbers": "Page 11"
+      },
+      "explanations": {
+        "correct": "Rama says one proof is enough: either the non-Jew says meisiach l'fi tumo that he washed the meat properly, or a Jew, even a child, was going in and out and the non-Jew knew Jewish practice. In the second case, the non-Jew is afraid not to wash.",
+        "A": "Payment is not the basis of credibility.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Some meisiach l'fi tumo cases depend on what he knows, but Rama's rule is broader than this option.",
+        "D": "The kind of cooking vessel does not prove that hadachah acharonah was done."
+      }
+    },
+    {
+      "id": "siman_69_introduction_and_seifim_1_11-part-1-q022",
+      "question": "If unsalted meat was cooked, what does Mechaber require for the dish to remain permitted?",
+      "options": {
+        "A": "The meat must be removed and roasted separately.",
+        "B": "The pot must contain a majority of salted meat.",
+        "C": "Only the liquid must be discarded while the meat remains permitted.",
+        "D": "The pot must contain sixty times against that meat."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 69, Seif 11",
+        "pageNumbers": "Page 12"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that meat cooked without being salted requires sixty times in the dish against that piece of meat. If there is sixty, according to Mechaber everything is permitted.",
+        "A": "Roasting after cooking does not remove the cooked blood concern.",
+        "B": "A simple majority is not enough for this cooked-blood case.",
+        "C": "Mechaber discusses bitul in the whole dish, not merely discarding liquid.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_69_introduction_and_seifim_1_11-part-1-q023",
+      "question": "Why does Rama forbid the unsalted piece even when the pot has sixty against it?",
+      "options": {
+        "A": "Because every unsalted piece becomes neveilah before cooking begins.",
+        "B": "Because cooked blood is always visible on the outside of the meat.",
+        "C": "Because blood may have moved inside the piece itself and become forbidden there.",
+        "D": "Because bitul never works for blood in any cooked mixture."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 69, Seif 11",
+        "pageNumbers": "Page 12"
+      },
+      "explanations": {
+        "correct": "Taz explains that Rama is concerned for dam shepiresh mimakom l'makom, blood that moved inside the piece during cooking. Even if blood that left the piece is nullified in the pot, the piece itself may still contain forbidden blood that moved internally.",
+        "A": "Rama's concern develops through cooking, not because the raw piece automatically became neveilah.",
+        "B": "The concern is internal movement of blood, not necessarily visible outside blood.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Bitul can permit the rest of the pot; Rama's stringency is about the piece itself."
+      }
+    }
+  ]
+}

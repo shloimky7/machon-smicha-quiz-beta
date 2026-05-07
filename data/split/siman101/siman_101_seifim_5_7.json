@@ -1,0 +1,287 @@
+{
+  "id": "siman_101_seifim_5_7-part-2",
+  "title": "Siman 101 - Seifim 5-7",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 12,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 101",
+  "questions": [
+    {
+      "id": "siman_101_seifim_5_7-part-2-q001",
+      "question": "How does Mechaber treat a gizzard and other digestive organs?",
+      "options": {
+        "A": "They are not considered fit to honor guests with.",
+        "B": "They are always chaha\"l because they are animal organs.",
+        "C": "They are chaha\"l only when filled with flour.",
+        "D": "They are not batul only if sold by number."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 101, Seif 5",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that the gizzard and other digestive organs are not considered fit to honor guests with. Therefore, they do not have chaha\"l status merely because they are animal parts.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Mechaber explicitly says they are not fit to honor with.",
+        "C": "Filling relates to the kishke discussion, not Mechaber's basic rule here.",
+        "D": "The seif is discussing chaha\"l, not davar sheb'minyan."
+      }
+    },
+    {
+      "id": "siman_101_seifim_5_7-part-2-q002",
+      "question": "Why does Taz say a treifah kishke is not chaha\"l?",
+      "options": {
+        "A": "Because all filled foods are automatically batul.",
+        "B": "Because the intestine is not chaha\"l and the filling is not intrinsically assur.",
+        "C": "Because kishke is always eaten only by non-Jews.",
+        "D": "Because chaha\"l cannot apply to any food made with flour."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 101, Seif 5",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Taz writes that kishke made from a treifah animal's intestine is not chaha\"l because the intestine itself is not a chaha\"l item, while the filling placed inside is not intrinsically assur. Pri Megadim adds that before the intestine is filled, it is certainly not chaha\"l because its suitability depends on the filling.",
+        "A": "The source does not create a blanket rule that all filled foods are batul.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Kishke can be a respected food; the issue is what part is the issur.",
+        "D": "Flour is not the reason for the ruling."
+      }
+    },
+    {
+      "id": "siman_101_seifim_5_7-part-2-q003",
+      "question": "When do beriah and chaha\"l lose their special non-bitul status?",
+      "options": {
+        "A": "Only after twenty-four hours pass.",
+        "B": "Only after they are sold to a non-Jew.",
+        "C": "When they are cut or crushed until their form is lost.",
+        "D": "When they are mixed into min b'she'eino mino."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 101, Seif 6",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that beriah and chaha\"l are not batul only while they remain whole and significant. If they are cut or crushed to the point that their form is lost, they are no longer important in that special way and can be batul under ordinary rules.",
+        "A": "Time passing does not remove their status by itself.",
+        "B": "Sale is unrelated to loss of form.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Rama rules chaha\"l applies even in min b'she'eino mino."
+      }
+    },
+    {
+      "id": "siman_101_seifim_5_7-part-2-q004",
+      "question": "What if the chaha\"l was crushed after it was already mixed and after the mixture became known?",
+      "options": {
+        "A": "It can still be batul if the crushing was not intended to nullify issur.",
+        "B": "It can never be batul once the mixture became known.",
+        "C": "It is permitted only for the person who crushed it intentionally.",
+        "D": "It is forbidden even if the crushing happened by itself."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 101, Seif 6",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber extends the leniency even to crushing after the chaha\"l was mixed with heter, and Rama adds even after the mixture became known. The condition is that the crushing was not done with intent to nullify the issur; accidental or unintended loss of form can remove the chaha\"l status.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Rama explicitly allows the leniency even after the mixture became known.",
+        "C": "Intentional crushing creates the opposite result: it is forbidden for the one who did it or for whom it was done.",
+        "D": "Unintentional crushing is the case where bitul can work."
+      }
+    },
+    {
+      "id": "siman_101_seifim_5_7-part-2-q005",
+      "question": "Why may one not intentionally cut up a chaha\"l in order to permit it?",
+      "options": {
+        "A": "Because cutting creates a davar sheyesh lo matirin.",
+        "B": "Because cutting makes every piece into a new beriah.",
+        "C": "Because it violates ein m'vatlin issur l'chatchilah.",
+        "D": "Because chaha\"l becomes stronger after it loses form."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 101, Seif 6",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Intentionally cutting or crushing the chaha\"l to make it lose its status is a form of deliberately creating bitul. That violates ein m'vatlin issur l'chatchilah, so the result is forbidden to the person who did it when the food is his, and to the person for whom it was done.",
+        "A": "Davar sheyesh lo matirin is a different non-bitul category.",
+        "B": "Cutting removes importance; it does not create new beriah status.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Losing form weakens chaha\"l status; the problem is the deliberate bitul."
+      }
+    },
+    {
+      "id": "siman_101_seifim_5_7-part-2-q006",
+      "question": "How does Rama rule about chaha\"l in min b'mino and min b'she'eino mino?",
+      "options": {
+        "A": "It is not batul in either type of mixture.",
+        "B": "It is not batul only in min b'mino.",
+        "C": "It is batul only when the issur has no taste.",
+        "D": "It is batul in both types if there is a simple majority."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 101, Seif 6",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama rules that there is no difference between whether the chaha\"l is mixed with its own type or with a different type; in either case the piece is not batul. Taz notes that this statement is really a general rule for the whole siman.",
+        "A": "Correct option; see the main explanation.",
+        "B": "That is Issur V'heter's position, but Rama explicitly disagrees.",
+        "C": "The chaha\"l rule is about importance, not only taste.",
+        "D": "Chaha\"l is an exception to ordinary majority bitul."
+      }
+    },
+    {
+      "id": "siman_101_seifim_5_7-part-2-q007",
+      "question": "What argument does Issur V'heter make from davar sheyesh lo matirin?",
+      "options": {
+        "A": "Since davar sheyesh lo matirin is never batul in any mixture, chaha\"l is also never batul.",
+        "B": "Since davar sheyesh lo matirin is batul in min b'she'eino mino, chaha\"l should also be batul there.",
+        "C": "Since davar sheyesh lo matirin is permitted later, chaha\"l should be permitted later too.",
+        "D": "Since davar sheyesh lo matirin is a Torah rule, chaha\"l must be Torah-level as well."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 101, Seif 6",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Issur V'heter argues by kal vachomer from davar sheyesh lo matirin. That category is stricter in some ways because safeik cases are treated stringently, yet it is batul in min b'she'eino mino. Therefore, he reasons that chaha\"l and beriah, where safeik is treated leniently, should certainly be batul in min b'she'eino mino.",
+        "A": "Davar sheyesh lo matirin is specifically batul in min b'she'eino mino.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Chaha\"l does not have the later-permitted logic of davar sheyesh lo matirin.",
+        "D": "The source says most poskim treat chaha\"l non-bitul as rabbinic."
+      }
+    },
+    {
+      "id": "siman_101_seifim_5_7-part-2-q008",
+      "question": "How does Taz explain Rama's rejection of Issur V'heter's comparison?",
+      "options": {
+        "A": "Taz says davar sheyesh lo matirin is actually stricter in min b'she'eino mino.",
+        "B": "Taz says chaha\"l is a Torah law while davar sheyesh lo matirin is rabbinic.",
+        "C": "Taz says taste alone determines all significant-item categories.",
+        "D": "Taz says davar sheyesh lo matirin and dvarim chashuvim follow different rule systems."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 101, Seif 6",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Taz explains that Rama does not accept drawing conclusions from davar sheyesh lo matirin to chaha\"l and beriah. Davar sheyesh lo matirin has its own logic, while chaha\"l and beriah are dvarim chashuvim. Because the categories work differently, the fact that one is batul in min b'she'eino mino does not prove the same for the other.",
+        "A": "The premise is that davar sheyesh lo matirin is batul in min b'she'eino mino.",
+        "B": "The source does not base Taz's answer on a Torah-versus-rabbinic contrast.",
+        "C": "The discussion is about categories of importance, not taste alone.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_101_seifim_5_7-part-2-q009",
+      "question": "If one piece in a mixture of chaha\"l pieces gets cut up, what is permitted?",
+      "options": {
+        "A": "Only the whole pieces are permitted.",
+        "B": "All pieces are permitted because perhaps the issur was cut.",
+        "C": "Only the cut-up piece is permitted.",
+        "D": "Nothing is permitted because cutting never helps."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 101, Seif 7",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that if one piece from the mixture is cut up, we do not assume it was the issur piece and permit everything. Only that cut-up piece is permitted: if it was the issur, it lost chaha\"l status; if it was heter, it was permitted anyway. The remaining whole pieces stay forbidden.",
+        "A": "The whole pieces remain problematic because the chaha\"l may still be among them.",
+        "B": "Mechaber does not allow assuming the issur was the one cut.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Cutting can help the cut piece itself when it loses chaha\"l status."
+      }
+    },
+    {
+      "id": "siman_101_seifim_5_7-part-2-q010",
+      "question": "What if most of the pieces in the chaha\"l mixture are cut up?",
+      "options": {
+        "A": "All pieces are permitted because the majority was cut.",
+        "B": "The cut pieces are permitted, while the whole pieces remain forbidden.",
+        "C": "The whole pieces are permitted, while the cut pieces remain forbidden.",
+        "D": "The entire mixture must be sold to a non-Jew."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 101, Seif 7",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that even if most pieces were cut up, one may not assume the issur was among the majority that was cut. Therefore, all cut pieces are permitted based on their own status, but the pieces that remain whole are still forbidden because the chaha\"l may be among them.",
+        "A": "Mechaber explicitly does not follow that majority assumption.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The whole pieces remain the problem, not the cut ones.",
+        "D": "The source gives a split ruling, not a required sale of everything."
+      }
+    },
+    {
+      "id": "siman_101_seifim_5_7-part-2-q011",
+      "question": "How does Taz explain why we do not assume the issur was among the cut pieces?",
+      "options": {
+        "A": "Because a cut piece can never be counted in rov.",
+        "B": "Because chaha\"l is always kavua even after it separates.",
+        "C": "Because all cut pieces become chaha\"l again after cutting.",
+        "D": "Because kol d'parish treats the separated cut piece as coming from the kosher majority."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 101, Seif 7",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Taz explains using kol d'parish mei'ruba parish. Since most pieces in the original group are kosher, a piece that separates and gets cut is presumed to have come from the kosher majority. Therefore, halachah does not assume the minority issur piece was the one cut, and the remaining whole pieces remain forbidden.",
+        "A": "Rov is relevant; Taz explains how the specific rov principle applies.",
+        "B": "Taz's explanation is based on parish from the majority, not saying it remains kavua.",
+        "C": "Cutting removes chaha\"l form; it does not recreate it.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_101_seifim_5_7-part-2-q012",
+      "question": "What type of evidence do Se'ifim 8-9 allow using to identify the treifah animal in a mixture?",
+      "options": {
+        "A": "Asking which animal was slaughtered first.",
+        "B": "Assuming the largest animal must be the treifah one.",
+        "C": "Adding sixty times heter against one animal.",
+        "D": "Matching physical signs, such as gizzard fat or a sheep head fitting its neck."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 101, Se'ifim 8-9",
+        "pageNumbers": "Pages 3-4"
+      },
+      "explanations": {
+        "correct": "Se'ifim 8-9 discuss cases where parts from several animals were separated, and one part was later found treifah. Mechaber allows identifying the affected animal through physical matching, such as comparing the fat on a punctured gizzard to the fat at the chicken's gizzard-attachment point, or fitting a treifah sheep head to the matching neck, thereby permitting the other animals.",
+        "A": "Slaughter order is not the identifying method discussed in these se'ifim.",
+        "B": "Size alone is not the evidence Mechaber uses.",
+        "C": "The issue is identifying and removing the treifah animal, not adding heter.",
+        "D": "Correct option; see the main explanation."
+      }
+    }
+  ]
+}

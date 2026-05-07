@@ -1,0 +1,747 @@
+{
+  "id": "siman_108_introduction_and_seifim_1_4-part-1",
+  "title": "Siman 108 - Introduction and Seifim 1-4",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 32,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 108",
+  "questions": [
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q001",
+      "question": "What is the main contrast explored in Siman 108?",
+      "options": {
+        "A": "Beriah compared to chatichah hare'uyah l'hiskabed.",
+        "B": "Kavush in vinegar compared to kavush in ordinary water.",
+        "C": "Chana'n in solids compared to chana'n in liquids.",
+        "D": "Reicha, aroma transfer, in contrast to zei'ah, steam transfer."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 108, Introduction",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The introduction says Siman 108 returns to how mixtures occur and explores how foods transfer through reicha, aroma, in contrast to zei'ah, steam. It then applies those ideas to ovens and to smelling forbidden substances.",
+        "A": "Those are bitul categories, not the aroma-and-steam topic of Siman 108.",
+        "B": "Kavush was a central topic in Siman 105, not the main contrast here.",
+        "C": "Chana'n was the focus of Siman 106, not this siman's organizing contrast.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q002",
+      "question": "What does reicha mean in this siman?",
+      "options": {
+        "A": "Steam that condenses onto a utensil above a pot.",
+        "B": "Aroma that may pass from one food to another in an oven.",
+        "C": "Liquid taste that transfers through twenty-four-hour soaking.",
+        "D": "A solid food retaining heat after leaving a kli rishon."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 108, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Reicha means aroma. The siman discusses whether the aroma of issur and heter roasting in one oven, even without touching, is halachically significant enough to transfer taste and forbid the heter.",
+        "A": "That describes zei'ah, not reicha.",
+        "B": "Correct option; see the main explanation.",
+        "C": "That describes kavush, not aroma.",
+        "D": "That describes davar gush, not reicha."
+      }
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q003",
+      "question": "In the Gemara's oven case, what is the machlokes Rav and Levi?",
+      "options": {
+        "A": "Whether aroma transfers taste when issur and heter roast together.",
+        "B": "Whether steam from milk has the status of milk.",
+        "C": "Whether bread can be baked in a non-Jewish bakery.",
+        "D": "Whether a baker's shovel can be kashered with hagalah."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 108, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The Gemara discusses issur and heter roasting together in one oven without touching. Rav holds reicha milsa, that aroma is significant and can transfer taste, while Levi holds reicha lav milsa, that aroma does not transfer taste to forbid the heter.",
+        "A": "Correct option; see the main explanation.",
+        "B": "That is the separate topic of zei'ah.",
+        "C": "Non-Jewish bakery issues arise later with the baker's shovel.",
+        "D": "The baker's shovel is Seif 3, not the Rav and Levi dispute."
+      }
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q004",
+      "question": "How do Mechaber and Rama rule about roasting kosher meat with neveilah in one oven?",
+      "options": {
+        "A": "It is forbidden even b'dieved in every oven.",
+        "B": "It is permitted l'chatchilah in every oven.",
+        "C": "It is avoided l'chatchilah, but b'dieved the heter remains mutar.",
+        "D": "It is permitted only when both pieces directly touch."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 108, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber rules like Rif: l'chatchilah one should not roast kosher meat together with neveilah or non-kosher meat in one oven, even without touching. However, if it was done, the heter remains mutar b'dieved, even if the issur was very fatty and the heter was lean.",
+        "A": "Mechaber permits the heter b'dieved in the basic case.",
+        "B": "Mechaber does not permit this l'chatchilah in an ordinary oven.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Touching would create a stronger contact issue, not a leniency."
+      }
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q005",
+      "question": "What is a tanur gadol according to Mechaber's measurement?",
+      "options": {
+        "A": "An oven that is always fully sealed.",
+        "B": "An oven that can hold exactly sixty eggs.",
+        "C": "An oven that has a self-cleaning cycle.",
+        "D": "An oven that can contain twelve esronim."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 108, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber defines a large oven as one that can contain twelve esronim. The source later explains that, according to the Acharonim, this is a very large size and generally applies only to large commercial ovens, not ordinary home ovens.",
+        "A": "A large oven must also be open for Mechaber's l'chatchilah leniency.",
+        "B": "Sixty eggs is not Mechaber's tanur gadol measure.",
+        "C": "Self-cleaning ovens are a modern kashering topic, not the classic measure.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q006",
+      "question": "When does Mechaber permit roasting issur and heter together l'chatchilah?",
+      "options": {
+        "A": "When the oven is small and fully sealed.",
+        "B": "When the oven is large and open, and the foods do not touch.",
+        "C": "When both foods are sharp and uncovered.",
+        "D": "When the heter has no other bread available."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 108, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber gives a l'chatchilah leniency when the oven is large enough to contain twelve esronim and its opening is open, provided the foods do not touch. He also permits when one of the foods is covered, even in a small closed oven.",
+        "A": "A small sealed oven is the stricter case.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Sharp uncovered foods are a case where Rama is strict even b'dieved.",
+        "D": "Bread availability is Rama's way of defining l'chatchilah and b'dieved in a different case."
+      }
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q007",
+      "question": "What does Rama say is the minhag about large and small ovens?",
+      "options": {
+        "A": "Lenient only if the issur and heter are touching.",
+        "B": "Lenient l'chatchilah in every large or small oven.",
+        "C": "Strict b'dieved in every small oven, even with great loss.",
+        "D": "Strict l'chatchilah even in a large oven, lenient b'dieved even in a small oven."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 108, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama writes that the minhag is to be machmir l'chatchilah even in a large oven, but to be lenient b'dieved even in a small oven. Later qualifications discuss entirely sealed ovens and cases of hefsed.",
+        "A": "Touching is not a reicha leniency.",
+        "B": "Rama is not l'chatchilah lenient in every oven.",
+        "C": "Rama allows leniency in hefsed in stricter sealed-oven cases.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q008",
+      "question": "How does Rama define bread baked with meat when one wants to eat it with milk?",
+      "options": {
+        "A": "It is always permitted because reicha lav milsa.",
+        "B": "It is forbidden with milk if other bread is readily available.",
+        "C": "It is forbidden even with meat in every case.",
+        "D": "It is permitted only if the bread is barley bread."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 108, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama says that bread baked with meat may not be eaten with milk if one has other bread. Since other bread is available, the situation is treated as l'chatchilah. If other bread is not easily available, the case is treated as b'dieved and the bread may be eaten.",
+        "A": "Rama treats access to other bread as making this a l'chatchilah situation.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Rama discusses eating it with milk, not forbidding it for all uses.",
+        "D": "Barley bread appears later by wine aroma, not here."
+      }
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q009",
+      "question": "What is the rule if the issur or heter is a davar charif and both are uncovered?",
+      "options": {
+        "A": "Reicha is significant and can forbid even b'dieved.",
+        "B": "Reicha is ignored because sharp foods block aroma.",
+        "C": "The food is permitted if the oven is small and sealed.",
+        "D": "The food is permitted only after twenty-four hours."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 108, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama rules that if the issur is sharp, and certainly if the heter is sharp, reicha milsa. If both are uncovered, the heter is forbidden even b'dieved. If one item is covered, even with dough, the case is permitted.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Sharpness makes reicha stronger, not weaker.",
+        "C": "A small sealed oven would add concern, not permit it.",
+        "D": "Twenty-four hours is not the measure for reicha."
+      }
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q010",
+      "question": "What is zei'ah?",
+      "options": {
+        "A": "Aroma from roasting foods in one oven.",
+        "B": "Steam that has the halachic status of its source liquid or food.",
+        "C": "A utensil that was not used for twenty-four hours.",
+        "D": "A flavor that is too weak to be noticed."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 108, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Zei'ah means steam. The source explains that steam has the same halachic status as the food or liquid from which it evaporates, so milk steam can affect a fleishig pot as if hot milk itself contacted it.",
+        "A": "That is reicha, not zei'ah.",
+        "B": "Correct option; see the main explanation.",
+        "C": "That describes eino ben yomo, not steam.",
+        "D": "Zei'ah is treated as substantive, not automatically too weak."
+      }
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q011",
+      "question": "When can zei'ah affect food or utensils even outside a closed oven?",
+      "options": {
+        "A": "Only when the upper food is covered twice.",
+        "B": "Only when it travels sideways in an open room.",
+        "C": "Only after the source food has cooled below yad soledes bo.",
+        "D": "When it rises directly upward and touches them."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 108, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The source says zei'ah can affect food even in an open area if it rises directly upward and touches what is above it, such as from a stovetop to a kitchen shelf. Sideways steam in an open space does not have the same impact, though in a closed oven steam can spread sideways and still matter.",
+        "A": "Double wrapping reduces the concern; it is not when zei'ah affects most strongly.",
+        "B": "Sideways steam in an open space generally does not impact what it touches.",
+        "C": "Zei'ah forbids when it is yad soledes bo, usually from boiling food.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q012",
+      "question": "What if one of the steaming foods is double wrapped?",
+      "options": {
+        "A": "It requires sixty against the oven walls.",
+        "B": "It is worse than being uncovered.",
+        "C": "It creates reicha milsa even by lean foods.",
+        "D": "Most poskim are lenient even l'chatchilah."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 108, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The source says a covered pot or pan prevents the full spread of zei'ah, though one should ideally still be careful. If one of the foods is double wrapped, the zei'ah concern is even weaker and most poskim are lenient even l'chatchilah.",
+        "A": "The source does not require measuring against oven walls in this case.",
+        "B": "Double wrapping is presented as a stronger protection, not worse.",
+        "C": "Double wrapping reduces steam concerns and is not about creating reicha.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q013",
+      "question": "What is the rule if cold zei'ah touches yad soledes bo food?",
+      "options": {
+        "A": "It forbids the entire food in every case.",
+        "B": "It affects the food up to k'dei klipah because of tata'ah gavar.",
+        "C": "It has no effect and needs no hadachah.",
+        "D": "It is treated like issur mashehu."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 108, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The source says that cold zei'ah touching yad soledes bo food affects and forbids the food up to k'dei klipah, following tata'ah gavar. If cold zei'ah touches cold food, the food requires hadachah.",
+        "A": "The source limits the effect to k'dei klipah in this hot-food case.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Hadachah applies when cold zei'ah touches cold food, not no effect at all.",
+        "D": "Issur mashehu is a separate reicha topic."
+      }
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q014",
+      "question": "When may all the heter in an oven combine for sixty in a reicha case?",
+      "options": {
+        "A": "In any case of reicha, even l'chatchilah.",
+        "B": "Only when each individual piece also has sixty.",
+        "C": "In cases of loss, for a case otherwise forbidden b'dieved by reicha.",
+        "D": "Only when the oven has no ventilation at all."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 108, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama cites the view that where reicha would forbid b'dieved, all the heter in the oven can combine to provide sixty against the issur, and he allows relying on this for hefsed. Shach and Taz explain this through kol hanichnas b'safek misa'yei'ah levatel, because the uncertainly affected pieces can combine.",
+        "A": "Rama limits reliance on this leniency to hefsed.",
+        "B": "If each piece individually had sixty, the combined calculation would not be needed.",
+        "C": "Correct option; see the main explanation.",
+        "D": "A fully sealed oven is often stricter, not the condition for this leniency."
+      }
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q015",
+      "question": "Why is Rama cautious about letting all pieces combine for sixty by reicha?",
+      "options": {
+        "A": "Because aroma may not enter the pieces equally.",
+        "B": "Because every reicha case is biblical.",
+        "C": "Because covered foods absorb more than uncovered foods.",
+        "D": "Because reicha always creates actual contact between pieces."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 108, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama permits combining all pieces only in hefsed because reicha may not spread equally. One piece might absorb more aroma than another, and absorbed issur does not then redistribute evenly from piece to piece, so without hefsed each piece should have sixty on its own.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The caution is not because every reicha case is biblical.",
+        "C": "Covering is generally a leniency, not the reason for caution.",
+        "D": "Reicha is specifically aroma without direct contact."
+      }
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q016",
+      "question": "How does Rama treat issur mashehu by reicha in a small sealed oven?",
+      "options": {
+        "A": "It is always permitted because reicha lav milsa.",
+        "B": "It forbids even b'dieved if both foods are uncovered, unless relying on leniency in hefsed.",
+        "C": "It is permitted only if the issur is chametz on Pesach.",
+        "D": "It forbids only if the oven is large and fully open."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 108, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama records an opinion that an issur mashehu, such as chametz on Pesach, makes reicha significant and forbids even b'dieved when the oven is small, sealed, and both issur and heter are uncovered. He also cites lenient authorities and says one may rely on them in hefsed.",
+        "A": "Rama is stricter with issur mashehu in the specified case.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Chametz on Pesach is an example of issur mashehu, not a leniency.",
+        "D": "The strict case is specifically a small sealed oven, not a large open oven."
+      }
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q017",
+      "question": "What does Mechaber rule about issur and heter cooking in separate pots in one oven?",
+      "options": {
+        "A": "It is forbidden unless each pot has sixty against the other.",
+        "B": "It is forbidden even b'dieved because cooking is stronger than roasting.",
+        "C": "It is permitted only if the two pots directly touch.",
+        "D": "It is permitted even in a small sealed oven, even if the pot openings are uncovered."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 108, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that the previous reicha concern applies to roasting, but if each food is cooking in its own pot, it is permitted even in a small sealed oven, even if the pot openings are uncovered. Rama later qualifies this for an entirely sealed oven.",
+        "A": "Mechaber does not require each pot to have sixty in this case.",
+        "B": "Mechaber treats cooking in separate pots more leniently than roasting.",
+        "C": "Touching would create a different concern, not a condition for leniency.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q018",
+      "question": "How does Rama qualify Mechaber's leniency for separate pots?",
+      "options": {
+        "A": "It applies only when the foods are roasted rather than cooked.",
+        "B": "It applies only when both pots are dairy.",
+        "C": "It applies only if the pots are made of earthenware.",
+        "D": "It applies only if the oven is slightly open; if fully sealed, l'chatchilah it is assur."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 108, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Rama writes that Mechaber's leniency applies when the oven is slightly open. If the oven is sealed on all sides, like food insulated for Shabbos, it is forbidden l'chatchilah, and some are strict even b'dieved unless there is hefsed merubah.",
+        "A": "Mechaber's leniency is specifically for cooking in separate pots.",
+        "B": "The issue is issur and heter or meat and milk, not both dairy.",
+        "C": "The qualification is about oven ventilation, not pot material.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q019",
+      "question": "Which case is listed as mutar l'chatchilah because reicha is not a concern?",
+      "options": {
+        "A": "An issur mashehu in a small sealed oven.",
+        "B": "Both foods are sharp and uncovered.",
+        "C": "Foods are under one pan at the same time.",
+        "D": "Both foods are lean."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 108, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "The summary says reicha is mutar even l'chatchilah when both foods are lean. The other listed cases are exceptions in the stricter direction, where reicha may forbid even b'dieved.",
+        "A": "Issur mashehu in a small sealed oven is a stricter case.",
+        "B": "Sharp uncovered foods are a b'dieved stringency.",
+        "C": "Under one pan at the same time is assur even b'dieved.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q020",
+      "question": "Which case is listed as assur even b'dieved because of reicha?",
+      "options": {
+        "A": "The two foods are cooked in a slightly open oven.",
+        "B": "One of the foods is covered by a pot or dough.",
+        "C": "The foods are under one pan at the same time.",
+        "D": "Both foods are lean and uncovered."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 108, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "The summary lists foods cooked or roasted under one pan at the same time as a case where reicha is assur even b'dieved. The pan concentrates the aroma, making the case more severe than ordinary reicha in an oven.",
+        "A": "Cooking in a slightly open oven is listed as a lenient case.",
+        "B": "One covered food is listed as mutar l'chatchilah.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Both lean foods are listed as mutar l'chatchilah."
+      }
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q021",
+      "question": "What is the baker's shovel discussed in Seif 3?",
+      "options": {
+        "A": "A tray used only for cold storage.",
+        "B": "A spoon used to remove issur fish from soup.",
+        "C": "A lid that collects steam from two pots.",
+        "D": "A tool used to transfer bread and pastries in and out of an oven."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 108, Seif 3",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Seif 3 discusses the baker's shovel, a professional tool used to move bread and pastries in and out of the oven. The concern is that non-kosher food or grease may have been absorbed into it while used in a non-Jewish bakery.",
+        "A": "The shovel is used with oven heat, not cold storage.",
+        "B": "That spoon case was in Siman 107.",
+        "C": "A lid collecting steam is the zei'ah issue from earlier.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q022",
+      "question": "When does Mechaber permit using a non-Jewish baker's shovel?",
+      "options": {
+        "A": "Even while it is certainly ben yomo.",
+        "B": "When it is eino bas yomo and there is no other option.",
+        "C": "Only after sprinkling wine on the shovel.",
+        "D": "Only if it is made from new earthenware."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 108, Seif 3",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Mechaber permits using the baker's shovel after it is no longer bas yomo, because there is no practical alternative; the non-Jewish baker will not use a new shovel each time. The shovel must also be clean of visible issur.",
+        "A": "Mechaber forbids placing heter on it all that day while it is bas yomo.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Sprinkling wine has nothing to do with permitting the shovel.",
+        "D": "The ruling is not limited to new earthenware."
+      }
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q023",
+      "question": "Why does Rama say hagalah and klipah do not help a ben yomo baker's shovel?",
+      "options": {
+        "A": "Because the shovel is used only with liquids.",
+        "B": "Because wood can never absorb any issur.",
+        "C": "Because hagalah works only for cold utensils.",
+        "D": "Because issur absorbed through dry heat requires libun."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 108, Seif 3",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Rama rules that hagalah and klipah do not help while the shovel is bas yomo. Shach explains that issur absorbed through dry heat comes out only through dry heat, meaning libun; even combining klipah with hagalah is not enough.",
+        "A": "The shovel is used with dry oven heat.",
+        "B": "The concern is that the shovel did absorb issur.",
+        "C": "Hagalah is for absorbed taste from liquid cooking, not because utensils are cold.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q024",
+      "question": "According to Taz quoting Issur V'heter, what if the shovel was used within twenty-four hours?",
+      "options": {
+        "A": "No loaf is affected because the shovel is professional.",
+        "B": "All loaves are forbidden even with sixty.",
+        "C": "Only the first loaf becomes assur b'dieved.",
+        "D": "Only the last loaf becomes assur."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 108, Seif 3",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Taz quotes Issur V'heter that b'dieved only the first loaf becomes assur, because it wipes off the visible issur substance remaining on the shovel. The later loaves are permitted; if the first loaf mixes with the others, it can be batul b'rov.",
+        "A": "The first loaf is affected by visible issur substance.",
+        "B": "That resembles Maharshal's stricter view, which Taz and Rama do not accept.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The first loaf, not the last, is the one that wipes the shovel."
+      }
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q025",
+      "question": "What should one avoid doing with a salt shaker over steaming chicken soup?",
+      "options": {
+        "A": "Keeping the shaker in a separate cabinet.",
+        "B": "Using salt at the table after the soup cooled.",
+        "C": "Shaking it directly onto the steaming soup.",
+        "D": "Using salt that was never heated."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 108, Practical Ovens",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "The practical zei'ah section says salt shakers, cinnamon shakers, and similar items should not be shaken directly onto steaming food. Steam rising from the soup can enter the shaker and give it the soup's status, such as making it fleishig.",
+        "A": "Separate storage is not the issue discussed.",
+        "B": "The concern is steaming food, not cooled soup at the table.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The concern is the steam entering the shaker, not whether the salt was heated before."
+      }
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q026",
+      "question": "When do stringent opinions forbid food cooked in the same modern oven used earlier for the opposite type?",
+      "options": {
+        "A": "Only if the first food was dry and covered.",
+        "B": "Whenever the oven was ever used for the opposite type.",
+        "C": "Only if the oven is ben yomo and both dishes have liquid and are uncovered.",
+        "D": "Whenever the oven has separate ventilation ports."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 108, Practical Ovens",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "The source says even the stringent contemporary opinions forbid the food b'dieved only if the oven is ben yomo from its most recent opposite use and both the meat and milk dishes contain liquid and are uncovered. Otherwise, the case is less severe, though l'chatchilah covering is often advised.",
+        "A": "A dry first food is less concerning than a liquid uncovered one.",
+        "B": "The source limits the b'dieved stringency to specific conditions.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Separate ventilation ports are discussed as a leniency for double ovens."
+      }
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q027",
+      "question": "When may two compartments of a double oven be designated separately for meat and milk?",
+      "options": {
+        "A": "Only if both compartments are always used uncovered.",
+        "B": "Only if neither compartment has any ventilation.",
+        "C": "If they have separate exhaust pipes and are screwed together rather than welded.",
+        "D": "If the lower compartment is always opened first."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 108, Practical Ovens",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Contemporary Acharonim permit designating one double-oven compartment for meat and the other for milk if the compartments have separate exhaust pipes for their steam and are screwed together rather than welded. With those conditions, simultaneous cooking can also be permitted.",
+        "A": "Uncovered foods would increase zei'ah concerns.",
+        "B": "Separate ventilation is a condition for leniency, not no ventilation.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The source says not to open the lower compartment while the upper one is open."
+      }
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q028",
+      "question": "What does a pyrolytic self-clean cycle accomplish halachically?",
+      "options": {
+        "A": "It makes reicha stronger than zei'ah.",
+        "B": "It counts as hagalah through cold water.",
+        "C": "It counts as libun gamur by burning residue to ash.",
+        "D": "It permits only dairy but not meat use afterward."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 108, Practical Ovens",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "A pyrolytic self-cleaning oven reaches about 400-500 degrees Celsius and turns residue into ash. The source says this counts as libun gamur, so one may cook milk or meat, self-clean, and then cook the opposite type afterward.",
+        "A": "The cycle is a kashering process, not a reicha rule.",
+        "B": "Self-cleaning is dry high heat, not hagalah with water.",
+        "C": "Correct option; see the main explanation.",
+        "D": "After proper self-cleaning it can be used for the opposite type."
+      }
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q029",
+      "question": "What is the basic issue with using one microwave for meat and milk?",
+      "options": {
+        "A": "Microwaves are always considered large open ovens.",
+        "B": "Microwaves never create steam during cooking.",
+        "C": "Microwave steam causes flavor to absorb into the walls and ceiling.",
+        "D": "Microwaves can be kashered only by self-cleaning."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 108, Practical Ovens",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "The source says a microwave should be designated for either meat or milk because steam produced during microwave cooking causes flavors to be absorbed into the microwave's walls and ceiling. If necessary, food should be double wrapped; single wrapping is insufficient because it may burst.",
+        "A": "A microwave is a small enclosed cooking space, not a large open oven.",
+        "B": "The concern is precisely the steam produced in microwave cooking.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Microwaves do not have a self-cleaning libun cycle like pyrolytic ovens."
+      }
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q030",
+      "question": "What is stam yeinam?",
+      "options": {
+        "A": "Wine definitely poured for avodah zarah.",
+        "B": "Wine owned by a non-Jew, or kosher wine touched by a non-Jew.",
+        "C": "Wine mixed with sixty parts water.",
+        "D": "Wine used only for havdalah spices."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 108, Seif 4",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "The source defines stam yeinam as wine owned by a non-Jew that may or may not have been libated, or even kosher wine touched by a non-Jew. It is forbidden to drink because of intermarriage concerns, and the Chachamim also forbade it b'hana'ah out of concern for yayin nesech.",
+        "A": "That is actual yayin nesech, not stam yeinam.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Dilution with water is not the definition.",
+        "D": "Havdalah spices are discussed later, not the definition of stam yeinam."
+      }
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q031",
+      "question": "When does Mechaber forbid hot wheat bread placed on a barrel of yayin nesech?",
+      "options": {
+        "A": "Whenever the bread is cold and the barrel is sealed.",
+        "B": "When it is over an open barrel and positioned opposite the opening.",
+        "C": "Only when the bread is made from barley.",
+        "D": "Only when the bread is wrapped twice."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 108, Seif 4",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Mechaber forbids hot wheat bread placed over an open barrel of yayin nesech. Rama qualifies that the case is where the bread is opposite the barrel's opening, covering the opening so the wine aroma is strongly absorbed.",
+        "A": "Mechaber permits cold bread even if the barrel is open.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Barley bread has a stricter rule, but this question is about wheat bread.",
+        "D": "Double wrapping is not the case in Seif 4."
+      }
+    },
+    {
+      "id": "siman_108_introduction_and_seifim_1_4-part-1-q032",
+      "question": "Why is barley bread stricter than wheat bread over a wine barrel?",
+      "options": {
+        "A": "Barley bread is always chametz on Pesach.",
+        "B": "Barley bread is more absorbent.",
+        "C": "Barley bread is never eaten hot.",
+        "D": "Barley bread blocks reicha completely."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 108, Seif 4",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that barley bread is forbidden if it is hot even when the wine barrel is sealed, because barley bread is more absorbent than wheat bread. Shach adds that the same applies if barley bread is cold and the barrel is open.",
+        "A": "Chametz status is not the reason here.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The source discusses hot barley bread explicitly.",
+        "D": "Barley absorbs more reicha; it does not block it."
+      }
+    }
+  ]
+}

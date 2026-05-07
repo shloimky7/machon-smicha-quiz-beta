@@ -1,0 +1,287 @@
+{
+  "id": "siman_103_seifim_5_7-part-2",
+  "title": "Siman 103 - Seifim 5-7",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 12,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 103",
+  "questions": [
+    {
+      "id": "siman_103_seifim_5_7-part-2-q001",
+      "question": "When does a keili become eino ben yomo according to Mechaber and Rama?",
+      "options": {
+        "A": "After twenty-four hours from when issur was cooked in it.",
+        "B": "After one night passes in every case.",
+        "C": "After the pot cools for one hour.",
+        "D": "After it is used once for kosher food."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 103, Seif 5",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Most poskim, including Mechaber and Rama, rule like Rashbam and Tur that a keili becomes eino ben yomo only after a full twenty-four hours from the relevant cooking. At that point, absorbed taste is considered pagum and does not forbid food cooked in the pot.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Rashi and Tosfos hold linas lailah can suffice, but Mechaber and Rama rule like twenty-four hours.",
+        "C": "Cooling for one hour is not the halachic measure.",
+        "D": "Using it for kosher food does not itself make it eino ben yomo."
+      }
+    },
+    {
+      "id": "siman_103_seifim_5_7-part-2-q002",
+      "question": "What condition does Mechaber require for using an eino ben yomo pot?",
+      "options": {
+        "A": "The pot must be made of metal.",
+        "B": "The pot must be clean of tangible issur residue.",
+        "C": "The pot must contain exactly sixty times water.",
+        "D": "The pot must have been left overnight outdoors."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 103, Seif 5",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber permits food cooked in an eino ben yomo pot because the absorbed taste is pagum, but only if the pot is cleaned. If tangible issur fat or residue remains on the surface, that substance is like actual issur and can forbid even after twenty-four hours.",
+        "A": "The rule is not limited to metal pots.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Sixty is needed against tangible residue if present, not as the initial condition.",
+        "D": "Outdoor overnight waiting is not Mechaber's condition."
+      }
+    },
+    {
+      "id": "siman_103_seifim_5_7-part-2-q003",
+      "question": "If there is tangible issur residue on an eino ben yomo pot, what does Rama say permits the food?",
+      "options": {
+        "A": "The pot was used once for a pareve food.",
+        "B": "The food has a simple majority over the pot walls.",
+        "C": "The residue has no smell after twenty-four hours.",
+        "D": "The food has sixty times the residue stuck to the pot."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 103, Seif 5",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama rules that if food cooked in the pot has sixty times the tangible issur residue stuck to the pot, all agree the food is permitted. The absorbed belios in the pot are already pagum because it is eino ben yomo, so the required shishim is measured against the actual residue.",
+        "A": "A pareve use does not remove visible issur residue.",
+        "B": "A simple majority is not enough against tangible issur residue.",
+        "C": "Lack of smell is not the measure Rama gives.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_103_seifim_5_7-part-2-q004",
+      "question": "What disagreement does Maharshal have about measuring against residue on the pot?",
+      "options": {
+        "A": "He says no shishim is needed because all residue is pagum.",
+        "B": "He says only the residue is measured, never the pot walls.",
+        "C": "He says residue makes the belios l'shvach, so one must measure against belios too.",
+        "D": "He says residue is always issur davuk and can never be batul."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 103, Seif 5",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama measures only against the tangible residue, because the absorbed taste in an eino ben yomo pot is pagum. Maharshal argues that the residue on the walls makes the belios become nosen ta'am l'shvach, requiring measurement against the pot-wall belios as well. Shach rejects Maharshal's argument.",
+        "A": "Maharshal is stricter, not more lenient.",
+        "B": "That is closer to Rama's position, not Maharshal's disagreement.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Pischei Teshuvah explains the residue is not classic issur davuk because it melts when heated."
+      }
+    },
+    {
+      "id": "siman_103_seifim_5_7-part-2-q005",
+      "question": "When does the twenty-four-hour timer start according to Psakim U'teshuvos?",
+      "options": {
+        "A": "Only after the pot is kashered.",
+        "B": "Only after the next morning begins.",
+        "C": "Only after the food is fully frozen.",
+        "D": "When the food is removed, or when it cools below lukewarm if left inside."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 103, Seif 5",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Psakim U'teshuvos rules that the twenty-four-hour count begins when the food is removed from the keili. If the food remains inside, the clock begins when the food's temperature drops below lukewarm, because that is when the hot absorption process is no longer continuing.",
+        "A": "Kashering is not the starting point for the ben yomo clock.",
+        "B": "The accepted measure is twenty-four hours, not simply morning.",
+        "C": "Freezing is not required.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_103_seifim_5_7-part-2-q006",
+      "question": "What special power does davar charif have in this siman?",
+      "options": {
+        "A": "It can refresh pagum absorbed taste and make it l'shvach.",
+        "B": "It can make every keili immediately eino ben yomo.",
+        "C": "It can nullify every issur without shishim.",
+        "D": "It can remove tangible residue from pot walls."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 103, Seif 6",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "A davar charif, such as onions, garlic, radishes, or strong spices, has a sharpness that can revive pagum absorbed taste. Mechaber cites the view that pepper placed in an eino ben yomo issur pot can make the absorbed taste l'shvach, thereby forbidding the food cooked there.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Davar charif does not shorten the ben yomo period.",
+        "C": "It is a stringency, not a universal bitul power.",
+        "D": "Sharpness does not clean residue from the walls."
+      }
+    },
+    {
+      "id": "siman_103_seifim_5_7-part-2-q007",
+      "question": "When does Taz say a mixture of charif and non-charif food refresh pagum taste?",
+      "options": {
+        "A": "Only when there is no spice flavor at all.",
+        "B": "Only when the non-charif food is the clear majority.",
+        "C": "When the majority is charif or the spices give a very noticeable taste.",
+        "D": "Whenever even a tiny amount of onion is present."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 103, Seif 6",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Taz limits the charif stringency in mixed foods. A mixture of sharp and non-sharp foods refreshes pagum taste only if the majority is charif, or if the spices are powerful enough to give a very noticeable flavor. A small unnoticed sharp component does not automatically create the stringency.",
+        "A": "Noticeable spice flavor is one of the reasons to be stringent.",
+        "B": "If non-charif is clearly dominant and spice is not noticeable, Taz is not stringent.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Taz does not make every tiny sharp amount sufficient."
+      }
+    },
+    {
+      "id": "siman_103_seifim_5_7-part-2-q008",
+      "question": "What does Shach require for davar charif to refresh a pot's pagum flavor?",
+      "options": {
+        "A": "The davar charif must be sold by number.",
+        "B": "The davar charif must be cooked in the pot.",
+        "C": "The pot must have visible residue.",
+        "D": "The pot must be made from cheres."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 103, Seif 6",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Shach stipulates that davar charif refreshes the pot's pagum flavor when the sharp food is cooked in the pot. The stringency is not triggered merely by unrelated contact; it is the cooking of the sharp food that draws out and improves the absorbed taste.",
+        "A": "Sold-by-number is not relevant to davar charif.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The rule is about absorbed pagum taste, not only visible residue.",
+        "D": "The source does not limit the rule to cheres."
+      }
+    },
+    {
+      "id": "siman_103_seifim_5_7-part-2-q009",
+      "question": "Which opinions say one night can make a keili eino ben yomo, and how do Mechaber and Rama rule?",
+      "options": {
+        "A": "Rashi and Tosfos say one night; Mechaber and Rama generally require twenty-four hours.",
+        "B": "Rashbam and Tur say one night; Mechaber and Rama follow them.",
+        "C": "All opinions require exactly one night and not more.",
+        "D": "All opinions require seven full days."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 103, Seif 7",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Rashi and Tosfos hold that linas lailah, one night passing, can make the absorbed taste pagum. Most poskim, including Mechaber and Rama, rule like Rashbam and Tur that a full twenty-four hours is required, although the one-night opinion can matter in some limited cases.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Rashbam and Tur are the twenty-four-hour side.",
+        "C": "There is a dispute, and Mechaber/Rama do not generally follow one night.",
+        "D": "Seven days is not the measure discussed here."
+      }
+    },
+    {
+      "id": "siman_103_seifim_5_7-part-2-q010",
+      "question": "What can cause the twenty-four-hour timer to restart in a treif pot?",
+      "options": {
+        "A": "Leaving the pot uncovered overnight.",
+        "B": "Heating water or other food in it in a way that creates fresh absorbed issur.",
+        "C": "Drying the pot with a towel.",
+        "D": "Moving the pot from one shelf to another."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 103, Seif 7",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Seif 7 discusses whether heating water or another item in a pot after it became treif creates a new absorption that restarts the twenty-four-hour clock. If the water becomes chana\"n or otherwise re-energizes the issur taste, the pot may need twenty-four hours from that later heating.",
+        "A": "Leaving it uncovered does not restart the clock.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Drying with a towel is not new cooking or absorption.",
+        "D": "Moving the pot has no effect on ben yomo timing."
+      }
+    },
+    {
+      "id": "siman_103_seifim_5_7-part-2-q011",
+      "question": "What does Mechaber rule about a basar b'chalav pot in which water was heated before one night passed?",
+      "options": {
+        "A": "The pot is immediately eino ben yomo because water weakens the taste.",
+        "B": "The clock continues only from the original meat cooking.",
+        "C": "The water is ignored because chana\"n never applies to basar b'chalav.",
+        "D": "The pot remains bas yomo until twenty-four hours pass from the water heating."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 103, Seif 7",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that if a pot absorbed basar b'chalav and water was heated in it before one night passed, the pot is considered bas yomo until twenty-four hours pass from the time the water was heated. The water is viewed as receiving and reabsorbing fresh forbidden taste into the pot.",
+        "A": "Mechaber treats the water heating as a reason for stringency, not immediate leniency.",
+        "B": "The point is that the later water heating can reset the clock.",
+        "C": "Chana\"n certainly applies to basar b'chalav according to Mechaber's framework here.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_103_seifim_5_7-part-2-q012",
+      "question": "How does Rama allow leniency for other issurim in a loss case?",
+      "options": {
+        "A": "He permits them immediately even if the issur was cooked moments ago.",
+        "B": "He requires seven days from the later water heating.",
+        "C": "He permits only if the pot is thrown away afterward.",
+        "D": "He allows not restarting the timer for other issurim if twenty-four hours passed from the original issur cooking."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 103, Seif 7",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Rama extends the clock-restart issue to all issurim based on his general chana\"n rule. However, in a case of loss, he allows leniency by other issurim so long as twenty-four hours have passed from the original cooking of the issur, rather than requiring a new count from the later water heating.",
+        "A": "Rama still requires twenty-four hours from the original issur cooking.",
+        "B": "Seven days is not the measure here.",
+        "C": "Throwing away the pot is not Rama's stated leniency.",
+        "D": "Correct option; see the main explanation."
+      }
+    }
+  ]
+}

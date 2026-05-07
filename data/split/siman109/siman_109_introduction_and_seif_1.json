@@ -1,0 +1,540 @@
+{
+  "id": "siman_109_introduction_and_seif_1-part-1",
+  "title": "Siman 109 - Introduction and Seif 1",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 23,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 109",
+  "questions": [
+    {
+      "id": "siman_109_introduction_and_seif_1-part-1-q001",
+      "question": "What topic does Siman 109 return to after the earlier simanim on shishim?",
+      "options": {
+        "A": "When an egg with a chick is removed hot.",
+        "B": "When steam rises from one pot to another.",
+        "C": "When a baker's shovel becomes eino ben yomo.",
+        "D": "When bitul b'rov can apply to yavesh b'yavesh."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 109, Introduction",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The introduction explains that after discussing many details of bitul b'shishim, Shulchan Aruch returns to cases where bitul b'rov applies. Siman 109 focuses on yavesh b'yavesh mixtures, where there is no absorbed taste transfer between the pieces.",
+        "A": "That is the egg case in Siman 107.",
+        "B": "That is zei'ah in Siman 108.",
+        "C": "That is the baker's shovel in Siman 108.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_109_introduction_and_seif_1-part-1-q002",
+      "question": "Why does shishim usually apply in lach b'lach min b'she'eino mino?",
+      "options": {
+        "A": "Because the issur's taste is absorbed into a different type of heter.",
+        "B": "Because the pieces remain separate and identifiable.",
+        "C": "Because every liquid is a davar sheyesh lo matirin.",
+        "D": "Because the issur becomes permitted before mixing."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 109, Introduction",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source explains that shishim is needed min hatorah when the mixture is min b'she'eino mino and lach b'lach, because the issur's flavor is absorbed into the heter and can be tasted unless it is nullified by enough heter.",
+        "A": "Correct option; see the main explanation.",
+        "B": "That describes yavesh b'yavesh, not lach b'lach.",
+        "C": "Future permissibility is unrelated.",
+        "D": "The issur does not become permitted before the mixture."
+      }
+    },
+    {
+      "id": "siman_109_introduction_and_seif_1-part-1-q003",
+      "question": "When does the Torah-level rule of bitul b'rov apply according to the introduction?",
+      "options": {
+        "A": "Only when the mixture is chametz on Pesach.",
+        "B": "Only when the issur is a whole beriah.",
+        "C": "When no forbidden taste is transferred into the heter.",
+        "D": "When the pot is fully sealed while cooking."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 109, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source says the Torah requires shishim where taste is transferred and discernible. Where the issur does not confer taste, such as min b'mino or yavesh b'yavesh, the Torah-level standard is bitul b'rov.",
+        "A": "Chametz on Pesach is an issur mashehu issue.",
+        "B": "A beriah is not batul in the ordinary way.",
+        "C": "Correct option; see the main explanation.",
+        "D": "A sealed pot is not the bitul b'rov criterion."
+      }
+    },
+    {
+      "id": "siman_109_introduction_and_seif_1-part-1-q004",
+      "question": "Which mixture remains at the Torah standard of bitul b'rov without a rabbinic shishim requirement?",
+      "options": {
+        "A": "Min b'she'eino mino yavesh b'yavesh.",
+        "B": "Min b'she'eino mino lach b'lach.",
+        "C": "Min b'mino lach b'lach.",
+        "D": "Min b'mino yavesh b'yavesh."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 109, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source says that min b'mino yavesh b'yavesh does not require shishim even mid'rabbanan. Since the pieces are the same type and there is no flavor transfer, the Rabbanan left the Torah rule of bitul b'rov in place.",
+        "A": "The Rabbanan require shishim lest it later be cooked.",
+        "B": "That requires shishim because different tastes mix.",
+        "C": "The Rabbanan require shishim due to confusion with min b'she'eino mino.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_109_introduction_and_seif_1-part-1-q005",
+      "question": "Why did the Rabbanan require shishim for min b'she'eino mino yavesh b'yavesh?",
+      "options": {
+        "A": "Because every dry piece is automatically chaha'l.",
+        "B": "Because it may later be cooked and become a taste-transfer mixture.",
+        "C": "Because the issur is always recognizable by sight.",
+        "D": "Because yavesh b'yavesh can never be batul."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 109, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Although min b'she'eino mino yavesh b'yavesh has no current taste transfer, the Rabbanan require shishim because the mixture may later be cooked. Once cooked, it becomes lach b'lach and the issur can transfer taste to the heter.",
+        "A": "Chaha'l is a separate exception, not the reason here.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The case assumes the issur is not recognizable.",
+        "D": "Min b'mino yavesh b'yavesh can be batul b'rov."
+      }
+    },
+    {
+      "id": "siman_109_introduction_and_seif_1-part-1-q006",
+      "question": "Why did the Rabbanan require shishim for min b'mino lach b'lach?",
+      "options": {
+        "A": "Because the pieces are dry and separate.",
+        "B": "Because it is always an issur mashehu.",
+        "C": "Because flavor transfers, and people may confuse it with min b'she'eino mino.",
+        "D": "Because a person must throw away one piece."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 109, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "In min b'mino lach b'lach, the flavor cannot be distinguished because the foods are the same type. Still, because flavor transfer is present, the Rabbanan required shishim lest people confuse it with min b'she'eino mino lach b'lach, where shishim is required min hatorah.",
+        "A": "Lach b'lach is not dry and separate.",
+        "B": "It is not automatically an issur mashehu.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Discarding one piece is a separate chumra in yavesh b'yavesh."
+      }
+    },
+    {
+      "id": "siman_109_introduction_and_seif_1-part-1-q007",
+      "question": "How does Rosh understand bitul b'rov in yavesh b'yavesh?",
+      "options": {
+        "A": "The issur remains fully present and one piece must be thrown away.",
+        "B": "The issur is transformed into heter, so one person may eat all at once.",
+        "C": "The mixture must be eaten only by three different people.",
+        "D": "The mixture requires shishim before anyone may eat it."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 109, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rosh holds that once the issur is batul b'rov, it is transformed into heter. Therefore, one person may eat the entire mixture at once, because after bitul there is no remaining issur to avoid.",
+        "A": "That resembles Rashi and Sma'g's chumra, not Rosh.",
+        "B": "Correct option; see the main explanation.",
+        "C": "That resembles Tosfos' concern, not Rosh.",
+        "D": "Rosh is discussing bitul b'rov, not requiring shishim."
+      }
+    },
+    {
+      "id": "siman_109_introduction_and_seif_1-part-1-q008",
+      "question": "How does Rashba say a batul yavesh b'yavesh mixture should be eaten?",
+      "options": {
+        "A": "Only a non-Jew may eat the entire mixture.",
+        "B": "One person may eat all of it together at once.",
+        "C": "No person may eat any piece until one is burned.",
+        "D": "One person may eat it, but not all pieces at once."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 109, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rashba holds that mid'rabbanan the issur does not fully transform into heter. One person may eat the whole mixture, but not all at once; it should be eaten separately so each eating can be understood as possibly being heter.",
+        "A": "Rashba permits a Jew to eat it in separated eating.",
+        "B": "That is Rosh's more lenient view.",
+        "C": "Rashba does not require burning a piece.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_109_introduction_and_seif_1-part-1-q009",
+      "question": "What is Tosfos' stricter view about eating the mixture?",
+      "options": {
+        "A": "One person may eat all the pieces one after another.",
+        "B": "The pieces may be cooked together without shishim.",
+        "C": "One person may not consume the entire mixture.",
+        "D": "The mixture is forbidden even if one piece is discarded."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 109, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Tosfos holds that the whole mixture should not be consumed by one person, even one piece at a time. If one person eats all the pieces, that person will certainly have eaten the issur; if multiple people eat it, each can be viewed as possibly not having eaten the issur.",
+        "A": "That is the more lenient Rashba view.",
+        "B": "Cooking the mixture is discussed in Seif 2.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Discarding one piece is a chumra that can allow the remainder to be eaten."
+      }
+    },
+    {
+      "id": "siman_109_introduction_and_seif_1-part-1-q010",
+      "question": "What do Rashi and Sma'g require as a stringency?",
+      "options": {
+        "A": "Throw away one piece or give it to a non-Jew.",
+        "B": "Cook all pieces together before eating.",
+        "C": "Require shishim for every min b'mino case.",
+        "D": "Declare the whole mixture chana'n."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 109, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rashi and Sma'g hold that one piece should be discarded, because then it is reasonable to say the discarded piece was the issur. Rama cites this as a chumra, not as the basic requirement.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Cooking together may create a shishim issue.",
+        "C": "Min b'mino yavesh b'yavesh is the classic bitul b'rov case.",
+        "D": "Chana'n is not the mechanism in this seif."
+      }
+    },
+    {
+      "id": "siman_109_introduction_and_seif_1-part-1-q011",
+      "question": "How does Mechaber rule for min b'mino yavesh b'yavesh?",
+      "options": {
+        "A": "He rules like Rosh that one may eat all at once.",
+        "B": "He rules like Rashba, while citing Tosfos' stricter opinion.",
+        "C": "He rules like Tosfos only and forbids Rashba's approach.",
+        "D": "He rules that shishim is always required."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 109, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source says Mechaber rules like Rashba: one person may eat the pieces one at a time but not all together. Mechaber also cites Tosfos' stricter opinion that one person should not eat the entire mixture.",
+        "A": "Mechaber does not adopt Rosh's all-at-once leniency.",
+        "B": "Correct option; see the main explanation.",
+        "C": "He cites Tosfos but his first ruling follows Rashba.",
+        "D": "Shishim is not required for min b'mino yavesh b'yavesh."
+      }
+    },
+    {
+      "id": "siman_109_introduction_and_seif_1-part-1-q012",
+      "question": "How does Rama rule l'chatchilah about one person eating all the pieces?",
+      "options": {
+        "A": "One person may eat them only if they are min b'she'eino mino.",
+        "B": "One person must eat all of them at once.",
+        "C": "One person may eat them only after cooking.",
+        "D": "One person should not eat all of them l'chatchilah."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 109, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rama rules like Tosfos l'chatchilah: one person should not eat all the pieces. He then cites the further chumra to throw one away or give one to a non-Jew, but calls that only a chumra.",
+        "A": "Min b'she'eino mino yavesh b'yavesh generally requires shishim.",
+        "B": "That is the opposite of Rama's l'chatchilah ruling.",
+        "C": "Cooking creates the Seif 2 problem.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_109_introduction_and_seif_1-part-1-q013",
+      "question": "How does Rama define yavesh b'yavesh?",
+      "options": {
+        "A": "The issur and heter blend until they cannot be separated.",
+        "B": "The issur stands independently but is mixed among pieces and unrecognized.",
+        "C": "The issur dissolves into liquid heter.",
+        "D": "The issur gives taste into all parts of the mixture."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 109, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rama defines yavesh b'yavesh as a case where the issur is not blended into the heter. It remains its own independent piece, but it is mixed among other pieces and one does not recognize which piece is the issur.",
+        "A": "That is lach b'lach according to Rama's broader definition.",
+        "B": "Correct option; see the main explanation.",
+        "C": "That is a liquid/dissolved case.",
+        "D": "Taste transfer is the reason shishim may be needed."
+      }
+    },
+    {
+      "id": "siman_109_introduction_and_seif_1-part-1-q014",
+      "question": "Why is flour considered lach b'lach by many poskim even though it is dry?",
+      "options": {
+        "A": "Because once flours mix, the mutar and assur flour cannot be distinguished.",
+        "B": "Because flour is always cooked with water.",
+        "C": "Because dry items can never be yavesh b'yavesh.",
+        "D": "Because flour is always a davar sheyesh lo matirin."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 109, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rama broadens the definition beyond literal wetness. Shach cites many who hold that flour is considered lach b'lach because the particles fully blend; one cannot distinguish which flour is mutar and which is assur. Therefore bread baked from such a mixture needs shishim if issur flour was present.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The issue is the blending of flour itself.",
+        "C": "Many dry items can be yavesh b'yavesh.",
+        "D": "Future permissibility is not the reason."
+      }
+    },
+    {
+      "id": "siman_109_introduction_and_seif_1-part-1-q015",
+      "question": "Which items are generally considered yavesh b'yavesh despite being small?",
+      "options": {
+        "A": "Coarsely-ground wheat, rice, sesame seeds, coffee beans, and coarse salt.",
+        "B": "Finely ground flour and dissolved spices.",
+        "C": "Milk and water mixed in one pot.",
+        "D": "Soup absorbed into pieces of meat."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 109, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source says coarsely-ground wheat, rice, sesame seeds, coffee beans, and coarse salt are yavesh b'yavesh according to most opinions because they remain separable, unlike finely ground flour that blends into a unified mixture.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Finely ground flour is treated as lach b'lach by many poskim.",
+        "C": "Milk and water are lach b'lach.",
+        "D": "Absorbed soup is a taste-transfer context, not the listed yavesh examples."
+      }
+    },
+    {
+      "id": "siman_109_introduction_and_seif_1-part-1-q016",
+      "question": "How can a cooked stew still leave a yavesh b'yavesh question?",
+      "options": {
+        "A": "If every piece is already recognizable as issur.",
+        "B": "If the liquid has less than sixty and all pieces are dissolved.",
+        "C": "If the meat and liquid are the same flavor.",
+        "D": "If the liquid has sixty and the only remaining doubt is which solid piece is issur."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 109, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source gives an example of two kosher meat pieces and one neveilah piece cooked in a stew where the stew has sixty against the neveilah. The liquid taste problem is solved by shishim, leaving only the question of which solid piece is issur, so the pieces create a yavesh b'yavesh issue needing rov.",
+        "A": "If the issur is recognizable there is no yavesh b'yavesh bitul.",
+        "B": "If there is less than sixty, the taste problem remains.",
+        "C": "Same flavor is not the defining point of this example.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_109_introduction_and_seif_1-part-1-q017",
+      "question": "According to Shach, what does chad b'trei mean in Mechaber?",
+      "options": {
+        "A": "The heter must be exactly double the issur in every case.",
+        "B": "The combined heter must be greater than the issur, not necessarily double.",
+        "C": "Each heter piece must be larger than the issur piece.",
+        "D": "The mixture must contain sixty times the issur."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 109, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Mechaber says chad b'trei because he discusses the common case of one issur piece among two heter pieces. Shach explains that the real requirement is a majority: the combined heter volume must be greater than the issur, but it need not be exactly double, and each heter piece need not individually be larger.",
+        "A": "Shach rejects an exact double requirement.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Shach says the two heter pieces can combine.",
+        "D": "This is bitul b'rov, not shishim."
+      }
+    },
+    {
+      "id": "siman_109_introduction_and_seif_1-part-1-q018",
+      "question": "Why is chaha'l an exception to yavesh b'yavesh bitul?",
+      "options": {
+        "A": "Because a chaha'l is always permitted after cooking.",
+        "B": "Because a chaha'l is always liquid.",
+        "C": "Because a chaha'l requires only hadachah.",
+        "D": "Because a chaha'l does not become batul at all."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 109, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Mechaber's yavesh b'yavesh rule applies only when the issur piece is not a chatichah hare'uyah l'hiskabed. A chaha'l has special importance and does not become batul, whether mixed min b'mino or min b'she'eino mino.",
+        "A": "Cooking does not permit a chaha'l.",
+        "B": "A chaha'l is a significant piece, not necessarily liquid.",
+        "C": "Hadachah does not solve chaha'l.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_109_introduction_and_seif_1-part-1-q019",
+      "question": "Why does Taz say min b'she'eino mino yavesh b'yavesh can regain issur status if cooked?",
+      "options": {
+        "A": "Because bitul never worked even before cooking.",
+        "B": "Because if taste becomes discernible again, the original issur status returns.",
+        "C": "Because cooking creates a new beriah.",
+        "D": "Because all cooked mixtures are chana'n."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 109, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Taz asks why cooking should matter if the issur was already batul b'rov. He answers that bitul helps only while the issur is not identifiable or tasted. If circumstances change so that its taste can be experienced, it returns to its original issur status, like an unrecognized issur piece that later becomes identified.",
+        "A": "The question assumes bitul worked before the later cooking.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Cooking does not create a beriah.",
+        "D": "Not all cooked mixtures become chana'n."
+      }
+    },
+    {
+      "id": "siman_109_introduction_and_seif_1-part-1-q020",
+      "question": "How can there be yavesh b'yavesh min b'she'eino mino if the items are different types?",
+      "options": {
+        "A": "They may be chopped small, discovered later as treifah, or look alike despite different flavors.",
+        "B": "They must be mixed only as liquids.",
+        "C": "They must be visible and fully recognizable.",
+        "D": "They can exist only by chametz on Pesach."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 109, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Shach gives several possibilities: the mixture may be chopped into unrecognizable pieces, three meats from different animals may be mixed before discovering one animal was treifah, or items with different flavors may look alike and be confused.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The case is yavesh b'yavesh, not liquid mixing.",
+        "C": "If fully recognizable, bitul would not apply.",
+        "D": "Chametz is not the only case."
+      }
+    },
+    {
+      "id": "siman_109_introduction_and_seif_1-part-1-q021",
+      "question": "How does Rama rule about yavesh b'yavesh min b'she'eino mino?",
+      "options": {
+        "A": "It requires shishim even though it is yavesh b'yavesh.",
+        "B": "It is always permitted with simple rov.",
+        "C": "It is never batul even with shishim.",
+        "D": "It is permitted only if one person eats all pieces."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 109, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rama rules that when the mixture is not min b'mino, even if it is yavesh b'yavesh and the issur is unrecognized, shishim is required. The concern is that it may later be cooked and become a taste-transfer mixture.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Rama reserves simple rov for min b'mino yavesh b'yavesh.",
+        "C": "Shishim can permit unless another exception applies.",
+        "D": "Eating by one person is a different issue."
+      }
+    },
+    {
+      "id": "siman_109_introduction_and_seif_1-part-1-q022",
+      "question": "What does Shach say about an issur d'rabbanan in yavesh b'yavesh min b'she'eino mino?",
+      "options": {
+        "A": "He says shishim is certainly required in every case.",
+        "B": "He says rov is sufficient and argues this may be Rama's intent.",
+        "C": "He says the mixture is never permitted.",
+        "D": "He says one must always throw away all pieces."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 109, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Although Rama's simple wording requires shishim even for issur d'rabbanan, Shach disagrees with that straightforward reading. He argues that for rabbinic issurim, rov is enough even in min b'she'eino mino, and he tries to explain Rama that way as well.",
+        "A": "That is the simple reading Shach pushes back against.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Shach is arguing for leniency.",
+        "D": "Discarding all pieces is not his ruling."
+      }
+    },
+    {
+      "id": "siman_109_introduction_and_seif_1-part-1-q023",
+      "question": "What is the core difference between yavesh b'yavesh and lach b'lach in Rama's broader definition?",
+      "options": {
+        "A": "Yavesh b'yavesh means separate identifiable-type units are confused; lach b'lach means the items blend.",
+        "B": "Yavesh b'yavesh means all food is cooked; lach b'lach means all food is raw.",
+        "C": "Yavesh b'yavesh means issur is always visible; lach b'lach means heter is visible.",
+        "D": "Yavesh b'yavesh means sixty is always required; lach b'lach means rov always works."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 109, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rama's broader definition is not simply dry versus wet. Yavesh b'yavesh means the issur remains independent but unrecognized among separate units. Lach b'lach means the issur and heter blend together so they cannot be separated, even if the blended material is technically dry, like flour.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Cooked versus raw is not the definition.",
+        "C": "If the issur were visible, bitul would not apply.",
+        "D": "The measurements are the reverse in many cases."
+      }
+    }
+  ]
+}

@@ -1,0 +1,655 @@
+{
+  "id": "siman_101_introduction_and_seifim_1_4-part-1",
+  "title": "Siman 101 - Introduction and Seifim 1-4",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 28,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 101",
+  "questions": [
+    {
+      "id": "siman_101_introduction_and_seifim_1_4-part-1-q001",
+      "question": "What is the main topic of Siman 101?",
+      "options": {
+        "A": "The rules of chatichah har'uyah l'hischabed, an important piece not batul.",
+        "B": "The rules of salting meat before cooking it in a kosher pot.",
+        "C": "The rules of davar sheyesh lo matirin becoming permitted later.",
+        "D": "The rules of insects and worms that have beriah status."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 101, Introduction",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Siman 101 continues the discussion of important items that do not become batul. After Siman 100 discussed beriah, this siman discusses chatichah har'uyah l'hischabed, a piece of food fit to honor an important guest, such as a significant serving of meat.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Melichah is not the central topic of this siman.",
+        "C": "Davar sheyesh lo matirin is the topic of Siman 102.",
+        "D": "Beriah and infestation were the focus of Siman 100, not this siman."
+      }
+    },
+    {
+      "id": "siman_101_introduction_and_seifim_1_4-part-1-q002",
+      "question": "What does the Gemara teach about non-kosher meat that is a chaha\"l?",
+      "options": {
+        "A": "It is batul only if it has no taste.",
+        "B": "It does not become batul b'rov because it is a davar chashuv.",
+        "C": "It is always permitted once mixed with cooked meat.",
+        "D": "It becomes forbidden only if it is sold by weight."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 101, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source explains that the Mishnah's case of non-kosher meat not becoming batul is understood by the Gemara as referring specifically to a chatichah har'uyah l'hischabed. Since it is an important piece, Chachamim treated it as a davar chashuv that is not nullified by ordinary majority.",
+        "A": "The chaha\"l stringency is about the piece's importance, not only taste.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Mixing with kosher meat does not permit a chaha\"l through ordinary rov.",
+        "D": "Being sold by weight is not the Gemara's reason for chaha\"l."
+      }
+    },
+    {
+      "id": "siman_101_introduction_and_seifim_1_4-part-1-q003",
+      "question": "How do the early poskim line up regarding whether chaha\"l is never batul?",
+      "options": {
+        "A": "Rif, Rambam, and Rosh all reject the chaha\"l rule in practice.",
+        "B": "Rif and Beis Yosef rule strictly, while Rambam and Rosh rule leniently.",
+        "C": "Rambam and Rosh rule strictly, Rif implies leniency, and Beis Yosef rules strictly.",
+        "D": "All Rishonim agree that chaha\"l is batul through shishim."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 101, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source states that Rambam and Rosh codify the Gemara's rule that chaha\"l is never batul, while Rif implies that practically the Gemara is not followed and ordinary bitul applies. Beis Yosef rules like Rambam and Rosh, which is the basis for Mechaber's strict rule.",
+        "A": "Rambam and Rosh do not reject the rule; they codify it.",
+        "B": "This reverses the positions of Rif and the Rambam/Rosh side.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The source explicitly presents a strict rule that chaha\"l is not batul."
+      }
+    },
+    {
+      "id": "siman_101_introduction_and_seifim_1_4-part-1-q004",
+      "question": "How does Mechaber describe the bitul status of chaha\"l?",
+      "options": {
+        "A": "It is batul with a simple majority like ordinary dry issur.",
+        "B": "It is batul with sixty if it gives no recognizable taste.",
+        "C": "It is batul only when the pieces are all the same size.",
+        "D": "It has the din of a beriah and is not batul even in one thousand."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 101, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that a piece fit to honor guests has the same non-bitul status as a beriah. Even if the mixture contains a thousand times as much heter, the chaha\"l itself is not nullified while it retains that important status.",
+        "A": "Chaha\"l is an exception to ordinary dry majority bitul.",
+        "B": "Taste rules do not remove the chaha\"l status of the important piece.",
+        "C": "Equal size is not the criterion Mechaber gives.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_101_introduction_and_seifim_1_4-part-1-q005",
+      "question": "Why can a chaha\"l that is assur b'hana'ah still be considered fit to honor with?",
+      "options": {
+        "A": "If it were batul, it would become permitted and fit to serve.",
+        "B": "It is fit only because a non-Jew may eat it at the table.",
+        "C": "Assur b'hana'ah pieces are always more important than kosher food.",
+        "D": "It is fit only if the owner first sells it to a non-Jew."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 101, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Mechaber explains that even though the piece is currently assur b'hana'ah and cannot practically be served, if it were nullified it would become permitted and then fit to honor guests. Because its potential serving-worthiness would emerge through bitul, it retains chaha\"l status before bitul.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The source focuses on its becoming permitted through bitul, not serving it to a non-Jew.",
+        "C": "Assur b'hana'ah status itself is not what creates importance.",
+        "D": "Selling it is a separate issue and does not define chaha\"l status."
+      }
+    },
+    {
+      "id": "siman_101_introduction_and_seifim_1_4-part-1-q006",
+      "question": "How does Rama rule about a chaha\"l that is only assur mid'rabbanan?",
+      "options": {
+        "A": "It is always batul because the issur is rabbinic.",
+        "B": "It is still not batul if it has chaha\"l status.",
+        "C": "It is not batul only if the rabbinic issur has taste.",
+        "D": "It is batul only after the mixture is cooked again."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 101, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rama rules that even a piece forbidden only mid'rabbanan is not batul if it qualifies as chaha\"l. The special non-bitul status applies because the piece is significant, even though the underlying prohibition is rabbinic rather than Torah-level.",
+        "A": "Rama explicitly applies the chaha\"l stringency even to rabbinic prohibitions.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The source does not make this dependent on taste.",
+        "D": "Cooking again is not a method for removing chaha\"l status."
+      }
+    },
+    {
+      "id": "siman_101_introduction_and_seifim_1_4-part-1-q007",
+      "question": "What is the rule when there is a doubt whether a piece is chaha\"l?",
+      "options": {
+        "A": "One is strict because the underlying issur may be Torah-level.",
+        "B": "One is strict only if the piece is larger than a k'zayis.",
+        "C": "One is lenient because the non-bitul rule of chaha\"l is rabbinic.",
+        "D": "One asks a non-Jew whether the piece looks honorable."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 101, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rama rules that a safeik whether a piece is fit to honor guests is treated leniently, even if the food's underlying issur is d'oraisa. The reason is that the special rule that chaha\"l is not batul is itself mid'rabbanan, so a doubt about that status follows safeik d'rabbanan l'kula.",
+        "A": "That would apply if the doubt were about the Torah issur itself, not chaha\"l status.",
+        "B": "The source does not use k'zayis size as the deciding factor for safeik chaha\"l.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The halachic rule is based on safeik d'rabbanan, not a non-Jewish assessment."
+      }
+    },
+    {
+      "id": "siman_101_introduction_and_seifim_1_4-part-1-q008",
+      "question": "What if a piece is certainly important, but there is doubt whether it is assur?",
+      "options": {
+        "A": "It is automatically batul because every doubt in chaha\"l is lenient.",
+        "B": "It is permitted because important pieces are judged only by appearance.",
+        "C": "It is sold to a non-Jew and the mixture is eaten by Jews.",
+        "D": "If the issur doubt is Torah-level, the mixture remains forbidden."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 101, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source distinguishes a doubt about chaha\"l status from a doubt about whether a known important piece is forbidden. If the piece is certainly chaha\"l and the uncertainty is whether it is assur mid'oraisa, safeik d'oraisa l'chumra applies, and the chaha\"l is not nullified.",
+        "A": "The leniency applies to doubtful chaha\"l status, not to every doubt involving such a piece.",
+        "B": "The question of issur is not resolved by appearance alone.",
+        "C": "Selling may be discussed for issur hana'ah, but it does not permit eating the mixture.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_101_introduction_and_seifim_1_4-part-1-q009",
+      "question": "How may one sell a mixture that is assur b'hana'ah because an issur hana'ah is not batul?",
+      "options": {
+        "A": "One may sell it to a non-Jew after deducting the value of the issur.",
+        "B": "One may sell it to a Jew at full kosher market value.",
+        "C": "One may sell it only if the issur is eaten first.",
+        "D": "One may sell it only after adding sixty times heter."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 101, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "When an issur hana'ah is mixed in and not batul, the entire mixture is forbidden in benefit. The source says one may nevertheless sell the mixture to a non-Jew, provided the value of the issur is deducted, so the Jew does not profit from the forbidden item.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Selling it to a Jew as usable food would not solve the issur hana'ah problem.",
+        "C": "Eating the issur is obviously not an allowed step.",
+        "D": "Adding heter intentionally would not permit benefit from a davar chashuv already not batul."
+      }
+    },
+    {
+      "id": "siman_101_introduction_and_seifim_1_4-part-1-q010",
+      "question": "Why might pas aku\"m not be treated as chaha\"l even when the bread is significant?",
+      "options": {
+        "A": "Because bread is never served to important guests.",
+        "B": "Because some rabbinic issurim apply only while b'ein and not once mixed.",
+        "C": "Because pas aku\"m is always permitted when baked by a professional.",
+        "D": "Because chaha\"l never applies to food made from grain."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 101, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Darkei Moshe and Shach clarify that if the rabbinic prohibition applies only while the food is independently present, but not once it is mixed into other foods, then it is not treated as chaha\"l. Pas aku\"m is the example: once mixed, that particular rabbinic prohibition may not apply in the same way.",
+        "A": "Bread may be important in many contexts; that is not the source's reason.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The source's point is about the issur not applying in mixture, not professional baking.",
+        "D": "The exclusion is not because grain foods can never be chaha\"l."
+      }
+    },
+    {
+      "id": "siman_101_introduction_and_seifim_1_4-part-1-q011",
+      "question": "What does Pri Megadim say about food forbidden only as a chumra?",
+      "options": {
+        "A": "It is treated as chaha\"l whenever guests would enjoy it.",
+        "B": "It is treated as chaha\"l only if the chumra is old.",
+        "C": "It is not treated as chaha\"l when fundamentally the food is mutar.",
+        "D": "It is not batul only if the chumra involves basar b'chalav."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 101, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Pri Megadim adds that if the food is only avoided because of a chumra, while fundamentally it is mutar, it is not considered chaha\"l. Examples include basar she'nisalem min ha'ayin or foods forbidden only because we say ein anu b'ki'in.",
+        "A": "Serving-worthiness alone does not create chaha\"l when the issur is only a chumra.",
+        "B": "The source does not distinguish old and new chumros.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The point applies to chumra cases generally, not only basar b'chalav."
+      }
+    },
+    {
+      "id": "siman_101_introduction_and_seifim_1_4-part-1-q012",
+      "question": "What condition does Mechaber require for a piece to become chaha\"l?",
+      "options": {
+        "A": "It must be forbidden only because it absorbed taste.",
+        "B": "It must be raw and sold by the whole animal.",
+        "C": "It must have been mixed into min b'she'eino mino.",
+        "D": "Its issur must be intrinsic, such as neveilah or basar b'chalav."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 101, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that chaha\"l applies only when the piece is assur machmas atzmo, intrinsically forbidden. Examples are neveilah and basar b'chalav. A kosher piece that merely absorbed forbidden flavor does not become chaha\"l because the piece itself is not the intrinsic issur.",
+        "A": "Absorbed taste is specifically excluded from chaha\"l status.",
+        "B": "Raw status and whole-animal sale are not Mechaber's condition here.",
+        "C": "The kind of mixture does not define intrinsic issur.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_101_introduction_and_seifim_1_4-part-1-q013",
+      "question": "Why is basar b'chalav considered issur machmas atzmo for chaha\"l?",
+      "options": {
+        "A": "Because meat and milk combine to create a new forbidden entity.",
+        "B": "Because milk alone is always an intrinsic issur.",
+        "C": "Because meat alone is always assur b'hana'ah.",
+        "D": "Because basar b'chalav is forbidden only by absorbed blood."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 101, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Shach and Taz explain that although meat and milk separately are permitted, when they combine halachah treats them as forming a new entity of issur called basar b'chalav. The proof is that half a k'zayis of meat together with half a k'zayis of milk can combine into a full k'zayis of forbidden substance.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Milk is not intrinsically forbidden by itself.",
+        "C": "Meat is not intrinsically forbidden by itself.",
+        "D": "Basar b'chalav is its own issur, not a blood-absorption case."
+      }
+    },
+    {
+      "id": "siman_101_introduction_and_seifim_1_4-part-1-q014",
+      "question": "Why is unsalted meat not considered chaha\"l according to Rama?",
+      "options": {
+        "A": "Because unsalted meat is never served to guests in any form.",
+        "B": "Because its issur is from absorbed blood, not from the meat itself.",
+        "C": "Because blood inside meat is always permitted after cooking.",
+        "D": "Because chaha\"l applies only to cooked dairy foods."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 101, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama rules that unsalted meat is batul and does not receive chaha\"l status because the meat is not intrinsically forbidden. Its problem is the blood absorbed within it, and issur balua does not make the piece a chatichah har'uyah l'hischabed.",
+        "A": "The source's reason is not lack of guest-worthiness, but issur balua.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Blood that separates through cooking can be forbidden; the point is that it is absorbed issur.",
+        "D": "Chaha\"l is not limited to dairy foods."
+      }
+    },
+    {
+      "id": "siman_101_introduction_and_seifim_1_4-part-1-q015",
+      "question": "What does Rama rule about a piece that became assur only k'dei klipah?",
+      "options": {
+        "A": "It is always chaha\"l because the whole piece looks important.",
+        "B": "It is chaha\"l only if it is a whole chicken.",
+        "C": "It is batul because the forbidden klipah is not fit to honor guests with.",
+        "D": "It is never batul because klipah is stronger than taste."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 101, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama rules that a piece whose issur is only k'dei klipah does not become chaha\"l. The forbidden part is only the outer layer, and that klipah is not itself a serving-worthy piece with which one honors an important guest.",
+        "A": "Rama focuses on the forbidden layer, not the appearance of the whole piece.",
+        "B": "A whole chicken is not the condition for k'dei klipah cases.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Klipah is a limited absorption, not a stronger reason to prevent bitul."
+      }
+    },
+    {
+      "id": "siman_101_introduction_and_seifim_1_4-part-1-q016",
+      "question": "What does Pri Megadim infer about a piece that would remain forbidden to Jews even if nullified?",
+      "options": {
+        "A": "It is chaha\"l because it could be served to a non-Jew.",
+        "B": "It is chaha\"l only if it is also a davar sheb'minyan.",
+        "C": "It is chaha\"l because issur hana'ah always creates importance.",
+        "D": "It is not chaha\"l merely because it could be served to a non-Jew."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 101, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Pri Megadim extrapolates that chaha\"l depends on the piece being fit to serve to Jews if bitul would permit it. If even after nullification the piece would still not be permitted or fitting for most Jews, it does not become chaha\"l merely because it could be served to a non-Jew.",
+        "A": "Pri Megadim rejects using non-Jewish serving-worthiness as the basis.",
+        "B": "Davar sheb'minyan is a separate importance category.",
+        "C": "Issur hana'ah can still be chaha\"l only where bitul would make it permitted and serving-worthy.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_101_introduction_and_seifim_1_4-part-1-q017",
+      "question": "Why does the chaha\"l status of non-Jewish cheese depend on how it was made?",
+      "options": {
+        "A": "Different starter or curdling issues may define whether the cheese is intrinsically assur.",
+        "B": "Cheese is chaha\"l only if it was made from non-kosher animal milk.",
+        "C": "Cheese is never chaha\"l because no one serves it to guests.",
+        "D": "Cheese is chaha\"l only when it contains visible meat pieces."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 101, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The source explains that cheese production can involve different halachic concerns, such as stomach lining, treifah milk, or added tamei milk. Since chaha\"l requires intrinsic issur and not merely absorbed or external concerns, the way the cheese was made matters greatly for whether it can have chaha\"l status.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The source says non-kosher animal milk generally does not curdle into cheese.",
+        "C": "Maharshal is strict against cheese being chaha\"l, but Taz disagrees; it is not an absolute rule.",
+        "D": "The cheese question is about curdling and issur status, not visible meat."
+      }
+    },
+    {
+      "id": "siman_101_introduction_and_seifim_1_4-part-1-q018",
+      "question": "Why does Maharshal hold that cheese is not chaha\"l?",
+      "options": {
+        "A": "Because cheese can never be made from kosher milk.",
+        "B": "Because people do not eat enough cheese to be satisfied, and some do not eat it at all.",
+        "C": "Because cheese is always forbidden only k'dei klipah.",
+        "D": "Because cheese can never become assur mid'rabbanan."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 101, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Maharshal, based on Mordechai, writes that even hard cheese is not chaha\"l because cheese is not eaten in a sufficiently substantial amount to satisfy, and some people do not eat cheese at all. Therefore, in his view, it is not the sort of food used to honor guests as a chaha\"l.",
+        "A": "The source says kosher animal milk can curdle into cheese.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Cheese is not being discussed as a k'dei klipah case.",
+        "D": "Non-Jewish cheese can certainly be rabbinically forbidden."
+      }
+    },
+    {
+      "id": "siman_101_introduction_and_seifim_1_4-part-1-q019",
+      "question": "How does Yad Yehudah treat appetizers, spreads, and side dishes?",
+      "options": {
+        "A": "They are always chaha\"l because they are served at meals.",
+        "B": "They are chaha\"l only if sold by number.",
+        "C": "They are not chaha\"l when not served as independent main-course pieces.",
+        "D": "They are chaha\"l only if made from meat and cheese together."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 101, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Yad Yehudah rules that appetizers, spreads, and side dishes are not considered chaha\"l when they are not served as independent main-course pieces. Chaha\"l requires a kind of significant piece fit to honor guests, not every food served during a meal.",
+        "A": "Being served at a meal is not enough for chaha\"l status.",
+        "B": "Sold-by-number is davar sheb'minyan, a separate issue.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Basar b'chalav is not the criterion for appetizers and spreads."
+      }
+    },
+    {
+      "id": "siman_101_introduction_and_seifim_1_4-part-1-q020",
+      "question": "According to Mechaber, when is food considered chaha\"l regarding preparation?",
+      "options": {
+        "A": "Even if it needs major preparation before serving.",
+        "B": "Only if it will become fit after cooking several steps later.",
+        "C": "Only if it is sold by the whole animal before butchering.",
+        "D": "Only if it is currently cooked and fit to serve as is."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 101, Seif 3",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The Acharonim understand that Mechaber fundamentally rules like Ra'ah: a piece is chaha\"l only when it is currently fit to be served to important guests. Thus, a raw piece, a whole sheep, or an oversized piece that must still be prepared is not chaha\"l according to Mechaber.",
+        "A": "Mechaber is lenient where significant preparation is still needed.",
+        "B": "That is closer to Rosh's expansive view, not Mechaber's basic ruling.",
+        "C": "Being sold as a whole animal does not make it currently serving-worthy.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_101_introduction_and_seifim_1_4-part-1-q021",
+      "question": "What does Mechaber rule about a feathered issur chicken mixed with kosher chickens?",
+      "options": {
+        "A": "It is batul because it is not fit to honor guests as it is.",
+        "B": "It is never batul because a chicken is always chaha\"l.",
+        "C": "It is forbidden only until the feathers are removed.",
+        "D": "It is chaha\"l only if the chickens are cooked first."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 101, Seif 3",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that a chicken still in its feathers is batul when mixed with other chickens, because in its current state it is not fit to serve to guests. He adds that this remains true even if the feathers are removed only after the mixture occurred.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Mechaber specifically gives feathered chicken as a batul case.",
+        "C": "Removing feathers after the mixture does not make the original issur chozer v'neiur under Mechaber's rule.",
+        "D": "The chicken here is not chaha\"l because of its current unprepared state."
+      }
+    },
+    {
+      "id": "siman_101_introduction_and_seifim_1_4-part-1-q022",
+      "question": "What is Rama's general Ashkenazi custom about pieces not yet fit to serve?",
+      "options": {
+        "A": "All such pieces are batul even if only minor work is missing.",
+        "B": "The custom is stricter, except where a maaseh gadol is still needed.",
+        "C": "The custom follows Mechaber only for all raw meat and fish.",
+        "D": "The custom treats every item sold by weight as chaha\"l."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 101, Seif 3",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama rules that Ashkenazi practice follows the stricter authorities and treats something as chaha\"l even if it is not yet fit to serve, unless it is missing a maaseh gadol, a major act of preparation. A feathered chicken or animal feet/head with hair not burnt off are examples where the missing work is major enough to allow bitul.",
+        "A": "Rama is generally stricter than Mechaber in these preparation cases.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Rama does not simply follow Mechaber for all raw meat and fish.",
+        "D": "Sold by weight is not Rama's definition of chaha\"l."
+      }
+    },
+    {
+      "id": "siman_101_introduction_and_seifim_1_4-part-1-q023",
+      "question": "How does Taz classify a defeathered chicken whose internal organs were not removed?",
+      "options": {
+        "A": "It is batul because gutting is a maaseh gadol.",
+        "B": "It is batul because all raw poultry lacks chaha\"l status.",
+        "C": "It is still chaha\"l because gutting is only a maaseh katan.",
+        "D": "It is chaha\"l only after it is salted and cooked."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 101, Seif 3",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Taz explains that according to Rama, once the chicken has been defeathered, the remaining step of removing the internal organs is only a maaseh katan. Since only a maaseh gadol removes chaha\"l status under Rama's approach, the chicken is still treated as chaha\"l.",
+        "A": "Taz specifically classifies gutting as a minor, not major, act.",
+        "B": "Rama's custom can treat raw or not-yet-ready pieces as chaha\"l.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Taz does not require salting and cooking for Rama's chaha\"l status."
+      }
+    },
+    {
+      "id": "siman_101_introduction_and_seifim_1_4-part-1-q024",
+      "question": "What leniency does Piskei Teshuvah note for Ashkenazim in hefsed merubah?",
+      "options": {
+        "A": "They may ignore chaha\"l whenever the issur is d'oraisa.",
+        "B": "They may treat all chickens as davar sheb'minyan only.",
+        "C": "They may rely on cheese never being chaha\"l.",
+        "D": "They may follow Mechaber's more lenient definition of chaha\"l."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 101, Seif 3",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Although Rama generally adopts a stricter Ashkenazi custom, Piskei Teshuvah notes that in a case of hefsed merubah, Ashkenazim may rely on Mechaber's more lenient definition, which requires the piece to be currently fit to serve as is.",
+        "A": "The leniency is about the definition of chaha\"l, not ignoring Torah issur.",
+        "B": "Davar sheb'minyan is a separate category.",
+        "C": "The hefsed merubah note is not specifically about cheese.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_101_introduction_and_seifim_1_4-part-1-q025",
+      "question": "Why does Shach say a feathered chicken is not treated as davar sheb'minyan according to Mechaber?",
+      "options": {
+        "A": "Because its need for preparation removes that counted-item stringency too.",
+        "B": "Because chickens are normally sold only by weight and never by number.",
+        "C": "Because davar sheb'minyan applies only to fruits and vegetables.",
+        "D": "Because the chicken becomes chozer v'neiur after defeathering."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 101, Seif 3",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Shach explains that Mechaber's ruling implies the whole mixture may be eaten without further action. Even though chickens are sold by unit, they require additional preparation, so Shach says they are not subject to the davar sheb'minyan stringency in this case. He disagrees with Rama elsewhere on this point.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The source acknowledges chickens can be sold by unit.",
+        "C": "Davar sheb'minyan is broader than fruits and vegetables, though its Mishnah source uses produce.",
+        "D": "Shach says the issur is not chozer v'neiur after the later change."
+      }
+    },
+    {
+      "id": "siman_101_introduction_and_seifim_1_4-part-1-q026",
+      "question": "How do Rambam, Shach, and Taz frame the role of local practice in chaha\"l?",
+      "options": {
+        "A": "Local practice is irrelevant once any Rishon lists the food.",
+        "B": "Common practice in the time and place helps determine what counts as chaha\"l.",
+        "C": "Only the practice of butchers determines chaha\"l status.",
+        "D": "Local practice matters only for davar sheyesh lo matirin."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 101, Introduction to Se'ifim 4-5",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The source states that Rambam maintains the laws of which foods count as chaha\"l change according to common practice in place and time. Shach and Taz agree that context matters, because a food's role as an honorable serving can depend on how people in that locale and era treat it.",
+        "A": "Pri Megadim discusses how lists and practice interact, but practice is not irrelevant.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The standard is broader social serving practice, not only butchers' practice.",
+        "D": "This discussion is about chaha\"l, not davar sheyesh lo matirin."
+      }
+    },
+    {
+      "id": "siman_101_introduction_and_seifim_1_4-part-1-q027",
+      "question": "When is fatty duck skin considered chaha\"l according to Shach?",
+      "options": {
+        "A": "Only when mixed with cheese.",
+        "B": "Only when it is raw and unsalted.",
+        "C": "Only when served as a whole piece, not when cut into strips.",
+        "D": "Only when it is forbidden through absorbed taste."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 101, Seif 4",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama rules that fatty duck skin can be chaha\"l, and Shach qualifies that this applies when it is served as a whole piece. Once it is cut into strips, it loses chaha\"l status because it no longer has the form of a significant serving-piece.",
+        "A": "Basar b'chalav is not the condition for duck skin's chaha\"l status.",
+        "B": "Raw and unsalted status is not Shach's qualification here.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Absorbed taste usually prevents chaha\"l; the discussion is about the skin itself."
+      }
+    },
+    {
+      "id": "siman_101_introduction_and_seifim_1_4-part-1-q028",
+      "question": "Why can a burger or schnitzel be considered chaha\"l even though it contains smaller pieces or coatings?",
+      "options": {
+        "A": "Because ground foods are always more important than whole pieces.",
+        "B": "Because fillers and coatings are always assur machmas atzmo.",
+        "C": "Because any food sold in restaurants is automatically chaha\"l.",
+        "D": "Because the combined serving is fit for guests and the main meat element remains significant."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 101, Seif 4",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Yad Yehudah rules that a ground meat patty can be chaha\"l because the combined patty is fit to serve an honored guest. Psakim U'teshuvos extends the logic to schnitzel and burgers with fillers, since the main chicken or meat element remains the essential chaha\"l element and the coating or filler does not remove its status.",
+        "A": "Ground foods are not automatically more important; the issue is the final serving.",
+        "B": "Fillers and coatings are often not intrinsically assur and do not create the status.",
+        "C": "Restaurant sale is not the halachic test given here.",
+        "D": "Correct option; see the main explanation."
+      }
+    }
+  ]
+}

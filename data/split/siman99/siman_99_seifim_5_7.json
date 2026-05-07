@@ -1,0 +1,471 @@
+{
+  "id": "siman_99_seifim_5_7-part-2",
+  "title": "Siman 99 - Seifim 5-7",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 20,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 99",
+  "questions": [
+    {
+      "id": "siman_99_seifim_5_7-part-2-q001",
+      "question": "What is the prohibition of ein m'vatlin issur l'chatchilah?",
+      "options": {
+        "A": "One may not intentionally nullify issur by mixing it into heter or adding heter to it.",
+        "B": "One may not eat any food that was ever mixed with heter.",
+        "C": "One may not measure shishim after a mixture already happened.",
+        "D": "One may not remove visible issur from a permitted mixture."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 99, Seif 5",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Ein m'vatlin issur l'chatchilah means that a person may not deliberately create bitul. That includes placing issur into enough heter to nullify it, or adding more heter to a mixture that does not yet have enough heter, in order to permit the issur.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The rule forbids deliberate nullification, not all mixtures involving heter.",
+        "C": "Measuring an accidental mixture is required; it is not the forbidden act.",
+        "D": "Removing visible issur is often required and is not this prohibition."
+      }
+    },
+    {
+      "id": "siman_99_seifim_5_7-part-2-q002",
+      "question": "How does Mechaber rule if someone nullified issur b'shogeg?",
+      "options": {
+        "A": "It is forbidden forever for every Jew.",
+        "B": "It is permitted.",
+        "C": "It is permitted only after waiting twenty-four hours.",
+        "D": "It is sold only to a non-Jew at full kosher price."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 99, Seif 5",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that if the nullification was done b'shogeg, the resulting mixture is permitted. The penalty of forbidding the mixture is directed at intentional bitul, where the person knowingly tried to use bitul as a way to permit issur.",
+        "A": "That is too strict for Mechaber's shogeg case.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Waiting twenty-four hours belongs to keili taste becoming pagum, not this ruling.",
+        "D": "The sale restriction is discussed for those for whom intentional bitul is forbidden."
+      }
+    },
+    {
+      "id": "siman_99_seifim_5_7-part-2-q003",
+      "question": "If someone nullified issur b'meizid, for whom is it forbidden according to Mechaber?",
+      "options": {
+        "A": "Only for a non-Jew who watched the bitul.",
+        "B": "Only for people who did not know about the bitul.",
+        "C": "For the m'vatel if it was his, and for the person it was intended for.",
+        "D": "For every Jew in the world, without exception."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 99, Seif 5",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Mechaber penalizes intentional bitul by forbidding the mixture to the person who nullified it when the food belongs to him, and also to the person for whom it was intentionally nullified. The mixture remains permitted to others, because the penalty is targeted at preventing people from benefiting from deliberate bitul.",
+        "A": "The penalty is about the Jewish person who created or benefited from the bitul, not a non-Jewish observer.",
+        "B": "The intended beneficiary is penalized specifically because the act was done for him.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Mechaber does not forbid it to everyone; he allows it for others."
+      }
+    },
+    {
+      "id": "siman_99_seifim_5_7-part-2-q004",
+      "question": "What sale restriction does Rama add after intentional bitul?",
+      "options": {
+        "A": "The food must be thrown away and may never be sold.",
+        "B": "It may be sold to a Jew only if sold above kosher market price.",
+        "C": "It may be sold only to the person for whom it was nullified.",
+        "D": "Those for whom it is forbidden may not sell it to another Jew for benefit."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 99, Seif 5",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Rama adds that a person for whom the food is forbidden because of intentional bitul may not sell it to another Jew in a way that lets him benefit from the bitul. Shach explains the concern is financial gain, so if kosher food is more valuable than non-kosher food, selling it as kosher would give prohibited benefit.",
+        "A": "Rama speaks about not selling it to another Jew for benefit, not necessarily destroying it.",
+        "B": "Selling above kosher price would increase the forbidden benefit, not solve the problem.",
+        "C": "It is already forbidden to the intended beneficiary; selling it to him is not the solution.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_99_seifim_5_7-part-2-q005",
+      "question": "Why does Taz permit heating thick honey in order to strain out bee legs?",
+      "options": {
+        "A": "Because the purpose is removal, not bitul, and there is no practical alternative.",
+        "B": "Because bee legs are always considered kosher when found in honey.",
+        "C": "Because deliberate bitul is permitted for any small insect part.",
+        "D": "Because honey can never absorb taste from insects."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 99, Seif 5",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Taz permits the honey case because the person's goal is not to enjoy the forbidden taste or create bitul, but to melt the honey so the bee legs can be strained out. Since the purpose is removal of the issur and there is no other practical way to do it, the incidental bitul of any taste is not treated like prohibited deliberate bitul.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The bee legs are still treated as issur that must be removed.",
+        "C": "Taz's leniency depends on purpose and necessity; it is not a blanket insect rule.",
+        "D": "The case assumes there can be taste transfer, but that taste is batul incidentally."
+      }
+    },
+    {
+      "id": "siman_99_seifim_5_7-part-2-q006",
+      "question": "What does Taz conclude about someone who intentionally nullified issur but did not know the law forbids doing so?",
+      "options": {
+        "A": "He is always treated as meizid because he acted intentionally.",
+        "B": "He is treated as shogeg for this halachah.",
+        "C": "He is treated as a non-Jew for purposes of bitul.",
+        "D": "He is fined only if the mixture is min b'mino."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 99, Seif 5",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Taz discusses whether ignorance of the law is considered shogeg when the person intentionally performed the act of bitul. He concludes that, for this halachah, lack of knowledge that nullifying issur is forbidden is treated as shogeg rather than meizid.",
+        "A": "Taz does not treat every intentional act as meizid if the person did not know the din.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The discussion is about shogeg and meizid, not changing the person's status.",
+        "D": "Taz's conclusion is not limited to min b'mino."
+      }
+    },
+    {
+      "id": "siman_99_seifim_5_7-part-2-q007",
+      "question": "How does chana\"n affect whether adding heter later can help?",
+      "options": {
+        "A": "If chana\"n applies, later heter must have shishim against the entire forbidden mixture.",
+        "B": "If chana\"n applies, any later heter automatically permits the original mixture.",
+        "C": "If chana\"n applies, the issur becomes visible and can simply be removed.",
+        "D": "If chana\"n applies, the case becomes only a safeik d'rabbanan."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 99, Seif 5",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "When chana\"n applies, the first insufficient mixture is treated as a new forbidden entity. Therefore, adding heter later is not enough unless the added and existing heter together have shishim against the whole forbidden mixture, not merely against the original small amount of issur.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Chana\"n makes later bitul harder, not automatically effective.",
+        "C": "Chana\"n is a status of the mixture or piece, not a way to make the original issur visible.",
+        "D": "Chana\"n does not turn the issue into a lenient rabbinic doubt."
+      }
+    },
+    {
+      "id": "siman_99_seifim_5_7-part-2-q008",
+      "question": "What is the practical minhag about a rav asking whether heter was added after the issur fell?",
+      "options": {
+        "A": "A rav must always ask before answering any ta'aruvos question.",
+        "B": "A rav may never ask, even if he knows heter was added.",
+        "C": "The rav asks only when the mixture contains bones.",
+        "D": "The minhag is not to ask unless there is a definite reason to clarify the timing."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 99, Seif 5",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Rama notes stricter opinions that a rav should ask whether heter was added after the issur fell, but writes that the minhag is not to ask. Shach and Taz explain that we deal with the facts in front of us and do not assume hidden problems; however, Taz adds that if the rav already knows heter was definitely added later, he must clarify when it was added.",
+        "A": "Maharshal is stricter, but the practical minhag cited by Rama is not always to ask.",
+        "B": "Taz says that if the rav knows heter was added, he must ask about the timing.",
+        "C": "The question is about later added heter and chana\"n, not specifically bones.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_99_seifim_5_7-part-2-q009",
+      "question": "How does Mechaber rule about intentionally mixing an issur d'rabbanan into heter to nullify it?",
+      "options": {
+        "A": "It is forbidden to place the issur d'rabbanan into heter in order to nullify it.",
+        "B": "It is permitted because rabbinic prohibitions never have bitul rules.",
+        "C": "It is permitted only if the heter is exactly sixty times the issur.",
+        "D": "It is required whenever a rabbinic issur would otherwise be wasted."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 99, Seif 6",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Mechaber does not allow a person to take an issur d'rabbanan and intentionally place it into heter in order to nullify it. His leniency is narrower: if the issur d'rabbanan already fell into heter by itself and there is not enough heter, one may add more heter to complete the bitul.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Rabbinic prohibitions still have bitul rules and may not be deliberately introduced into heter.",
+        "C": "Having sixty does not permit the initial deliberate placement of the issur.",
+        "D": "Avoiding loss does not create a requirement to nullify issur."
+      }
+    },
+    {
+      "id": "siman_99_seifim_5_7-part-2-q010",
+      "question": "What leniency does Mechaber allow for issur d'rabbanan that already fell into heter?",
+      "options": {
+        "A": "The issur may be eaten without any bitul.",
+        "B": "More heter may be added to nullify it.",
+        "C": "The issur may be sold to a Jew as kosher.",
+        "D": "A non-Jew may be asked to declare it permitted."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 99, Seif 6",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Mechaber follows Rashba's distinction. One may not actively put rabbinic issur into heter to nullify it, but if it already fell into heter on its own and the amount is insufficient, one may add more heter to achieve bitul.",
+        "A": "The issur still needs bitul; it is not ignored.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Selling as kosher is not the leniency discussed here.",
+        "D": "The leniency is adding heter, not relying on a declaration by a non-Jew."
+      }
+    },
+    {
+      "id": "siman_99_seifim_5_7-part-2-q011",
+      "question": "How does Rama treat adding heter to nullify an issur d'rabbanan?",
+      "options": {
+        "A": "He requires adding heter in every rabbinic issur case.",
+        "B": "He allows it only when the issur is chametz on Pesach.",
+        "C": "The minhag is strict not to nullify rabbinic issur by adding heter.",
+        "D": "He permits it only for a mixture of meat and milk."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 99, Seif 6",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Rama writes that the minhag is to be strict with issur d'rabbanan as with issur d'oraisa, and not to nullify it intentionally either by putting the issur into heter or by adding heter after it fell. This is stricter than Mechaber's limited leniency.",
+        "A": "Rama is restricting adding heter, not requiring it.",
+        "B": "Chametz on Pesach is not the case for this leniency.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The discussion here is rabbinic issurim generally, not basar b'chalav."
+      }
+    },
+    {
+      "id": "siman_99_seifim_5_7-part-2-q012",
+      "question": "What is chozer v'neiur?",
+      "options": {
+        "A": "A piece that absorbed issur can never join the heter side.",
+        "B": "A forbidden taste becomes pagum after twenty-four hours.",
+        "C": "A rabbi must reopen every ta'aruvos question after Shabbos.",
+        "D": "Earlier nullified issur can reawaken and join later issur of the same type."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 99, Seif 6",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Chozer v'neiur means that issur which was previously nullified may become relevant again when more of the same issur later falls into the mixture. According to the stringent view, the first issur is no longer treated as permanently gone; it joins with the new issur to determine whether there is enough heter.",
+        "A": "That describes a chana\"n concern, not the concept of chozer v'neiur.",
+        "B": "That is the rule of nosen ta'am lifgam in a non-ben-yomo keili, not this concept.",
+        "C": "The term is about issur reawakening in a mixture, not reopening questions after Shabbos.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_99_seifim_5_7-part-2-q013",
+      "question": "How broadly does Rama apply chozer v'neiur?",
+      "options": {
+        "A": "Only in min b'mino dry mixtures when no one knew in between.",
+        "B": "Only in basar b'chalav and never by other issurim.",
+        "C": "Broadly, whether min b'mino or not, yavesh or lach, known in between or not.",
+        "D": "Only when the first issur was intentionally nullified."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 99, Seif 6",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Rama follows the stricter approach that chozer v'neiur applies broadly. The source says he applies it whether the mixture is min b'mino or min b'she'eino mino, whether it is dry or liquid, and whether or not the earlier fall was known before the later fall.",
+        "A": "That is much narrower than Rama's stated rule.",
+        "B": "Rama does not limit chozer v'neiur to basar b'chalav.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Chozer v'neiur is not limited to cases of intentional bitul."
+      }
+    },
+    {
+      "id": "siman_99_seifim_5_7-part-2-q014",
+      "question": "When do different issurim help nullify each other instead of causing chozer v'neiur?",
+      "options": {
+        "A": "When they have different prohibited tastes and are not the same issur.",
+        "B": "When they are both basar b'chalav.",
+        "C": "When they fell into the pot at exactly the same second.",
+        "D": "When the pot is made of cheres."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 99, Seif 6",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Chozer v'neiur is applied to later additions of the same issur or the same prohibited taste. When different issurim with different tastes are involved, they can join the heter side against each other, because each forbidden taste weakens the other rather than reawakening the same issur.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Basar b'chalav is one issur category and not the example of different issurim helping each other.",
+        "C": "Timing is not the key distinction here; sameness of issur and taste is.",
+        "D": "The material of the pot is not what decides this rule."
+      }
+    },
+    {
+      "id": "siman_99_seifim_5_7-part-2-q015",
+      "question": "What is Shach's practical leniency in yavesh b'yavesh min b'mino?",
+      "options": {
+        "A": "He permits it whenever the issur is larger than the heter.",
+        "B": "He permits relying on no chozer v'neiur in hefsed merubah when the first bitul was known in between.",
+        "C": "He permits it only when the issur was placed in intentionally.",
+        "D": "He permits it only when both foods have different tastes."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 99, Seif 6",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Shach limits chozer v'neiur conceptually to taste cases, though he usually follows Rama and Maharshal stringently. In a dry min b'mino mixture where the first bitul was known before more issur fell in, he allows reliance on the lenient view in a case of hefsed merubah.",
+        "A": "Bitul cannot work when the issur is larger than the heter.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Intentional placement would create an ein m'vatlin issur l'chatchilah problem.",
+        "D": "The case is specifically min b'mino, not different tastes."
+      }
+    },
+    {
+      "id": "siman_99_seifim_5_7-part-2-q016",
+      "question": "What is Rama's case of milk that fell into water and was then used with meat?",
+      "options": {
+        "A": "If milk was batul in water, the water may later fall into meat without needing shishim against the milk.",
+        "B": "If milk fell into water, the water is always forbidden forever.",
+        "C": "If milk fell into water, the water may be used with meat only after hag'alah.",
+        "D": "If milk fell into water, the meat needs sixty against all the water."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 99, Seif 6",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Rama rules that if milk fell into water and was nullified with shishim, and that water then fell into meat, the meat is permitted even without having sixty against the original milk. The milk was already batul in the water and is not treated as reappearing to forbid the meat.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Rama's case is a leniency once the milk was properly batul.",
+        "C": "Hag'alah applies to keilim, not to using already-nullified water.",
+        "D": "The concern would be the milk, not the water itself, and Rama says the milk is already batul."
+      }
+    },
+    {
+      "id": "siman_99_seifim_5_7-part-2-q017",
+      "question": "According to Rashba and Mechaber, when may a keili with a small amount of absorbed issur continue to be used?",
+      "options": {
+        "A": "When it is normally used only for cold food and never for hot food.",
+        "B": "When the issur was absorbed in a non-Jewish barrel but not a Jewish pot.",
+        "C": "When it is sometimes used for tiny amounts that can receive the issur taste.",
+        "D": "When it is normally used for large amounts that will always nullify the small absorption."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 99, Seif 7",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Rashba rules, and Mechaber follows, that if a kosher keili absorbed a small amount of issur and is normally used only with large amounts of food, it may continue to be used. Since the absorbed issur can never give noticeable taste into the normal amount cooked or stored in it, this is not treated as prohibited deliberate bitul.",
+        "A": "The source's rule is not limited to cold use.",
+        "B": "The principle is learned from barrel cases but is applied more broadly to a kosher keili.",
+        "C": "If the keili is sometimes used for tiny amounts, the source forbids use because the issur taste may not be batul.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_99_seifim_5_7-part-2-q018",
+      "question": "Why is a plate-like keili sometimes forbidden even if one now wants to use it with a large amount?",
+      "options": {
+        "A": "Because plates can never absorb any issur taste.",
+        "B": "Because it may later be used with a small amount that will not nullify the absorbed issur.",
+        "C": "Because every plate is considered a davar sheb'minyan.",
+        "D": "Because large amounts of food never create bitul in a keili."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 99, Seif 7",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "The source explains that Rashba's leniency applies only where the keili is normally used for large quantities. If it is a type of keili that is sometimes used with small amounts, it may not be used even now with a large amount, because one may later use it with too little food and the absorbed issur may give taste.",
+        "A": "The concern exists precisely because the keili can contain absorbed issur taste.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Davar sheb'minyan is not the reason for the plate case.",
+        "D": "Large amounts can nullify taste; the concern is later small use."
+      }
+    },
+    {
+      "id": "siman_99_seifim_5_7-part-2-q019",
+      "question": "How do Tur and Ran challenge Rashba's keili leniency?",
+      "options": {
+        "A": "They say the keili must be permitted because all belios are immediately pagum.",
+        "B": "They say the case applies only to bones and not to keilim.",
+        "C": "They are stricter, comparing it to concerns such as non-ben-yomo or limiting the Gemara to pagum taste.",
+        "D": "They say a keili is always nullified together with the food inside it."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 99, Seif 7",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Tur is stricter because of a gezeirah-style concern, comparing it to the way Chazal did not freely permit non-ben-yomo use lest one use a problematic keili. Ran is also stricter, suggesting that the Gemara's leniency may have been only where the absorbed wine taste was pagum in beer, not where positive issur taste would be nullified l'chatchilah.",
+        "A": "They do not say all belios are automatically pagum.",
+        "B": "Their challenge is directly about keilim, not a bone-only limitation.",
+        "C": "Correct option; see the main explanation.",
+        "D": "A keili itself is not simply nullified like a food piece."
+      }
+    },
+    {
+      "id": "siman_99_seifim_5_7-part-2-q020",
+      "question": "What practical conclusion does Taz reach about using a keili with small absorbed issur?",
+      "options": {
+        "A": "He follows Mechaber fully and permits every normal use of the keili.",
+        "B": "He permits it only if the keili is made from cheres.",
+        "C": "He permits it only when the absorbed issur is basar b'chalav.",
+        "D": "He concludes one should follow the stricter Tur and Ran approach."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 99, Seif 7",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Although Taz initially works to defend Rashba and Mechaber's leniency, he concludes in practice that one should follow the stricter opinions of Tur and Ran. Therefore, even when the absorbed issur is small and would usually be batul, Taz is hesitant to allow regular use of the keili on that basis.",
+        "A": "Taz does not end with a full practical endorsement of Mechaber's leniency.",
+        "B": "Chazal are often stricter with cheres, not more lenient.",
+        "C": "The keili case is about small absorbed issur generally, not specifically basar b'chalav.",
+        "D": "Correct option; see the main explanation."
+      }
+    }
+  ]
+}

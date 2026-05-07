@@ -1,0 +1,655 @@
+{
+  "id": "siman_103_introduction_and_seifim_1_4-part-1",
+  "title": "Siman 103 - Introduction and Seifim 1-4",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 28,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 103",
+  "questions": [
+    {
+      "id": "siman_103_introduction_and_seifim_1_4-part-1-q001",
+      "question": "What is the main topic of Siman 103?",
+      "options": {
+        "A": "Nosen ta'am l'fgam, where forbidden taste ruins rather than improves food.",
+        "B": "Chatichah har'uyah l'hischabed and pieces fit for honored guests.",
+        "C": "Davar sheyesh lo matirin and items that will become permitted later.",
+        "D": "The rules of salting meat and removing blood before cooking."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 103, Introduction",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Siman 103 moves from earlier stringent exceptions to bitul into a lenient exception: nosen ta'am l'fgam. If issur food or issur belios give a negative, ruined taste to the mixture, that taste does not prohibit the food in the usual way.",
+        "A": "Correct option; see the main explanation.",
+        "B": "That was the subject of Siman 101.",
+        "C": "That was the subject of Siman 102.",
+        "D": "Melichah is not the focus of this siman."
+      }
+    },
+    {
+      "id": "siman_103_introduction_and_seifim_1_4-part-1-q002",
+      "question": "What is the Torah source that ruined forbidden food is not assur in the usual way?",
+      "options": {
+        "A": "The verse about gid hanasheh on the thigh.",
+        "B": "The verse about giving neveilah to a non-Jew who can eat it.",
+        "C": "The verse about not cooking meat and milk together.",
+        "D": "The verse about burning notar after the proper time."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 103, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The Gemara derives the rule from the Torah's wording about neveilah: it is given to the non-Jew in your community to eat. This teaches that the Torah prohibition applies to neveilah fit for human consumption. If the food is unfit or gives bad taste, it falls under nosen ta'am l'fgam, and that logic extends to other issurim and belios.",
+        "A": "Gid hanasheh is a separate issur and not the source used here.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Basar b'chalav is not the source for nosen ta'am l'fgam.",
+        "D": "Notar is not the pasuk used for this derivation."
+      }
+    },
+    {
+      "id": "siman_103_introduction_and_seifim_1_4-part-1-q003",
+      "question": "What is nifgam l'gamri?",
+      "options": {
+        "A": "A taste that is fully pleasant but weak.",
+        "B": "A taste that is neutral and gives no flavor.",
+        "C": "Food or a mixture ruined to the point of being inedible.",
+        "D": "Food that is forbidden only because it was counted by number."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 103, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Nifgam l'gamri means completely ruined. In the source's terms, the food or mixture is no longer fit for human consumption. When a ta'aruvos is ruined to that degree by the issur, it is permitted even where the issur is more than the heter.",
+        "A": "Pleasant but weak taste is not pagum.",
+        "B": "Neutral taste is not the same as fully ruined taste.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Counted items are davar sheb'minyan, not nifgam l'gamri."
+      }
+    },
+    {
+      "id": "siman_103_introduction_and_seifim_1_4-part-1-q004",
+      "question": "How does the source define nifgam ketzas?",
+      "options": {
+        "A": "Food that is completely inedible for all people.",
+        "B": "Food that becomes forbidden only after twenty-four hours.",
+        "C": "Food that improves the mixture at first and later ruins it.",
+        "D": "Food that remains edible but is somewhat difficult or unpleasant to eat."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 103, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Nifgam ketzas means the taste is only partly ruined. The food is still edible, but it is diminished and can be eaten only with some difficulty or unpleasantness. On its own, such issur remains forbidden, but in a mixture it can often be permitted because the issur taste damages the heter rather than benefits it.",
+        "A": "That describes nifgam l'gamri, not nifgam ketzas.",
+        "B": "Twenty-four hours relates to keilim becoming einam bnei yoman.",
+        "C": "That is the later issue of hishbiach u'l'basof pagam.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_103_introduction_and_seifim_1_4-part-1-q005",
+      "question": "According to Rashba, when does nifgam ketzas permit a mixture that still contains issur substance?",
+      "options": {
+        "A": "When the heter is the majority, or when only issur taste remains.",
+        "B": "Only when the issur is a beriah or chaha\"l.",
+        "C": "Only when the issur is exactly half the mixture.",
+        "D": "Whenever the issur is sold by number."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 103, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rashba limits the leniency of nifgam ketzas when actual issur substance remains. If the heter is the majority, the damaged taste permits the mixture. If only issur taste remains and the substance was removed, then the mixture is mutar even if the issur was larger than the heter, because the remaining taste is pagum.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Significant items have separate stringencies and are not Rashba's basic lenient case.",
+        "C": "At half-and-half or issur majority, Rashba requires nifgam l'gamri if substance remains.",
+        "D": "Davar sheb'minyan is unrelated to Rashba's ratio condition."
+      }
+    },
+    {
+      "id": "siman_103_introduction_and_seifim_1_4-part-1-q006",
+      "question": "What is nifgam al yedei hata'aruvos?",
+      "options": {
+        "A": "Food that is naturally disgusting before any mixture.",
+        "B": "Food that may taste good alone but ruins this mixture when added.",
+        "C": "Food that gives no taste at all in any mixture.",
+        "D": "Food that becomes permitted only after Yom Tov."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 103, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Nifgam al yedei hata'aruvos means the issur is not inherently bad; on its own it may be tasty. But in this particular mixture it damages the food's taste, like a food that tastes good alone but ruins the heter it falls into. Mechaber treats that as nosen ta'am l'fgam.",
+        "A": "That is nifgam b'etzem, intrinsically ruined.",
+        "B": "Correct option; see the main explanation.",
+        "C": "No taste at all is neutral taste, which Shach treats differently.",
+        "D": "That is davar sheyesh lo matirin."
+      }
+    },
+    {
+      "id": "siman_103_introduction_and_seifim_1_4-part-1-q007",
+      "question": "How does Rama treat significant items, such as beriah, that ruin a mixture but are not intrinsically pagum?",
+      "options": {
+        "A": "They are batul through a simple majority.",
+        "B": "They are batul only if the mixture is min b'she'eino mino.",
+        "C": "They remain not batul even in one thousand.",
+        "D": "They become permitted once they give any bad taste."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 103, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama qualifies Mechaber's leniency. Important items such as beriah, chaha\"l, and similar categories are not permitted merely because they ruin this particular mixture. Unless they are intrinsically pagum, their own important issur presence remains, and they are still not batul even in one thousand.",
+        "A": "Their importance prevents ordinary majority bitul.",
+        "B": "Rama's point is not limited to min b'she'eino mino.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Ruining the mixture is not enough for a significant item that is not intrinsically pagum."
+      }
+    },
+    {
+      "id": "siman_103_introduction_and_seifim_1_4-part-1-q008",
+      "question": "According to Taz, when is a mixture with issur substance majority still forbidden despite pagum taste?",
+      "options": {
+        "A": "When the issur is only flavor and no substance remains.",
+        "B": "When the issur is the minority but has a strong smell.",
+        "C": "When the mixture is fully inedible from beginning to end.",
+        "D": "When the issur substance is the majority and is only nifgam ketzas."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 103, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Taz rules that where actual issur substance is the majority of the mixture, the mixture remains forbidden unless the issur ruins it completely, making it nifgam l'gamri. If the issur is only the minority, or if only taste remains without substance, nifgam ketzas can be enough because the eater is not benefiting from the issur.",
+        "A": "If only pagum flavor remains, Taz is more lenient.",
+        "B": "Smell is not Taz's criterion here.",
+        "C": "If it is fully inedible, that is nifgam l'gamri and can permit the mixture.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_103_introduction_and_seifim_1_4-part-1-q009",
+      "question": "How does Shach rule about neutral issur taste that is neither good nor bad?",
+      "options": {
+        "A": "It still requires shishim for bitul.",
+        "B": "It is always permitted without bitul.",
+        "C": "It is treated like davar sheyesh lo matirin.",
+        "D": "It becomes permitted only after one night."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 103, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Shach rules that neutral taste is not the same as pagum taste. If the issur confers neither benefit nor damage, it still has the ordinary status of issur and requires sixty for bitul, as shown from gid hanasheh and from the Yerushalmi.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Only taste that ruins the food receives the nosen ta'am l'fgam leniency.",
+        "C": "Davar sheyesh lo matirin is a separate category.",
+        "D": "One night is a keili-related opinion, not the rule for neutral taste."
+      }
+    },
+    {
+      "id": "siman_103_introduction_and_seifim_1_4-part-1-q010",
+      "question": "How does the source treat nosen ta'am l'fgam by basar b'chalav and chametz?",
+      "options": {
+        "A": "It applies to neither basar b'chalav nor chametz according to all opinions.",
+        "B": "It applies to basar b'chalav; chametz on Pesach is subject to special dispute and stringency.",
+        "C": "It applies only to chametz, but never to basar b'chalav.",
+        "D": "It applies only when the issur is a whole beriah."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 103, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Psakim U'teshuvos brings sources showing that nosen ta'am l'fgam applies to basar b'chalav. By chametz on Pesach, Mechaber permits pagum chametz, while Rama is fundamentally stringent even b'mashehu on Pesach and permits only in hefsed merubah; before Pesach, Rama is more lenient.",
+        "A": "The source says it does apply to basar b'chalav, and Mechaber applies it to chametz.",
+        "B": "Correct option; see the main explanation.",
+        "C": "This reverses the source's treatment.",
+        "D": "Whole beriah creates a stringency, not the core leniency."
+      }
+    },
+    {
+      "id": "siman_103_introduction_and_seifim_1_4-part-1-q011",
+      "question": "What issue is raised by food that became pagum and later became meshubach?",
+      "options": {
+        "A": "Whether davar sheb'minyan can become batul after being counted.",
+        "B": "Whether a pot becomes ben yomo after one night.",
+        "C": "Whether the issur status can return once the food becomes good again.",
+        "D": "Whether all pagum food becomes permitted to sell to a non-Jew."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 103, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The Acharonim discuss whether an item that became pagum loses its issur status permanently or can regain that status when it later becomes edible and good-tasting. The source notes a dispute on this question, which matters for industrial flavorings or stabilizers that are independently inedible but become useful in a mixture.",
+        "A": "Davar sheb'minyan is not the central issue here.",
+        "B": "Ben yomo timing is a later keili topic.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Sale to a non-Jew is not the issue of regained taste."
+      }
+    },
+    {
+      "id": "siman_103_introduction_and_seifim_1_4-part-1-q012",
+      "question": "How much must the issur ruin the mixture for Mechaber's nosen ta'am l'fgam leniency?",
+      "options": {
+        "A": "It must make the mixture completely inedible.",
+        "B": "It must ruin the mixture only after twenty-four hours.",
+        "C": "It must ruin the mixture only if the issur is visible.",
+        "D": "Even slight ruin is enough in the basic case."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 103, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that the taste does not need to be completely repulsive. Even if the issur only slightly damages the mixture's taste, it does not prohibit the ta'aruvos in the ordinary case of nosen ta'am l'fgam.",
+        "A": "Complete inedibility is nifgam l'gamri; Mechaber says less can suffice.",
+        "B": "Twenty-four hours is the rule for keilim becoming einam bnei yoman.",
+        "C": "Visible issur is not Mechaber's measure of p'gam.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_103_introduction_and_seifim_1_4-part-1-q013",
+      "question": "When does Rashba require nifgam l'gamri rather than nifgam ketzas?",
+      "options": {
+        "A": "When actual issur substance is at least half the mixture.",
+        "B": "When only issur taste remains after the substance was removed.",
+        "C": "When the issur is smaller than the heter.",
+        "D": "When the mixture contains only neutral-tasting issur."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 103, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rashba's qualification is that slight p'gam is not enough if actual issur substance is the majority, or even half-and-half. In those cases, the mixture is permitted only if the issur ruins it completely so that it is not fit for human consumption.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Where only pagum taste remains, Rashba is lenient even if the issur was large.",
+        "C": "If heter is the majority, nifgam ketzas can permit.",
+        "D": "Neutral taste is not the same as nifgam l'gamri."
+      }
+    },
+    {
+      "id": "siman_103_introduction_and_seifim_1_4-part-1-q014",
+      "question": "Why can a mixture be permitted when only pagum issur taste remains, even if the issur was larger than the heter?",
+      "options": {
+        "A": "Because the issur becomes a beriah only after removal.",
+        "B": "Because the remaining taste is damaging, and the substance is no longer present.",
+        "C": "Because removed issur is always considered fully absent even when its taste is good.",
+        "D": "Because all taste from a removed piece is measured only by majority."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 103, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The source explains that the usual stringency of measuring as if the whole issur exuded does not apply the same way by pagum taste. Once the issur substance was removed, the only remaining issue is its taste, and if that taste damages the food rather than benefits it, the mixture can be permitted.",
+        "A": "Removal does not make the issur a beriah.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Good forbidden taste can still prohibit after the issur is removed.",
+        "D": "Taste after removal is normally measured stringently; the leniency is because the taste is pagum."
+      }
+    },
+    {
+      "id": "siman_103_introduction_and_seifim_1_4-part-1-q015",
+      "question": "What additional chumra does Ran add to Rashba's rule?",
+      "options": {
+        "A": "He forbids every case of nifgam ketzas even without issur substance.",
+        "B": "He permits only cases where the issur is a davar charif.",
+        "C": "He is concerned if the added issur volume makes the food more valuable than the lost taste harms it.",
+        "D": "He requires every pagum mixture to wait twenty-four hours before eating."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 103, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Ran is hesitant where the quantity of issur increases the mixture's volume so much that the eater benefits more from the extra food than loses from the damaged taste. In that case, he considers the mixture assur unless it is ruined to the point of being unfit for human consumption.",
+        "A": "Ran's concern is not every case of taste alone.",
+        "B": "Davar charif is discussed later and is not Ran's added condition.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Twenty-four hours is a keili issue, not Ran's volume-benefit concern."
+      }
+    },
+    {
+      "id": "siman_103_introduction_and_seifim_1_4-part-1-q016",
+      "question": "What does Mechaber require with respect to p'gam from beginning to end?",
+      "options": {
+        "A": "The issur may improve the mixture first if it ruins it later.",
+        "B": "The issur may ruin the mixture first even if it improves later.",
+        "C": "The first moment of taste never matters for this halachah.",
+        "D": "The issur must be pagum from beginning to end."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 103, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber rules like Rambam and Tur that nosen ta'am l'fgam permits only when the issur damages the mixture from beginning to end. If it first improves and later ruins, or first ruins and later improves, the mixture is forbidden because at some stage the issur taste gave benefit.",
+        "A": "If it first improves, the mixture becomes assur before later p'gam.",
+        "B": "If it later improves, the issur taste eventually gives benefit.",
+        "C": "The timing of the taste is central to Mechaber's rule.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_103_introduction_and_seifim_1_4-part-1-q017",
+      "question": "What happens to the pot in which pagum issur was cooked according to Rama's cited opinion?",
+      "options": {
+        "A": "The pot itself becomes assur even though the first food is permitted.",
+        "B": "The pot is always permitted because the food was permitted.",
+        "C": "The pot is permitted only after one night, not before.",
+        "D": "The pot becomes forbidden only if the issur was a davar sheb'minyan."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 103, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama cites the view that even when the first mixture is permitted because the issur was nosen ta'am l'fgam, the pot can still absorb that issur. If the pot later cooks a food that the issur would improve within twenty-four hours, the second food may become forbidden without sixty.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Rama separates the permitted food from the status of the pot.",
+        "C": "One night is not Rama's basic rule for this pot case.",
+        "D": "Davar sheb'minyan is not the reason the pot becomes assur."
+      }
+    },
+    {
+      "id": "siman_103_introduction_and_seifim_1_4-part-1-q018",
+      "question": "If a second food is cooked in that pot within twenty-four hours, when is the second food forbidden?",
+      "options": {
+        "A": "Whenever the first food was permitted through p'gam.",
+        "B": "When the original issur gives good taste to the second food and there is not sixty against it.",
+        "C": "Only when the second food is a davar charif.",
+        "D": "Only when the first food contained no issur substance."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 103, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama rules that if the pot absorbed issur from the first mixture, and a second food is cooked within twenty-four hours in which that issur would be nosen ta'am l'shvach, the second food is forbidden unless it has sixty against the original issur. The concern is that the same issur taste which was pagum for one food may improve another.",
+        "A": "The second food is not always forbidden; it depends on whether the issur improves it.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Davar charif has its own later stringency, but this rule is broader.",
+        "D": "The rule is not limited to flavor-only first mixtures."
+      }
+    },
+    {
+      "id": "siman_103_introduction_and_seifim_1_4-part-1-q019",
+      "question": "What is Rama's spoon case where the second pot remains permitted?",
+      "options": {
+        "A": "A spoon used in issur meshubach is always mutar afterward.",
+        "B": "A spoon becomes permitted only after being sold to a non-Jew.",
+        "C": "A spoon that absorbed pagum issur is put into a second food where that taste is also pagum.",
+        "D": "A spoon used in meat may be put directly into dairy because of p'gam."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 103, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama says that if one stirred a first mixture where the issur was nosen ta'am l'fgam, and then placed that spoon into a second dish where the original issur also ruins the taste, the second pot does not become assur. The transferred taste remains damaging and does not create a prohibited absorbed taste in the second pot.",
+        "A": "Rama's basic case is a spoon that absorbed pagum issur, not meshubach issur.",
+        "B": "Sale to a non-Jew is unrelated to the spoon case.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Na't bar na't of heter has limits and does not allow direct meat-dairy cooking."
+      }
+    },
+    {
+      "id": "siman_103_introduction_and_seifim_1_4-part-1-q020",
+      "question": "Why do bee legs not forbid honey cooked with them?",
+      "options": {
+        "A": "Because bee legs are considered kosher once cooked.",
+        "B": "Because honey is always sixty times any insect parts.",
+        "C": "Because bee legs become davar sheyesh lo matirin.",
+        "D": "Because their taste is disgusting and gives no forbidden beneficial taste."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 103, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber's example is a honey cauldron with bee legs in it. The bee parts are disgusting, and Shach clarifies that any taste they exude is disgusting as well. Therefore, they are nosen ta'am l'fgam and do not make the honey or cauldron forbidden in that case.",
+        "A": "Insects do not become kosher through cooking.",
+        "B": "The source's reason is p'gam, not always having sixty.",
+        "C": "Bee legs are not an item that will later become permitted.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_103_introduction_and_seifim_1_4-part-1-q021",
+      "question": "What if the issur ruins the dish only together with salt or spices already present?",
+      "options": {
+        "A": "It is still considered nosen ta'am l'fgam and the mixture is permitted.",
+        "B": "It is forbidden because the issur alone could not ruin the dish.",
+        "C": "It is permitted only if the spices are more than the issur.",
+        "D": "It is forbidden unless the salt was added after the issur."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 103, Seif 3",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that the method by which the issur becomes pagum does not change the din. Even if the issur can ruin the dish only with help from salt or spices already in the pot, it is still treated as nosen ta'am l'fgam and the mixture is permitted.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Mechaber explicitly allows the p'gam even where another factor helps.",
+        "C": "The source does not require the spices to be the majority.",
+        "D": "The timing stated in Mechaber's case is that the salt or spices are in the pot."
+      }
+    },
+    {
+      "id": "siman_103_introduction_and_seifim_1_4-part-1-q022",
+      "question": "What does Shach add about a mixture that is pagum only because spices are absent?",
+      "options": {
+        "A": "It is forbidden immediately because spices could improve it later.",
+        "B": "It remains permitted while unspiced, even if spices would later improve the issur taste.",
+        "C": "It is permitted only if one promises never to add spices.",
+        "D": "It is forbidden because possible future improvement always creates issur now."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 103, Seif 3",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Shach applies the same idea in reverse. If the issur is currently pagum because the dish lacks salt or spices, it is judged by its present state. As long as the dish is not spiced and the issur currently ruins it, the mixture is permitted, even though added spices could make it taste good later.",
+        "A": "Shach does not forbid it merely because it could be improved later.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The source does not condition the heter on a formal promise.",
+        "D": "Possible future improvement does not define the current mixture according to Shach."
+      }
+    },
+    {
+      "id": "siman_103_introduction_and_seifim_1_4-part-1-q023",
+      "question": "What does Badei HaShulchan say about a dish that is already overly salty or bland before the issur falls in?",
+      "options": {
+        "A": "It is automatically permitted because the dish already tastes bad.",
+        "B": "It is permitted only if the issur is a davar charif.",
+        "C": "It is forbidden if the issur itself did not cause the ruined taste.",
+        "D": "It is permitted whenever the issur is less than half."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 103, Seif 3",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Badei HaShulchan explains that nosen ta'am l'fgam requires the issur itself to damage the food. If the dish was independently too salty or bland, and the issur did not affect the taste, the issur has not become nosen ta'am l'fgam merely because the food was already unpleasant.",
+        "A": "The ruined condition of the food alone is not enough if the issur did not cause it.",
+        "B": "Davar charif is not the criterion in this case.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Majority alone does not permit if the issur taste is not pagum."
+      }
+    },
+    {
+      "id": "siman_103_introduction_and_seifim_1_4-part-1-q024",
+      "question": "Why does Mechaber permit oil or honey bought from non-Jews even if cooked?",
+      "options": {
+        "A": "Because non-Jewish keilim never absorb forbidden taste.",
+        "B": "Because oil and honey are always eaten cold.",
+        "C": "Because wine, milk, or meat taste would ruin them according to Mechaber's ruling.",
+        "D": "Because honey and oil are always davar sheyesh lo matirin."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 103, Seif 4",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that oil and honey from non-Jews are permitted even if cooked in their keilim because the suspected forbidden additions or meat-keili taste would be nosen ta'am l'fgam. The Gemara says wine and milk would ruin honey, and Rambam understands meat taste in honey or oil as pagum as well.",
+        "A": "The case assumes the keilim may contain absorbed taste.",
+        "B": "The ruling applies even if they were cooked.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Davar sheyesh lo matirin is unrelated to honey and oil here."
+      }
+    },
+    {
+      "id": "siman_103_introduction_and_seifim_1_4-part-1-q025",
+      "question": "What distinction does Rama cite regarding honey?",
+      "options": {
+        "A": "Meat ruins mead, but not necessarily actual honey.",
+        "B": "Meat ruins actual honey, but never mead.",
+        "C": "Milk ruins honey, but wine always improves it.",
+        "D": "Honey ruins all meat only after twenty-four hours."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 103, Seif 4",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama cites the view that meat does not ruin actual honey, but only ruins mead, the drink made from honey. Therefore, where there is no significant loss, Rama says one should be stringent about meat and honey taste rather than assume it is pagum.",
+        "A": "Correct option; see the main explanation.",
+        "B": "This reverses Rama's cited distinction.",
+        "C": "The Gemara says wine and milk ruin honey.",
+        "D": "Twenty-four hours is not the honey/mead distinction."
+      }
+    },
+    {
+      "id": "siman_103_introduction_and_seifim_1_4-part-1-q026",
+      "question": "How does Taz rule about meat cooked with honey?",
+      "options": {
+        "A": "He permits it because meat certainly ruins all honey.",
+        "B": "He forbids it and accepts Rama's distinction that meat ruins mead, not honey.",
+        "C": "He permits it only if the meat remains visible.",
+        "D": "He forbids it only when the honey is less than sixty times the pot."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 103, Seif 4",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Taz rejects Bach's attempt to defend the broad honey leniency and concludes that meat cooked with honey is forbidden. He accepts Rama's distinction that meat is pogem mead, not actual honey, and he even rejects Rama's hefsed merubah leniency for meat cooked with honey.",
+        "A": "Taz does not accept the broad claim that meat ruins actual honey.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Visibility of the meat is not Taz's basis.",
+        "D": "His ruling is about whether the taste is pagum, not only a shishim calculation."
+      }
+    },
+    {
+      "id": "siman_103_introduction_and_seifim_1_4-part-1-q027",
+      "question": "What does Shach ask about honey cooked in a non-Jew's pot?",
+      "options": {
+        "A": "Why honey should be forbidden if bees are naturally disgusting.",
+        "B": "Why wine should be permitted when it ruins honey.",
+        "C": "Why the honey is not permitted anyway because a stam pot is assumed eino ben yomo.",
+        "D": "Why a honey pot should be treated as davar sheb'minyan."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 103, Seif 4",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Shach asks that even if meat is not pogem honey, a regular non-Jewish keili should be presumed eino ben yomo, so its absorbed taste is already pagum. He answers that Mechaber means to teach a stronger point: even if the keili is known to be ben yomo, the honey is still permitted according to Mechaber.",
+        "A": "That relates to bee legs, not non-Jewish pots.",
+        "B": "The source says wine ruins honey; that is not Shach's question.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Honey pots are not the davar sheb'minyan issue here."
+      }
+    },
+    {
+      "id": "siman_103_introduction_and_seifim_1_4-part-1-q028",
+      "question": "What practical note does Psakim U'teshuvos add about which foods are pogem one another today?",
+      "options": {
+        "A": "The question has no modern relevance because keilim are never ben yomo.",
+        "B": "All processed foods follow exactly the same taste assumptions as the Gemara.",
+        "C": "Modern rabbis should ignore nosen ta'am l'fgam entirely.",
+        "D": "We are often not expert in food interactions, though basic pagum and keili principles remain practical."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 103, Seif 4",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Psakim U'teshuvos notes that in contemporary food production, the old assumptions about one normal food ruining another have limited practical application, and Chamudei Daniel applies ein anu b'ki'in to such taste judgments. Still, nosen ta'am l'fgam remains very practical for inherently pagum items, such as bee parts in honey, and for pagum taste in keilim.",
+        "A": "Keilim and pagum taste remain practically relevant.",
+        "B": "The source says modern industrial foods may differ from earlier assumptions.",
+        "C": "The siman's principles remain important for contemporary rabbinic questions.",
+        "D": "Correct option; see the main explanation."
+      }
+    }
+  ]
+}

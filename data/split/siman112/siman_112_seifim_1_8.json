@@ -1,0 +1,540 @@
+{
+  "id": "siman_112_seifim_1_8-part-1",
+  "title": "Siman 112 - Seifim 1-8",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 23,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 112",
+  "questions": [
+    {
+      "id": "siman_112_seifim_1_8-part-1-q001",
+      "question": "What is the basic reason Chazal prohibited pas aku\"m?",
+      "options": {
+        "A": "Eating their bread can create closeness that may lead to intermarriage.",
+        "B": "Bread baked by a non-Jew is always suspected of containing non-kosher flour.",
+        "C": "Bread baked by a non-Jew is forbidden d'oraisa even without non-kosher ingredients.",
+        "D": "The oven of a non-Jew always makes the bread forbidden because of absorbed taste."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 112, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Seif 1 explains that pas aku\"m is a rabbinic decree based on chasnus. Even when the bread has no non-kosher ingredients, eating the bread of non-Jews can create social closeness and lead toward intermarriage, so Chazal prohibited it.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The decree applies even when the ingredients themselves are kosher; it is not primarily an ingredient suspicion.",
+        "C": "The source states that cooked or baked food of a non-Jew is mutar mide'oraisa when the ingredients are kosher.",
+        "D": "The basic decree is not based on absorbed taste in the oven, but on the social concern of chasnus."
+      }
+    },
+    {
+      "id": "siman_112_seifim_1_8-part-1-q002",
+      "question": "Which foods are included in the pas aku\"m decree as bread?",
+      "options": {
+        "A": "Any baked starch, including rice bread and legume bread.",
+        "B": "Only bread baked in a private home, not bread baked commercially.",
+        "C": "Bread made from the five grains: wheat, barley, oats, rye, and spelt.",
+        "D": "Only wheat bread, because the other grains are treated as ordinary cooked foods."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 112, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Mechaber defines the pas aku\"m decree as applying to bread made from the five grains. Bread made from legumes, rice, or millet is not included in the category of pas that Chazal prohibited.",
+        "A": "Rice and legume breads are specifically excluded from the category of pas aku\"m.",
+        "B": "Commercial bread may be subject to pas aku\"m too, though it has the special discussion of pas palter.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The source lists all five grains, not wheat alone."
+      }
+    },
+    {
+      "id": "siman_112_seifim_1_8-part-1-q003",
+      "question": "What is the status of rice, millet, or legume bread with respect to bishul aku\"m?",
+      "options": {
+        "A": "It is always forbidden because it is not included in the pas palter leniency.",
+        "B": "It is not pas aku\"m, and it is not bishul aku\"m if it is not fit for a king's table.",
+        "C": "It is permitted only if a Jew owns the dough before the baking begins.",
+        "D": "It is treated like regular pas aku\"m whenever it looks similar to wheat bread."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 112, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Rama adds that although these items are not included in pas aku\"m, they could still raise a bishul aku\"m question. If they are not fit to be served at a king's table, they are not forbidden as bishul aku\"m either. Shach and Taz quote Bach that such breads are definitely not fit for a king's table.",
+        "A": "The source is lenient when the food is not fit for a king's table.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Ownership of the dough is not the factor in this rule.",
+        "D": "Mechaber excludes these breads from pas aku\"m even though they are bread-like."
+      }
+    },
+    {
+      "id": "siman_112_seifim_1_8-part-1-q004",
+      "question": "To which non-Jews does the decree of pas aku\"m apply?",
+      "options": {
+        "A": "Only to idol worshippers, because the wording says oivdei kochavim.",
+        "B": "Only to non-Jews who have children, because the concern is intermarriage.",
+        "C": "Only to non-Jews who bake bread in their own private homes.",
+        "D": "To all non-Jews, even those who keep the seven mitzvos b'nei Noach."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 112, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source notes that although Mechaber's wording refers to oivdei kochavim, the practical halacha is that pas aku\"m and bishul aku\"m apply to all non-Jews, even those who keep sheva mitzvos b'nei Noach. Rama also says the decree applies even where the specific concern of intermarriage seems absent.",
+        "A": "The wording is not limited practically to actual idol worshippers.",
+        "B": "Rama says the decree applies even where the direct concern of intermarriage is absent.",
+        "C": "Commercial bread is also part of the discussion, though pas palter has special leniencies.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_112_seifim_1_8-part-1-q005",
+      "question": "According to Mechaber's basic ruling, when may pas palter be purchased?",
+      "options": {
+        "A": "When no Jewish baker is available, because bread is a staple and it is a pressing need.",
+        "B": "Whenever the non-Jewish baker's bread is cheaper than the Jewish baker's bread.",
+        "C": "Only if the non-Jew baked it in a Jewish-owned oven with Jewish ingredients.",
+        "D": "Never, because Mechaber holds that all non-Jewish bread remains forbidden."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 112, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber follows Ran: in a place where there is no Jewish baker, people may rely on the leniency to buy pas palter from a non-Jewish baker. The reason is that bread is a staple, and lack of available pas yisroel creates a sha'as hadchak.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The cheaper-bread discussion appears later and is not Mechaber's basic rule in Seif 2.",
+        "C": "If the dough belongs to a Jew and the non-Jew bakes it, that creates a different bishul aku\"m problem.",
+        "D": "Mechaber does permit pas palter in the limited case where no Jewish baker is available."
+      }
+    },
+    {
+      "id": "siman_112_seifim_1_8-part-1-q006",
+      "question": "How does Rama rule about pas palter when pas yisroel is available?",
+      "options": {
+        "A": "He agrees with Mechaber that pas palter is allowed only when no Jewish baker is present.",
+        "B": "He permits pas palter even where pas yisroel is available, while still forbidding pas balei batim.",
+        "C": "He permits pas balei batim freely but forbids commercial bakery bread.",
+        "D": "He permits pas palter only during the Aseres Yemei Teshuvah."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 112, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama rules more leniently than Mechaber regarding pas palter. He allows buying bread from a non-Jewish baker even where pas yisroel is available. However, he does not extend that leniency to pas balei batim when pas yisroel is available.",
+        "A": "That is Mechaber's stricter approach, not Rama's ruling.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Rama is more lenient about commercial bread, not private household bread.",
+        "D": "Shach says one should be more careful during Aseres Yemei Teshuvah; that is not a time-specific permission."
+      }
+    },
+    {
+      "id": "siman_112_seifim_1_8-part-1-q007",
+      "question": "How does Rama define whether bread is pas palter or pas balei batim?",
+      "options": {
+        "A": "By who currently owns the bread when the Jew receives it.",
+        "B": "By whether the oven used for baking belongs to a Jew.",
+        "C": "By the non-Jew's intention when baking: for sale or for his household.",
+        "D": "By whether the bread is sliced before it is sold."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 112, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama states that the key issue is the purpose for which the bread was made. If a non-Jew baked it to sell, it is pas palter even if he is not usually a baker. If a baker made it for himself or his family, it is treated as pas balei batim.",
+        "A": "Seif 7 later says the status is generally determined by the time of baking, not current possession.",
+        "B": "Oven ownership is not Rama's definition of palter versus baal habayis.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Slicing bread appears in a later selling concern, not in defining pas palter."
+      }
+    },
+    {
+      "id": "siman_112_seifim_1_8-part-1-q008",
+      "question": "Why does Shach say that a non-Jewish palter baking dough owned by a Jew is not covered by the pas palter leniency?",
+      "options": {
+        "A": "Because any dough owned by a Jew automatically becomes pas yisroel.",
+        "B": "Because palter status helps only when the baker owns the oven.",
+        "C": "Because bread owned by a Jew is never considered important enough for bishul aku\"m.",
+        "D": "Because this case is treated as bishul aku\"m, where the palter leniency does not apply."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 112, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Shach explains that bread baked by a non-Jew should theoretically be included in bishul aku\"m, but Chazal limited that because bread is a staple. When the dough belongs to a Jew, it is not difficult for the Jew to arrange Jewish involvement. Therefore, if a non-Jew bakes it without that involvement, the issue is bishul aku\"m, and the palter leniency does not help.",
+        "A": "Jewish ownership does not make it pas yisroel; it can make the problem more severe if a non-Jew bakes it.",
+        "B": "The source does not base the rule on oven ownership.",
+        "C": "The source says the opposite: Jewish-owned dough baked by a non-Jew can be treated as bishul aku\"m.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_112_seifim_1_8-part-1-q009",
+      "question": "What practical guidance is given even for Ashkenazim who generally rely on Rama about pas palter?",
+      "options": {
+        "A": "It is better to avoid pas palter during Aseres Yemei Teshuvah, and many avoid it on Shabbos and Yom Tov as well.",
+        "B": "They should eat pas palter only if the non-Jewish baker is personally known to them.",
+        "C": "They may eat pas palter only when it was baked in an oven that was lit by a Jew.",
+        "D": "They must follow Mechaber and avoid pas palter whenever pas yisroel is available."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 112, Seif 2",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Although Ashkenazim generally follow Rama and permit pas palter even when pas yisroel is available, Shach says it is better to refrain during Aseres Yemei Teshuvah. Mishna Berura adds Shabbos and Yom Tov, and the source notes that many communities, including Chabad and other chassidic communities, avoid pas palter entirely based on Kabbalah.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Knowing the baker personally does not remove the concern and can even increase social closeness.",
+        "C": "If a Jew participates in the baking, the bread may become pas yisroel; that is a separate route.",
+        "D": "Ashkenazim do not generally follow Mechaber's stricter rule about pas palter."
+      }
+    },
+    {
+      "id": "siman_112_seifim_1_8-part-1-q010",
+      "question": "What does Mechaber cite regarding a palter who invites a Jew to his home?",
+      "options": {
+        "A": "His bread remains pas palter because it was baked in a bakery.",
+        "B": "His bread is treated as pas balei batim in that setting.",
+        "C": "His bread becomes permitted only if the Jew pays for it.",
+        "D": "His bread is permitted only if no Jewish baker is available."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 112, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber cites an authority that when a non-Jewish baker invites a Jew to his home, the bread is treated like pas balei batim. The concern is stronger because the bread is now being eaten in a private social setting rather than as a commercial purchase.",
+        "A": "Mechaber cites the view that in this case the bread is not treated as ordinary pas palter.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Payment is not the factor in the cited ruling.",
+        "D": "The case is about the social setting of the palter's home, not the availability of a Jewish baker."
+      }
+    },
+    {
+      "id": "siman_112_seifim_1_8-part-1-q011",
+      "question": "What contradiction does Shach raise between Seif 3 and Seif 7?",
+      "options": {
+        "A": "Seif 3 forbids palter bread, while Seif 7 permits all balei batim bread.",
+        "B": "Seif 3 follows Rama, while Seif 7 follows only Mechaber.",
+        "C": "Seif 3 seems to define bread by current setting, while Seif 7 defines it by the time of baking.",
+        "D": "Seif 3 discusses pas yisroel, while Seif 7 discusses only bishul aku\"m."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 112, Seif 3",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Shach notes that Seif 3 seems to treat the palter's bread as pas balei batim because of the current meal in the baker's home. But Seif 7 says the bread's status follows the time of baking: bread baked as pas palter remains pas palter even if later held by a baal habayis. Shach therefore offers ways to reconcile Mechaber's rulings.",
+        "A": "Seif 7 does not permit all balei batim bread; it says its original forbidden status remains.",
+        "B": "The contradiction is within Mechaber's presentation, not simply Mechaber versus Rama.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Both se'ifim are discussing the status of bread within pas aku\"m."
+      }
+    },
+    {
+      "id": "siman_112_seifim_1_8-part-1-q012",
+      "question": "If a Jewish baker arrives in a place that had no Jewish baker, what happens to the non-Jewish palter's bread according to Mechaber?",
+      "options": {
+        "A": "It remains permitted forever because the town once had no Jewish baker.",
+        "B": "It is permitted only for travelers but not for residents of the town.",
+        "C": "It becomes permitted only if the non-Jewish bread is better quality.",
+        "D": "It becomes forbidden until the Jewish baker sells out his bread."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 112, Seif 4",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that the leniency of pas palter in a place without pas yisroel ends once a Jewish baker becomes available. The non-Jewish palter's bread is then forbidden until the Jewish baker's bread is sold out; afterward, the pas palter becomes permitted again.",
+        "A": "The permission depends on the current lack of available pas yisroel, not only the town's prior status.",
+        "B": "Mechaber does not make this distinction between travelers and residents in Seif 4.",
+        "C": "Better quality is discussed in Seif 5, not the basic rule here.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_112_seifim_1_8-part-1-q013",
+      "question": "What does Shach hold about pas palter that was already bought before a Jewish baker arrived?",
+      "options": {
+        "A": "It remains permitted, even though new purchases from the non-Jewish baker are now restricted.",
+        "B": "It becomes forbidden immediately because the Jewish baker is now present.",
+        "C": "It may be eaten only if the buyer cannot return it to the non-Jewish baker.",
+        "D": "It may be sold to a non-Jew only after being broken into pieces."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 112, Seif 4",
+        "pageNumbers": "Page 4"
+      },
+      "explanations": {
+        "correct": "The source says Shach understands that Mechaber would forbid even bread already purchased, but Shach disagrees. According to Shach, bread already bought while the heter applied remains permitted.",
+        "A": "Correct option; see the main explanation.",
+        "B": "That is how Shach understands Mechaber, but Shach himself disagrees.",
+        "C": "Shach's leniency is not framed around whether it can be returned.",
+        "D": "Breaking bread into pieces belongs to a later rule about selling forbidden bread to a non-Jew."
+      }
+    },
+    {
+      "id": "siman_112_seifim_1_8-part-1-q014",
+      "question": "When pas yisroel is available, what additional reason may permit pas palter in places that follow the pas palter leniency?",
+      "options": {
+        "A": "The non-Jewish baker bakes only at night.",
+        "B": "The pas palter is better quality or a different type not available from the Jewish baker.",
+        "C": "The pas palter was bought by a Jewish customer before the meal.",
+        "D": "The non-Jewish baker has no children and therefore no chasnus concern."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 112, Seif 5",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Mechaber cites an opinion that in places where pas palter is permitted, one may buy from the non-Jewish baker if that bread is better quality or a type unavailable from the Jewish baker. Since the person specifically prefers that bread, it is treated like a situation of need.",
+        "A": "The time of baking is not the leniency discussed in Seif 5.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Purchase by a Jew does not by itself create the better-quality heter.",
+        "D": "Rama already says the decree applies even where the direct chasnus concern seems absent."
+      }
+    },
+    {
+      "id": "siman_112_seifim_1_8-part-1-q015",
+      "question": "What does the source say about permitting pas palter because the pas yisroel store is less convenient?",
+      "options": {
+        "A": "All poskim permit pas palter whenever parking is harder near the pas yisroel store.",
+        "B": "It is permitted only if the Jewish baker agrees to the purchase.",
+        "C": "Some extend the leniency that far, but most poskim do not accept such a heter.",
+        "D": "It is forbidden only during Aseres Yemei Teshuvah."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 112, Seif 5",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "The source notes that some go very far and allow pas palter when pas yisroel is harder to obtain, such as when parking is more difficult. However, it immediately says that most poskim do not accept such a heter.",
+        "A": "The source says most poskim do not accept that broad convenience leniency.",
+        "B": "The Jewish baker's agreement is not a factor in the discussion.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The issue is the scope of the Seif 5 leniency, not only Aseres Yemei Teshuvah."
+      }
+    },
+    {
+      "id": "siman_112_seifim_1_8-part-1-q016",
+      "question": "Why is bread kneaded with eggs treated more leniently than bread with eggs visibly smeared on top according to Rama?",
+      "options": {
+        "A": "Eggs kneaded into dough are raw, while eggs on top are always fully cooked.",
+        "B": "Eggs kneaded into dough belong to the Jew, while eggs on top belong to the baker.",
+        "C": "Eggs kneaded into dough are never subject to blood-spot concerns.",
+        "D": "Eggs mixed into the dough are batul to the bread, while visible egg glaze is not batul."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 112, Seif 6",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Mechaber permits both egg-kneaded bread and egg-glazed bread, but Rama argues about visible egg glaze. Shach and Taz explain that eggs kneaded into the dough are batul to the bread. When eggs are visibly smeared on top, Rama holds they are seen as an independent cooked food and are not batul, creating a bishul aku\"m problem.",
+        "A": "The distinction is not raw versus cooked; it is whether the eggs are absorbed and batul or visibly present.",
+        "B": "The source does not base the distinction on ownership of the eggs.",
+        "C": "Shach discusses blood spots separately, but that is not Rama's main distinction about visible glaze.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_112_seifim_1_8-part-1-q017",
+      "question": "Why is even the bread part of an empanada baked by a non-Jew forbidden?",
+      "options": {
+        "A": "The oils of the filling penetrate the dough, making the dough part of the bishul aku\"m food.",
+        "B": "Any filled pastry is automatically treated as pas balei batim.",
+        "C": "The outside dough is forbidden only if the filling contains dairy ingredients.",
+        "D": "The dough is forbidden because it is never considered bread for brachos."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 112, Seif 6",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Mechaber and Rama agree that the bread part of an empanada is forbidden. The filling is a bishul aku\"m food, and its oils penetrate into the dough. As a result, the outer dough is not treated as plain bread with a pas palter leniency; it becomes connected to the forbidden cooked filling.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The problem is the absorbed filling, not that every filled pastry is pas balei batim.",
+        "C": "The example includes meat or other fillings; the issue is bishul aku\"m, not only dairy.",
+        "D": "The source treats the dough as bread-like, but the filling changes its halachic status."
+      }
+    },
+    {
+      "id": "siman_112_seifim_1_8-part-1-q018",
+      "question": "How does Rama treat kichels and lekach in a place where pas palter is permitted?",
+      "options": {
+        "A": "They are always bishul aku\"m because they are mezonos.",
+        "B": "They are included in pas, so the pas palter leniency can apply.",
+        "C": "They are permitted only if they contain no sugar or eggs.",
+        "D": "They are treated like rice bread and excluded from pas entirely."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 112, Seif 6",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "Rama says that kichels and lekach are included in the category of pas. Therefore, in a place where people are lenient with pas palter, these items may also be permitted and are not automatically treated as bishul aku\"m.",
+        "A": "Rama explicitly says we do not treat them as bishul aku\"m merely because they are pastries.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The source does not condition the rule on absence of sugar or eggs.",
+        "D": "They are treated as bread-like pastries, not like rice or legume breads."
+      }
+    },
+    {
+      "id": "siman_112_seifim_1_8-part-1-q019",
+      "question": "Which practical rule about pastries is given in the source?",
+      "options": {
+        "A": "All pastries are pas aku\"m because they are baked from flour.",
+        "B": "No pastry can be pas aku\"m because pastries are always mezonos.",
+        "C": "Unfilled cakes or crackers can be pas; filled pastries depend on the filling, and wafers or donuts may be bishul aku\"m instead.",
+        "D": "Filled pastries are always permitted because the filling is batul to the dough."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 112, Seif 6",
+        "pageNumbers": "Page 5"
+      },
+      "explanations": {
+        "correct": "The practical section distinguishes among pastry types. Unfilled items such as cookies, cakes, and crackers can be treated as pas if they can become hamotzi with enough eaten. Filled pastries depend on whether the filling has a bishul aku\"m issue. Foods like wafers or donuts that do not become hamotzi are not treated as pas, though bishul aku\"m may still apply.",
+        "A": "Some pastries are not treated as pas, especially those that never become hamotzi.",
+        "B": "Some mezonos-type pastries are still included in pas for these halachos.",
+        "C": "Correct option; see the main explanation.",
+        "D": "If the filling is subject to bishul aku\"m, the pastry can become forbidden."
+      }
+    },
+    {
+      "id": "siman_112_seifim_1_8-part-1-q020",
+      "question": "What principle does Mechaber establish about the status of bread in Seif 7?",
+      "options": {
+        "A": "The status follows who currently holds the bread when the Jew receives it.",
+        "B": "The status follows whether the bread was sliced before sale.",
+        "C": "The status follows whether the Jew eats it alone or with others.",
+        "D": "The status follows who had it at the time of baking, not who has it now."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 112, Seif 7",
+        "pageNumbers": "Page 6"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that pas balei batim remains forbidden forever, even if later bought by a palter or sent to a Jew. Conversely, pas palter remains permitted forever, even if later bought by a baal habayis. The determining moment is the time of baking.",
+        "A": "Mechaber explicitly says we do not follow current possession.",
+        "B": "Slicing is relevant to a later selling concern, not the core status in Seif 7.",
+        "C": "The eating setting is not the determining factor in Seif 7.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_112_seifim_1_8-part-1-q021",
+      "question": "A non-Jewish homeowner baked bread for his household, and later a non-Jewish baker bought it. What is its status?",
+      "options": {
+        "A": "It remains pas balei batim and is forbidden.",
+        "B": "It becomes pas palter because a baker now owns it.",
+        "C": "It is permitted only if the baker sells it in a store.",
+        "D": "It becomes permitted only after a Jew sends it to another Jew."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 112, Seif 7",
+        "pageNumbers": "Page 6"
+      },
+      "explanations": {
+        "correct": "Since the bread was baked as pas balei batim, it remains forbidden even if a palter later buys it. Seif 7 teaches that the bread's original status at the time of baking remains in force.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Later ownership by a palter does not change bread baked as pas balei batim.",
+        "C": "Selling it commercially later does not change the status fixed at baking.",
+        "D": "Sending it from one Jew to another also does not change its original forbidden status."
+      }
+    },
+    {
+      "id": "siman_112_seifim_1_8-part-1-q022",
+      "question": "What is the rule where no baker at all is available, not even a non-Jewish palter?",
+      "options": {
+        "A": "Everyone agrees that one must fast until pas yisroel arrives.",
+        "B": "Mechaber cites a lenient view for pas balei batim; Rama accepts it, though the custom is to avoid it unless no option exists.",
+        "C": "Pas balei batim becomes fully permitted even when pas yisroel is available nearby.",
+        "D": "Only bread baked from rice or legumes may be eaten in such a place."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 112, Seif 8",
+        "pageNumbers": "Page 7"
+      },
+      "explanations": {
+        "correct": "Mechaber cites Ro'oh's view that where no baker is available at all, even pas balei batim may be eaten, though Mechaber himself had ruled more strictly earlier. Rama agrees with the lenient view and says there is no need to wait for kosher bread, but the accepted custom is to avoid pas balei batim unless there is no other option.",
+        "A": "Rama explicitly says one need not wait for kosher bread to arrive.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The leniency is limited to a case with no available bakery option.",
+        "D": "The discussion is about ordinary bread from balei batim, not only rice or legume bread."
+      }
+    },
+    {
+      "id": "siman_112_seifim_1_8-part-1-q023",
+      "question": "According to Rama in Seif 8, must one wait for kosher bread to be delivered when no bakery is available?",
+      "options": {
+        "A": "Yes, one must wait up to four mil in every case.",
+        "B": "Yes, unless the non-Jewish bread is better quality.",
+        "C": "No, one need not wait for kosher bread to arrive.",
+        "D": "No, but only during the Aseres Yemei Teshuvah."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 112, Seif 8",
+        "pageNumbers": "Page 7"
+      },
+      "explanations": {
+        "correct": "Rama states that in the case where no baker is available at all, one does not need to wait for kosher bread to be delivered. He accepts the leniency of eating pas balei batim when there is no other bread option.",
+        "A": "The four mil rule appears later in Seif 16 and addresses a different situation.",
+        "B": "Better quality is the Seif 5 discussion, not Rama's point here.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The rule is not limited to Aseres Yemei Teshuvah."
+      }
+    }
+  ]
+}

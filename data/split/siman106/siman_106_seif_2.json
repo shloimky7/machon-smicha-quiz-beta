@@ -1,0 +1,379 @@
+{
+  "id": "siman_106_seif_2-part-2",
+  "title": "Siman 106 - Seif 2",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 16,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 106",
+  "questions": [
+    {
+      "id": "siman_106_seif_2-part-2-q001",
+      "question": "What is issur davuk?",
+      "options": {
+        "A": "A forbidden taste absorbed in a utensil.",
+        "B": "A liquid issur dissolved evenly in liquid heter.",
+        "C": "A permitted piece that became permitted again through shishim.",
+        "D": "Issur sticking to or attached to a heter piece while it cooks."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 106, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Issur davuk means that the issur is stuck or attached to a heter piece, such as cheilev attached to meat, while the piece cooks in a pot. The question is whether that attached issur is assumed to enter its own piece more strongly than it spreads through the whole pot.",
+        "A": "That is absorbed issur in a keili, not issur attached to food.",
+        "B": "That describes an evenly mixed liquid case, not davuk.",
+        "C": "Issur davuk is a way the heter piece may become forbidden, not permitted.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_106_seif_2-part-2-q002",
+      "question": "Which Rishonim are identified with the dispute over issur davuk?",
+      "options": {
+        "A": "Sma'k holds of issur davuk, while Rashba does not.",
+        "B": "Rashba holds of issur davuk, while Sma'k does not.",
+        "C": "Rabbeinu Tam rejects davuk, while Rabbeinu Efraim accepts it.",
+        "D": "Rosh accepts davuk, while Rambam rejects all bitul."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 106, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "The source states that Sma'k holds of issur davuk and Rashba does not. It then explains that Tur and Mechaber rule like Rashba, while Rama rules like Sma'k.",
+        "A": "Correct option; see the main explanation.",
+        "B": "This reverses the views named in the source.",
+        "C": "Those Rishonim were named earlier regarding chana'n, not issur davuk here.",
+        "D": "That is not the dispute as presented in this siman."
+      }
+    },
+    {
+      "id": "siman_106_seif_2-part-2-q003",
+      "question": "How do Mechaber and Rama rule about issur davuk?",
+      "options": {
+        "A": "Both reject issur davuk completely.",
+        "B": "Mechaber rejects it, while Rama accepts it.",
+        "C": "Mechaber accepts it, while Rama rejects it.",
+        "D": "Both accept it only by liquids."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 106, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "The source says that Tur and Mechaber rule like Rashba and do not hold of issur davuk, while Rama rules like Sma'k and does hold of issur davuk. This affects whether the attached heter piece itself becomes forbidden and whether the pot must measure against the enlarged forbidden unit.",
+        "A": "Rama accepts issur davuk.",
+        "B": "Correct option; see the main explanation.",
+        "C": "This reverses Mechaber and Rama.",
+        "D": "The case is attached issur on a solid piece, not liquids."
+      }
+    },
+    {
+      "id": "siman_106_seif_2-part-2-q004",
+      "question": "If one holds both issur davuk and chana'n by other issurim, what is the resulting calculation?",
+      "options": {
+        "A": "The pot measures only against the original cheilev.",
+        "B": "The attached heter piece counts toward shishim as permitted food.",
+        "C": "The pot needs sixty against both the attached issur and the heter davuk that became assur.",
+        "D": "The mixture is permitted with a simple majority because davuk is only rabbinic."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 106, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "The source explains that if issur davuk is accepted, the heter piece with the attached issur becomes assur. If one also holds chana'n applies to other issurim, that heter piece now becomes part of the forbidden unit and cannot join the heter side of the calculation. The pot is permitted only with sixty against the issur davuk unit.",
+        "A": "That would ignore the davuk plus chana'n stringency.",
+        "B": "Once it becomes chana'n, it cannot count as permitted volume.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The source requires a shishim calculation, not simple rov."
+      }
+    },
+    {
+      "id": "siman_106_seif_2-part-2-q005",
+      "question": "According to Mechaber, what if meat with attached cheilev cooks in a pot that has sixty against the cheilev?",
+      "options": {
+        "A": "Everything is assur because of issur davuk.",
+        "B": "Only the liquid is mutar, but all solids are assur.",
+        "C": "The meat must be removed immediately before cooling.",
+        "D": "The whole pot can be mutar if the piece remains in the pot until it cools."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 106, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber does not hold of issur davuk, so if the pot has sixty against the cheilev, the pot can be mutar. However, one must not remove the attached piece while the pot is hot; the solution is to leave it in the pot until the pot cools, so it remains joined with the shishim that nullifies the cheilev.",
+        "A": "That follows Rama's davuk concern, not Mechaber's basic ruling.",
+        "B": "Mechaber can permit the pot when handled correctly.",
+        "C": "Immediate removal is Rama's practical approach, not Mechaber's solution.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_106_seif_2-part-2-q006",
+      "question": "Why does Mechaber warn not to remove food while the attached cheilev piece is still in the hot pot?",
+      "options": {
+        "A": "The attached piece may be left without sixty against its cheilev and become assur.",
+        "B": "Removing food creates a new beriah that is not batul.",
+        "C": "The pot becomes a kli sheini and loses its shishim.",
+        "D": "The cheilev becomes pareve only if all pieces are removed."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 106, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber is concerned that if food is removed while the cheilev-attached piece remains hot in the pot, the amount of heter left with that piece may no longer be sixty against the cheilev. At that moment, the attached cheilev could forbid the piece to which it is attached.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Beriah is not the issue in this warning.",
+        "C": "The shishim issue is volume remaining with the piece, not kli sheini status.",
+        "D": "Cheilev does not become pareve through removal."
+      }
+    },
+    {
+      "id": "siman_106_seif_2-part-2-q007",
+      "question": "What solution does Mechaber give for the piece with cheilev attached?",
+      "options": {
+        "A": "Remove it first while the pot is boiling.",
+        "B": "Leave it in the pot until the pot cools.",
+        "C": "Cut away the cheilev after twenty-four hours.",
+        "D": "Add salt until the cheilev becomes pagum."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 106, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Mechaber's solution is to leave the piece with the attached cheilev in the pot until the pot cools. While the pot is hot, separating the piece from the pot's shishim can cause the attached cheilev to forbid it; once cool, that transfer concern no longer operates in the same way.",
+        "A": "Mechaber specifically says not to remove it first.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Twenty-four hours is a kavush measure, not the solution here.",
+        "D": "Adding salt would not solve this hot-pot davuk concern."
+      }
+    },
+    {
+      "id": "siman_106_seif_2-part-2-q008",
+      "question": "According to Rama, what should be done with the piece that has issur attached?",
+      "options": {
+        "A": "Leave it until the pot cools and then eat it.",
+        "B": "Count it together with the pot as heter.",
+        "C": "Remove the forbidden piece, and the rest is mutar if there is sixty.",
+        "D": "Permit it because Mechaber does not hold of davuk."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 106, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Rama holds that issur davuk applies and that the attached heter piece becomes chana'n. Therefore, the piece is forbidden and should be removed; if the remaining pot has sixty against the forbidden unit, the rest of the food is mutar.",
+        "A": "Leaving it to cool is Mechaber's solution, not Rama's.",
+        "B": "Rama does not allow the forbidden piece to count as heter.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Rama does not follow Mechaber on issur davuk."
+      }
+    },
+    {
+      "id": "siman_106_seif_2-part-2-q009",
+      "question": "What does Mechaber agree about a piece with attached cheilev if it was removed while hot?",
+      "options": {
+        "A": "It remains permitted because he rejects issur davuk.",
+        "B": "It is permitted only if the cheilev is removed later.",
+        "C": "It becomes permitted if it is not chaha'l.",
+        "D": "It becomes assur once it is separated from the pot's shishim."
+      },
+      "correctOption": "D",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 106, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Although Mechaber does not assume issur davuk automatically while the piece is in a pot with sixty, he agrees that if the piece is removed while hot, it is no longer joined to the pot's shishim. In that situation, the attached cheilev can forbid its own piece.",
+        "A": "Mechaber rejects the automatic assumption, but agrees when the piece is actually separated.",
+        "B": "Removing the cheilev later does not undo the hot absorption that occurred.",
+        "C": "Chaha'l is not what permits or forbids this known piece.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_106_seif_2-part-2-q010",
+      "question": "Why does Taz say Mechaber permits the attached piece if it stayed in the pot until cooling?",
+      "options": {
+        "A": "Its first transfer from the cheilev occurred while it was joined to a pot with sixty.",
+        "B": "Cheilev attached to meat never transfers taste according to Mechaber.",
+        "C": "The piece becomes permitted because it is a davar sheyesh lo matirin.",
+        "D": "The pot's cooling creates hagalah for the food."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 106, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Taz explains that in Seif 2, the initial transfer from the cheilev to the attached meat occurs while the piece is already in a pot that has sixty against the cheilev. Therefore, according to Mechaber, the cheilev is nullified before it can independently forbid the piece. This differs from Seif 1, where the piece first absorbed issur before entering the later pot.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Mechaber agrees cheilev can transfer if the piece is separated without enough shishim.",
+        "C": "Future permissibility is not the basis of Taz's explanation.",
+        "D": "Cooling is not hagalah for food; it stops further hot transfer."
+      }
+    },
+    {
+      "id": "siman_106_seif_2-part-2-q011",
+      "question": "What question does Shach ask on Mechaber's leniency for meat with attached cheilev?",
+      "options": {
+        "A": "Why does Mechaber require sixty if cheilev has no taste?",
+        "B": "How was the piece not already forbidden during salting through maliach k'roteach?",
+        "C": "Why does Rama allow the piece to remain until the pot cools?",
+        "D": "How can a liquid mixture ever become fully dissolved?"
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 106, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Shach asks that if cheilev was attached while the meat cooked, presumably it was attached earlier when the meat was salted. Since maliach k'roteach can transfer issur taste, why was the meat not already forbidden from the salting stage before it ever entered the pot?",
+        "A": "No one assumes cheilev has no taste in this discussion.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Rama does not allow leaving it until cooling; that is Mechaber's approach.",
+        "D": "That is a Seif 1 liquid-mixture issue, not Shach's question here."
+      }
+    },
+    {
+      "id": "siman_106_seif_2-part-2-q012",
+      "question": "What is one answer Shach gives to why the meat was not already forbidden during salting?",
+      "options": {
+        "A": "The cheilev became permitted because it was davuk.",
+        "B": "The salting happened after the meat was cooked.",
+        "C": "The cheilev may be only rabbinic or from a lean animal, so only k'dei klipah was affected.",
+        "D": "Salt has no ability to transfer taste into any food."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 106, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "One answer of Shach is that Mechaber's case may involve cheilev that is only assur mid'rabbanan or cheilev from a lean animal. According to Mechaber, such melichah would forbid only k'dei klipah, leaving the main part of the attached meat permitted if it later cooked in a pot with enough shishim.",
+        "A": "Being davuk creates the question; it does not permit the cheilev.",
+        "B": "The source assumes meat is salted before cooking.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Maliach k'roteach means salt can have taste-transfer power."
+      }
+    },
+    {
+      "id": "siman_106_seif_2-part-2-q013",
+      "question": "What is Shach's second answer to the salting problem?",
+      "options": {
+        "A": "The meat was never salted at all.",
+        "B": "The cheilev was removed before salting and reattached later.",
+        "C": "The pot was made of metal and therefore did not absorb.",
+        "D": "The original large piece had sixty against the cheilev during salting and was later cut smaller."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 106, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Shach's second answer is that the original chatichah may have been very large, with sixty against the attached cheilev at the time of salting. After that salting stage, the large piece was cut into smaller pieces and then cooked, so the cooking case can arise without the meat having been forbidden earlier.",
+        "A": "The question assumes the meat required salting.",
+        "B": "Shach does not suggest a reattachment scenario.",
+        "C": "The issue is food and cheilev, not metal absorption.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_106_seif_2-part-2-q014",
+      "question": "According to Shach, when does Rama mean the issur davuk piece should be removed?",
+      "options": {
+        "A": "Immediately, because the entire attached piece is already forbidden.",
+        "B": "Only after the pot cools, so it can become permitted.",
+        "C": "Only after twenty-four hours of soaking.",
+        "D": "Only once it is no longer recognizable."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 106, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Shach explains that according to Rama, the attached piece has already become forbidden through issur davuk and chana'n. Therefore, the proper step is to remove it immediately, assuming the rest of the pot has sixty against the forbidden unit.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Cooling helps only according to Mechaber's approach, not Rama's.",
+        "C": "Twenty-four hours is unrelated to this hot cooking case.",
+        "D": "If it becomes unrecognizable, that creates a separate bitul complication."
+      }
+    },
+    {
+      "id": "siman_106_seif_2-part-2-q015",
+      "question": "Why does leaving the attached piece until the pot cools not help according to Rama?",
+      "options": {
+        "A": "Because cooling makes the cheilev stronger than before.",
+        "B": "Because the whole attached piece is already forbidden.",
+        "C": "Because a cold pot can never contain shishim.",
+        "D": "Because Rama rejects chana'n by all issurim."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 106, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Rama holds of issur davuk and chana'n by other issurim, so the heter piece to which the cheilev is attached becomes forbidden. Since the whole piece is already assur, waiting until the pot cools does not restore it; it should instead be removed.",
+        "A": "Cooling does not strengthen cheilev.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Shishim is a volume calculation, not dependent on the pot being hot.",
+        "D": "Rama accepts chana'n by all issurim as the minhag."
+      }
+    },
+    {
+      "id": "siman_106_seif_2-part-2-q016",
+      "question": "What is Taz's distinction between Mechaber's Seif 1 case and his Seif 2 case?",
+      "options": {
+        "A": "Seif 1 discusses liquids, while Seif 2 discusses only utensils.",
+        "B": "Seif 1 is about basar b'chalav, while Seif 2 is about chametz.",
+        "C": "In Seif 1 the piece absorbed issur before entering the pot; in Seif 2 the first transfer happened in a pot with sixty.",
+        "D": "In Seif 1 Mechaber follows Rama, while in Seif 2 Rama follows Mechaber."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 106, Seif 2",
+        "pageNumbers": "Page 3"
+      },
+      "explanations": {
+        "correct": "Taz explains that Seif 1 forbids the original piece because it absorbed issur before joining the later pot with shishim, so efshar l'sochto assur leaves it forbidden. In Seif 2, by contrast, the cheilev's first transfer to the attached meat occurs while the meat is already in a pot that has sixty against the cheilev, so according to Mechaber it can remain permitted if not separated while hot.",
+        "A": "Seif 1 includes a solid chatichah case, not only liquids.",
+        "B": "That is not the distinction Taz makes.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Mechaber and Rama remain distinct in both se'ifim."
+      }
+    }
+  ]
+}

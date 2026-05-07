@@ -1,0 +1,563 @@
+{
+  "id": "siman_106_introduction_and_seif_1-part-1",
+  "title": "Siman 106 - Introduction and Seif 1",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 24,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 106",
+  "questions": [
+    {
+      "id": "siman_106_introduction_and_seif_1-part-1-q001",
+      "question": "What is the main topic of Siman 106?",
+      "options": {
+        "A": "Cases where issur can magnify the amount needing bitul.",
+        "B": "Cases where a utensil becomes kosher through hagalah.",
+        "C": "Cases where cold soaking creates kavush after three days.",
+        "D": "Cases where a whole beriah is never batul."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 106, Introduction",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The introduction explains that ordinarily only the issur itself needs bitul because it spreads through the mixture. Siman 106 focuses on cases where a small issur can contaminate a larger entity, thereby increasing the amount that must be nullified, especially through chana'n and issur davuk.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Hagalah of utensils is not the siman's organizing topic.",
+        "C": "Kavush is a major topic in Siman 105, not the focus here.",
+        "D": "Beriah is a different bitul problem from the one discussed here."
+      }
+    },
+    {
+      "id": "siman_106_introduction_and_seif_1-part-1-q002",
+      "question": "Which two concepts are highlighted as ways a small issur can expand the bitul problem?",
+      "options": {
+        "A": "Kavush and irui.",
+        "B": "Chana'n and issur davuk.",
+        "C": "Beriah and chaha'l.",
+        "D": "Reicha and zeiah."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 106, Introduction",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The introduction names chana'n and issur davuk as the two major cases in this siman where a small issur can transform or attach itself to a larger heter entity. Once that larger entity becomes part of the issur calculation, the required shishim can become much larger.",
+        "A": "Those are methods of taste transfer, but not the two highlighted mechanisms here.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Those are independent bitul categories, not the siman's two main mechanisms.",
+        "D": "Those are aroma and steam concerns, not the siman's focus."
+      }
+    },
+    {
+      "id": "siman_106_introduction_and_seif_1-part-1-q003",
+      "question": "Why can chana'n and issur davuk make a shishim calculation much larger?",
+      "options": {
+        "A": "They remove the need to calculate shishim at all.",
+        "B": "They turn every liquid into a kli rishon.",
+        "C": "They make the issur taste pagum in the mixture.",
+        "D": "They can turn a larger heter entity into part of what must be nullified."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 106, Introduction",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The introduction frames the siman around cases where the issue is no longer just the original small issur. Through chana'n or issur davuk, a larger piece or unit of heter can become treated as forbidden, so the pot may need sixty against that larger unit rather than only against the original issur.",
+        "A": "They make shishim more demanding, not unnecessary.",
+        "B": "They concern forbidden status and calculation, not kli rishon status.",
+        "C": "The issue is enlargement of the forbidden unit, not p'gam.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_106_introduction_and_seif_1-part-1-q004",
+      "question": "What does efshar l'sochto assur mean?",
+      "options": {
+        "A": "The food becomes permitted if the issur is pressed out.",
+        "B": "The utensil cannot be kashered even with hagalah.",
+        "C": "A food remains assur even if its absorbed issur could theoretically be extracted.",
+        "D": "A liquid is always permitted once more heter is added."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 106, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "Efshar l'sochto assur means that once food absorbed issur, the food remains forbidden even if one could imagine extracting the issur from it. The source connects this to ein hag'alah l'ochlin: unlike utensils, foods do not have a halachic hagalah that removes their absorbed issur.",
+        "A": "That is efshar l'sochto mutar, the rejected approach.",
+        "B": "The rule contrasts food with utensils, which can sometimes be kashered.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Liquids are discussed separately because they mix and dissolve."
+      }
+    },
+    {
+      "id": "siman_106_introduction_and_seif_1-part-1-q005",
+      "question": "What does ein hag'alah l'ochlin mean?",
+      "options": {
+        "A": "Foods can be kashered the same way utensils can.",
+        "B": "Only liquids can ever absorb forbidden taste.",
+        "C": "Food can be kashered only if it is first dried.",
+        "D": "There is no hagalah process that removes absorbed issur from food."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 106, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source explains that efshar l'sochto assur is also called ein hag'alah l'ochlin. A utensil can sometimes have its absorbed taste extracted through hagalah, but a food item that absorbed issur remains forbidden because halachah does not treat food as kasherable in that way.",
+        "A": "That is the opposite of ein hag'alah l'ochlin.",
+        "B": "Solids can also absorb forbidden taste.",
+        "C": "Drying food is not presented as a kashering method.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_106_introduction_and_seif_1-part-1-q006",
+      "question": "Why might the original piece remain assur even after there is sixty in the later pot?",
+      "options": {
+        "A": "The issur may remain concentrated in the first piece and not fully leave it.",
+        "B": "The later pot can never count toward bitul for absorbed issur.",
+        "C": "The original piece becomes permitted only after three days.",
+        "D": "The first piece is always a beriah once it absorbs taste."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 106, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source gives a reason for efshar l'sochto assur: because the first piece became assur before the issur spread into the larger pot, the absorbed issur may not leave that piece evenly. There is concern that the issur remains more concentrated in the original piece, so the pot can be permitted while that piece itself remains forbidden.",
+        "A": "Correct option; see the main explanation.",
+        "B": "According to Mechaber, the later pot can count toward bitul of the absorbed issur.",
+        "C": "Three days is unrelated to this issue.",
+        "D": "Absorbing taste does not make the piece a beriah."
+      }
+    },
+    {
+      "id": "siman_106_introduction_and_seif_1-part-1-q007",
+      "question": "In the pork-fat example, what changes if efshar l'sochto is mutar?",
+      "options": {
+        "A": "Only the pot becomes assur while the original piece is mutar.",
+        "B": "The absorbed issur is judged against the full pot, so the original piece may be eaten.",
+        "C": "The pork fat remains forbidden but no shishim is needed.",
+        "D": "The original piece must be removed even if the pot has shishim."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 106, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "If efshar l'sochto mutar were accepted, the absorbed pork fat would be viewed as leaving the original piece and spreading into the later mixture. Once the later pot has sixty against that pork fat, both the pot and the original piece would be permitted. The source contrasts this with the accepted ruling of efshar l'sochto assur.",
+        "A": "That reverses the usual concern; the pot can be permitted while the piece remains assur.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Shishim is still the mechanism for nullifying the absorbed issur.",
+        "D": "That is the result under efshar l'sochto assur, not mutar."
+      }
+    },
+    {
+      "id": "siman_106_introduction_and_seif_1-part-1-q008",
+      "question": "How do Mechaber and Rama rule about efshar l'sochto?",
+      "options": {
+        "A": "Both rule that it is mutar.",
+        "B": "Mechaber is lenient, while Rama is strict.",
+        "C": "Both rule that efshar l'sochto is assur.",
+        "D": "Both leave the matter unresolved."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 106, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source states that both Mechaber and Rama rule efshar l'sochto assur. Therefore, even when the absorbed issur becomes batul in a later mixture, the original solid piece that absorbed it can remain forbidden to eat.",
+        "A": "That is the opinion they do not rule like.",
+        "B": "They disagree about chana'n by other issurim, not about this basic point.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The source presents their ruling as decided."
+      }
+    },
+    {
+      "id": "siman_106_introduction_and_seif_1-part-1-q009",
+      "question": "Do Mechaber and Rama agree that chana'n applies to basar b'chalav?",
+      "options": {
+        "A": "No, neither accepts chana'n by basar b'chalav.",
+        "B": "No, only Rama applies it to basar b'chalav.",
+        "C": "No, only Mechaber applies it to basar b'chalav.",
+        "D": "Yes, both accept chana'n by basar b'chalav."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 106, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source says that regarding basar b'chalav, the overwhelming majority of Rishonim, as well as both Mechaber and Rama, rule that chana'n applies. Their main dispute is whether chana'n applies to other issurim as well.",
+        "A": "Both accept chana'n by basar b'chalav.",
+        "B": "Mechaber also accepts chana'n by basar b'chalav.",
+        "C": "Rama also accepts chana'n by basar b'chalav.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_106_introduction_and_seif_1-part-1-q010",
+      "question": "How do Rabbeinu Efraim and Rabbeinu Tam differ about chana'n?",
+      "options": {
+        "A": "Rabbeinu Efraim limits chana'n to basar b'chalav; Rabbeinu Tam applies it to other issurim too.",
+        "B": "Rabbeinu Efraim applies chana'n to all issurim; Rabbeinu Tam limits it to milk.",
+        "C": "Both hold chana'n applies only to blood absorbed in salt.",
+        "D": "Both hold chana'n never applies outside of utensils."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 106, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source identifies Rabbeinu Efraim as the view that chana'n applies only to basar b'chalav, while Rabbeinu Tam applies chana'n to other issurim as well. Mechaber follows Rabbeinu Efraim, and Rama follows Rabbeinu Tam.",
+        "A": "Correct option; see the main explanation.",
+        "B": "This reverses the two views.",
+        "C": "Blood absorbed in salt is a later topic from Siman 105, not their dispute.",
+        "D": "Their dispute is about foods and mixtures, not only utensils."
+      }
+    },
+    {
+      "id": "siman_106_introduction_and_seif_1-part-1-q011",
+      "question": "How do Mechaber and Rama rule about chana'n by issurim other than basar b'chalav?",
+      "options": {
+        "A": "Both rule that it applies to all issurim.",
+        "B": "Mechaber limits it; Rama applies it to other issurim.",
+        "C": "Mechaber applies it to blood only; Rama rejects it.",
+        "D": "Both rule that it applies only to keilim."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 106, Seif 1",
+        "pageNumbers": "Page 1"
+      },
+      "explanations": {
+        "correct": "The source states that Mechaber rules like Rabbeinu Efraim, limiting chana'n outside basar b'chalav, while Rama rules like Rabbeinu Tam that chana'n applies to other issurim as well. This disagreement affects how much shishim is required in later mixtures.",
+        "A": "That is Rama's view, not Mechaber's.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Mechaber does not create a blood-only category here.",
+        "D": "The issue is foods and mixtures, not only utensils."
+      }
+    },
+    {
+      "id": "siman_106_introduction_and_seif_1-part-1-q012",
+      "question": "According to Mechaber, if a solid piece absorbed issur and later fell into a pot, what amount must the pot nullify?",
+      "options": {
+        "A": "The entire solid piece that absorbed the issur.",
+        "B": "The entire pot in which it first cooked.",
+        "C": "Only the amount of issur absorbed in the piece.",
+        "D": "Only the klipah of the piece's outer surface."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 106, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that where chana'n does not apply, the later pot is forbidden only according to the amount of actual issur absorbed in the piece. If the pot together with the piece has sixty against those absorbed belios, the rest of the pot is mutar.",
+        "A": "That is Rama's chana'n calculation for other issurim, not Mechaber's.",
+        "B": "The first pot is not the measurement in this case.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The source measures against the absorbed issur, not just an outer layer."
+      }
+    },
+    {
+      "id": "siman_106_introduction_and_seif_1-part-1-q013",
+      "question": "According to Mechaber, what happens to the original solid piece after the later pot has sixty against the absorbed issur?",
+      "options": {
+        "A": "It becomes permitted together with the rest of the pot.",
+        "B": "It becomes permitted only if it is not chaha'l.",
+        "C": "It becomes permitted after it is strained from the liquid.",
+        "D": "It remains assur because the absorbed issur never fully leaves it."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 106, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber permits the rest of the pot when there is sixty against the absorbed issur, but he still forbids the original solid piece. This is the practical effect of efshar l'sochto assur: the issur is not treated as fully extracted from that food.",
+        "A": "That would follow efshar l'sochto mutar, not Mechaber's ruling here.",
+        "B": "Chaha'l affects bitul when the piece is unrecognized, not permission of this known piece.",
+        "C": "Straining does not remove absorbed issur from a solid food.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_106_introduction_and_seif_1-part-1-q014",
+      "question": "What does Rama note about Mechaber's ruling here compared with Siman 92?",
+      "options": {
+        "A": "Rama says this ruling is primary, unlike the earlier implication that the piece itself is permitted.",
+        "B": "Rama says Siman 92 should be followed instead, and the piece becomes permitted.",
+        "C": "Rama says both simanim apply only to liquids and not to solid foods.",
+        "D": "Rama says the rule applies only where the issur was cheilev attached to meat."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 106, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama writes that Mechaber's ruling here is the correct one, unlike what was written earlier in Siman 92, which implied that even the original piece becomes permitted when there is shishim. Here Rama affirms that the original solid piece remains assur.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Rama explicitly favors the ruling here over that earlier implication.",
+        "C": "The immediate case is a solid chatichah that absorbed issur.",
+        "D": "Cheilev attached to meat is the issur davuk topic in Seif 2."
+      }
+    },
+    {
+      "id": "siman_106_introduction_and_seif_1-part-1-q015",
+      "question": "According to Mechaber, why is a liquid mixture different from a solid piece that absorbed issur?",
+      "options": {
+        "A": "Liquid can never become assur through absorbed issur.",
+        "B": "Everything in the liquid dissolves and mixes together.",
+        "C": "Liquid is always considered a kli sheini.",
+        "D": "Liquid requires only a simple majority, not sixty."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 106, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber distinguishes davar haniblal v'nimoach, something that mixes and dissolves. If blood falls into heter liquid and later more heter liquid is added until there is sixty, the entire liquid is mutar because everything is blended together rather than trapped in one solid piece.",
+        "A": "The liquid can become assur before enough heter is added.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The distinction is mixing and dissolving, not kli sheini status.",
+        "D": "Mechaber still requires sixty against the issur in this case."
+      }
+    },
+    {
+      "id": "siman_106_introduction_and_seif_1-part-1-q016",
+      "question": "According to Rama's general minhag of chana'n by all issurim, how does he treat liquid and solid mixtures?",
+      "options": {
+        "A": "Only solids become chana'n; liquids never do.",
+        "B": "Only liquids become chana'n; solids never do.",
+        "C": "There is no basic difference; both can become chana'n.",
+        "D": "Both are permitted once the original issur is removed."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 106, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama says that according to the minhag that chana'n applies to all issurim, Mechaber's distinction between lach and yavesh does not basically apply. Whether the first mixture is liquid or solid, if it lacked sixty against the issur, the first mixture can become chana'n and require sixty against what became forbidden.",
+        "A": "Rama applies chana'n to liquid as well, at least without hefsed merubah.",
+        "B": "Rama also applies chana'n to solids.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Removal alone does not undo chana'n."
+      }
+    },
+    {
+      "id": "siman_106_introduction_and_seif_1-part-1-q017",
+      "question": "According to Rama, what if the first forbidden solid piece is not recognizable in the later mixture?",
+      "options": {
+        "A": "It is always batul even if it is chaha'l.",
+        "B": "It is never batul because it absorbed issur.",
+        "C": "It is permitted only after the whole pot cools.",
+        "D": "It is batul only if it is not a chatichah hare'uyah l'hiskabed."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 106, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama writes that if the first forbidden solid piece is recognizable, it must be removed. If it is not recognizable, it can be batul only if it is not chaha'l. A chatichah hare'uyah l'hiskabed has special importance and is not batul in the ordinary way.",
+        "A": "Rama explicitly excludes chaha'l from this bitul.",
+        "B": "A non-chaha'l piece can be batul if unrecognizable.",
+        "C": "Cooling the pot is not the rule for this Seif 1 case.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_106_introduction_and_seif_1-part-1-q018",
+      "question": "In the Mechaber example, one k'zayis of blood was absorbed into two k'zaysim of meat and then fell into fifty-eight k'zaysim of cholent. Why is the cholent permitted?",
+      "options": {
+        "A": "The two k'zaysim of meat join the fifty-eight to make sixty against the blood.",
+        "B": "The blood is ignored because it was absorbed before cooking.",
+        "C": "The meat becomes chana'n and then becomes batul b'rov.",
+        "D": "The cholent is permitted because blood never needs shishim."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 106, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "According to Mechaber, the meat that absorbed the blood does not become chana'n for other issurim. Therefore, the two k'zaysim of meat can join the fifty-eight k'zaysim of cholent to create sixty against the one k'zayis of blood, permitting the rest of the mixture.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The blood still needs bitul; it is not ignored.",
+        "C": "Mechaber does not apply chana'n to this non-basar-b'chalav case.",
+        "D": "Blood is an issur and does require proper bitul."
+      }
+    },
+    {
+      "id": "siman_106_introduction_and_seif_1-part-1-q019",
+      "question": "In that same example, why would Rama require one hundred eighty k'zaysim of cholent?",
+      "options": {
+        "A": "Because every k'zayis of blood requires one hundred eighty parts.",
+        "B": "Because the absorbed piece becomes chana'n and the whole forbidden unit needs sixty.",
+        "C": "Because the cholent cannot combine with the original meat.",
+        "D": "Because Rama requires three separate measures of shishim."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 106, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama holds that chana'n applies to all issurim. Once one k'zayis of blood is absorbed into two k'zaysim of meat without shishim, the whole three-k'zayis unit is treated as forbidden, so the later cholent needs sixty times that whole forbidden unit, which is one hundred eighty k'zaysim.",
+        "A": "The number comes from sixty against the chana'n unit, not from a special blood ratio.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The issue is not mere failure to combine; it is that the whole piece became forbidden.",
+        "D": "Rama's calculation is one shishim calculation against the enlarged forbidden unit."
+      }
+    },
+    {
+      "id": "siman_106_introduction_and_seif_1-part-1-q020",
+      "question": "Does efshar l'sochto assur apply when a food absorbs something that is not issur?",
+      "options": {
+        "A": "Yes, it applies equally to milk, meat, pareve, and issur.",
+        "B": "Yes, but only if the absorbed substance was a liquid.",
+        "C": "No, most poskim limit it to absorption of actual issur.",
+        "D": "No, because foods never absorb permitted taste."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 106, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The source raises the possibility that efshar l'sochto could be a physical rule about all absorbed taste, but says most poskim do not understand it that way. If the absorbed substance was not itself forbidden at the time, efshar l'sochto assur does not apply in the same way.",
+        "A": "The source says the majority of poskim reject applying it that broadly.",
+        "B": "The distinction is whether the absorbed substance was issur, not whether it was liquid.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Foods can absorb permitted taste; the question is whether that creates efshar l'sochto assur."
+      }
+    },
+    {
+      "id": "siman_106_introduction_and_seif_1-part-1-q021",
+      "question": "What is the practical ruling if a vegetable absorbed a known amount of milk and was then cooked in a fleishig pot with sixty against the milk?",
+      "options": {
+        "A": "The vegetable remains forbidden because efshar l'sochto always applies.",
+        "B": "The pot is forbidden because milk can never be batul.",
+        "C": "Only the other food is permitted, but the vegetable must be removed.",
+        "D": "Even the vegetable may be eaten because the absorbed milk was not issur before this cooking."
+      },
+      "correctOption": "D",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 106, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The source gives this as the practical example of the majority view. Since the vegetable absorbed milk before there was any issur, efshar l'sochto assur does not apply to the vegetable. If the amount of milk is known and the fleishig pot has sixty against that milk, even the vegetable may be eaten.",
+        "A": "The majority of poskim do not apply efshar l'sochto to non-issur absorption.",
+        "B": "Milk can be batul in the proper circumstances.",
+        "C": "That would be the result if efshar l'sochto applied to the vegetable.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_106_introduction_and_seif_1-part-1-q022",
+      "question": "According to Shach, when does Rama apply chana'n to lach b'lach by other issurim?",
+      "options": {
+        "A": "Only where there is no hefsed merubah.",
+        "B": "Only where the issur is basar b'chalav.",
+        "C": "Only where the liquid is vinegar or tzir.",
+        "D": "Only where the mixture is a davar gush."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 106, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Shach notes that elsewhere Rama rules that chana'n by other issurim in lach b'lach is not applied in a case of hefsed merubah. Therefore, Shach explains that Rama's strict language here, saying there is no difference between liquid and solid, must be speaking where there is no great loss.",
+        "A": "Correct option; see the main explanation.",
+        "B": "By basar b'chalav, chana'n is accepted more broadly; Shach is addressing other issurim.",
+        "C": "The distinction is hefsed merubah, not sharp liquids.",
+        "D": "Davar gush belongs to heat transfer, not lach b'lach chana'n."
+      }
+    },
+    {
+      "id": "siman_106_introduction_and_seif_1-part-1-q023",
+      "question": "What happens in hefsed merubah according to Shach's explanation of Rama by lach b'lach?",
+      "options": {
+        "A": "The original liquid is always forbidden as chaha'l.",
+        "B": "The first liquid can combine with added heter liquid to nullify the issur.",
+        "C": "The issur is ignored because all liquids are considered pagum.",
+        "D": "The whole mixture must be thrown out without any shishim calculation."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 106, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Shach explains that in hefsed merubah, Rama does not apply chana'n to other issurim in lach b'lach. Therefore, if more heter liquid is added until the entire mixture has sixty against the original issur, the first liquid can join with the new liquid to nullify that issur.",
+        "A": "Chaha'l is a solid-piece category and is not the point here.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The leniency is not based on the issur being pagum.",
+        "D": "Shach allows a shishim calculation in hefsed merubah."
+      }
+    },
+    {
+      "id": "siman_106_introduction_and_seif_1-part-1-q024",
+      "question": "How does Shach limit Rama's comment that an unrecognized forbidden piece is not batul if it is chaha'l?",
+      "options": {
+        "A": "He says it applies to all issurim without exception.",
+        "B": "He says it applies only to liquids, not solids.",
+        "C": "He says it is limited to basar b'chalav.",
+        "D": "He says it applies only to food that never absorbed taste."
+      },
+      "correctOption": "C",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 106, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Shach asks why Rama speaks as if a heter piece that absorbed ordinary issur can become chaha'l, since chaha'l normally applies only to an intrinsically forbidden piece, not to a heter piece with absorbed issur. Shach answers that Rama's chaha'l comment must be limited to basar b'chalav, where the absorbed milk and meat create a new intrinsic issur.",
+        "A": "Shach specifically rejects applying the chaha'l point to all absorbed-issur cases.",
+        "B": "The discussion is about a solid piece, not liquids.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The piece under discussion did absorb issur."
+      }
+    }
+  ]
+}

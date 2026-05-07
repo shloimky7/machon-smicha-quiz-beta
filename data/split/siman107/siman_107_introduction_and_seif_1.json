@@ -1,0 +1,517 @@
+{
+  "id": "siman_107_introduction_and_seif_1-part-1",
+  "title": "Siman 107 - Introduction and Seif 1",
+  "course": "Smicha",
+  "kind": "quiz",
+  "targetQuestionCount": 22,
+  "difficultyPolicy": null,
+  "sourceDocument": "Siman 107",
+  "questions": [
+    {
+      "id": "siman_107_introduction_and_seif_1-part-1-q001",
+      "question": "What issue does Siman 107 continue from the end of Siman 106?",
+      "options": {
+        "A": "The question whether bread can become a chatichah hare'uyah l'hiskabed.",
+        "B": "The rule that kavush takes twenty-four hours in ordinary liquids.",
+        "C": "The concern that the pot's ratio can fall below sixty while still hot.",
+        "D": "The laws of sharp foods cooked in a kli sheini."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 107, Introduction",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The introduction explains that Siman 106 ended with the concern that, although a pot may originally have sixty against the issur, removing food while the mixture is still hot can leave the issur behind with too little heter. Siman 107 begins with the case where someone starts emptying the pot before it cools.",
+        "A": "Chaha'l is not the opening issue of Siman 107.",
+        "B": "Kavush is not the continuation described in this siman.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Sharp foods in kli sheini are not the subject here."
+      }
+    },
+    {
+      "id": "siman_107_introduction_and_seif_1-part-1-q002",
+      "question": "What case do the Rishonim discuss at the start of Seif 1?",
+      "options": {
+        "A": "A fly falling into cold vinegar.",
+        "B": "A piece of meat with cheilev attached while salting.",
+        "C": "A dairy spoon placed into a meat kli sheini.",
+        "D": "A non-kosher fish or egg cooked among many fish or eggs."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 107, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The opening case is a non-kosher fish or egg cooked with many kosher fish or eggs, where the pot originally has enough to nullify the issur. The later question is what happens if the pot is emptied while still hot and the issur may remain behind with less than sixty.",
+        "A": "A fly in food is discussed later in Seif 2.",
+        "B": "That is the issur davuk case in Siman 106.",
+        "C": "That is a kli sheini topic from earlier simanim.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_107_introduction_and_seif_1-part-1-q003",
+      "question": "Which way of emptying the pot creates no issue according to all opinions?",
+      "options": {
+        "A": "Draining all the liquid first and then pouring out the solids.",
+        "B": "Taking each egg out individually with a spoon.",
+        "C": "Pouring the entire pot out in one continuous motion.",
+        "D": "Pouring out the contents little by little over time."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 107, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The source says all agree that if the entire pot, with all its contents, is poured out in one continuous motion, the issur remains batul and does not forbid anything else. The concern begins when the contents are separated gradually in a way that could leave the issur with too little heter.",
+        "A": "Draining the liquid first is one of the problematic methods.",
+        "B": "Scooping one by one creates a special spoon concern.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Pouring little by little is exactly where the machlokes arises."
+      }
+    },
+    {
+      "id": "siman_107_introduction_and_seif_1-part-1-q004",
+      "question": "What is the concern if the liquid is drained first?",
+      "options": {
+        "A": "The pot may cool too quickly to permit the fish.",
+        "B": "The fish become a davar sheyesh lo matirin.",
+        "C": "The liquid may become pareve and then return to the pot.",
+        "D": "The issur may remain with too little heter to be batul."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 107, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "If the liquid is drained first, or if the contents are poured little by little, the issur might remain in the pot near the end. At that point, the remaining food may no longer contain sixty against it, allowing that remainder to become assur.",
+        "A": "Cooling would reduce the taste-transfer concern, not create it.",
+        "B": "Future permissibility is not involved in this case.",
+        "C": "Pareve status is not the concern here.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_107_introduction_and_seif_1-part-1-q005",
+      "question": "What does Riva hold if the pot is poured out little by little?",
+      "options": {
+        "A": "Only the liquid becomes assur, while the solids remain permitted.",
+        "B": "The mixture is always permitted because issura b'ruba issa.",
+        "C": "The whole mixture can become assur if the issur remains until the end.",
+        "D": "The pot is permitted only if the fish are larger than the eggs."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 107, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Riva is concerned that the issur may remain in the pot after most of the food and liquid have been removed. Once the remaining food is no longer sixty times the issur, it becomes chana'n, and when it later rejoins the earlier food, it can forbid the whole mixture.",
+        "A": "Riva's concern can spread to all that was poured out.",
+        "B": "That is the logic of Rabbeinu Shimshon, not Riva.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The issue is the ratio to issur, not relative size of fish and eggs."
+      }
+    },
+    {
+      "id": "siman_107_introduction_and_seif_1-part-1-q006",
+      "question": "What is one reason Sefer Hatrumah permits even when the pot was not emptied in one motion?",
+      "options": {
+        "A": "He says hot issur cannot affect hot heter.",
+        "B": "He says the remaining assur food is batul b'rov when it rejoins the rest.",
+        "C": "He says eggs never require more than one-to-sixty.",
+        "D": "He says the issur becomes nosen ta'am l'fgam automatically."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 107, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Sefer Hatrumah argues that even if the food remaining in the pot became assur, it can become batul b'rov when it rejoins the rest of the food. He also adds that even chana'n food would be an issur balua, which does not readily forbid other dry food without significant liquid.",
+        "A": "The case assumes hot taste transfer is a real concern.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Sefer Hatrumah actually limits his leniency for eggs.",
+        "D": "His leniency is not based on the issur being pagum."
+      }
+    },
+    {
+      "id": "siman_107_introduction_and_seif_1-part-1-q007",
+      "question": "Why does Sefer Hatrumah say his leniency generally applies more to fish than eggs?",
+      "options": {
+        "A": "Fish cannot absorb issur taste, while eggs can.",
+        "B": "Eggs are always chaha'l, while fish are never important.",
+        "C": "People usually cook enough fish for rov, but not enough eggs for rov.",
+        "D": "Fish are always cooked with liquid, while eggs are cooked dry."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 107, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Sefer Hatrumah's leniency relies on bitul b'rov when the possibly forbidden remainder rejoins the rest. He notes that this is generally realistic with fish, where many small fish are cooked together, but not with eggs, since people usually do not cook enough eggs for the rest to be a majority over the affected eggs.",
+        "A": "Fish can absorb taste; the issue is whether there is rov.",
+        "B": "The source does not frame the distinction as chaha'l.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Both cases involve cooking in a pot."
+      }
+    },
+    {
+      "id": "siman_107_introduction_and_seif_1-part-1-q008",
+      "question": "What is Rabbeinu Shimshon's basic reason to permit the mixture?",
+      "options": {
+        "A": "We assume the issur is with the majority, not left with the minority.",
+        "B": "We assume all eggs with shells are unable to absorb taste.",
+        "C": "We assume chana'n applies only to utensils.",
+        "D": "We assume the pot becomes a kli sheini once poured."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 107, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rabbeinu Shimshon permits because we do not presume that the issur remained in the minority left in the pot after the ratio fell below sixty. Rather, issura b'ruba issa: the issur is assumed to be with the majority, so we do not create an additional forbidden remainder.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The concern exists even though the eggs have shells.",
+        "C": "Chana'n by utensils is not his reasoning.",
+        "D": "The leniency is not based on kli sheini status."
+      }
+    },
+    {
+      "id": "siman_107_introduction_and_seif_1-part-1-q009",
+      "question": "What does Mechaber say to do when cooking many eggs in their shells?",
+      "options": {
+        "A": "Remove them one by one while boiling.",
+        "B": "Leave them in the water until they cool, or cool them with cold water.",
+        "C": "Drain the water first and then remove the eggs.",
+        "D": "Break every egg before it is placed into the pot."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 107, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber rules that when many eggs are cooked in their shells, they should not be removed from the cooking water until they cool, or until cold water is poured on them to cool them. This avoids leaving a possible treif egg behind with too little heter while the pot is still hot.",
+        "A": "Removing them one by one creates the concern.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Draining first is one of the problematic ways to empty the pot.",
+        "D": "The seif discusses eggs cooked in their shells, not breaking them first."
+      }
+    },
+    {
+      "id": "siman_107_introduction_and_seif_1-part-1-q010",
+      "question": "What specific concern does Mechaber mention about the eggs?",
+      "options": {
+        "A": "One egg may become a davar sheyesh lo matirin.",
+        "B": "One egg may be cooked in a dairy pot.",
+        "C": "One egg may contain a chick and be non-kosher.",
+        "D": "One egg may be too small to count for rov."
+      },
+      "correctOption": "C",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 107, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Mechaber's concern is that after the eggs are cooked, one may find that one egg contains an embryo or chick and is non-kosher. If eggs were removed while hot, that issur egg may have remained behind with too few eggs to nullify it.",
+        "A": "The egg with a chick will not later become permitted.",
+        "B": "Dairy-pot status is not the case here.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The issue is the possible treif egg, not an egg's size for rov."
+      }
+    },
+    {
+      "id": "siman_107_introduction_and_seif_1-part-1-q011",
+      "question": "What does Rama say some authorities hold if the eggs were poured out and a treif egg was found?",
+      "options": {
+        "A": "Only the treif egg is forbidden, and all others are certainly mutar.",
+        "B": "The whole mixture is assur because the treif egg may have remained until the end.",
+        "C": "The pot becomes permitted only after twenty-four hours.",
+        "D": "The eggs are permitted because shells block all taste."
+      },
+      "correctOption": "B",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 107, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama cites the stringent view that if the eggs were poured into a bowl and one is found treif, everything is assur. The reason is that perhaps the treif egg remained in the pot until the end, at a time when there was no longer sixty against it, and then the remaining eggs became assur and forbade the rest.",
+        "A": "That ignores the concern Rama cites from the stringent view.",
+        "B": "Correct option; see the main explanation.",
+        "C": "Twenty-four hours is not the mechanism in this hot-cooking case.",
+        "D": "The concern exists despite the shells."
+      }
+    },
+    {
+      "id": "siman_107_introduction_and_seif_1-part-1-q012",
+      "question": "How does Rama apply this concern to small fish?",
+      "options": {
+        "A": "If a non-kosher fish is found and they were not poured all at once, there is concern it remained last.",
+        "B": "Small fish are always permitted because they are batul b'rov.",
+        "C": "Only the water becomes assur, but the fish are never affected.",
+        "D": "Fish are stricter than eggs and require one hundred times the issur."
+      },
+      "correctOption": "A",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 107, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama applies the same concern to small fish: if a non-kosher fish is found in the bowl and the fish were not poured out all at once, we worry that the issur may have remained in the pot until the end, where there was no longer sixty against it.",
+        "A": "Correct option; see the main explanation.",
+        "B": "Rama first cites the stringent concern before giving the lenient primary ruling.",
+        "C": "The fish themselves are part of the concern.",
+        "D": "The source does not introduce a one-hundred-times measure."
+      }
+    },
+    {
+      "id": "siman_107_introduction_and_seif_1-part-1-q013",
+      "question": "Which opinion does Rama ultimately call the primary opinion?",
+      "options": {
+        "A": "Riva's strict opinion in every case.",
+        "B": "Sefer Hatrumah's distinction between fish and eggs only.",
+        "C": "Rabbeinu Shimshon's lenient opinion.",
+        "D": "The view that all keilim become assur."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 107, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "After citing the stringent concern, Rama cites those who permit in all cases because we do not presume that the issur remained where there was no sixty. Rama concludes, 'v'chein ikar,' meaning that this lenient opinion, identified in the source with Rabbeinu Shimshon, is the primary ruling.",
+        "A": "Rama cites Riva's concern but does not make it the final ikar.",
+        "B": "Rama's final language follows the broader lenient opinion.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Rama explicitly says even the strict view does not forbid the keilim."
+      }
+    },
+    {
+      "id": "siman_107_introduction_and_seif_1-part-1-q014",
+      "question": "What does Rama say about the cooking utensils even according to those who forbid the food?",
+      "options": {
+        "A": "The utensils are permitted only after three days.",
+        "B": "The utensils are forbidden and require libbun chamur.",
+        "C": "The utensils are not forbidden because they retain their kosher presumption.",
+        "D": "The utensils are forbidden only if made of metal."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 107, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rama rules that even according to those who forbid the eggs or fish, the utensils in which they were cooked do not become assur. The reason is that we leave the keili on its chazakah, its prior presumptive kosher status.",
+        "A": "Waiting three days is not Rama's condition.",
+        "B": "Rama specifically says not to forbid the keilim.",
+        "C": "Correct option; see the main explanation.",
+        "D": "The ruling is not limited by metal versus other materials."
+      }
+    },
+    {
+      "id": "siman_107_introduction_and_seif_1-part-1-q015",
+      "question": "How does Toras Chatas understand Mechaber's ruling b'dieved?",
+      "options": {
+        "A": "Mechaber forbids the contents even when the pot was poured all at once.",
+        "B": "Mechaber accepts Rabbeinu Shimshon b'dieved because he does not say the contents are forbidden.",
+        "C": "Mechaber permits only utensils but forbids every egg.",
+        "D": "Mechaber requires one hundred twenty times the treif egg."
+      },
+      "correctOption": "B",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 107, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Taz cites Toras Chatas, who infers that Mechaber's wording is only a l'chatchilah instruction to wait until cooling. Since Mechaber does not explicitly say that the contents become forbidden if this was not done, Toras Chatas understands that Mechaber accepts Rabbeinu Shimshon's leniency b'dieved.",
+        "A": "All agree that pouring all at once does not create the issue.",
+        "B": "Correct option; see the main explanation.",
+        "C": "The inference is about the contents, not only the utensils.",
+        "D": "No such one-hundred-twenty-times measure appears here."
+      }
+    },
+    {
+      "id": "siman_107_introduction_and_seif_1-part-1-q016",
+      "question": "How do Taz and Shach respond to Rama's lenient ruling?",
+      "options": {
+        "A": "Both fully accept Rama even l'chatchilah for all issurim.",
+        "B": "Taz is strict like Mechaber, and Shach is strict except with room for d'rabbanan cases.",
+        "C": "Taz permits eggs but forbids fish, while Shach permits fish only.",
+        "D": "Both say the keili must be forbidden even in hefsed merubah."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 107, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The source says Taz and Shach both argue with Rama's lenient approach. Taz says to follow Mechaber's stringency based on Riva, while Shach agrees with the stringency but allows room to rely on Rama and Rabbeinu Shimshon for issurim d'rabbanan.",
+        "A": "They both argue with Rama's broad leniency.",
+        "B": "Correct option; see the main explanation.",
+        "C": "That is not their distinction.",
+        "D": "Rama is lenient on keilim, and this line is not their main objection."
+      }
+    },
+    {
+      "id": "siman_107_introduction_and_seif_1-part-1-q017",
+      "question": "Why is scooping eggs out one by one with a spoon worse even according to Rabbeinu Shimshon?",
+      "options": {
+        "A": "Each egg is removed alone, so there is no rov to rely on for the spoon's contact.",
+        "B": "A spoon always turns the pot into a kli sheini.",
+        "C": "Eggs removed by spoon are considered broken eggs.",
+        "D": "A spoon creates nosen ta'am l'fgam in the issur egg."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 107, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Taz notes that Rabbeinu Shimshon's leniency rests on assuming the issur is with the majority. When a spoon removes eggs one by one, each removal is isolated; there is no majority in that spoonful. The forbidden egg could forbid the spoon, and the spoon could then affect later eggs.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The concern is the spoon's absorption, not kli sheini status.",
+        "C": "The source does not treat spooned eggs as broken.",
+        "D": "Nosen ta'am l'fgam is not the reason for stringency here."
+      }
+    },
+    {
+      "id": "siman_107_introduction_and_seif_1-part-1-q018",
+      "question": "According to Shach, when may the cooking utensil be used after non-kosher eggs were in it?",
+      "options": {
+        "A": "Only after libbun chamur.",
+        "B": "Immediately, even while still ben yomo.",
+        "C": "Only after twenty-four hours.",
+        "D": "Only if the egg shells are removed first."
+      },
+      "correctOption": "C",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 107, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The source says Rama is lenient regarding the keili, but Shach permits the keili only after twenty-four hours. That means Shach is concerned while the utensil is still ben yomo, and his practical leniency begins once the taste is no longer fresh.",
+        "A": "Shach does not require libbun chamur in the line cited.",
+        "B": "That is broader than Shach's stated limitation.",
+        "C": "Correct option; see the main explanation.",
+        "D": "Removing shells is not the condition for the keili."
+      }
+    },
+    {
+      "id": "siman_107_introduction_and_seif_1-part-1-q019",
+      "question": "Why is this egg concern usually less applicable with commercial eggs nowadays?",
+      "options": {
+        "A": "Commercial eggs are always batul before cooking.",
+        "B": "Commercial eggs are cooked only in cold water.",
+        "C": "Commercial eggs cannot have blood spots.",
+        "D": "Commercial eggs are almost always unfertilized."
+      },
+      "correctOption": "D",
+      "difficulty": "Easy",
+      "source": {
+        "simanSeif": "Siman 107, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Psakim U'teshuvos notes that commercially sold eggs nowadays are almost always unfertilized, so there is no real concern that one egg contains a chick. Blood spots can occur, but they usually come from ruptured blood vessels and are forbidden only mid'rabbanan because of mar'is ayin.",
+        "A": "Bitul before cooking is not the reason given.",
+        "B": "The halachah is about eggs cooked in hot water.",
+        "C": "The source says blood spots can still occur.",
+        "D": "Correct option; see the main explanation."
+      }
+    },
+    {
+      "id": "siman_107_introduction_and_seif_1-part-1-q020",
+      "question": "How does Psakim U'teshuvos treat ordinary blood spots in today's commercial eggs?",
+      "options": {
+        "A": "They are usually from ruptured blood vessels and are rabbinic because of mar'is ayin.",
+        "B": "They are usually full embryos and forbid every pot mid'oraisa.",
+        "C": "They are always permitted and need not be removed.",
+        "D": "They are considered cheilev attached to the egg."
+      },
+      "correctOption": "A",
+      "difficulty": "Medium",
+      "source": {
+        "simanSeif": "Siman 107, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "The source explains that while unfertilized commercial eggs may still have blood spots, those spots usually come from ruptured blood vessels during formation. Such blood is only forbidden mid'rabbanan due to mar'is ayin, which is why there is less concern about removing eggs before cooling nowadays.",
+        "A": "Correct option; see the main explanation.",
+        "B": "The source says modern commercial eggs are almost always unfertilized.",
+        "C": "The source still treats the blood spot as forbidden mid'rabbanan.",
+        "D": "Cheilev has no connection to an egg blood spot."
+      }
+    },
+    {
+      "id": "siman_107_introduction_and_seif_1-part-1-q021",
+      "question": "Why does Sefer Hatrumah say chana'n food would not necessarily forbid the rest when it rejoins?",
+      "options": {
+        "A": "Its issur is balua, and issur balua does not transfer without significant liquid.",
+        "B": "It becomes pagum once it leaves the pot.",
+        "C": "It is considered a new egg and no longer connected to the issur.",
+        "D": "It is automatically batul because all eggs are min b'mino."
+      },
+      "correctOption": "A",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 107, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Sefer Hatrumah adds that even if the food left in the pot became chana'n, it contains absorbed issur rather than being intrinsically forbidden. Such issur balua does not transfer to the rest of the dry food without significant liquid, so the later contact does not necessarily forbid everything.",
+        "A": "Correct option; see the main explanation.",
+        "B": "His argument is not based on the taste becoming pagum.",
+        "C": "Leaving the pot does not make it a new permitted egg.",
+        "D": "His point includes bitul b'rov, but this specific reason is about issur balua."
+      }
+    },
+    {
+      "id": "siman_107_introduction_and_seif_1-part-1-q022",
+      "question": "What assumption does Rabbeinu Shimshon reject?",
+      "options": {
+        "A": "That an egg with an embryo can ever be non-kosher.",
+        "B": "That the issur remained with the small amount left in the pot below sixty.",
+        "C": "That a whole pot poured at once remains permitted.",
+        "D": "That a utensil has a chezkas kashrus."
+      },
+      "correctOption": "B",
+      "difficulty": "Hard",
+      "source": {
+        "simanSeif": "Siman 107, Seif 1",
+        "pageNumbers": "Page 2"
+      },
+      "explanations": {
+        "correct": "Rabbeinu Shimshon rejects the assumption that the issur remained specifically with the minority left in the pot after the rest was poured out. Since we do not establish that the issur was left behind without sixty, he permits the mixture.",
+        "A": "He does not deny that the egg can be non-kosher.",
+        "B": "Correct option; see the main explanation.",
+        "C": "All agree that pouring everything at once is not problematic.",
+        "D": "The utensil's chazakah is Rama's later keili point."
+      }
+    }
+  ]
+}
